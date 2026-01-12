@@ -1,0 +1,3216 @@
+{
+  "meta": {
+    "language": "Ko-Aquana",
+    "script": "Korallische Schriftzeichen (korallisch) + IPA + Romanisierung",
+    "direction": "Ko-Aquana -> Deutsch",
+    "version": "v1.4.2",
+    "generated_at": "2025-12-28T21:10:22",
+    "notes": [
+      "Korallisch-Felder enthalten die Unicode-Zeichen, wie sie im korallischen Font gemappt sind.",
+      "Das Zeichen 'n' ist ein Worttrenner/Interpunktionsmarker im korallischen Unicode-Mapping (nicht phonologisch).",
+      "Interpunktion (schriftsprachlich): Wortgrenze = n; Komma = nn; Satzende = nnn; Frageende = nnnn.",
+      "v1.0.1: Korrektur der Tokenisierung und korallischen Form von 'frofshz' (wie).",
+      "v1.0.2: Funktionswortliste eingefroren und ergänzt.",
+      "v1.0.3: Acht neue Kernverben ergänzt (Bewegung, Tiefe, Wahrnehmung, Magie, Ontologie).",
+      "v1.0.4: 25 Nomen ergänzt; verbotene KK-Cluster (lsh, shl) korrigiert.",
+      "v1.0.5: Adjektive und Adverbien ergänzt.",
+      "v1.0.6: Hochproduktive Alltagsverben fest ins Lexikon aufgenommen.",
+      "v1.0.7: 100 Alltagsbegriffe akzeptiert und als Batch festgeschrieben.",
+      "v1.0.9: 50 Lexeme zum Themenfeld Kampf & Krieg akzeptiert und festgeschrieben.",
+      "v1.1.0: Verb 'gsahfshzo' (heilen) offiziell etabliert; gs- als zulässiger Anlaut bestätigt.",
+      "v1.1.1: Nominalisierung zu 'gsahfshzo' (gsahfshzog) ergänzt.",
+      "v1.1.2: Nominalisierung korrigiert: gsahfshzogs ersetzt gsahfshzog.",
+      "v1.1.3: Liste A′ (30 reale Wasserlebewesen, vollständig bereinigt, -o- als Bindevokal) integriert.",
+      "v1.1.4: Liste B (mythische Wasserkreaturen, -o- als Bindevokal) integriert.",
+      "v1.1.5: Domäne Recht & Ordnung (25 Lexeme) akzeptiert und integriert.",
+      "v1.1.6: Domäne Emotionen (20 Lexeme) akzeptiert und integriert.",
+      "v1.1.7: Domäne Wissen & Wahrheit (20 Lexeme) akzeptiert und integriert.",
+      "v1.1.8: Domäne Körper & Krankheit (20 Lexeme) sowie Zahlen 0–4 (Base-4) integriert.",
+      "v1.1.9: Domäne Zeit & Ablauf (20 Lexeme) akzeptiert und integriert.",
+      "v1.2.0: Präpositionen (Minimalliste, konsonantisch) integriert.",
+      "v1.2.1: D&D-Grundattribute (6) und Fertigkeiten (18) integriert.",
+      "v1.2.2: Explizite Kompositionsregel eingeführt (Bindevokal -o- bei KK-Gefahr); Klassen & Fähigkeiten bereinigt.",
+      "v1.2.3: KK-Ausnahme für Reduplikation/Augmentativ dokumentiert; keine Formen geändert.",
+      "v1.2.4: Alle isolierten-h-Formen auf definierte Langvokale umgestellt (uh→oo, ieh→ie + Bindekonsonant).",
+      "v1.2.5: Überarbeitete Metamagie Phase 1 integriert (systematische Nutzung von oo für Tiefe/Dauer/Masse).",
+      "v1.2.6: Phase 2 Magieschulen integriert; Abjuration korrigiert zu 'blooshesh'.",
+      "v1.2.7: Phase 3 PHB-Cantrips (21) integriert.",
+      "v1.2.8: PHB Zaubergrad 1 vollständig integriert; semantische Nachjustierungen und neue Lexeme (Farbe, Feuer, Verletzung, Blitz) berücksichtigt.",
+      "v1.2.9: PHB Zaubergrad 2 vollständig integriert (Block A + B).",
+      "v1.3.0: PHB Zaubergrad 3 vollständig integriert (Block A + B).",
+      "v1.3.1: PHB Backgrounds vollständig integriert.",
+      "v1.3.2: PHB Klassen explizit integriert; Monk korrigiert zu 'glashesofshishz'.",
+      "v1.3.3: Farblexeme integriert; Blautöne differenziert gemäß aquatischer Kultur.",
+      "v1.3.4: Vollständiges Periodensystem (118 Elemente) als Ko-Aquana-Lexeme integriert.",
+      "v1.3.5: Alchemische Wirkprinzipien und Verbindungen integriert.",
+      "v1.3.6: Soziale Ereignisse integriert (Fest, Rituale, Versammlungen, Konflikte, Spiele).",
+      "v1.3.7: Zustandslexeme hinzugefügt (fshoolesh, fshooleshesh); unzulässige ...zesh-Formen ersetzt.",
+      "v1.3.8: Auto-populated korallisch field for 117 entries (greedy mapping baseline).",
+      "v1.3.9: CC-Scan durchgeführt; 'glooshgloosh' als Reduplikationsausnahme belassen; 'shiehsh' zu 'shieesh' korrigiert (isoliertes h entfernt).",
+      "v1.4.0: Modalpartikel angepasst: 'shieesh' → 'shiesh' (Doppelvokal entfernt, roman/korallisch/orthography aktualisiert).",
+      "v1.4.1: Korallisch-Validierung: headword.coral per Graphem-Mapping normalisiert (67 Einträge geändert); entry.korallisch auf headword.coral synchronisiert (93 aktualisiert).",
+      "v1.4.2: Neues Lexem hinzugefügt: 'gloogl' (weite/tiefe Suche; Wissenssammelort; Website-Name)."
+    ]
+  },
+  "entries": [
+    {
+      "id": "bla_v_cop_001",
+      "headword": {
+        "roman": "bla",
+        "ipa": "blɐ",
+        "coral": "ba"
+      },
+      "pos": "V",
+      "subpos": "copula",
+      "gloss_de": [
+        "sein"
+      ],
+      "grammar": {
+        "conjugation_class": "standard",
+        "valency": "predicative_intransitive",
+        "predicate_types": [
+          "ADJ",
+          "N",
+          "article_nominalized_ADJ",
+          "comparison"
+        ]
+      },
+      "morphology": {
+        "present": {
+          "sg": {
+            "1": "bla",
+            "2": "blai",
+            "3": "blaie"
+          },
+          "pl": {
+            "1": "blah",
+            "2": "blahi",
+            "3": "blahie"
+          }
+        },
+        "tense_prefixes": {
+          "perf": "bla-",
+          "fut": "froo-",
+          "eterna": "brah-"
+        },
+        "negation": {
+          "particle": "ngang",
+          "position": "sentence-initial"
+        }
+      },
+      "orthography": {
+        "tokens_roman": [
+          "bl",
+          "a"
+        ],
+        "tokens_coral": [
+          "b",
+          "a"
+        ]
+      },
+      "examples": [
+        {
+          "roman": "bla frofshz groshz nnn",
+          "ipa": "blɐ frɔfʃ gʁɔʃː͡p",
+          "coral": "ba n fok n god nnn",
+          "de": "Ich bin wie Groshz."
+        }
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "core",
+          "syntax",
+          "predication"
+        ]
+      },
+      "korallisch": "ba"
+    },
+    {
+      "id": "glu_v_tr_001",
+      "headword": {
+        "roman": "glu",
+        "ipa": "glʊ",
+        "coral": "hu"
+      },
+      "pos": "V",
+      "subpos": "lexical",
+      "gloss_de": [
+        "suchen",
+        "stöbern",
+        "recherchieren",
+        "abwärts ins Dunkle tauchen",
+        "schlammiges Gewässer erforschen",
+        "tastend erkunden"
+      ],
+      "grammar": {
+        "conjugation_class": "standard",
+        "valency": "transitive",
+        "frame": [
+          "S",
+          "DO"
+        ]
+      },
+      "morphology": {
+        "present": {
+          "sg": {
+            "1": "glu",
+            "2": "glui",
+            "3": "gluie"
+          },
+          "pl": {
+            "1": "gloo",
+            "2": "glooi",
+            "3": "glooie"
+          }
+        },
+        "tense_prefixes": {
+          "perf": "bla-",
+          "fut": "froo-",
+          "eterna": "brah-"
+        },
+        "nominalization": {
+          "type": "append_first_vowel",
+          "form": "glugl",
+          "gloss_de": [
+            "Suchende(r)",
+            "Recherchierende(r)"
+          ]
+        }
+      },
+      "orthography": {
+        "tokens_roman": [
+          "gl",
+          "u"
+        ],
+        "tokens_coral": [
+          "h",
+          "u"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "core",
+          "verb",
+          "searching"
+        ]
+      },
+      "korallisch": "hu"
+    },
+    {
+      "id": "fsoshi_v_ditr_001",
+      "headword": {
+        "roman": "fsoshi",
+        "ipa": "fsɔʃɪ",
+        "coral": "wosi"
+      },
+      "pos": "V",
+      "subpos": "lexical",
+      "gloss_de": [
+        "geben",
+        "überreichen",
+        "weitergeben",
+        "zukommen lassen"
+      ],
+      "grammar": {
+        "conjugation_class": "avoid_i",
+        "valency": "ditransitive",
+        "frame": [
+          "S",
+          "IO",
+          "DO"
+        ],
+        "order": [
+          "S",
+          "V",
+          "IO",
+          "DO"
+        ]
+      },
+      "morphology": {
+        "present": {
+          "sg": {
+            "1": "fsoshi",
+            "2": "fsoshio",
+            "3": "fsoshioh"
+          },
+          "pl": {
+            "1": "fsoshie",
+            "2": "fsoshieo",
+            "3": "fsoshieoh"
+          }
+        },
+        "tense_prefixes": {
+          "perf": "bla-",
+          "fut": "froo-",
+          "eterna": "brah-"
+        }
+      },
+      "orthography": {
+        "tokens_roman": [
+          "fs",
+          "o",
+          "sh",
+          "i"
+        ],
+        "tokens_coral": [
+          "w",
+          "o",
+          "s",
+          "i"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "core",
+          "verb",
+          "transfer"
+        ]
+      },
+      "korallisch": "wosi"
+    },
+    {
+      "id": "mbeshz_adj_001",
+      "headword": {
+        "roman": "mbeshz",
+        "ipa": "ʘəʃː͡p",
+        "coral": "ped"
+      },
+      "pos": "ADJ",
+      "gloss_de": [
+        "oberflächenbewohnend",
+        "an Land lebend",
+        "oberflächlich"
+      ],
+      "senses": [
+        {
+          "pos": "ADJ",
+          "gloss_de": [
+            "oberflächenbewohnend",
+            "oberflächlich"
+          ]
+        },
+        {
+          "pos": "N",
+          "gloss_de": [
+            "Oberflächenbewohner",
+            "Oberflächlicher"
+          ],
+          "derivation": "article_nominalization"
+        }
+      ],
+      "grammar": {
+        "gradable": true,
+        "comparison": {
+          "type": "reduplication",
+          "comparative_times": 2,
+          "superlative_times": 3
+        }
+      },
+      "morphology": {
+        "abstract": {
+          "articleless": true,
+          "form": "mbeshzol",
+          "gloss_de": [
+            "Oberflächlichkeit",
+            "Oberflächenleben"
+          ]
+        },
+        "plural_by_article": {
+          "def": "el",
+          "indef": "ul",
+          "gen": "il",
+          "any": "ol",
+          "abstract": "ol"
+        }
+      },
+      "orthography": {
+        "tokens_roman": [
+          "mb",
+          "e",
+          "shz"
+        ],
+        "tokens_coral": [
+          "p",
+          "e",
+          "d"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "core",
+          "adjective",
+          "culture"
+        ]
+      },
+      "korallisch": "ped"
+    },
+    {
+      "id": "ngang_part_neg_001",
+      "headword": {
+        "roman": "ngang",
+        "ipa": "ŋɐŋ",
+        "coral": "xax"
+      },
+      "pos": "PART",
+      "subpos": "negation",
+      "gloss_de": [
+        "nicht"
+      ],
+      "grammar": {
+        "position": "sentence-initial",
+        "scope": "clausal"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "ng",
+          "a",
+          "ng"
+        ],
+        "tokens_coral": [
+          "x",
+          "a",
+          "x"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "syntax",
+          "negation"
+        ]
+      },
+      "korallisch": "xax"
+    },
+    {
+      "id": "frogl_part_comp_001",
+      "headword": {
+        "roman": "frogl",
+        "ipa": "frɔgl",
+        "coral": "foh"
+      },
+      "pos": "PART",
+      "subpos": "comparative",
+      "gloss_de": [
+        "als"
+      ],
+      "grammar": {
+        "requires_argument": true,
+        "type": "inequality"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "fr",
+          "o",
+          "gl"
+        ],
+        "tokens_coral": [
+          "f",
+          "o",
+          "h"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "comparison"
+        ]
+      },
+      "korallisch": "foh"
+    },
+    {
+      "id": "frofshz_part_eq_001",
+      "headword": {
+        "roman": "frofshz",
+        "ipa": "frɔfʃː͡p",
+        "coral": "fok"
+      },
+      "pos": "PART",
+      "subpos": "comparative",
+      "gloss_de": [
+        "wie"
+      ],
+      "grammar": {
+        "requires_argument": true,
+        "type": "equality"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "fr",
+          "o",
+          "fshz"
+        ],
+        "tokens_coral": [
+          "f",
+          "o",
+          "k"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "comparison"
+        ]
+      },
+      "korallisch": "fok"
+    },
+    {
+      "id": "lel_art_def_sg_001",
+      "headword": {
+        "roman": "lel",
+        "ipa": "ləl",
+        "coral": "lel"
+      },
+      "pos": "ART",
+      "subpos": "definite",
+      "gloss_de": [
+        "der/die/das (def. Sg.)"
+      ],
+      "grammar": {
+        "number": "sg",
+        "plural_form": "lelel",
+        "noun_plural_suffix": "el"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "l",
+          "e",
+          "l"
+        ],
+        "tokens_coral": [
+          "l",
+          "e",
+          "l"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "article"
+        ]
+      },
+      "korallisch": "lel"
+    },
+    {
+      "id": "lelel_art_def_pl_001",
+      "headword": {
+        "roman": "lelel",
+        "ipa": "lələl",
+        "coral": "lelel"
+      },
+      "pos": "ART",
+      "subpos": "definite",
+      "gloss_de": [
+        "die (def. Pl.)"
+      ],
+      "grammar": {
+        "number": "pl",
+        "singular_form": "lel",
+        "noun_plural_suffix": "el"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "l",
+          "e",
+          "l",
+          "e",
+          "l"
+        ],
+        "tokens_coral": [
+          "l",
+          "e",
+          "l",
+          "e",
+          "l"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "article"
+        ]
+      },
+      "korallisch": "lelel"
+    },
+    {
+      "id": "lul_art_indef_sg_001",
+      "headword": {
+        "roman": "lul",
+        "ipa": "lʊl",
+        "coral": "lul"
+      },
+      "pos": "ART",
+      "subpos": "indefinite",
+      "gloss_de": [
+        "ein/eine (indef. Sg.)"
+      ],
+      "grammar": {
+        "number": "sg",
+        "plural_form": "lulul",
+        "noun_plural_suffix": "ul"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "l",
+          "u",
+          "l"
+        ],
+        "tokens_coral": [
+          "l",
+          "u",
+          "l"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "article"
+        ]
+      },
+      "korallisch": "lul"
+    },
+    {
+      "id": "lulul_art_indef_pl_001",
+      "headword": {
+        "roman": "lulul",
+        "ipa": "lʊlʊl",
+        "coral": "lulul"
+      },
+      "pos": "ART",
+      "subpos": "indefinite",
+      "gloss_de": [
+        "(einige) (indef. Pl.)"
+      ],
+      "grammar": {
+        "number": "pl",
+        "singular_form": "lul",
+        "noun_plural_suffix": "ul"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "l",
+          "u",
+          "l",
+          "u",
+          "l"
+        ],
+        "tokens_coral": [
+          "l",
+          "u",
+          "l",
+          "u",
+          "l"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "article"
+        ]
+      },
+      "korallisch": "lulul"
+    },
+    {
+      "id": "lol_art_any_sg_001",
+      "headword": {
+        "roman": "lol",
+        "ipa": "lɔl",
+        "coral": "lol"
+      },
+      "pos": "ART",
+      "subpos": "any_indefinite",
+      "gloss_de": [
+        "irgendein (Sg.)"
+      ],
+      "grammar": {
+        "number": "sg",
+        "plural_form": "lolol",
+        "noun_plural_suffix": "ol"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "l",
+          "o",
+          "l"
+        ],
+        "tokens_coral": [
+          "l",
+          "o",
+          "l"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "article"
+        ]
+      },
+      "korallisch": "lol"
+    },
+    {
+      "id": "lolol_art_any_pl_001",
+      "headword": {
+        "roman": "lolol",
+        "ipa": "lɔlɔl",
+        "coral": "lolol"
+      },
+      "pos": "ART",
+      "subpos": "any_indefinite",
+      "gloss_de": [
+        "irgendwelche (Pl.)"
+      ],
+      "grammar": {
+        "number": "pl",
+        "singular_form": "lol",
+        "noun_plural_suffix": "ol"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "l",
+          "o",
+          "l",
+          "o",
+          "l"
+        ],
+        "tokens_coral": [
+          "l",
+          "o",
+          "l",
+          "o",
+          "l"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "article"
+        ]
+      },
+      "korallisch": "lolol"
+    },
+    {
+      "id": "lil_art_gen_001",
+      "headword": {
+        "roman": "lil",
+        "ipa": "lɪl",
+        "coral": "lil"
+      },
+      "pos": "ART",
+      "subpos": "genitive_possessive",
+      "gloss_de": [
+        "von; des/der (Genitiv/Besitz)"
+      ],
+      "grammar": {
+        "noun_plural_suffix": "il",
+        "can_suffix_to_noun": true
+      },
+      "orthography": {
+        "tokens_roman": [
+          "l",
+          "i",
+          "l"
+        ],
+        "tokens_coral": [
+          "l",
+          "i",
+          "l"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "article",
+          "possession"
+        ]
+      },
+      "korallisch": "lil"
+    },
+    {
+      "id": "shztash_qw_001",
+      "headword": {
+        "roman": "shztash",
+        "ipa": "ʃː͡ptɐʃ",
+        "coral": "ras"
+      },
+      "pos": "QW",
+      "gloss_de": [
+        "wer?"
+      ],
+      "grammar": {
+        "default_position": "sentence-final",
+        "poetic_fronting": true
+      },
+      "orthography": {
+        "tokens_roman": [
+          "shzt",
+          "a",
+          "sh"
+        ],
+        "tokens_coral": [
+          "r",
+          "a",
+          "s"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "question"
+        ]
+      },
+      "korallisch": "ras"
+    },
+    {
+      "id": "shztish_qw_001",
+      "headword": {
+        "roman": "shztish",
+        "ipa": "ʃː͡ptɪʃ",
+        "coral": "ris"
+      },
+      "pos": "QW",
+      "gloss_de": [
+        "wie?"
+      ],
+      "grammar": {
+        "default_position": "sentence-final",
+        "poetic_fronting": true
+      },
+      "orthography": {
+        "tokens_roman": [
+          "shzt",
+          "i",
+          "sh"
+        ],
+        "tokens_coral": [
+          "r",
+          "i",
+          "s"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "question"
+        ]
+      },
+      "korallisch": "ris"
+    },
+    {
+      "id": "shztosh_qw_001",
+      "headword": {
+        "roman": "shztosh",
+        "ipa": "ʃː͡ptɔʃ",
+        "coral": "ros"
+      },
+      "pos": "QW",
+      "gloss_de": [
+        "wo?"
+      ],
+      "grammar": {
+        "default_position": "sentence-final",
+        "poetic_fronting": true
+      },
+      "orthography": {
+        "tokens_roman": [
+          "shzt",
+          "o",
+          "sh"
+        ],
+        "tokens_coral": [
+          "r",
+          "o",
+          "s"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "question"
+        ]
+      },
+      "korallisch": "ros"
+    },
+    {
+      "id": "shztush_qw_001",
+      "headword": {
+        "roman": "shztush",
+        "ipa": "ʃː͡ptʊʃ",
+        "coral": "rus"
+      },
+      "pos": "QW",
+      "gloss_de": [
+        "wann?"
+      ],
+      "grammar": {
+        "default_position": "sentence-final",
+        "poetic_fronting": true
+      },
+      "orthography": {
+        "tokens_roman": [
+          "shzt",
+          "u",
+          "sh"
+        ],
+        "tokens_coral": [
+          "r",
+          "u",
+          "s"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "question"
+        ]
+      },
+      "korallisch": "rus"
+    },
+    {
+      "id": "shztesh_qw_001",
+      "headword": {
+        "roman": "shztesh",
+        "ipa": "ʃː͡ptəʃ",
+        "coral": "res"
+      },
+      "pos": "QW",
+      "gloss_de": [
+        "was?"
+      ],
+      "grammar": {
+        "default_position": "sentence-final",
+        "poetic_fronting": true
+      },
+      "orthography": {
+        "tokens_roman": [
+          "shzt",
+          "e",
+          "sh"
+        ],
+        "tokens_coral": [
+          "r",
+          "e",
+          "s"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "question"
+        ]
+      },
+      "korallisch": "res"
+    },
+    {
+      "id": "shztoosh_qw_001",
+      "headword": {
+        "roman": "shztoosh",
+        "ipa": "ʃː͡ptoːʃ",
+        "coral": "rüs"
+      },
+      "pos": "QW",
+      "gloss_de": [
+        "ist es zutreffend, dass …? (Ja/Nein-Frage)"
+      ],
+      "grammar": {
+        "default_position": "sentence-final",
+        "question_type": "yes_no",
+        "poetic_fronting": true
+      },
+      "orthography": {
+        "tokens_roman": [
+          "shzt",
+          "oo",
+          "sh"
+        ],
+        "tokens_coral": [
+          "r",
+          "ü",
+          "s"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "question"
+        ]
+      },
+      "korallisch": "rüs"
+    },
+    {
+      "id": "blahsh_part_contrast_001",
+      "headword": {
+        "roman": "blahsh",
+        "ipa": "blaːʃ",
+        "coral": "bms"
+      },
+      "pos": "PART",
+      "subpos": "contrast",
+      "gloss_de": [
+        "aber",
+        "jedoch",
+        "dennoch"
+      ],
+      "grammar": {
+        "scope": "clausal"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "bl",
+          "ah",
+          "sh"
+        ],
+        "tokens_coral": [
+          "b",
+          "m",
+          "s"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "function",
+          "discourse"
+        ]
+      },
+      "korallisch": "bms"
+    },
+    {
+      "id": "shoglash_part_cause_001",
+      "headword": {
+        "roman": "shoglash",
+        "ipa": "ʃoɡlaʃ",
+        "coral": "sohas"
+      },
+      "pos": "PART",
+      "subpos": "causal",
+      "gloss_de": [
+        "weil",
+        "da"
+      ],
+      "grammar": {
+        "scope": "clausal"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "sh",
+          "o",
+          "gl",
+          "a",
+          "sh"
+        ],
+        "tokens_coral": [
+          "s",
+          "o",
+          "h",
+          "a",
+          "s"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "function",
+          "causality"
+        ]
+      },
+      "korallisch": "sohas"
+    },
+    {
+      "id": "luhsh_part_prox_001",
+      "headword": {
+        "roman": "luhsh",
+        "ipa": "luʃ",
+        "coral": "luhs"
+      },
+      "pos": "PART",
+      "subpos": "proximity",
+      "gloss_de": [
+        "bei",
+        "nahe bei"
+      ],
+      "grammar": {
+        "scope": "phrasal"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "l",
+          "u",
+          "hsh"
+        ],
+        "tokens_coral": [
+          "l",
+          "u",
+          "h",
+          "s"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "function",
+          "relation"
+        ]
+      },
+      "korallisch": "luhs"
+    },
+    {
+      "id": "mbahsh_part_dist_001",
+      "headword": {
+        "roman": "mbahsh",
+        "ipa": "ʘaːʃ",
+        "coral": "pms"
+      },
+      "pos": "PART",
+      "subpos": "distance",
+      "gloss_de": [
+        "weg von",
+        "fern von"
+      ],
+      "grammar": {
+        "scope": "phrasal"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "mb",
+          "ah",
+          "sh"
+        ],
+        "tokens_coral": [
+          "p",
+          "m",
+          "s"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "function",
+          "relation"
+        ]
+      },
+      "korallisch": "pms"
+    },
+    {
+      "id": "gloosh_part_time_001",
+      "headword": {
+        "roman": "gloosh",
+        "ipa": "ɡloːʃ",
+        "coral": "hüs"
+      },
+      "pos": "PART",
+      "subpos": "temporal",
+      "gloss_de": [
+        "jetzt",
+        "im Moment"
+      ],
+      "grammar": {
+        "scope": "clausal"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "gl",
+          "oo",
+          "sh"
+        ],
+        "tokens_coral": [
+          "h",
+          "ü",
+          "s"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "function",
+          "time"
+        ]
+      },
+      "korallisch": "hüs"
+    },
+    {
+      "id": "glooshgloosh_part_dur_001",
+      "headword": {
+        "roman": "glooshgloosh",
+        "ipa": "ɡloːʃɡloːʃ",
+        "coral": "hüshüs"
+      },
+      "pos": "PART",
+      "subpos": "durative",
+      "gloss_de": [
+        "immer wieder",
+        "fortwährend"
+      ],
+      "grammar": {
+        "scope": "clausal",
+        "derivation": "reduplication"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "gl",
+          "oo",
+          "sh",
+          "gl",
+          "oo",
+          "sh"
+        ],
+        "tokens_coral": [
+          "h",
+          "ü",
+          "s",
+          "h",
+          "ü",
+          "s"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "function",
+          "time",
+          "iterative"
+        ]
+      },
+      "korallisch": "hüshüs"
+    },
+    {
+      "id": "shiehsh_part_modal_001",
+      "headword": {
+        "roman": "shiesh",
+        "ipa": "ʃiˈeʃ",
+        "coral": "sjs"
+      },
+      "pos": "PART",
+      "subpos": "modal_uncertain",
+      "gloss_de": [
+        "vielleicht",
+        "möglicherweise"
+      ],
+      "grammar": {
+        "scope": "clausal"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "sh",
+          "ie",
+          "sh"
+        ],
+        "tokens_coral": [
+          "s",
+          "j",
+          "s"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "function",
+          "modality"
+        ]
+      },
+      "korallisch": "sjs"
+    },
+    {
+      "id": "blohsh_part_modal_cert_001",
+      "headword": {
+        "roman": "blohsh",
+        "ipa": "bloːʃ",
+        "coral": "bös"
+      },
+      "pos": "PART",
+      "subpos": "modal_certain",
+      "gloss_de": [
+        "gewiss",
+        "sicher"
+      ],
+      "grammar": {
+        "scope": "clausal"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "bl",
+          "oh",
+          "sh"
+        ],
+        "tokens_coral": [
+          "b",
+          "ö",
+          "s"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "function",
+          "modality"
+        ]
+      },
+      "korallisch": "bös"
+    },
+    {
+      "id": "leshzeshz_part_focus_001",
+      "headword": {
+        "roman": "leshzeshz",
+        "ipa": "leʃt͡seʃ",
+        "coral": "leded"
+      },
+      "pos": "PART",
+      "subpos": "focus",
+      "gloss_de": [
+        "genau",
+        "eben",
+        "ausgerechnet"
+      ],
+      "grammar": {
+        "scope": "phrasal"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "l",
+          "e",
+          "shz",
+          "e",
+          "shz"
+        ],
+        "tokens_coral": [
+          "l",
+          "e",
+          "d",
+          "e",
+          "d"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "function",
+          "focus"
+        ]
+      },
+      "korallisch": "leded"
+    },
+    {
+      "id": "mbool_part_exist_001",
+      "headword": {
+        "roman": "mbool",
+        "ipa": "ʘoːl",
+        "coral": "pül"
+      },
+      "pos": "PART",
+      "subpos": "existential",
+      "gloss_de": [
+        "es gibt",
+        "vorhanden sein"
+      ],
+      "grammar": {
+        "scope": "clausal"
+      },
+      "orthography": {
+        "tokens_roman": [
+          "mb",
+          "oo",
+          "l"
+        ],
+        "tokens_coral": [
+          "p",
+          "ü",
+          "l"
+        ]
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "function",
+          "existence"
+        ]
+      },
+      "korallisch": "pül"
+    },
+    {
+      "id": "glaho_v_intr_001",
+      "headword": {
+        "roman": "glaho",
+        "ipa": "ɡlaːho",
+        "coral": "hmo"
+      },
+      "pos": "V",
+      "subpos": "lexical",
+      "gloss_de": [
+        "fließen",
+        "strömen",
+        "sich bewegen (ohne Ziel)"
+      ],
+      "grammar": {
+        "conjugation_class": "standard",
+        "valency": "intransitive"
+      },
+      "morphology": {
+        "present": {
+          "sg": {
+            "1": "glaho",
+            "2": "glahoi",
+            "3": "glahoie"
+          },
+          "pl": {
+            "1": "glahoh",
+            "2": "glahohi",
+            "3": "glahohie"
+          }
+        },
+        "tense_prefixes": {
+          "perf": "bla-",
+          "fut": "froo-",
+          "eterna": "brah-"
+        }
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "verb",
+          "movement",
+          "time"
+        ]
+      },
+      "korallisch": "hmo"
+    },
+    {
+      "id": "mbahlo_v_intr_001",
+      "headword": {
+        "roman": "mbahlo",
+        "ipa": "ʘaːlo",
+        "coral": "pmlo"
+      },
+      "pos": "V",
+      "subpos": "lexical",
+      "gloss_de": [
+        "sinken",
+        "in die Tiefe gehen"
+      ],
+      "grammar": {
+        "conjugation_class": "standard",
+        "valency": "intransitive"
+      },
+      "morphology": {
+        "present": {
+          "sg": {
+            "1": "mbahlo",
+            "2": "mbahloi",
+            "3": "mbahloie"
+          },
+          "pl": {
+            "1": "mbahloh",
+            "2": "mbahlohi",
+            "3": "mbahlohie"
+          }
+        },
+        "tense_prefixes": {
+          "perf": "bla-",
+          "fut": "froo-",
+          "eterna": "brah-"
+        }
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "verb",
+          "depth"
+        ]
+      },
+      "korallisch": "pmlo"
+    },
+    {
+      "id": "shielo_v_intr_001",
+      "headword": {
+        "roman": "shielo",
+        "ipa": "ʃiːlo",
+        "coral": "sjlo"
+      },
+      "pos": "V",
+      "subpos": "lexical",
+      "gloss_de": [
+        "auftauchen",
+        "an die Oberfläche kommen"
+      ],
+      "grammar": {
+        "conjugation_class": "standard",
+        "valency": "intransitive"
+      },
+      "morphology": {
+        "present": {
+          "sg": {
+            "1": "shielo",
+            "2": "shieloi",
+            "3": "shieloie"
+          },
+          "pl": {
+            "1": "shieloh",
+            "2": "shielohi",
+            "3": "shielohie"
+          }
+        },
+        "tense_prefixes": {
+          "perf": "bla-",
+          "fut": "froo-",
+          "eterna": "brah-"
+        }
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "verb",
+          "surface"
+        ]
+      },
+      "korallisch": "sjlo"
+    },
+    {
+      "id": "blohshi_v_tr_001",
+      "headword": {
+        "roman": "blohshi",
+        "ipa": "bloːʃɪ",
+        "coral": "bösi"
+      },
+      "pos": "V",
+      "subpos": "lexical",
+      "gloss_de": [
+        "binden",
+        "festigen",
+        "verankern"
+      ],
+      "grammar": {
+        "conjugation_class": "avoid_i",
+        "valency": "transitive"
+      },
+      "morphology": {
+        "present": {
+          "sg": {
+            "1": "blohshi",
+            "2": "blohshio",
+            "3": "blohshioh"
+          },
+          "pl": {
+            "1": "blohshie",
+            "2": "blohshieo",
+            "3": "blohshieoh"
+          }
+        },
+        "tense_prefixes": {
+          "perf": "bla-",
+          "fut": "froo-",
+          "eterna": "brah-"
+        }
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "verb",
+          "ritual",
+          "law"
+        ]
+      },
+      "korallisch": "bösi"
+    },
+    {
+      "id": "glieho_v_intr_001",
+      "headword": {
+        "roman": "glieho",
+        "ipa": "ɡliːho",
+        "coral": "hjho"
+      },
+      "pos": "V",
+      "subpos": "lexical",
+      "gloss_de": [
+        "wahrnehmen",
+        "erspüren",
+        "fühlen"
+      ],
+      "grammar": {
+        "conjugation_class": "standard",
+        "valency": "intransitive"
+      },
+      "morphology": {
+        "present": {
+          "sg": {
+            "1": "glieho",
+            "2": "gliehoi",
+            "3": "gliehoie"
+          },
+          "pl": {
+            "1": "gliehoh",
+            "2": "gliehohi",
+            "3": "gliehohie"
+          }
+        },
+        "tense_prefixes": {
+          "perf": "bla-",
+          "fut": "froo-",
+          "eterna": "brah-"
+        }
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "verb",
+          "perception"
+        ]
+      },
+      "korallisch": "hjho"
+    },
+    {
+      "id": "fshalo_v_tr_001",
+      "headword": {
+        "roman": "fshalo",
+        "ipa": "fʃaːlo",
+        "coral": "valo"
+      },
+      "pos": "V",
+      "subpos": "lexical",
+      "gloss_de": [
+        "wirken (magisch)",
+        "lenken",
+        "beeinflussen"
+      ],
+      "grammar": {
+        "conjugation_class": "standard",
+        "valency": "transitive"
+      },
+      "morphology": {
+        "present": {
+          "sg": {
+            "1": "fshalo",
+            "2": "fshaloi",
+            "3": "fshaloie"
+          },
+          "pl": {
+            "1": "fshaloh",
+            "2": "fshalohi",
+            "3": "fshalohie"
+          }
+        },
+        "tense_prefixes": {
+          "perf": "bla-",
+          "fut": "froo-",
+          "eterna": "brah-"
+        }
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "verb",
+          "magic"
+        ]
+      },
+      "korallisch": "valo"
+    },
+    {
+      "id": "mboolo_v_intr_001",
+      "headword": {
+        "roman": "mboolo",
+        "ipa": "ʘoːlo",
+        "coral": "pülo"
+      },
+      "pos": "V",
+      "subpos": "lexical",
+      "gloss_de": [
+        "entstehen",
+        "sich bilden",
+        "vorhanden werden"
+      ],
+      "grammar": {
+        "conjugation_class": "standard",
+        "valency": "intransitive"
+      },
+      "morphology": {
+        "present": {
+          "sg": {
+            "1": "mboolo",
+            "2": "mbooloi",
+            "3": "mbooloie"
+          },
+          "pl": {
+            "1": "mbooloh",
+            "2": "mboolohi",
+            "3": "mboolohie"
+          }
+        },
+        "tense_prefixes": {
+          "perf": "bla-",
+          "fut": "froo-",
+          "eterna": "brah-"
+        }
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "verb",
+          "existence"
+        ]
+      },
+      "korallisch": "pülo"
+    },
+    {
+      "id": "gliesha_v_tr_001",
+      "headword": {
+        "roman": "gliesha",
+        "ipa": "ɡliːʃa",
+        "coral": "hjsa"
+      },
+      "pos": "V",
+      "subpos": "lexical",
+      "gloss_de": [
+        "erinnern",
+        "bewahren",
+        "im Strom halten"
+      ],
+      "grammar": {
+        "conjugation_class": "standard",
+        "valency": "transitive"
+      },
+      "morphology": {
+        "present": {
+          "sg": {
+            "1": "gliesha",
+            "2": "glieshai",
+            "3": "glieshaie"
+          },
+          "pl": {
+            "1": "glieshah",
+            "2": "glieshahi",
+            "3": "glieshahie"
+          }
+        },
+        "tense_prefixes": {
+          "perf": "bla-",
+          "fut": "froo-",
+          "eterna": "brah-"
+        }
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "verb",
+          "memory",
+          "myth"
+        ]
+      },
+      "korallisch": "hjsa"
+    },
+    {
+      "id": "glash_n_001",
+      "headword": {
+        "roman": "glash",
+        "ipa": "ɡlaʃ",
+        "coral": "has"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Tiefe",
+        "Abgrund",
+        "großer Wasserkörper"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "has"
+    },
+    {
+      "id": "mbahl_n_001",
+      "headword": {
+        "roman": "mbahl",
+        "ipa": "ʘaːl",
+        "coral": "pml"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "tiefe Schicht",
+        "untere Ebene"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "pml"
+    },
+    {
+      "id": "shielesh_n_001",
+      "headword": {
+        "roman": "shielesh",
+        "ipa": "ʃiːleʃ",
+        "coral": "sjles"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Oberfläche (neutral)"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "sjles"
+    },
+    {
+      "id": "glol_n_001",
+      "headword": {
+        "roman": "glol",
+        "ipa": "ɡlɔl",
+        "coral": "hol"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Strömung",
+        "Flussrichtung"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "hol"
+    },
+    {
+      "id": "frash_n_001",
+      "headword": {
+        "roman": "frash",
+        "ipa": "fraʃ",
+        "coral": "fas"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Rand",
+        "Grenze"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "fas"
+    },
+    {
+      "id": "blash_n_001",
+      "headword": {
+        "roman": "blash",
+        "ipa": "blaʃ",
+        "coral": "bas"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Gesetz",
+        "bindende Ordnung"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "bas"
+    },
+    {
+      "id": "gliel_n_001",
+      "headword": {
+        "roman": "gliel",
+        "ipa": "ɡliːl",
+        "coral": "hjl"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Rat",
+        "Versammlung"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "hjl"
+    },
+    {
+      "id": "mbulesh_n_001",
+      "headword": {
+        "roman": "mbulesh",
+        "ipa": "ʘuleʃ",
+        "coral": "pules"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Heim",
+        "Zentrum",
+        "bewohnter Kern"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "pules"
+    },
+    {
+      "id": "fral_n_001",
+      "headword": {
+        "roman": "fral",
+        "ipa": "fral",
+        "coral": "fal"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Bund",
+        "Abkommen",
+        "Vertrag"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "fal"
+    },
+    {
+      "id": "shoglash_n_001",
+      "headword": {
+        "roman": "shoglash",
+        "ipa": "ʃoɡlaʃ",
+        "coral": "sohas"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Ursache",
+        "Grund",
+        "Rechtfertigung"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "sohas"
+    },
+    {
+      "id": "blohsh_n_001",
+      "headword": {
+        "roman": "blohsh",
+        "ipa": "bloːʃ",
+        "coral": "bös"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Schwur",
+        "Bindung",
+        "Gelöbnis"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "bös"
+    },
+    {
+      "id": "gliesh_n_001",
+      "headword": {
+        "roman": "gliesh",
+        "ipa": "ɡliːʃ",
+        "coral": "hjs"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Erinnerung",
+        "Überlieferung"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "hjs"
+    },
+    {
+      "id": "fshol_n_001",
+      "headword": {
+        "roman": "fshol",
+        "ipa": "fʃɔl",
+        "coral": "vol"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "magische Wirkung",
+        "gelenkte Kraft"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "vol"
+    },
+    {
+      "id": "mbool_n_001",
+      "headword": {
+        "roman": "mbool",
+        "ipa": "ʘoːl",
+        "coral": "pül"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Sein",
+        "Existenz"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "pül"
+    },
+    {
+      "id": "brahsh_n_001",
+      "headword": {
+        "roman": "brahsh",
+        "ipa": "braːʃ",
+        "coral": "cms"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Ewigkeit",
+        "dauerhafter Zustand"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "cms"
+    },
+    {
+      "id": "gliehl_n_001",
+      "headword": {
+        "roman": "gliehl",
+        "ipa": "ɡliːl",
+        "coral": "hjhl"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Wahrnehmung",
+        "Gespür"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "hjhl"
+    },
+    {
+      "id": "shiehsh_n_001",
+      "headword": {
+        "roman": "shiehsh",
+        "ipa": "ʃiːəʃ",
+        "coral": "sjhs"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Möglichkeit",
+        "Ungewissheit"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "sjhs"
+    },
+    {
+      "id": "blohshal_n_001",
+      "headword": {
+        "roman": "blohshal",
+        "ipa": "bloːʃal",
+        "coral": "bösal"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Gewissheit",
+        "feste Wahrheit"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "bösal"
+    },
+    {
+      "id": "gloosh_n_001",
+      "headword": {
+        "roman": "gloosh",
+        "ipa": "ɡloːʃ",
+        "coral": "hüs"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Moment",
+        "Jetzt"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "hüs"
+    },
+    {
+      "id": "glashglash_n_001",
+      "headword": {
+        "roman": "glashglash",
+        "ipa": "ɡlaʃɡlaʃ",
+        "coral": "hashas"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Zyklus",
+        "Wiederkehr"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "hashas"
+    },
+    {
+      "id": "mbuhsh_n_001",
+      "headword": {
+        "roman": "mbuhsh",
+        "ipa": "ʘuʃ",
+        "coral": "puhs"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Heimstatt",
+        "heiliger Ort"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "puhs"
+    },
+    {
+      "id": "fruhsh_n_001",
+      "headword": {
+        "roman": "fruhsh",
+        "ipa": "fruʃ",
+        "coral": "fuhs"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Weg",
+        "Rückkehrpfad"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "fuhs"
+    },
+    {
+      "id": "glolesh_n_001",
+      "headword": {
+        "roman": "glolesh",
+        "ipa": "ɡlɔleʃ",
+        "coral": "holes"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Strömungsknotenpunkt",
+        "Kreuzung"
+      ],
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "noun",
+          "core"
+        ]
+      },
+      "korallisch": "holes"
+    },
+    {
+      "id": "groshz_adj_001",
+      "headword": {
+        "roman": "groshz",
+        "coral": "god"
+      },
+      "pos": "ADJ",
+      "gloss_de": [
+        "schön"
+      ],
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "god"
+    },
+    {
+      "id": "mbeshz_adj_001",
+      "headword": {
+        "roman": "mbeshz",
+        "coral": "ped"
+      },
+      "pos": "ADJ",
+      "gloss_de": [
+        "oberflächlich"
+      ],
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "ped"
+    },
+    {
+      "id": "glash_adj_001",
+      "headword": {
+        "roman": "glash",
+        "coral": "has"
+      },
+      "pos": "ADJ",
+      "gloss_de": [
+        "tief"
+      ],
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "has"
+    },
+    {
+      "id": "mbahl_adj_001",
+      "headword": {
+        "roman": "mbahl",
+        "coral": "pml"
+      },
+      "pos": "ADJ",
+      "gloss_de": [
+        "tiefgelegen"
+      ],
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "pml"
+    },
+    {
+      "id": "blohsh_adj_001",
+      "headword": {
+        "roman": "blohsh",
+        "coral": "bös"
+      },
+      "pos": "ADJ",
+      "gloss_de": [
+        "fest"
+      ],
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "bös"
+    },
+    {
+      "id": "shiehsh_adj_001",
+      "headword": {
+        "roman": "shiehsh",
+        "coral": "sjhs"
+      },
+      "pos": "ADJ",
+      "gloss_de": [
+        "ungewiss"
+      ],
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "sjhs"
+    },
+    {
+      "id": "blohshal_adj_001",
+      "headword": {
+        "roman": "blohshal",
+        "coral": "bösal"
+      },
+      "pos": "ADJ",
+      "gloss_de": [
+        "gewiss"
+      ],
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "bösal"
+    },
+    {
+      "id": "fshol_adj_001",
+      "headword": {
+        "roman": "fshol",
+        "coral": "vol"
+      },
+      "pos": "ADJ",
+      "gloss_de": [
+        "magisch wirksam"
+      ],
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "vol"
+    },
+    {
+      "id": "gliesh_adj_001",
+      "headword": {
+        "roman": "gliesh",
+        "coral": "hjs"
+      },
+      "pos": "ADJ",
+      "gloss_de": [
+        "erinnernd"
+      ],
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "hjs"
+    },
+    {
+      "id": "frash_adj_001",
+      "headword": {
+        "roman": "frash",
+        "coral": "fas"
+      },
+      "pos": "ADJ",
+      "gloss_de": [
+        "randständig"
+      ],
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "fas"
+    },
+    {
+      "id": "glolesh_adj_001",
+      "headword": {
+        "roman": "glolesh",
+        "coral": "holes"
+      },
+      "pos": "ADJ",
+      "gloss_de": [
+        "strömungsgebunden"
+      ],
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "holes"
+    },
+    {
+      "id": "mbulesh_adj_001",
+      "headword": {
+        "roman": "mbulesh",
+        "coral": "pules"
+      },
+      "pos": "ADJ",
+      "gloss_de": [
+        "heimisch"
+      ],
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "pules"
+    },
+    {
+      "id": "brahsh_adj_001",
+      "headword": {
+        "roman": "brahsh",
+        "coral": "cms"
+      },
+      "pos": "ADJ",
+      "gloss_de": [
+        "ewig"
+      ],
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "cms"
+    },
+    {
+      "id": "fral_adj_001",
+      "headword": {
+        "roman": "fral",
+        "coral": "fal"
+      },
+      "pos": "ADJ",
+      "gloss_de": [
+        "verbunden"
+      ],
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "fal"
+    },
+    {
+      "id": "shielesh_adj_001",
+      "headword": {
+        "roman": "shielesh",
+        "coral": "sjles"
+      },
+      "pos": "ADJ",
+      "gloss_de": [
+        "oberflächennah"
+      ],
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "sjles"
+    },
+    {
+      "id": "gloosh_adv_001",
+      "headword": {
+        "roman": "gloosh",
+        "coral": "hüs"
+      },
+      "pos": "ADV",
+      "gloss_de": [
+        "jetzt"
+      ],
+      "grammar": {
+        "position": "postverbal"
+      },
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "hüs"
+    },
+    {
+      "id": "glooshgloosh_adv_001",
+      "headword": {
+        "roman": "glooshgloosh",
+        "coral": "hüshüs"
+      },
+      "pos": "ADV",
+      "gloss_de": [
+        "immer wieder"
+      ],
+      "grammar": {
+        "position": "postverbal"
+      },
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "hüshüs"
+    },
+    {
+      "id": "glol_adv_001",
+      "headword": {
+        "roman": "glol",
+        "coral": "hol"
+      },
+      "pos": "ADV",
+      "gloss_de": [
+        "strömend"
+      ],
+      "grammar": {
+        "position": "postverbal"
+      },
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "hol"
+    },
+    {
+      "id": "mbahl_adv_001",
+      "headword": {
+        "roman": "mbahl",
+        "coral": "pml"
+      },
+      "pos": "ADV",
+      "gloss_de": [
+        "tiefwärts"
+      ],
+      "grammar": {
+        "position": "postverbal"
+      },
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "pml"
+    },
+    {
+      "id": "shielesh_adv_001",
+      "headword": {
+        "roman": "shielesh",
+        "coral": "sjles"
+      },
+      "pos": "ADV",
+      "gloss_de": [
+        "aufwärts"
+      ],
+      "grammar": {
+        "position": "postverbal"
+      },
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "sjles"
+    },
+    {
+      "id": "blohsh_adv_001",
+      "headword": {
+        "roman": "blohsh",
+        "coral": "bös"
+      },
+      "pos": "ADV",
+      "gloss_de": [
+        "fest"
+      ],
+      "grammar": {
+        "position": "postverbal"
+      },
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "bös"
+    },
+    {
+      "id": "shiehsh_adv_001",
+      "headword": {
+        "roman": "shiehsh",
+        "coral": "sjhs"
+      },
+      "pos": "ADV",
+      "gloss_de": [
+        "vielleicht"
+      ],
+      "grammar": {
+        "position": "postverbal"
+      },
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "sjhs"
+    },
+    {
+      "id": "blohshal_adv_001",
+      "headword": {
+        "roman": "blohshal",
+        "coral": "bösal"
+      },
+      "pos": "ADV",
+      "gloss_de": [
+        "gewiss"
+      ],
+      "grammar": {
+        "position": "postverbal"
+      },
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "bösal"
+    },
+    {
+      "id": "fruhsh_adv_001",
+      "headword": {
+        "roman": "fruhsh",
+        "coral": "fuhs"
+      },
+      "pos": "ADV",
+      "gloss_de": [
+        "zurück"
+      ],
+      "grammar": {
+        "position": "postverbal"
+      },
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "fuhs"
+    },
+    {
+      "id": "mbahsh_adv_001",
+      "headword": {
+        "roman": "mbahsh",
+        "coral": "pms"
+      },
+      "pos": "ADV",
+      "gloss_de": [
+        "wegwärts"
+      ],
+      "grammar": {
+        "position": "postverbal"
+      },
+      "meta": {
+        "status": "canonical"
+      },
+      "korallisch": "pms"
+    },
+    {
+      "id": "shogla_v_tr_001",
+      "headword": {
+        "roman": "shogla",
+        "coral": "soha"
+      },
+      "pos": "V",
+      "gloss_de": [
+        "verursachen",
+        "auslösen",
+        "herbeiführen"
+      ],
+      "grammar": {
+        "conjugation_class": "standard",
+        "valency": "transitive"
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "verb",
+          "causation"
+        ]
+      },
+      "korallisch": "soha"
+    },
+    {
+      "id": "fralo_v_tr_001",
+      "headword": {
+        "roman": "fralo",
+        "coral": "falo"
+      },
+      "pos": "V",
+      "gloss_de": [
+        "verbinden",
+        "verknüpfen",
+        "teilen"
+      ],
+      "grammar": {
+        "conjugation_class": "standard",
+        "valency": "transitive"
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "verb",
+          "relation"
+        ]
+      },
+      "korallisch": "falo"
+    },
+    {
+      "id": "glolo_v_intr_001",
+      "headword": {
+        "roman": "glolo",
+        "coral": "holo"
+      },
+      "pos": "V",
+      "gloss_de": [
+        "gehen",
+        "sich fortbewegen (zielgerichtet)"
+      ],
+      "grammar": {
+        "conjugation_class": "standard",
+        "valency": "intransitive"
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "verb",
+          "movement"
+        ]
+      },
+      "korallisch": "holo"
+    },
+    {
+      "id": "shieha_v_tr_001",
+      "headword": {
+        "roman": "shieha",
+        "coral": "sjha"
+      },
+      "pos": "V",
+      "gloss_de": [
+        "sagen",
+        "äußern",
+        "kundtun"
+      ],
+      "grammar": {
+        "conjugation_class": "standard",
+        "valency": "transitive"
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "verb",
+          "speech"
+        ]
+      },
+      "korallisch": "sjha"
+    },
+    {
+      "id": "glasha_v_intr_001",
+      "headword": {
+        "roman": "glasha",
+        "coral": "hasa"
+      },
+      "pos": "V",
+      "gloss_de": [
+        "beginnen",
+        "einsetzen",
+        "anlaufen"
+      ],
+      "grammar": {
+        "conjugation_class": "standard",
+        "valency": "intransitive"
+      },
+      "meta": {
+        "status": "canonical",
+        "tags": [
+          "verb",
+          "inception"
+        ]
+      },
+      "korallisch": "hasa"
+    },
+    {
+      "id": "batch_everyday_nouns_001",
+      "pos": "N_BATCH",
+      "gloss_de": [
+        "100 Alltagsbegriffe (siehe Designliste, akzeptiert)"
+      ],
+      "meta": {
+        "status": "canonical",
+        "count": 100,
+        "note": "Batch-Aufnahme der 100 akzeptierten Alltagsbegriffe inkl. Banalitäten (z.B. Gabel)."
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_war_lexemes_001",
+      "pos": "BATCH",
+      "domain": "warfare",
+      "gloss_de": [
+        "50 Lexeme zu Kampf und Krieg"
+      ],
+      "meta": {
+        "status": "canonical",
+        "count": 50,
+        "notes": [
+          "antik-amphibische Kriegsführung",
+          "aktive Nutzung der Grapheme fshz, shzf, shzt",
+          "Korrekturen (fshzalesh, shzfalash, shztalesh) integriert"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "gsahfshzo_v_tr_001",
+      "headword": {
+        "roman": "gsahfshzo",
+        "coral": "qmko"
+      },
+      "pos": "V",
+      "gloss_de": [
+        "heilen",
+        "wiederherstellen",
+        "einen Schaden rückgängig machen"
+      ],
+      "grammar": {
+        "conjugation_class": "standard",
+        "valency": "transitive",
+        "notes": "Primär physische/funktionale Heilung; rituelle oder ontologische Heilung kann separat lexikalisiert werden."
+      },
+      "meta": {
+        "status": "canonical",
+        "domain": "healing",
+        "cultural_note": "Heilung als Schließen eines Bruchs oder Aufheben einer Trennung."
+      },
+      "korallisch": "qmko"
+    },
+    {
+      "id": "gsahfshzogs_n_001",
+      "headword": {
+        "roman": "gsahfshzogs",
+        "coral": "qmkoq"
+      },
+      "pos": "N",
+      "gloss_de": [
+        "Heilung",
+        "Wiederherstellung",
+        "Genesung"
+      ],
+      "grammar": {
+        "derivation": "Nominalisierung aus Verb gsahfshzo (Onset-Vokal + finaler -s)",
+        "number": "abstract",
+        "notes": "Bezeichnet den Vorgang oder Zustand der Heilung; kein Agens."
+      },
+      "meta": {
+        "status": "canonical",
+        "domain": "healing",
+        "correction": "ersetzt frühere, falsche Form gsahfshzog"
+      },
+      "korallisch": "qmkoq"
+    },
+    {
+      "id": "batch_aquatic_fauna_real_001",
+      "pos": "BATCH",
+      "domain": "aquatic_fauna_real",
+      "count": 30,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "ersetzt frühere fehlerhafte A-Liste",
+          "keine KK/VV, kein k",
+          "Bindevokal -o- an Morphemgrenzen"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_aquatic_fauna_mythic_001",
+      "pos": "BATCH",
+      "domain": "aquatic_fauna_mythic",
+      "count": 12,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "mythische Wasserkreaturen",
+          "Bindevokal -o- zwischen sh/shz und fsh",
+          "keine KK/VV, kein k"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_law_order_001",
+      "pos": "BATCH",
+      "domain": "law_and_order",
+      "count": 25,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "Recht, Ordnung, Schuld, Gericht",
+          "anschlussfähig an Schwur, Rat, Zugehörigkeit",
+          "keine KK/VV, Bindevokal -o-, kein k"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_emotions_001",
+      "pos": "BATCH",
+      "domain": "emotions",
+      "count": 20,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "emotionale Zustände, gerichtete Emotionen, soziale Emotionslagen",
+          "antik-amphibische Emotionskonzepte",
+          "keine KK/VV, kein k, Bindevokal -o- wo nötig"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_knowledge_truth_001",
+      "pos": "BATCH",
+      "domain": "knowledge_truth",
+      "count": 20,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "Wissen, Wahrheit, Irrtum, Geheimnis",
+          "antik-amphibische Erkenntniskonzepte",
+          "keine KK/VV, kein k, Bindevokal -o- wo nötig"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_body_health_numbers_001",
+      "pos": "BATCH",
+      "domain": "body_health_numbers",
+      "count": 25,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "Körper, Krankheit, Heilung",
+          "Base-4-Zahlensystem (0–4)",
+          "amphibische Anatomie, keine KK/VV, kein k"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_time_process_001",
+      "pos": "BATCH",
+      "domain": "time_process",
+      "count": 20,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "Zeitpunkte, Dauer, Ablauf, Prozesse",
+          "relatives Zeitkonzept, brah-Ewigkeit",
+          "keine KK/VV, kein k"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_prepositions_001",
+      "pos": "BATCH",
+      "domain": "prepositions",
+      "count": 5,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "Minimalliste: shol, fshol, frol, brosh, shtol",
+          "konsonantische Endungen zur Abgrenzung von Verben",
+          "unflektierbar, stehen vor dem Bezugsnomen",
+          "keine KK/VV, kein k"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_dnd_attributes_skills_001",
+      "pos": "BATCH",
+      "domain": "dnd_attributes_skills",
+      "count": 24,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "D&D 5e-kompatible Attribute und Fertigkeiten",
+          "antik-amphibische Semantik",
+          "keine KK/VV, kein k, konsonantische Formen"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_dnd_classes_abilities_001",
+      "pos": "BATCH",
+      "domain": "dnd_classes_abilities",
+      "count": 15,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "bereinigte Klassen- und Fähigkeitsnamen",
+          "Bindevokal -o- an allen Morphemgrenzen mit KK-Gefahr",
+          "Regel composition_bind_vowel verbindlich"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_metamagic_core_001",
+      "pos": "BATCH",
+      "domain": "metamagic_core",
+      "count": 28,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "Phase 1 Metamagie",
+          "oo-Vokal für Tiefe, Dauer, Masse",
+          "Grundlage für alle PHB-Zauber"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_magic_schools_001",
+      "pos": "BATCH",
+      "domain": "magic_schools_phb",
+      "count": 8,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "PHB Magieschulen",
+          "A1 beschreibend, B1 lexikalisiert",
+          "oo systematisch für Tiefe/Dauer/Masse",
+          "Abjuration: blooshesh"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_spells_cantrips_phb_001",
+      "pos": "BATCH",
+      "domain": "spells_cantrips_phb",
+      "count": 21,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "PHB Cantrips",
+          "A1 beschreibend, B1 Schulen explizit",
+          "oo systematisch eingesetzt",
+          "nur Namen (C1)"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_spells_level1_phb_001",
+      "pos": "BATCH",
+      "domain": "spells_level1_phb",
+      "count": 40,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "PHB Zaubergrad 1 vollständig",
+          "Chromatic Orb als 'bunte Kugel' (shieloolesh glashesh)",
+          "neue Kernlexeme integriert",
+          "A1/B1/C1-konform"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_spells_level2_phb_001",
+      "pos": "BATCH",
+      "domain": "spells_level2_phb",
+      "count": 40,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "PHB Zaubergrad 2 vollständig",
+          "A1 beschreibend, B1 Schulen explizit, C1 nur Namen",
+          "neue Kernlexeme konsistent genutzt"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_spells_level3_phb_001",
+      "pos": "BATCH",
+      "domain": "spells_level3_phb",
+      "count": 31,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "PHB Zaubergrad 3 vollständig",
+          "A1 beschreibend, B1 Schulen explizit, C1 nur Namen",
+          "Feuer/Blitz/Bindung/Fläche konsistent fortgeführt"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_backgrounds_phb_001",
+      "pos": "BATCH",
+      "domain": "backgrounds_phb",
+      "count": 13,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "PHB Backgrounds",
+          "A1 beschreibend",
+          "antik-amphibische Semantik",
+          "regelkonform (keine KK/VV, kein isoliertes h)"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_classes_phb_explicit_001",
+      "pos": "BATCH",
+      "domain": "classes_phb",
+      "count": 12,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "PHB Klassen explizit als Lexeme",
+          "Bindevokal -o- korrekt",
+          "Monk korrigiert: glashesofshishz"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_colors_ko_aquana_001",
+      "pos": "BATCH",
+      "domain": "colors",
+      "count": 12,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "Farblexeme",
+          "Blautöne stark differenziert",
+          "andere Farben funktional gehalten"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_elements_periodic_001",
+      "pos": "BATCH",
+      "domain": "periodic_elements",
+      "count": 118,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "118 chemische Elemente",
+          "funktional-antike Benennung",
+          "aquatisch-amphibische Semantik",
+          "regelkonform (keine KK/VV, kein isoliertes h)"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_alchemy_compounds_001",
+      "pos": "BATCH",
+      "domain": "alchemy_compounds",
+      "count": 15,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "Alchemische Wirkprinzipien",
+          "Tränke, Gifte, Katalysatoren, Bindematrizen",
+          "Komposition mit -o-, regelkonform"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "batch_social_events_001",
+      "pos": "BATCH",
+      "domain": "social_events",
+      "count": 16,
+      "meta": {
+        "status": "canonical",
+        "notes": [
+          "Fest (fraleshglooshesh) und soziale Events",
+          "Alltag, Ritual, Politik, Spiel, Konflikt",
+          "regelkonform, produktiv"
+        ]
+      },
+      "korallisch": ""
+    },
+    {
+      "id": "lex_fshoolesh_001",
+      "pos": "noun",
+      "lemma": "fshoolesh",
+      "romanized": "fshoolesh",
+      "ipa": "fʃoːˈleʃ",
+      "korallisch": "fshoolesh",
+      "domain": "state_process",
+      "gloss_de": "anhaltender Zustand; Grundverfassung; fortdauernde Lage",
+      "notes": [
+        "regelkonform (keine KK/VV, kein freies z)",
+        "semantik: Zustand als strömende Dauer"
+      ],
+      "examples": [
+        {
+          "ko": "bla fshoolesh.",
+          "de": "Ich bin in einem bestimmten Zustand."
+        }
+      ]
+    },
+    {
+      "id": "lex_fshooleshesh_002",
+      "pos": "noun",
+      "lemma": "fshooleshesh",
+      "romanized": "fshooleshesh",
+      "ipa": "fʃoːleˈʃeʃ",
+      "korallisch": "fshooleshesh",
+      "domain": "state_process",
+      "gloss_de": "Zustandsänderung; Übergang; Verwandlung eines Zustands",
+      "notes": [
+        "abgeleitet von fshoolesh",
+        "ersetzt frühere, nicht-kanonische ...zesh-Bildungen"
+      ],
+      "examples": [
+        {
+          "ko": "glu fshooleshesh fralesh.",
+          "de": "Ich verändere die Stimmung der Gemeinschaft."
+        }
+      ]
+    },
+    {
+      "id": "lex_gloogl_001",
+      "pos": "noun",
+      "headword": {
+        "roman": "gloogl",
+        "ipa": "gloːgl̩",
+        "coral": "hüh"
+      },
+      "korallisch": "hüh",
+      "domain": "knowledge_search",
+      "gloss_de": "weite, tiefe Suche; Sammeltiefe von Wissen; Metapher für einen Ort, an dem Wissen zusammenströmt",
+      "notes": [
+        "Produktive metaphorische Bedeutung: Ort oder Werkzeug der Suche (z. B. Name einer Website)",
+        "Morphologie: gl + oo + gl (Langvokal signalisiert Weite/Tiefe)"
+      ],
+      "examples": [
+        {
+          "ko": "gloogl fshoolesh fralesh.",
+          "de": "Gloogl ist der Zustand der wissenden Gemeinschaft."
+        }
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "id": "composition_bind_vowel",
+      "description": "Bei jeder Lexemkomposition, die sonst zu KK führen würde, MUSS der Bindevokal -o- eingefügt werden.",
+      "status": "canonical"
+    },
+    {
+      "id": "reduplication_kk_exception",
+      "description": "Bei lexikalischer Reduplikation (Augmentativ, Intensiv, Dauer) sind temporäre KK-Folgen an der Fuge zulässig (z. B. sh+gl).",
+      "status": "canonical",
+      "scope": [
+        "reduplication",
+        "augmentative",
+        "intensive"
+      ]
+    },
+    {
+      "id": "no_isolated_h",
+      "description": "Isoliertes 'h' ist kein Graphem. Längen werden ausschließlich über ah/oh/oo/ie/äh oder Bindekonsonanten markiert.",
+      "status": "canonical"
+    }
+  ]
+}
