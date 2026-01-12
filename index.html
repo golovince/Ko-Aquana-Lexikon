@@ -244,7 +244,7 @@
       background: rgba(15,23,42,0.9);
       color: var(--accent-strong);
       font-family: 'KoAquana', var(--font-sans);
-      font-size: 1rem;
+      font-size: 1.5rem;
       text-align: center;
       cursor: pointer;
       transition: background 0.1s ease, transform 0.08s ease, border-color 0.1s ease;
@@ -353,6 +353,141 @@
     footer a:hover {
       text-decoration: underline;
     }
+
+    .coral {
+  font-family: "KoAquana";
+}
+.big {
+  font-size: 2.5rem;
+}
+.hidden {
+  display: none;
+}
+
+    .detail-coral {
+  font-family: 'KoAquana', var(--font-sans);
+  font-size: 2.6rem;
+  letter-spacing: 0.08em;
+  color: var(--accent-strong);
+  line-height: 1.1;
+  padding: 0.4rem 0.6rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+  background: rgba(15,23,42,0.75);
+  display: inline-block;
+  margin-bottom: 0.6rem;
+}
+
+.detail-row {
+  display: flex;
+  gap: 0.6rem;
+  align-items: baseline;
+  margin: 0.25rem 0;
+}
+
+.detail-label {
+  width: 7.5rem;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+}
+
+.detail-value {
+  font-size: 0.95rem;
+  color: var(--text);
+  word-break: break-word;
+}
+
+.detail-h3 {
+  margin: 0.5rem 0 0.35rem;
+  font-size: 0.95rem;
+  font-weight: 650;
+  color: var(--text);
+}
+
+.detail-list {
+  margin: 0;
+  padding-left: 1.15rem;
+  color: var(--text-muted);
+  font-size: 0.92rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.detail-text {
+  border: 1px solid var(--border);
+  background: rgba(15,23,42,0.75);
+  border-radius: var(--radius-lg);
+  padding: 0.65rem 0.75rem;
+  color: var(--text-muted);
+  font-size: 0.92rem;
+  line-height: 1.4;
+}
+
+/* Flexionstabelle */
+.inflection-card {
+  border: 1px solid var(--border);
+  background: rgba(15,23,42,0.75);
+  border-radius: 16px;
+  padding: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.inflection-meta {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.inflection-table {
+  width: 100%;
+  border-collapse: collapse;
+  overflow: hidden;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+}
+
+.inflection-table th,
+.inflection-table td {
+  padding: 0.5rem 0.55rem;
+  border-bottom: 1px solid rgba(31,41,55,0.8);
+  vertical-align: top;
+  font-size: 0.9rem;
+}
+
+.inflection-table th {
+  text-align: left;
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  background: rgba(2, 6, 23, 0.35);
+}
+
+.inflection-table tr:last-child td {
+  border-bottom: none;
+}
+
+.cell-coral {
+  font-family: 'KoAquana', var(--font-sans);
+  font-size: 1.05rem;
+  letter-spacing: 0.06em;
+  color: var(--accent-strong);
+}
+
+.cell-muted {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
   </style>
 </head>
 <body>
@@ -459,27 +594,62 @@
         <div class="results" id="results">
           <!-- Wird per JS befüllt -->
         </div>
-        <section id="detailView" class="hidden">
-  <h2>Lexem-Details</h2>
-
-  <div class="headword">
-    <div id="detailCoral" class="coral big"></div>
-    <div id="detailRoman"></div>
-    <div id="detailIPA"></div>
+        <!-- Detailansicht -->
+<section class="panel" id="detail-panel" style="display:none;">
+  <div class="panel-header">
+    <div class="panel-title">
+      Detailansicht
+      <span class="panel-title-badge">Lexem</span>
+    </div>
+    <div class="panel-subtitle" id="detail-subtitle">—</div>
   </div>
 
-  <div id="detailPos"></div>
+  <div style="display:flex; gap:0.75rem; align-items:flex-start; flex-wrap:wrap;">
+    <div style="flex: 1 1 300px;">
+      <div id="detail-coral" class="detail-coral"></div>
+      <div class="detail-row">
+        <span class="detail-label">Romanisiert</span>
+        <span id="detail-roman" class="detail-value"></span>
+      </div>
+      <div class="detail-row">
+        <span class="detail-label">IPA</span>
+        <span id="detail-ipa" class="detail-value"></span>
+      </div>
+      <div class="detail-row">
+        <span class="detail-label">Wortart</span>
+        <span id="detail-pos" class="detail-value"></span>
+      </div>
+      <div class="detail-row">
+        <span class="detail-label">Domänen</span>
+        <span id="detail-domains" class="detail-value"></span>
+      </div>
+    </div>
 
-  <h3>Bedeutung</h3>
-  <ul id="detailGloss"></ul>
+    <div style="flex: 1 1 340px;">
+      <h3 class="detail-h3">Bedeutung (DE)</h3>
+      <ul id="detail-gloss" class="detail-list"></ul>
+    </div>
+  </div>
 
-  <div id="detailDomains"></div>
+  <div id="detail-notes-wrap" style="display:none;">
+    <h3 class="detail-h3">Anmerkungen</h3>
+    <div id="detail-notes" class="detail-text"></div>
+  </div>
 
-  <div id="detailMorphology"></div>
-  <div id="detailNotes"></div>
+  <div id="detail-examples-wrap" style="display:none;">
+    <h3 class="detail-h3">Beispiele</h3>
+    <ul id="detail-examples" class="detail-list"></ul>
+  </div>
 
-  <h3>Beispiele</h3>
-  <ul id="detailExamples"></ul>
+  <!-- Flexionstabelle (immer sichtbar, wenn vorhanden) -->
+  <div id="detail-inflection-wrap" style="display:none;">
+    <h3 class="detail-h3">Flexion</h3>
+    <div id="detail-inflection"></div>
+  </div>
+
+  <div style="display:flex; gap:0.5rem; flex-wrap:wrap; margin-top:0.5rem;">
+    <button class="btn btn-secondary" type="button" id="btn-detail-close">Detailansicht schließen</button>
+  </div>
 </section>
 
       </section>
@@ -854,29 +1024,106 @@
     }
 
     entries.forEach(e => {
-      const item = document.createElement("div");
-      item.className = "result-item";
-      const pos = (e.pos || "").toUpperCase();
-      const ipa = e.ipa || "";
-      const domains = e.domains ? e.domains.join(", ") : "";
-      const gloss = e.gloss_de_short || "";
-      item.innerHTML = `
-        <div class="result-main">
-          <div class="lemma-row">
-            <span class="lemma-roman">${e.roman || ""}</span>
-            <span class="lemma-coral">${e.coral || ""}</span>
-            <span class="lemma-meta">${pos}</span>
-          </div>
-          <div class="gloss">${gloss}</div>
-        </div>
-        <div class="result-side">
-          <div>${ipa}</div>
-          <div>${domains}</div>
-        </div>
-      `;
-      container.appendChild(item);
+      // innerhalb entries.forEach(e => { ... })
+const item = document.createElement("div");
+item.className = "result-item";
+item.style.cursor = "pointer";
+item.setAttribute("data-id", e.id);
+
+item.addEventListener("click", () => {
+  loadDetail(e.id);
+});
+
+item.innerHTML = `
+  <div class="result-main">
+    <div class="lemma-row">
+      <span class="lemma-roman">${e.roman || ""}</span>
+      <span class="lemma-coral">${e.coral || ""}</span>
+      <span class="lemma-meta">${(e.pos || "").toUpperCase()}</span>
+    </div>
+    <div class="gloss">${e.gloss_de_short || ""}</div>
+  </div>
+  <div class="result-side">
+    <div>${e.ipa || ""}</div>
+    <div>${e.domains ? e.domains.join(", ") : ""}</div>
+  </div>
+`;
+container.appendChild(item);
+
     });
   }
+
+    function renderResults(list) {
+  resultsDiv.innerHTML = "";
+  list.forEach(entry => {
+    const div = document.createElement("div");
+    div.className = "result";
+    div.innerHTML = `
+      <span class="coral">${entry.coral}</span>
+      <span>${entry.roman}</span>
+      <span>${entry.gloss_de_short}</span>
+    `;
+    div.addEventListener("click", () => loadDetail(entry.id));
+    resultsDiv.appendChild(div);
+  });
+}
+    async function loadDetail(id) {
+  try {
+    const res = await fetch(`./data/entries/${id}.json`);
+    if (!res.ok) throw new Error("Detaildatei nicht gefunden");
+    const data = await res.json();
+    renderDetail(data);
+  } catch (e) {
+    alert("Fehler beim Laden der Detailansicht.");
+    console.error(e);
+  }
+}
+function renderDetail(data) {
+  document.getElementById("detailView").classList.remove("hidden");
+
+  document.getElementById("detailCoral").textContent = data.headword.coral;
+  document.getElementById("detailRoman").textContent =
+    `Romanisiert: ${data.headword.roman}`;
+  document.getElementById("detailIPA").textContent =
+    `IPA: ${data.headword.ipa || "—"}`;
+
+  document.getElementById("detailPos").textContent =
+    `Wortart: ${data.pos}`;
+
+  // Gloss
+  const glossUl = document.getElementById("detailGloss");
+  glossUl.innerHTML = "";
+  (data.gloss_de || []).forEach(g => {
+    const li = document.createElement("li");
+    li.textContent = g;
+    glossUl.appendChild(li);
+  });
+
+  // Domains
+  document.getElementById("detailDomains").textContent =
+    data.domain && data.domain.length
+      ? "Domänen: " + data.domain.join(", ")
+      : "";
+
+  // Morphologie
+  document.getElementById("detailMorphology").textContent =
+    data.morphology ? "Morphologie: " + data.morphology : "";
+
+  // Notizen
+  document.getElementById("detailNotes").textContent =
+    data.notes ? "Anmerkung: " + data.notes : "";
+
+  // Beispiele
+  const exUl = document.getElementById("detailExamples");
+  exUl.innerHTML = "";
+  (data.examples || []).forEach(ex => {
+    const li = document.createElement("li");
+    li.innerHTML = `<strong>${ex.ko}</strong> — ${ex.de}`;
+    exUl.appendChild(li);
+  });
+}
+
+
 
   // --- Suche einrichten --------------------------------------------------
   function setupSearch() {
@@ -940,7 +1187,13 @@
     setupSearch();
     setupConverter();
     loadSearchIndex(); // echten Index laden
-  });
+  }
+                           );
+    document.getElementById("btn-detail-close").addEventListener("click", () => {
+  const panel = document.getElementById("detail-panel");
+  panel.style.display = "none";
+});
+
 </script>
 </body>
 </html>
