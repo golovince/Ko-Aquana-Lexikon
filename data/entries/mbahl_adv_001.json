@@ -1,0 +1,19 @@
+{
+  "id": "mbahl_adv_001",
+  "headword": {
+    "roman": "mbahl",
+    "coral": "pml",
+    "ipa": ""
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "tiefwärts"
+  ],
+  "grammar": {
+    "position": "postverbal"
+  },
+  "meta": {
+    "status": "canonical"
+  },
+  "korallisch": "pml"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "blohshal_n_001",
+  "headword": {
+    "roman": "blohshal",
+    "ipa": "bloːʃal",
+    "coral": "bösal"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Gewissheit",
+    "feste Wahrheit"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "noun",
+      "core"
+    ]
+  },
+  "korallisch": "bösal"
+}

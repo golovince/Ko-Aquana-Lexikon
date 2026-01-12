@@ -1,0 +1,21 @@
+{
+  "id": "gloosh_n_001",
+  "headword": {
+    "roman": "gloosh",
+    "ipa": "ɡloːʃ",
+    "coral": "hüs"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Moment",
+    "Jetzt"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "noun",
+      "core"
+    ]
+  },
+  "korallisch": "hüs"
+}

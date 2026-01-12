@@ -1,0 +1,19 @@
+{
+  "id": "shiehsh_adv_001",
+  "headword": {
+    "roman": "shiehsh",
+    "coral": "sjhs",
+    "ipa": ""
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "vielleicht"
+  ],
+  "grammar": {
+    "position": "postverbal"
+  },
+  "meta": {
+    "status": "canonical"
+  },
+  "korallisch": "sjhs"
+}

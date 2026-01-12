@@ -1,0 +1,105 @@
+{
+  "id": "bla_v_cop_001",
+  "headword": {
+    "roman": "bla",
+    "ipa": "blɐ",
+    "coral": "ba"
+  },
+  "pos": "verb",
+  "subpos": "copula",
+  "gloss_de": [
+    "sein"
+  ],
+  "grammar": {
+    "conjugation_class": "standard",
+    "valency": "predicative_intransitive",
+    "predicate_types": [
+      "ADJ",
+      "N",
+      "article_nominalized_ADJ",
+      "comparison"
+    ]
+  },
+  "morphology": {
+    "present": {
+      "sg": {
+        "1": "bla",
+        "2": "blai",
+        "3": "blaie"
+      },
+      "pl": {
+        "1": "blah",
+        "2": "blahi",
+        "3": "blahie"
+      }
+    },
+    "tense_prefixes": {
+      "perf": "bla-",
+      "fut": "froo-",
+      "eterna": "brah-"
+    },
+    "negation": {
+      "particle": "ngang",
+      "position": "sentence-initial"
+    }
+  },
+  "orthography": {
+    "tokens_roman": [
+      "bl",
+      "a"
+    ],
+    "tokens_coral": [
+      "b",
+      "a"
+    ]
+  },
+  "examples": [
+    {
+      "roman": "bla frofshz groshz nnn",
+      "ipa": "blɐ frɔfʃ gʁɔʃː͡p",
+      "coral": "ba n fok n god nnn",
+      "de": "Ich bin wie Groshz."
+    }
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "core",
+      "syntax",
+      "predication"
+    ]
+  },
+  "korallisch": "ba",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "bla",
+          "coral": "ba"
+        },
+        "2sg": {
+          "roman": "blai",
+          "coral": "bai"
+        },
+        "3sg": {
+          "roman": "blaie",
+          "coral": "baj"
+        },
+        "1pl": {
+          "roman": "blah",
+          "coral": "bm"
+        },
+        "2pl": {
+          "roman": "blahi",
+          "coral": "bmi"
+        },
+        "3pl": {
+          "roman": "blahie",
+          "coral": "bmj"
+        }
+      }
+    }
+  }
+}

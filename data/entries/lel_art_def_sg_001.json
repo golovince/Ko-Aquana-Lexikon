@@ -1,0 +1,37 @@
+{
+  "id": "lel_art_def_sg_001",
+  "headword": {
+    "roman": "lel",
+    "ipa": "ləl",
+    "coral": "lel"
+  },
+  "pos": "article",
+  "subpos": "definite",
+  "gloss_de": [
+    "der/die/das (def. Sg.)"
+  ],
+  "grammar": {
+    "number": "sg",
+    "plural_form": "lelel",
+    "noun_plural_suffix": "el"
+  },
+  "orthography": {
+    "tokens_roman": [
+      "l",
+      "e",
+      "l"
+    ],
+    "tokens_coral": [
+      "l",
+      "e",
+      "l"
+    ]
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "article"
+    ]
+  },
+  "korallisch": "lel"
+}

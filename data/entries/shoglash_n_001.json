@@ -1,0 +1,22 @@
+{
+  "id": "shoglash_n_001",
+  "headword": {
+    "roman": "shoglash",
+    "ipa": "ʃoɡlaʃ",
+    "coral": "sohas"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Ursache",
+    "Grund",
+    "Rechtfertigung"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "noun",
+      "core"
+    ]
+  },
+  "korallisch": "sohas"
+}

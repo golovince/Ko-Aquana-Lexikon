@@ -1,0 +1,22 @@
+{
+  "id": "lex_gloogl_001",
+  "pos": "noun",
+  "headword": {
+    "roman": "gloogl",
+    "ipa": "gloːgl̩",
+    "coral": "hüh"
+  },
+  "korallisch": "hüh",
+  "domain": "knowledge_search",
+  "gloss_de": "weite, tiefe Suche; Sammeltiefe von Wissen; Metapher für einen Ort, an dem Wissen zusammenströmt",
+  "notes": [
+    "Produktive metaphorische Bedeutung: Ort oder Werkzeug der Suche (z. B. Name einer Website)",
+    "Morphologie: gl + oo + gl (Langvokal signalisiert Weite/Tiefe)"
+  ],
+  "examples": [
+    {
+      "ko": "gloogl fshoolesh fralesh.",
+      "de": "Gloogl ist der Zustand der wissenden Gemeinschaft."
+    }
+  ]
+}

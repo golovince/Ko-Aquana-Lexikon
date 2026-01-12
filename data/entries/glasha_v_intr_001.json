@@ -1,0 +1,58 @@
+{
+  "id": "glasha_v_intr_001",
+  "headword": {
+    "roman": "glasha",
+    "coral": "hasa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "beginnen",
+    "einsetzen",
+    "anlaufen"
+  ],
+  "grammar": {
+    "conjugation_class": "standard",
+    "valency": "intransitive"
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "verb",
+      "inception"
+    ]
+  },
+  "korallisch": "hasa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "glasha",
+          "coral": "hasa"
+        },
+        "2sg": {
+          "roman": "glashai",
+          "coral": "hasai"
+        },
+        "3sg": {
+          "roman": "glashaie",
+          "coral": "hasaj"
+        },
+        "1pl": {
+          "roman": "glashah",
+          "coral": "hasm"
+        },
+        "2pl": {
+          "roman": "glashahi",
+          "coral": "hasmi"
+        },
+        "3pl": {
+          "roman": "glashahie",
+          "coral": "hasmj"
+        }
+      }
+    }
+  }
+}

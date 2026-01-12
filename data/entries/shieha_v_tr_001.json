@@ -1,0 +1,58 @@
+{
+  "id": "shieha_v_tr_001",
+  "headword": {
+    "roman": "shieha",
+    "coral": "sjha",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "sagen",
+    "äußern",
+    "kundtun"
+  ],
+  "grammar": {
+    "conjugation_class": "standard",
+    "valency": "transitive"
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "verb",
+      "speech"
+    ]
+  },
+  "korallisch": "sjha",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shieha",
+          "coral": "sjha"
+        },
+        "2sg": {
+          "roman": "shiehai",
+          "coral": "sjhai"
+        },
+        "3sg": {
+          "roman": "shiehaie",
+          "coral": "sjhaj"
+        },
+        "1pl": {
+          "roman": "shiehah",
+          "coral": "sjhm"
+        },
+        "2pl": {
+          "roman": "shiehahi",
+          "coral": "sjhmi"
+        },
+        "3pl": {
+          "roman": "shiehahie",
+          "coral": "sjhmj"
+        }
+      }
+    }
+  }
+}

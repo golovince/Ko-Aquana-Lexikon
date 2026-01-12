@@ -1,0 +1,25 @@
+{
+  "id": "lex_fshooleshesh_002",
+  "pos": "noun",
+  "lemma": "fshooleshesh",
+  "romanized": "fshooleshesh",
+  "ipa": "fʃoːleˈʃeʃ",
+  "korallisch": "fshooleshesh",
+  "domain": "state_process",
+  "gloss_de": "Zustandsänderung; Übergang; Verwandlung eines Zustands",
+  "notes": [
+    "abgeleitet von fshoolesh",
+    "ersetzt frühere, nicht-kanonische ...zesh-Bildungen"
+  ],
+  "examples": [
+    {
+      "ko": "glu fshooleshesh fralesh.",
+      "de": "Ich verändere die Stimmung der Gemeinschaft."
+    }
+  ],
+  "headword": {
+    "roman": "fshooleshesh",
+    "coral": "fshooleshesh",
+    "ipa": "fʃoːleˈʃeʃ"
+  }
+}

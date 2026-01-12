@@ -1,0 +1,19 @@
+{
+  "id": "shielesh_adv_001",
+  "headword": {
+    "roman": "shielesh",
+    "coral": "sjles",
+    "ipa": ""
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "aufwärts"
+  ],
+  "grammar": {
+    "position": "postverbal"
+  },
+  "meta": {
+    "status": "canonical"
+  },
+  "korallisch": "sjles"
+}

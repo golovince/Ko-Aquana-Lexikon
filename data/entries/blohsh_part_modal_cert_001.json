@@ -1,0 +1,37 @@
+{
+  "id": "blohsh_part_modal_cert_001",
+  "headword": {
+    "roman": "blohsh",
+    "ipa": "bloːʃ",
+    "coral": "bös"
+  },
+  "pos": "particle",
+  "subpos": "modal_certain",
+  "gloss_de": [
+    "gewiss",
+    "sicher"
+  ],
+  "grammar": {
+    "scope": "clausal"
+  },
+  "orthography": {
+    "tokens_roman": [
+      "bl",
+      "oh",
+      "sh"
+    ],
+    "tokens_coral": [
+      "b",
+      "ö",
+      "s"
+    ]
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "function",
+      "modality"
+    ]
+  },
+  "korallisch": "bös"
+}

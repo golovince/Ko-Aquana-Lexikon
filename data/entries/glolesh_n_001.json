@@ -1,0 +1,21 @@
+{
+  "id": "glolesh_n_001",
+  "headword": {
+    "roman": "glolesh",
+    "ipa": "ɡlɔleʃ",
+    "coral": "holes"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Strömungsknotenpunkt",
+    "Kreuzung"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "noun",
+      "core"
+    ]
+  },
+  "korallisch": "holes"
+}

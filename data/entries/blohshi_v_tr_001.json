@@ -1,0 +1,79 @@
+{
+  "id": "blohshi_v_tr_001",
+  "headword": {
+    "roman": "blohshi",
+    "ipa": "bloːʃɪ",
+    "coral": "bösi"
+  },
+  "pos": "verb",
+  "subpos": "lexical",
+  "gloss_de": [
+    "binden",
+    "festigen",
+    "verankern"
+  ],
+  "grammar": {
+    "conjugation_class": "avoid_i",
+    "valency": "transitive"
+  },
+  "morphology": {
+    "present": {
+      "sg": {
+        "1": "blohshi",
+        "2": "blohshio",
+        "3": "blohshioh"
+      },
+      "pl": {
+        "1": "blohshie",
+        "2": "blohshieo",
+        "3": "blohshieoh"
+      }
+    },
+    "tense_prefixes": {
+      "perf": "bla-",
+      "fut": "froo-",
+      "eterna": "brah-"
+    }
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "verb",
+      "ritual",
+      "law"
+    ]
+  },
+  "korallisch": "bösi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "blohshi",
+          "coral": "bösi"
+        },
+        "2sg": {
+          "roman": "blohshio",
+          "coral": "bösio"
+        },
+        "3sg": {
+          "roman": "blohshioh",
+          "coral": "bösiö"
+        },
+        "1pl": {
+          "roman": "blohshie",
+          "coral": "bösj"
+        },
+        "2pl": {
+          "roman": "blohshieo",
+          "coral": "bösjo"
+        },
+        "3pl": {
+          "roman": "blohshieoh",
+          "coral": "bösjö"
+        }
+      }
+    }
+  }
+}

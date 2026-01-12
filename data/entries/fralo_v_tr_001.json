@@ -1,0 +1,58 @@
+{
+  "id": "fralo_v_tr_001",
+  "headword": {
+    "roman": "fralo",
+    "coral": "falo",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "verbinden",
+    "verknüpfen",
+    "teilen"
+  ],
+  "grammar": {
+    "conjugation_class": "standard",
+    "valency": "transitive"
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "verb",
+      "relation"
+    ]
+  },
+  "korallisch": "falo",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fralo",
+          "coral": "falo"
+        },
+        "2sg": {
+          "roman": "fraloi",
+          "coral": "faloi"
+        },
+        "3sg": {
+          "roman": "fraloie",
+          "coral": "faloj"
+        },
+        "1pl": {
+          "roman": "fraloh",
+          "coral": "falö"
+        },
+        "2pl": {
+          "roman": "fralohi",
+          "coral": "falöi"
+        },
+        "3pl": {
+          "roman": "fralohie",
+          "coral": "falöj"
+        }
+      }
+    }
+  }
+}

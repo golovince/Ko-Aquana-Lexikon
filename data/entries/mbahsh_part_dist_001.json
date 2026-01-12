@@ -1,0 +1,37 @@
+{
+  "id": "mbahsh_part_dist_001",
+  "headword": {
+    "roman": "mbahsh",
+    "ipa": "ʘaːʃ",
+    "coral": "pms"
+  },
+  "pos": "particle",
+  "subpos": "distance",
+  "gloss_de": [
+    "weg von",
+    "fern von"
+  ],
+  "grammar": {
+    "scope": "phrasal"
+  },
+  "orthography": {
+    "tokens_roman": [
+      "mb",
+      "ah",
+      "sh"
+    ],
+    "tokens_coral": [
+      "p",
+      "m",
+      "s"
+    ]
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "function",
+      "relation"
+    ]
+  },
+  "korallisch": "pms"
+}

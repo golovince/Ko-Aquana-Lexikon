@@ -1,0 +1,21 @@
+{
+  "id": "mbool_n_001",
+  "headword": {
+    "roman": "mbool",
+    "ipa": "ʘoːl",
+    "coral": "pül"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Sein",
+    "Existenz"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "noun",
+      "core"
+    ]
+  },
+  "korallisch": "pül"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "brahsh_n_001",
+  "headword": {
+    "roman": "brahsh",
+    "ipa": "braːʃ",
+    "coral": "cms"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Ewigkeit",
+    "dauerhafter Zustand"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "noun",
+      "core"
+    ]
+  },
+  "korallisch": "cms"
+}
