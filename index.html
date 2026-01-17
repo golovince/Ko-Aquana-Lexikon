@@ -751,449 +751,421 @@
 
   <!-- JavaScript -->
   <script>
-  // --- Mapping für Romanisiert ↔ Korallisch -----------------------------
-  const romanToCoral = {
-    // Konsonanten
-    "fshz": "k",
-    "shzt": "r",
-    "shzf": "z",
-    "sht": "t",
-    "shz": "d",
-    "fsh": "v",
-    "sh": "s",
-    "mb": "p",
-    "gs": "q",
-    "fs": "w",
-    "gr": "g",
-    "gl": "h",
-    "br": "c",
-    "bl": "b",
-    "bs": "y",
-    "ng": "x",
-    "fr": "f",
-    "l": "l",
-    // Vokale
-    "oo": "ü",
-    "ah": "m",
-    "ie": "j",
-    "oh": "ö",
-    "äh": "ä",
-    "a": "a",
-    "e": "e",
-    "i": "i",
-    "o": "o",
-    "u": "u"
-  };
+/* ------------------ Mapping: Romanisiert ↔ Korallisch ------------------ */
+const romanToCoral = {
+  "fshz": "k","shzt": "r","shzf": "z","sht": "t","shz": "d","fsh": "v","sh": "s",
+  "mb": "p","gs": "q","fs": "w","gr": "g","gl": "h","br": "c","bl": "b","bs": "y",
+  "ng": "x","fr": "f","l": "l",
+  "oo": "ü","ah": "m","ie": "j","oh": "ö","äh": "ä",
+  "a": "a","e": "e","i": "i","o": "o","u": "u"
+};
 
-  // Für greedy Tokenisierung: längste Grapheme zuerst
-  const romanKeysSorted = Object.keys(romanToCoral).sort(
-    (a, b) => b.length - a.length
-  );
+const romanKeysSorted = Object.keys(romanToCoral).sort((a,b)=>b.length-a.length);
 
-  // Inverse Mapping für Korallisch → Romanisiert
-  const coralToRoman = {};
-  for (const [r, c] of Object.entries(romanToCoral)) {
-    coralToRoman[c] = r;
-  }
+const coralToRoman = {};
+for (const [r, c] of Object.entries(romanToCoral)) coralToRoman[c] = r;
 
-  // --- Hilfsfunktionen für Konverter -----------------------------------
-  function romanToCoralStr(input) {
-    let s = input.normalize("NFC");
-    let out = "";
-    let i = 0;
-    while (i < s.length) {
-      const ch = s[i];
-      // Worttrennungen und Interpunktion
-      if (ch === " " || ch === "\n") {
-        out += "n";
-        i += 1;
-        continue;
-      }
-      if (ch === ",") {
-        out += "nn";
-        i += 1;
-        continue;
-      }
-      if (ch === "." || ch === "?" || ch === "!") {
-        out += "nnn";
-        i += 1;
-        continue;
-      }
+function romanToCoralStr(input) {
+  let s = (input || "").normalize("NFC");
+  let out = "";
+  let i = 0;
+  while (i < s.length) {
+    const ch = s[i];
+    if (ch === " " || ch === "\n") { out += "n"; i++; continue; }
+    if (ch === ",") { out += "nn"; i++; continue; }
+    if (ch === "." || ch === "?" || ch === "!") { out += "nnn"; i++; continue; }
 
-      let matched = false;
-      for (const key of romanKeysSorted) {
-        if (s.startsWith(key, i)) {
-          out += romanToCoral[key];
-          i += key.length;
-          matched = true;
-          break;
-        }
-      }
-      if (!matched) {
-        // Fallback: übernehme das Zeichen (z. B. Großbuchstaben, n, etc.)
-        out += ch;
-        i += 1;
+    let matched = false;
+    for (const key of romanKeysSorted) {
+      if (s.startsWith(key, i)) {
+        out += romanToCoral[key];
+        i += key.length;
+        matched = true;
+        break;
       }
     }
-    return out;
+    if (!matched) { out += ch; i++; }
   }
+  return out;
+}
 
-  function coralToRomanStr(input) {
-    let s = input.normalize("NFC");
-    let out = "";
-    let i = 0;
-    while (i < s.length) {
-      const ch = s[i];
+function coralToRomanStr(input) {
+  let s = (input || "").normalize("NFC");
+  let out = "";
+  let i = 0;
+  while (i < s.length) {
+    const ch = s[i];
 
-      // Satzzeichen / Worttrennung
-      if (ch === "n") {
-        // prüfe nn / nnn
-        if (s.startsWith("nnn", i)) {
-          out += ". ";
-          i += 3;
-          continue;
-        } else if (s.startsWith("nn", i)) {
-          out += ", ";
-          i += 2;
-          continue;
-        } else {
-          out += " ";
-          i += 1;
-          continue;
-        }
-      }
-
-      if (coralToRoman[ch]) {
-        out += coralToRoman[ch];
-      } else {
-        // Fallback: Zeichen übernehmen
-        out += ch;
-      }
+    if (ch === "n") {
+      if (s.startsWith("nnn", i)) { out += ". "; i += 3; continue; }
+      if (s.startsWith("nn", i)) { out += ", "; i += 2; continue; }
+      out += " ";
       i += 1;
+      continue;
     }
-    return out;
+
+    out += (coralToRoman[ch] || ch);
+    i += 1;
   }
+  return out;
+}
 
-  // --- Bildschirm-Tastaturen -------------------------------------------
-  function attachKeyboardHandlers() {
-    const keyboards = document.querySelectorAll(".keyboard");
-    keyboards.forEach(kb => {
-      const targetId = kb.getAttribute("data-target");
-      const targetEl = document.getElementById(targetId);
-      if (!targetEl) return;
+/* ------------------ Bildschirm-Tastaturen ------------------ */
+function attachKeyboardHandlers() {
+  const keyboards = document.querySelectorAll(".keyboard");
+  keyboards.forEach(kb => {
+    const targetId = kb.getAttribute("data-target");
+    const targetEl = document.getElementById(targetId);
+    if (!targetEl) return;
 
-      kb.addEventListener("click", (ev) => {
-        const btn = ev.target.closest(".key");
-        if (!btn) return;
-        const special = btn.getAttribute("data-special");
+    kb.addEventListener("click", (ev) => {
+      const btn = ev.target.closest(".key");
+      if (!btn) return;
+      const special = btn.getAttribute("data-special");
 
-        if (special === "space") {
-          insertAtCursor(targetEl, "n");
-        } else if (special === "comma") {
-          insertAtCursor(targetEl, "nn");
-        } else if (special === "end") {
-          insertAtCursor(targetEl, "nnn");
-        } else if (special === "backspace") {
-          backspaceAtCursor(targetEl);
-        } else {
-          insertAtCursor(targetEl, btn.textContent);
-        }
+      if (special === "space") insertAtCursor(targetEl, "n");
+      else if (special === "comma") insertAtCursor(targetEl, "nn");
+      else if (special === "end") insertAtCursor(targetEl, "nnn");
+      else if (special === "backspace") backspaceAtCursor(targetEl);
+      else insertAtCursor(targetEl, btn.textContent);
 
-        targetEl.dispatchEvent(new Event("input", { bubbles: true }));
-        targetEl.focus();
-      });
+      targetEl.dispatchEvent(new Event("input", { bubbles: true }));
+      targetEl.focus();
     });
-  }
-
-  function insertAtCursor(el, text) {
-    const start = el.selectionStart ?? el.value.length;
-    const end = el.selectionEnd ?? el.value.length;
-    const before = el.value.slice(0, start);
-    const after = el.value.slice(end);
-    el.value = before + text + after;
-    const newPos = start + text.length;
-    el.selectionStart = el.selectionEnd = newPos;
-  }
-
-  function backspaceAtCursor(el) {
-    const start = el.selectionStart ?? el.value.length;
-    const end = el.selectionEnd ?? el.value.length;
-    if (start === end && start > 0) {
-      const before = el.value.slice(0, start - 1);
-      const after = el.value.slice(end);
-      el.value = before + after;
-      const newPos = start - 1;
-      el.selectionStart = el.selectionEnd = newPos;
-    } else if (start !== end) {
-      const before = el.value.slice(0, start);
-      const after = el.value.slice(end);
-      el.value = before + after;
-      el.selectionStart = el.selectionEnd = start;
-    }
-  }
-
-  // --- Suchindex (wird per fetch geladen) -------------------------------
-  let searchIndex = [];
-  let indexLoaded = false;
-  let indexError = null;
-
-  async function loadSearchIndex() {
-    try {
-      const res = await fetch("./data/index.json", { cache: "no-cache" });
-      if (!res.ok) {
-        throw new Error("HTTP " + res.status);
-      }
-      const data = await res.json();
-      searchIndex = data.entries || [];
-      indexLoaded = true;
-      indexError = null;
-      // Optional: initiale Anzeige leer lassen
-      renderResults([]);
-    } catch (err) {
-      console.error("Fehler beim Laden des Index:", err);
-      indexLoaded = false;
-      indexError = err;
-      renderResults(null); // zeigt Fehler an
-    }
-  }
-
-  function filterIndexByRoman(query) {
-    const q = query.trim().toLowerCase();
-    if (!q || !indexLoaded || !Array.isArray(searchIndex)) return [];
-    return searchIndex.filter(e =>
-      (e.roman || "").toLowerCase().includes(q)
-    );
-  }
-
-  function filterIndexByCoral(query) {
-    const q = query.trim();
-    if (!q || !indexLoaded || !Array.isArray(searchIndex)) return [];
-    // Variante 1: direkte Korallisch-Suche
-    let direct = searchIndex.filter(e =>
-      (e.coral || "").includes(q)
-    );
-    if (direct.length > 0) return direct;
-    // Variante 2: korallisch -> romanisiert -> Suche
-    const romanQ = coralToRomanStr(q).trim().toLowerCase();
-    if (!romanQ) return [];
-    return searchIndex.filter(e =>
-      (e.roman || "").toLowerCase().includes(romanQ)
-    );
-  }
-
-  function renderResults(entries) {
-    const container = document.getElementById("results");
-    container.innerHTML = "";
-
-    if (indexError) {
-      const div = document.createElement("div");
-      div.className = "result-item";
-      div.innerHTML = `
-        <div class="result-main">
-          <div class="gloss">
-            Fehler beim Laden des Lexikon-Index. Bitte Seite neu laden oder Daten prüfen.
-          </div>
-        </div>
-      `;
-      container.appendChild(div);
-      return;
-    }
-
-    if (!indexLoaded) {
-      const div = document.createElement("div");
-      div.className = "result-item";
-      div.innerHTML = `
-        <div class="result-main">
-          <div class="gloss">Index wird geladen …</div>
-        </div>
-      `;
-      container.appendChild(div);
-      return;
-    }
-
-    if (!entries || entries.length === 0) {
-      const div = document.createElement("div");
-      div.className = "result-item";
-      div.innerHTML = `
-        <div class="result-main">
-          <div class="gloss">Keine Treffer.</div>
-        </div>
-      `;
-      container.appendChild(div);
-      return;
-    }
-
-    entries.forEach(e => {
-      // innerhalb entries.forEach(e => { ... })
-const item = document.createElement("div");
-item.className = "result-item";
-item.style.cursor = "pointer";
-item.setAttribute("data-id", e.id);
-
-item.addEventListener("click", () => {
-  loadDetail(e.id);
-});
-
-item.innerHTML = `
-  <div class="result-main">
-    <div class="lemma-row">
-      <span class="lemma-roman">${e.roman || ""}</span>
-      <span class="lemma-coral">${e.coral || ""}</span>
-      <span class="lemma-meta">${(e.pos || "").toUpperCase()}</span>
-    </div>
-    <div class="gloss">${e.gloss_de_short || ""}</div>
-  </div>
-  <div class="result-side">
-    <div>${e.ipa || ""}</div>
-    <div>${e.domains ? e.domains.join(", ") : ""}</div>
-  </div>
-`;
-container.appendChild(item);
-
-    });
-  }
-
-    function renderResults(list) {
-  resultsDiv.innerHTML = "";
-  list.forEach(entry => {
-    const div = document.createElement("div");
-    div.className = "result";
-    div.innerHTML = `
-      <span class="coral">${entry.coral}</span>
-      <span>${entry.roman}</span>
-      <span>${entry.gloss_de_short}</span>
-    `;
-    div.addEventListener("click", () => loadDetail(entry.id));
-    resultsDiv.appendChild(div);
   });
 }
-    async function loadDetail(id) {
+
+function insertAtCursor(el, text) {
+  const start = el.selectionStart ?? el.value.length;
+  const end = el.selectionEnd ?? el.value.length;
+  el.value = el.value.slice(0, start) + text + el.value.slice(end);
+  const newPos = start + text.length;
+  el.selectionStart = el.selectionEnd = newPos;
+}
+
+function backspaceAtCursor(el) {
+  const start = el.selectionStart ?? el.value.length;
+  const end = el.selectionEnd ?? el.value.length;
+  if (start === end && start > 0) {
+    el.value = el.value.slice(0, start - 1) + el.value.slice(end);
+    el.selectionStart = el.selectionEnd = start - 1;
+  } else if (start !== end) {
+    el.value = el.value.slice(0, start) + el.value.slice(end);
+    el.selectionStart = el.selectionEnd = start;
+  }
+}
+
+/* ------------------ Suchindex laden + suchen ------------------ */
+let searchIndex = [];
+let indexLoaded = false;
+let indexError = null;
+
+async function loadSearchIndex() {
   try {
-    const res = await fetch(`./data/entries/${id}.json`);
-    if (!res.ok) throw new Error("Detaildatei nicht gefunden");
+    const res = await fetch("./data/index.json", { cache: "no-cache" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
-    renderDetail(data);
-  } catch (e) {
-    alert("Fehler beim Laden der Detailansicht.");
-    console.error(e);
+    searchIndex = data.entries || [];
+    indexLoaded = true;
+    indexError = null;
+    renderResults([]);
+  } catch (err) {
+    console.error("Fehler beim Laden des Index:", err);
+    indexLoaded = false;
+    indexError = err;
+    renderResults(null);
   }
 }
-function renderDetail(data) {
-  document.getElementById("detailView").classList.remove("hidden");
 
-  document.getElementById("detailCoral").textContent = data.headword.coral;
-  document.getElementById("detailRoman").textContent =
-    `Romanisiert: ${data.headword.roman}`;
-  document.getElementById("detailIPA").textContent =
-    `IPA: ${data.headword.ipa || "—"}`;
+function filterIndexByRoman(query) {
+  const q = (query || "").trim().toLowerCase();
+  if (!q || !indexLoaded) return [];
+  return searchIndex.filter(e => (e.roman || "").toLowerCase().includes(q));
+}
 
-  document.getElementById("detailPos").textContent =
-    `Wortart: ${data.pos}`;
+function filterIndexByCoral(query) {
+  const q = (query || "").trim();
+  if (!q || !indexLoaded) return [];
 
-  // Gloss
-  const glossUl = document.getElementById("detailGloss");
-  glossUl.innerHTML = "";
-  (data.gloss_de || []).forEach(g => {
-    const li = document.createElement("li");
-    li.textContent = g;
-    glossUl.appendChild(li);
+  // direkte Korallischsuche
+  const direct = searchIndex.filter(e => (e.coral || "").includes(q));
+  if (direct.length) return direct;
+
+  // fallback: korallisch -> romanisiert
+  const romanQ = coralToRomanStr(q).trim().toLowerCase();
+  if (!romanQ) return [];
+  return searchIndex.filter(e => (e.roman || "").toLowerCase().includes(romanQ));
+}
+
+function renderResults(entries) {
+  const container = document.getElementById("results");
+  container.innerHTML = "";
+
+  if (indexError) {
+    const div = document.createElement("div");
+    div.className = "result-item";
+    div.innerHTML = `<div class="result-main"><div class="gloss">
+      Fehler beim Laden des Lexikon-Index. Bitte Seite neu laden oder Daten prüfen.
+    </div></div>`;
+    container.appendChild(div);
+    return;
+  }
+
+  if (!indexLoaded) {
+    const div = document.createElement("div");
+    div.className = "result-item";
+    div.innerHTML = `<div class="result-main"><div class="gloss">Index wird geladen …</div></div>`;
+    container.appendChild(div);
+    return;
+  }
+
+  if (!entries || entries.length === 0) {
+    const div = document.createElement("div");
+    div.className = "result-item";
+    div.innerHTML = `<div class="result-main"><div class="gloss">Keine Treffer.</div></div>`;
+    container.appendChild(div);
+    return;
+  }
+
+  entries.forEach(e => {
+    const item = document.createElement("div");
+    item.className = "result-item";
+    item.style.cursor = "pointer";
+    item.addEventListener("click", () => loadDetail(e.id));
+
+    item.innerHTML = `
+      <div class="result-main">
+        <div class="lemma-row">
+          <span class="lemma-roman">${escapeHtml(e.roman || "")}</span>
+          <span class="lemma-coral">${escapeHtml(e.coral || "")}</span>
+          <span class="lemma-meta">${escapeHtml((e.pos || "").toUpperCase())}</span>
+        </div>
+        <div class="gloss">${escapeHtml(e.gloss_de_short || "")}</div>
+      </div>
+      <div class="result-side">
+        <div>${escapeHtml(e.ipa || "")}</div>
+        <div>${escapeHtml((e.domains || []).join(", "))}</div>
+      </div>
+    `;
+    container.appendChild(item);
   });
+}
+
+/* ------------------ Detailansicht ------------------ */
+async function loadDetail(id) {
+  const panel = document.getElementById("detail-panel");
+  panel.style.display = "block";
+  document.getElementById("detail-subtitle").textContent = `Lade ${id} …`;
+
+  try {
+    const res = await fetch(`./data/entries/${id}.json`, { cache: "no-cache" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const detail = await res.json();
+    renderDetail(detail);
+    panel.scrollIntoView({ behavior: "smooth", block: "start" });
+  } catch (err) {
+    console.error("Fehler beim Laden der Detaildatei:", err);
+    document.getElementById("detail-subtitle").textContent =
+      `Fehler beim Laden: data/entries/${id}.json`;
+  }
+}
+
+function renderDetail(detail) {
+  const hw = detail.headword || {};
+  const roman = hw.roman || detail.romanized || detail.lemma || "";
+  const coral = hw.coral || detail.korallisch || "";
+  const ipa = hw.ipa || detail.ipa || "";
+  const pos = detail.pos || "";
+
+  document.getElementById("detail-subtitle").textContent = detail.id ? `ID: ${detail.id}` : "—";
+  document.getElementById("detail-coral").textContent = coral || "—";
+  document.getElementById("detail-roman").textContent = roman || "—";
+  document.getElementById("detail-ipa").textContent = ipa || "—";
+  document.getElementById("detail-pos").textContent = pos || "—";
 
   // Domains
-  document.getElementById("detailDomains").textContent =
-    data.domain && data.domain.length
-      ? "Domänen: " + data.domain.join(", ")
-      : "";
+  const domains = detail.domain || detail.domains || [];
+  document.getElementById("detail-domains").textContent =
+    Array.isArray(domains) && domains.length ? domains.join(", ") : "—";
 
-  // Morphologie
-  document.getElementById("detailMorphology").textContent =
-    data.morphology ? "Morphologie: " + data.morphology : "";
+  // Gloss
+  const glossEl = document.getElementById("detail-gloss");
+  glossEl.innerHTML = "";
+  const gloss = detail.gloss_de;
 
-  // Notizen
-  document.getElementById("detailNotes").textContent =
-    data.notes ? "Anmerkung: " + data.notes : "";
-
-  // Beispiele
-  const exUl = document.getElementById("detailExamples");
-  exUl.innerHTML = "";
-  (data.examples || []).forEach(ex => {
+  if (Array.isArray(gloss) && gloss.length) {
+    gloss.forEach(g => {
+      const li = document.createElement("li");
+      li.textContent = g;
+      glossEl.appendChild(li);
+    });
+  } else if (typeof gloss === "string" && gloss.trim()) {
     const li = document.createElement("li");
-    li.innerHTML = `<strong>${ex.ko}</strong> — ${ex.de}`;
-    exUl.appendChild(li);
+    li.textContent = gloss;
+    glossEl.appendChild(li);
+  } else {
+    const li = document.createElement("li");
+    li.textContent = "—";
+    glossEl.appendChild(li);
+  }
+
+  // Notes
+  const notesWrap = document.getElementById("detail-notes-wrap");
+  const notesEl = document.getElementById("detail-notes");
+  const notes = detail.notes;
+  let notesText = "";
+  if (Array.isArray(notes)) notesText = notes.join("\n");
+  else if (typeof notes === "string") notesText = notes;
+
+  if (notesText.trim()) {
+    notesWrap.style.display = "block";
+    notesEl.textContent = notesText;
+  } else {
+    notesWrap.style.display = "none";
+    notesEl.textContent = "";
+  }
+
+  // Examples
+  const exWrap = document.getElementById("detail-examples-wrap");
+  const exEl = document.getElementById("detail-examples");
+  exEl.innerHTML = "";
+  const examples = detail.examples || (detail.usage && detail.usage.examples) || [];
+
+  if (Array.isArray(examples) && examples.length) {
+    exWrap.style.display = "block";
+    examples.forEach(ex => {
+      const ko = ex.ko || ex.ko_roman || "";
+      const de = ex.de || "";
+      const li = document.createElement("li");
+      li.innerHTML = `<span class="cell-muted">${escapeHtml(ko)}</span> — ${escapeHtml(de)}`;
+      exEl.appendChild(li);
+    });
+  } else {
+    exWrap.style.display = "none";
+  }
+
+  // Inflection (present)
+  const inflWrap = document.getElementById("detail-inflection-wrap");
+  const inflEl = document.getElementById("detail-inflection");
+  inflEl.innerHTML = "";
+
+  const present = detail.inflection && detail.inflection.present;
+  if (present && present.forms) {
+    inflWrap.style.display = "block";
+    inflEl.appendChild(renderInflectionPresent(present));
+  } else {
+    inflWrap.style.display = "none";
+  }
+}
+
+function renderInflectionPresent(present) {
+  const card = document.createElement("div");
+  card.className = "inflection-card";
+
+  const meta = document.createElement("div");
+  meta.className = "inflection-meta";
+  meta.textContent = `Präsens · ${present.type || "—"}`;
+  card.appendChild(meta);
+
+  const table = document.createElement("table");
+  table.className = "inflection-table";
+  table.innerHTML = `
+    <thead>
+      <tr>
+        <th>Person</th>
+        <th>Romanisiert</th>
+        <th>Korallisch</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  `;
+
+  const tbody = table.querySelector("tbody");
+  const rows = [
+    ["1sg", "1. Sg."],
+    ["2sg", "2. Sg."],
+    ["3sg", "3. Sg."],
+    ["1pl", "1. Pl."],
+    ["2pl", "2. Pl."],
+    ["3pl", "3. Pl."],
+  ];
+
+  rows.forEach(([key, label]) => {
+    const f = present.forms[key] || {};
+    const tr = document.createElement("tr");
+    tr.innerHTML = `
+      <td class="cell-muted">${label}</td>
+      <td>${escapeHtml(f.roman || "—")}</td>
+      <td class="cell-coral">${escapeHtml(f.coral || "—")}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+
+  card.appendChild(table);
+  return card;
+}
+
+/* ------------------ Setup: Suche + Konverter + Close ------------------ */
+function setupSearch() {
+  const inputRoman = document.getElementById("search-roman");
+  const inputCoral = document.getElementById("search-coral");
+  const btnClearRoman = document.getElementById("btn-clear-roman");
+  const btnClearCoral = document.getElementById("btn-clear-coral");
+
+  inputRoman.addEventListener("input", () => renderResults(filterIndexByRoman(inputRoman.value)));
+  inputCoral.addEventListener("input", () => renderResults(filterIndexByCoral(inputCoral.value)));
+
+  btnClearRoman.addEventListener("click", () => {
+    inputRoman.value = "";
+    renderResults([]);
+    inputRoman.focus();
+  });
+
+  btnClearCoral.addEventListener("click", () => {
+    inputCoral.value = "";
+    renderResults([]);
+    inputCoral.focus();
+  });
+
+  renderResults([]);
+}
+
+function setupConverter() {
+  const taRoman = document.getElementById("conv-roman");
+  const taCoral = document.getElementById("conv-coral");
+  const btnR2C = document.getElementById("btn-roman-to-coral");
+  const btnC2R = document.getElementById("btn-coral-to-roman");
+  const btnClear = document.getElementById("btn-clear-converter");
+
+  btnR2C.addEventListener("click", () => taCoral.value = romanToCoralStr(taRoman.value));
+  btnC2R.addEventListener("click", () => taRoman.value = coralToRomanStr(taCoral.value));
+  btnClear.addEventListener("click", () => {
+    taRoman.value = "";
+    taCoral.value = "";
+    taRoman.focus();
   });
 }
 
+function escapeHtml(str) {
+  return String(str || "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
 
+/* ------------------ Init ------------------ */
+document.addEventListener("DOMContentLoaded", () => {
+  attachKeyboardHandlers();
+  setupSearch();
+  setupConverter();
+  loadSearchIndex();
 
-  // --- Suche einrichten --------------------------------------------------
-  function setupSearch() {
-    const inputRoman = document.getElementById("search-roman");
-    const inputCoral = document.getElementById("search-coral");
-    const btnClearRoman = document.getElementById("btn-clear-roman");
-    const btnClearCoral = document.getElementById("btn-clear-coral");
-
-    inputRoman.addEventListener("input", () => {
-      const entries = filterIndexByRoman(inputRoman.value);
-      renderResults(entries);
-    });
-
-    inputCoral.addEventListener("input", () => {
-      const entries = filterIndexByCoral(inputCoral.value);
-      renderResults(entries);
-    });
-
-    btnClearRoman.addEventListener("click", () => {
-      inputRoman.value = "";
-      renderResults([]);
-      inputRoman.focus();
-    });
-
-    btnClearCoral.addEventListener("click", () => {
-      inputCoral.value = "";
-      renderResults([]);
-      inputCoral.focus();
-    });
-
-    // Startzustand: Hinweis, dass geladen wird
-    renderResults([]);
-  }
-
-  // --- Konverter einrichten ---------------------------------------------
-  function setupConverter() {
-    const taRoman = document.getElementById("conv-roman");
-    const taCoral = document.getElementById("conv-coral");
-    const btnR2C = document.getElementById("btn-roman-to-coral");
-    const btnC2R = document.getElementById("btn-coral-to-roman");
-    const btnClear = document.getElementById("btn-clear-converter");
-
-    btnR2C.addEventListener("click", () => {
-      taCoral.value = romanToCoralStr(taRoman.value);
-    });
-
-    btnC2R.addEventListener("click", () => {
-      taRoman.value = coralToRomanStr(taCoral.value);
-    });
-
-    btnClear.addEventListener("click", () => {
-      taRoman.value = "";
-      taCoral.value = "";
-      taRoman.focus();
-    });
-  }
-
-  // --- Initialisierung ---------------------------------------------------
-  document.addEventListener("DOMContentLoaded", () => {
-    attachKeyboardHandlers();
-    setupSearch();
-    setupConverter();
-    loadSearchIndex(); // echten Index laden
-  }
-                           );
-    document.getElementById("btn-detail-close").addEventListener("click", () => {
-  const panel = document.getElementById("detail-panel");
-  panel.style.display = "none";
+  document.getElementById("btn-detail-close").addEventListener("click", () => {
+    document.getElementById("detail-panel").style.display = "none";
+  });
 });
-
 </script>
 </body>
 </html>
