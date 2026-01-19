@@ -1,0 +1,876 @@
+{
+  "version": "v1.4.2",
+  "generated_at": "2026-01-12T12:52:39",
+  "entries": [
+    {
+      "id": "bla_v_cop_001",
+      "roman": "bla",
+      "coral": "ba",
+      "ipa": "blɐ",
+      "pos": "verb",
+      "gloss_de_short": "sein",
+      "domains": []
+    },
+    {
+      "id": "glu_v_tr_001",
+      "roman": "glu",
+      "coral": "hu",
+      "ipa": "glʊ",
+      "pos": "verb",
+      "gloss_de_short": "suchen; stöbern; recherchieren",
+      "domains": []
+    },
+    {
+      "id": "fsoshi_v_ditr_001",
+      "roman": "fsoshi",
+      "coral": "wosi",
+      "ipa": "fsɔʃɪ",
+      "pos": "verb",
+      "gloss_de_short": "geben; überreichen; weitergeben",
+      "domains": []
+    },
+    {
+      "id": "mbeshz_adj_001",
+      "roman": "mbeshz",
+      "coral": "ped",
+      "ipa": "ʘəʃː͡p",
+      "pos": "adj",
+      "gloss_de_short": "oberflächenbewohnend; an Land lebend; oberflächlich",
+      "domains": []
+    },
+    {
+      "id": "ngang_part_neg_001",
+      "roman": "ngang",
+      "coral": "xax",
+      "ipa": "ŋɐŋ",
+      "pos": "particle",
+      "gloss_de_short": "nicht",
+      "domains": []
+    },
+    {
+      "id": "frogl_part_comp_001",
+      "roman": "frogl",
+      "coral": "foh",
+      "ipa": "frɔgl",
+      "pos": "particle",
+      "gloss_de_short": "als",
+      "domains": []
+    },
+    {
+      "id": "frofshz_part_eq_001",
+      "roman": "frofshz",
+      "coral": "fok",
+      "ipa": "frɔfʃː͡p",
+      "pos": "particle",
+      "gloss_de_short": "wie",
+      "domains": []
+    },
+    {
+      "id": "lel_art_def_sg_001",
+      "roman": "lel",
+      "coral": "lel",
+      "ipa": "ləl",
+      "pos": "article",
+      "gloss_de_short": "der/die/das (def. Sg.)",
+      "domains": []
+    },
+    {
+      "id": "lelel_art_def_pl_001",
+      "roman": "lelel",
+      "coral": "lelel",
+      "ipa": "lələl",
+      "pos": "article",
+      "gloss_de_short": "die (def. Pl.)",
+      "domains": []
+    },
+    {
+      "id": "lul_art_indef_sg_001",
+      "roman": "lul",
+      "coral": "lul",
+      "ipa": "lʊl",
+      "pos": "article",
+      "gloss_de_short": "ein/eine (indef. Sg.)",
+      "domains": []
+    },
+    {
+      "id": "lulul_art_indef_pl_001",
+      "roman": "lulul",
+      "coral": "lulul",
+      "ipa": "lʊlʊl",
+      "pos": "article",
+      "gloss_de_short": "(einige) (indef. Pl.)",
+      "domains": []
+    },
+    {
+      "id": "lol_art_any_sg_001",
+      "roman": "lol",
+      "coral": "lol",
+      "ipa": "lɔl",
+      "pos": "article",
+      "gloss_de_short": "irgendein (Sg.)",
+      "domains": []
+    },
+    {
+      "id": "lolol_art_any_pl_001",
+      "roman": "lolol",
+      "coral": "lolol",
+      "ipa": "lɔlɔl",
+      "pos": "article",
+      "gloss_de_short": "irgendwelche (Pl.)",
+      "domains": []
+    },
+    {
+      "id": "lil_art_gen_001",
+      "roman": "lil",
+      "coral": "lil",
+      "ipa": "lɪl",
+      "pos": "article",
+      "gloss_de_short": "von; des/der (Genitiv/Besitz)",
+      "domains": []
+    },
+    {
+      "id": "shztash_qw_001",
+      "roman": "shztash",
+      "coral": "ras",
+      "ipa": "ʃː͡ptɐʃ",
+      "pos": "question-word",
+      "gloss_de_short": "wer?",
+      "domains": []
+    },
+    {
+      "id": "shztish_qw_001",
+      "roman": "shztish",
+      "coral": "ris",
+      "ipa": "ʃː͡ptɪʃ",
+      "pos": "question-word",
+      "gloss_de_short": "wie?",
+      "domains": []
+    },
+    {
+      "id": "shztosh_qw_001",
+      "roman": "shztosh",
+      "coral": "ros",
+      "ipa": "ʃː͡ptɔʃ",
+      "pos": "question-word",
+      "gloss_de_short": "wo?",
+      "domains": []
+    },
+    {
+      "id": "shztush_qw_001",
+      "roman": "shztush",
+      "coral": "rus",
+      "ipa": "ʃː͡ptʊʃ",
+      "pos": "question-word",
+      "gloss_de_short": "wann?",
+      "domains": []
+    },
+    {
+      "id": "shztesh_qw_001",
+      "roman": "shztesh",
+      "coral": "res",
+      "ipa": "ʃː͡ptəʃ",
+      "pos": "question-word",
+      "gloss_de_short": "was?",
+      "domains": []
+    },
+    {
+      "id": "shztoosh_qw_001",
+      "roman": "shztoosh",
+      "coral": "rüs",
+      "ipa": "ʃː͡ptoːʃ",
+      "pos": "question-word",
+      "gloss_de_short": "ist es zutreffend, dass …? (Ja/Nein-Frage)",
+      "domains": []
+    },
+    {
+      "id": "blahsh_part_contrast_001",
+      "roman": "blahsh",
+      "coral": "bms",
+      "ipa": "blaːʃ",
+      "pos": "particle",
+      "gloss_de_short": "aber; jedoch; dennoch",
+      "domains": []
+    },
+    {
+      "id": "shoglash_part_cause_001",
+      "roman": "shoglash",
+      "coral": "sohas",
+      "ipa": "ʃoɡlaʃ",
+      "pos": "particle",
+      "gloss_de_short": "weil; da",
+      "domains": []
+    },
+    {
+      "id": "luhsh_part_prox_001",
+      "roman": "luhsh",
+      "coral": "luhs",
+      "ipa": "luʃ",
+      "pos": "particle",
+      "gloss_de_short": "bei; nahe bei",
+      "domains": []
+    },
+    {
+      "id": "mbahsh_part_dist_001",
+      "roman": "mbahsh",
+      "coral": "pms",
+      "ipa": "ʘaːʃ",
+      "pos": "particle",
+      "gloss_de_short": "weg von; fern von",
+      "domains": []
+    },
+    {
+      "id": "gloosh_part_time_001",
+      "roman": "gloosh",
+      "coral": "hüs",
+      "ipa": "ɡloːʃ",
+      "pos": "particle",
+      "gloss_de_short": "jetzt; im Moment",
+      "domains": []
+    },
+    {
+      "id": "glooshgloosh_part_dur_001",
+      "roman": "glooshgloosh",
+      "coral": "hüshüs",
+      "ipa": "ɡloːʃɡloːʃ",
+      "pos": "particle",
+      "gloss_de_short": "immer wieder; fortwährend",
+      "domains": []
+    },
+    {
+      "id": "shiehsh_part_modal_001",
+      "roman": "shiesh",
+      "coral": "sjs",
+      "ipa": "ʃiˈeʃ",
+      "pos": "particle",
+      "gloss_de_short": "vielleicht; möglicherweise",
+      "domains": []
+    },
+    {
+      "id": "blohsh_part_modal_cert_001",
+      "roman": "blohsh",
+      "coral": "bös",
+      "ipa": "bloːʃ",
+      "pos": "particle",
+      "gloss_de_short": "gewiss; sicher",
+      "domains": []
+    },
+    {
+      "id": "leshzeshz_part_focus_001",
+      "roman": "leshzeshz",
+      "coral": "leded",
+      "ipa": "leʃt͡seʃ",
+      "pos": "particle",
+      "gloss_de_short": "genau; eben; ausgerechnet",
+      "domains": []
+    },
+    {
+      "id": "mbool_part_exist_001",
+      "roman": "mbool",
+      "coral": "pül",
+      "ipa": "ʘoːl",
+      "pos": "particle",
+      "gloss_de_short": "es gibt; vorhanden sein",
+      "domains": []
+    },
+    {
+      "id": "glaho_v_intr_001",
+      "roman": "glaho",
+      "coral": "hmo",
+      "ipa": "ɡlaːho",
+      "pos": "verb",
+      "gloss_de_short": "fließen; strömen; sich bewegen (ohne Ziel)",
+      "domains": []
+    },
+    {
+      "id": "mbahlo_v_intr_001",
+      "roman": "mbahlo",
+      "coral": "pmlo",
+      "ipa": "ʘaːlo",
+      "pos": "verb",
+      "gloss_de_short": "sinken; in die Tiefe gehen",
+      "domains": []
+    },
+    {
+      "id": "shielo_v_intr_001",
+      "roman": "shielo",
+      "coral": "sjlo",
+      "ipa": "ʃiːlo",
+      "pos": "verb",
+      "gloss_de_short": "auftauchen; an die Oberfläche kommen",
+      "domains": []
+    },
+    {
+      "id": "blohshi_v_tr_001",
+      "roman": "blohshi",
+      "coral": "bösi",
+      "ipa": "bloːʃɪ",
+      "pos": "verb",
+      "gloss_de_short": "binden; festigen; verankern",
+      "domains": []
+    },
+    {
+      "id": "glieho_v_intr_001",
+      "roman": "glieho",
+      "coral": "hjho",
+      "ipa": "ɡliːho",
+      "pos": "verb",
+      "gloss_de_short": "wahrnehmen; erspüren; fühlen",
+      "domains": []
+    },
+    {
+      "id": "fshalo_v_tr_001",
+      "roman": "fshalo",
+      "coral": "valo",
+      "ipa": "fʃaːlo",
+      "pos": "verb",
+      "gloss_de_short": "wirken (magisch); lenken; beeinflussen",
+      "domains": []
+    },
+    {
+      "id": "mboolo_v_intr_001",
+      "roman": "mboolo",
+      "coral": "pülo",
+      "ipa": "ʘoːlo",
+      "pos": "verb",
+      "gloss_de_short": "entstehen; sich bilden; vorhanden werden",
+      "domains": []
+    },
+    {
+      "id": "gliesha_v_tr_001",
+      "roman": "gliesha",
+      "coral": "hjsa",
+      "ipa": "ɡliːʃa",
+      "pos": "verb",
+      "gloss_de_short": "erinnern; bewahren; im Strom halten",
+      "domains": []
+    },
+    {
+      "id": "glash_n_001",
+      "roman": "glash",
+      "coral": "has",
+      "ipa": "ɡlaʃ",
+      "pos": "noun",
+      "gloss_de_short": "Tiefe; Abgrund; großer Wasserkörper",
+      "domains": []
+    },
+    {
+      "id": "mbahl_n_001",
+      "roman": "mbahl",
+      "coral": "pml",
+      "ipa": "ʘaːl",
+      "pos": "noun",
+      "gloss_de_short": "tiefe Schicht; untere Ebene",
+      "domains": []
+    },
+    {
+      "id": "shielesh_n_001",
+      "roman": "shielesh",
+      "coral": "sjles",
+      "ipa": "ʃiːleʃ",
+      "pos": "noun",
+      "gloss_de_short": "Oberfläche (neutral)",
+      "domains": []
+    },
+    {
+      "id": "glol_n_001",
+      "roman": "glol",
+      "coral": "hol",
+      "ipa": "ɡlɔl",
+      "pos": "noun",
+      "gloss_de_short": "Strömung; Flussrichtung",
+      "domains": []
+    },
+    {
+      "id": "frash_n_001",
+      "roman": "frash",
+      "coral": "fas",
+      "ipa": "fraʃ",
+      "pos": "noun",
+      "gloss_de_short": "Rand; Grenze",
+      "domains": []
+    },
+    {
+      "id": "blash_n_001",
+      "roman": "blash",
+      "coral": "bas",
+      "ipa": "blaʃ",
+      "pos": "noun",
+      "gloss_de_short": "Gesetz; bindende Ordnung",
+      "domains": []
+    },
+    {
+      "id": "gliel_n_001",
+      "roman": "gliel",
+      "coral": "hjl",
+      "ipa": "ɡliːl",
+      "pos": "noun",
+      "gloss_de_short": "Rat; Versammlung",
+      "domains": []
+    },
+    {
+      "id": "mbulesh_n_001",
+      "roman": "mbulesh",
+      "coral": "pules",
+      "ipa": "ʘuleʃ",
+      "pos": "noun",
+      "gloss_de_short": "Heim; Zentrum; bewohnter Kern",
+      "domains": []
+    },
+    {
+      "id": "fral_n_001",
+      "roman": "fral",
+      "coral": "fal",
+      "ipa": "fral",
+      "pos": "noun",
+      "gloss_de_short": "Bund; Abkommen; Vertrag",
+      "domains": []
+    },
+    {
+      "id": "shoglash_n_001",
+      "roman": "shoglash",
+      "coral": "sohas",
+      "ipa": "ʃoɡlaʃ",
+      "pos": "noun",
+      "gloss_de_short": "Ursache; Grund; Rechtfertigung",
+      "domains": []
+    },
+    {
+      "id": "blohsh_n_001",
+      "roman": "blohsh",
+      "coral": "bös",
+      "ipa": "bloːʃ",
+      "pos": "noun",
+      "gloss_de_short": "Schwur; Bindung; Gelöbnis",
+      "domains": []
+    },
+    {
+      "id": "gliesh_n_001",
+      "roman": "gliesh",
+      "coral": "hjs",
+      "ipa": "ɡliːʃ",
+      "pos": "noun",
+      "gloss_de_short": "Erinnerung; Überlieferung",
+      "domains": []
+    },
+    {
+      "id": "fshol_n_001",
+      "roman": "fshol",
+      "coral": "vol",
+      "ipa": "fʃɔl",
+      "pos": "noun",
+      "gloss_de_short": "magische Wirkung; gelenkte Kraft",
+      "domains": []
+    },
+    {
+      "id": "mbool_n_001",
+      "roman": "mbool",
+      "coral": "pül",
+      "ipa": "ʘoːl",
+      "pos": "noun",
+      "gloss_de_short": "Sein; Existenz",
+      "domains": []
+    },
+    {
+      "id": "brahsh_n_001",
+      "roman": "brahsh",
+      "coral": "cms",
+      "ipa": "braːʃ",
+      "pos": "noun",
+      "gloss_de_short": "Ewigkeit; dauerhafter Zustand",
+      "domains": []
+    },
+    {
+      "id": "gliehl_n_001",
+      "roman": "gliehl",
+      "coral": "hjhl",
+      "ipa": "ɡliːl",
+      "pos": "noun",
+      "gloss_de_short": "Wahrnehmung; Gespür",
+      "domains": []
+    },
+    {
+      "id": "shiehsh_n_001",
+      "roman": "shiehsh",
+      "coral": "sjhs",
+      "ipa": "ʃiːəʃ",
+      "pos": "noun",
+      "gloss_de_short": "Möglichkeit; Ungewissheit",
+      "domains": []
+    },
+    {
+      "id": "blohshal_n_001",
+      "roman": "blohshal",
+      "coral": "bösal",
+      "ipa": "bloːʃal",
+      "pos": "noun",
+      "gloss_de_short": "Gewissheit; feste Wahrheit",
+      "domains": []
+    },
+    {
+      "id": "gloosh_n_001",
+      "roman": "gloosh",
+      "coral": "hüs",
+      "ipa": "ɡloːʃ",
+      "pos": "noun",
+      "gloss_de_short": "Moment; Jetzt",
+      "domains": []
+    },
+    {
+      "id": "glashglash_n_001",
+      "roman": "glashglash",
+      "coral": "hashas",
+      "ipa": "ɡlaʃɡlaʃ",
+      "pos": "noun",
+      "gloss_de_short": "Zyklus; Wiederkehr",
+      "domains": []
+    },
+    {
+      "id": "mbuhsh_n_001",
+      "roman": "mbuhsh",
+      "coral": "puhs",
+      "ipa": "ʘuʃ",
+      "pos": "noun",
+      "gloss_de_short": "Heimstatt; heiliger Ort",
+      "domains": []
+    },
+    {
+      "id": "fruhsh_n_001",
+      "roman": "fruhsh",
+      "coral": "fuhs",
+      "ipa": "fruʃ",
+      "pos": "noun",
+      "gloss_de_short": "Weg; Rückkehrpfad",
+      "domains": []
+    },
+    {
+      "id": "glolesh_n_001",
+      "roman": "glolesh",
+      "coral": "holes",
+      "ipa": "ɡlɔleʃ",
+      "pos": "noun",
+      "gloss_de_short": "Strömungsknotenpunkt; Kreuzung",
+      "domains": []
+    },
+    {
+      "id": "groshz_adj_001",
+      "roman": "groshz",
+      "coral": "god",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "schön",
+      "domains": []
+    },
+    {
+      "id": "mbeshz_adj_001",
+      "roman": "mbeshz",
+      "coral": "ped",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "oberflächlich",
+      "domains": []
+    },
+    {
+      "id": "glash_adj_001",
+      "roman": "glash",
+      "coral": "has",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "tief",
+      "domains": []
+    },
+    {
+      "id": "mbahl_adj_001",
+      "roman": "mbahl",
+      "coral": "pml",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "tiefgelegen",
+      "domains": []
+    },
+    {
+      "id": "blohsh_adj_001",
+      "roman": "blohsh",
+      "coral": "bös",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "fest",
+      "domains": []
+    },
+    {
+      "id": "shiehsh_adj_001",
+      "roman": "shiehsh",
+      "coral": "sjhs",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "ungewiss",
+      "domains": []
+    },
+    {
+      "id": "blohshal_adj_001",
+      "roman": "blohshal",
+      "coral": "bösal",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "gewiss",
+      "domains": []
+    },
+    {
+      "id": "fshol_adj_001",
+      "roman": "fshol",
+      "coral": "vol",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "magisch wirksam",
+      "domains": []
+    },
+    {
+      "id": "gliesh_adj_001",
+      "roman": "gliesh",
+      "coral": "hjs",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "erinnernd",
+      "domains": []
+    },
+    {
+      "id": "frash_adj_001",
+      "roman": "frash",
+      "coral": "fas",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "randständig",
+      "domains": []
+    },
+    {
+      "id": "glolesh_adj_001",
+      "roman": "glolesh",
+      "coral": "holes",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "strömungsgebunden",
+      "domains": []
+    },
+    {
+      "id": "mbulesh_adj_001",
+      "roman": "mbulesh",
+      "coral": "pules",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "heimisch",
+      "domains": []
+    },
+    {
+      "id": "brahsh_adj_001",
+      "roman": "brahsh",
+      "coral": "cms",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "ewig",
+      "domains": []
+    },
+    {
+      "id": "fral_adj_001",
+      "roman": "fral",
+      "coral": "fal",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "verbunden",
+      "domains": []
+    },
+    {
+      "id": "shielesh_adj_001",
+      "roman": "shielesh",
+      "coral": "sjles",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "oberflächennah",
+      "domains": []
+    },
+    {
+      "id": "gloosh_adv_001",
+      "roman": "gloosh",
+      "coral": "hüs",
+      "ipa": "",
+      "pos": "adv",
+      "gloss_de_short": "jetzt",
+      "domains": []
+    },
+    {
+      "id": "glooshgloosh_adv_001",
+      "roman": "glooshgloosh",
+      "coral": "hüshüs",
+      "ipa": "",
+      "pos": "adv",
+      "gloss_de_short": "immer wieder",
+      "domains": []
+    },
+    {
+      "id": "glol_adv_001",
+      "roman": "glol",
+      "coral": "hol",
+      "ipa": "",
+      "pos": "adv",
+      "gloss_de_short": "strömend",
+      "domains": []
+    },
+    {
+      "id": "mbahl_adv_001",
+      "roman": "mbahl",
+      "coral": "pml",
+      "ipa": "",
+      "pos": "adv",
+      "gloss_de_short": "tiefwärts",
+      "domains": []
+    },
+    {
+      "id": "shielesh_adv_001",
+      "roman": "shielesh",
+      "coral": "sjles",
+      "ipa": "",
+      "pos": "adv",
+      "gloss_de_short": "aufwärts",
+      "domains": []
+    },
+    {
+      "id": "blohsh_adv_001",
+      "roman": "blohsh",
+      "coral": "bös",
+      "ipa": "",
+      "pos": "adv",
+      "gloss_de_short": "fest",
+      "domains": []
+    },
+    {
+      "id": "shiehsh_adv_001",
+      "roman": "shiehsh",
+      "coral": "sjhs",
+      "ipa": "",
+      "pos": "adv",
+      "gloss_de_short": "vielleicht",
+      "domains": []
+    },
+    {
+      "id": "blohshal_adv_001",
+      "roman": "blohshal",
+      "coral": "bösal",
+      "ipa": "",
+      "pos": "adv",
+      "gloss_de_short": "gewiss",
+      "domains": []
+    },
+    {
+      "id": "fruhsh_adv_001",
+      "roman": "fruhsh",
+      "coral": "fuhs",
+      "ipa": "",
+      "pos": "adv",
+      "gloss_de_short": "zurück",
+      "domains": []
+    },
+    {
+      "id": "mbahsh_adv_001",
+      "roman": "mbahsh",
+      "coral": "pms",
+      "ipa": "",
+      "pos": "adv",
+      "gloss_de_short": "wegwärts",
+      "domains": []
+    },
+    {
+      "id": "shogla_v_tr_001",
+      "roman": "shogla",
+      "coral": "soha",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "verursachen; auslösen; herbeiführen",
+      "domains": []
+    },
+    {
+      "id": "fralo_v_tr_001",
+      "roman": "fralo",
+      "coral": "falo",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "verbinden; verknüpfen; teilen",
+      "domains": []
+    },
+    {
+      "id": "glolo_v_intr_001",
+      "roman": "glolo",
+      "coral": "holo",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "gehen; sich fortbewegen (zielgerichtet)",
+      "domains": []
+    },
+    {
+      "id": "shieha_v_tr_001",
+      "roman": "shieha",
+      "coral": "sjha",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "sagen; äußern; kundtun",
+      "domains": []
+    },
+    {
+      "id": "glasha_v_intr_001",
+      "roman": "glasha",
+      "coral": "hasa",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "beginnen; einsetzen; anlaufen",
+      "domains": []
+    },
+    {
+      "id": "gsahfshzo_v_tr_001",
+      "roman": "gsahfshzo",
+      "coral": "qmko",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "heilen; wiederherstellen; einen Schaden rückgängig machen",
+      "domains": []
+    },
+    {
+      "id": "gsahfshzogs_n_001",
+      "roman": "gsahfshzogs",
+      "coral": "qmkoq",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Heilung; Wiederherstellung; Genesung",
+      "domains": []
+    },
+    {
+      "id": "lex_fshoolesh_001",
+      "roman": "fshoolesh",
+      "coral": "fshoolesh",
+      "ipa": "fʃoːˈleʃ",
+      "pos": "noun",
+      "gloss_de_short": "anhaltender Zustand; Grundverfassung; fortdauernde Lage",
+      "domains": [
+        "state_process"
+      ]
+    },
+    {
+      "id": "lex_fshooleshesh_002",
+      "roman": "fshooleshesh",
+      "coral": "fshooleshesh",
+      "ipa": "fʃoːleˈʃeʃ",
+      "pos": "noun",
+      "gloss_de_short": "Zustandsänderung; Übergang; Verwandlung eines Zustands",
+      "domains": [
+        "state_process"
+      ]
+    },
+    {
+      "id": "lex_gloogl_001",
+      "roman": "gloogl",
+      "coral": "hüh",
+      "ipa": "gloːgl̩",
+      "pos": "noun",
+      "gloss_de_short": "weite, tiefe Suche; Sammeltiefe von Wissen; Metapher für einen Ort, an dem Wissen zusammenströmt",
+      "domains": [
+        "knowledge_search"
+      ]
+    }
+  ]
+}
