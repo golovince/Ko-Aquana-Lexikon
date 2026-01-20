@@ -1,0 +1,22 @@
+{
+  "id": "blohsh_n_001",
+  "headword": {
+    "roman": "blohsh",
+    "ipa": "bloːʃ",
+    "coral": "bös"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Schwur",
+    "Bindung",
+    "Gelöbnis"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "noun",
+      "core"
+    ]
+  },
+  "korallisch": "bös"
+}

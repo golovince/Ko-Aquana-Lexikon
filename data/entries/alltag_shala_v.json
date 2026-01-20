@@ -1,0 +1,49 @@
+{
+  "id": "alltag_shala_v",
+  "headword": {
+    "roman": "shala",
+    "coral": "sala",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "schlafen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Alltag – Verben"
+  },
+  "korallisch": "sala",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shala",
+          "coral": "sala"
+        },
+        "2sg": {
+          "roman": "shalai",
+          "coral": "salai"
+        },
+        "3sg": {
+          "roman": "shalaie",
+          "coral": "salaj"
+        },
+        "1pl": {
+          "roman": "shalah",
+          "coral": "salm"
+        },
+        "2pl": {
+          "roman": "shalahi",
+          "coral": "salmi"
+        },
+        "3pl": {
+          "roman": "shalahie",
+          "coral": "salmj"
+        }
+      }
+    }
+  }
+}

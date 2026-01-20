@@ -1,0 +1,49 @@
+{
+  "id": "alltag_mbasha_v",
+  "headword": {
+    "roman": "mbasha",
+    "coral": "pasa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "nehmen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Alltag – Verben"
+  },
+  "korallisch": "pasa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mbasha",
+          "coral": "pasa"
+        },
+        "2sg": {
+          "roman": "mbashai",
+          "coral": "pasai"
+        },
+        "3sg": {
+          "roman": "mbashaie",
+          "coral": "pasaj"
+        },
+        "1pl": {
+          "roman": "mbashah",
+          "coral": "pasm"
+        },
+        "2pl": {
+          "roman": "mbashahi",
+          "coral": "pasmi"
+        },
+        "3pl": {
+          "roman": "mbashahie",
+          "coral": "pasmj"
+        }
+      }
+    }
+  }
+}

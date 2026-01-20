@@ -1,0 +1,49 @@
+{
+  "id": "alltag_frasha_v",
+  "headword": {
+    "roman": "frasha",
+    "coral": "fasa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "warten"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Alltag – Verben"
+  },
+  "korallisch": "fasa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "frasha",
+          "coral": "fasa"
+        },
+        "2sg": {
+          "roman": "frashai",
+          "coral": "fasai"
+        },
+        "3sg": {
+          "roman": "frashaie",
+          "coral": "fasaj"
+        },
+        "1pl": {
+          "roman": "frashah",
+          "coral": "fasm"
+        },
+        "2pl": {
+          "roman": "frashahi",
+          "coral": "fasmi"
+        },
+        "3pl": {
+          "roman": "frashahie",
+          "coral": "fasmj"
+        }
+      }
+    }
+  }
+}

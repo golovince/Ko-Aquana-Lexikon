@@ -1,0 +1,50 @@
+{
+  "id": "alltag_fshashzta_v",
+  "headword": {
+    "roman": "fshashzta",
+    "coral": "vara",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "bringen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Alltag – Verben",
+    "note": "Korallisch-Bereinigung: fshara → fshashzta"
+  },
+  "korallisch": "vara",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshashzta",
+          "coral": "vara"
+        },
+        "2sg": {
+          "roman": "fshashztai",
+          "coral": "varai"
+        },
+        "3sg": {
+          "roman": "fshashztaie",
+          "coral": "varaj"
+        },
+        "1pl": {
+          "roman": "fshashztah",
+          "coral": "varm"
+        },
+        "2pl": {
+          "roman": "fshashztahi",
+          "coral": "varmi"
+        },
+        "3pl": {
+          "roman": "fshashztahie",
+          "coral": "varmj"
+        }
+      }
+    }
+  }
+}

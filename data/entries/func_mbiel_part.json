@@ -1,0 +1,18 @@
+{
+  "id": "func_mbiel_part",
+  "headword": {
+    "roman": "mbiel",
+    "coral": "pjl",
+    "ipa": ""
+  },
+  "pos": "particle",
+  "gloss_de": [
+    "nur"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Partikel",
+    "subcategory": "Restriktiv"
+  },
+  "korallisch": "pjl"
+}

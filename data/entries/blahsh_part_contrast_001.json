@@ -1,0 +1,38 @@
+{
+  "id": "blahsh_part_contrast_001",
+  "headword": {
+    "roman": "blahsh",
+    "ipa": "blaːʃ",
+    "coral": "bms"
+  },
+  "pos": "particle",
+  "subpos": "contrast",
+  "gloss_de": [
+    "aber",
+    "jedoch",
+    "dennoch"
+  ],
+  "grammar": {
+    "scope": "clausal"
+  },
+  "orthography": {
+    "tokens_roman": [
+      "bl",
+      "ah",
+      "sh"
+    ],
+    "tokens_coral": [
+      "b",
+      "m",
+      "s"
+    ]
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "function",
+      "discourse"
+    ]
+  },
+  "korallisch": "bms"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "func_frohsh_conj",
+  "headword": {
+    "roman": "frohsh",
+    "coral": "fös",
+    "ipa": ""
+  },
+  "pos": "conj",
+  "gloss_de": [
+    "damit"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Konjunktionen",
+    "subcategory": "Final (Zweck)"
+  },
+  "korallisch": "fös"
+}

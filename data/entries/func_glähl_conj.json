@@ -1,0 +1,18 @@
+{
+  "id": "func_glähl_conj",
+  "headword": {
+    "roman": "glähl",
+    "coral": "häl",
+    "ipa": ""
+  },
+  "pos": "conj",
+  "gloss_de": [
+    "denn"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Konjunktionen",
+    "subcategory": "Begründung (koordinierend)"
+  },
+  "korallisch": "häl"
+}

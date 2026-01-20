@@ -1,0 +1,49 @@
+{
+  "id": "alltag_sholo_v",
+  "headword": {
+    "roman": "sholo",
+    "coral": "solo",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "kommen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Alltag – Verben"
+  },
+  "korallisch": "solo",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "sholo",
+          "coral": "solo"
+        },
+        "2sg": {
+          "roman": "sholoi",
+          "coral": "soloi"
+        },
+        "3sg": {
+          "roman": "sholoie",
+          "coral": "soloj"
+        },
+        "1pl": {
+          "roman": "sholoh",
+          "coral": "solö"
+        },
+        "2pl": {
+          "roman": "sholohi",
+          "coral": "solöi"
+        },
+        "3pl": {
+          "roman": "sholohie",
+          "coral": "solöj"
+        }
+      }
+    }
+  }
+}

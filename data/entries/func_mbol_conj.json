@@ -1,0 +1,18 @@
+{
+  "id": "func_mbol_conj",
+  "headword": {
+    "roman": "mbol",
+    "coral": "pol",
+    "ipa": ""
+  },
+  "pos": "conj",
+  "gloss_de": [
+    "oder"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Konjunktionen",
+    "subcategory": "Alternative"
+  },
+  "korallisch": "pol"
+}

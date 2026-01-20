@@ -1,0 +1,18 @@
+{
+  "id": "func_bsiel_part",
+  "headword": {
+    "roman": "bsiel",
+    "coral": "yjl",
+    "ipa": ""
+  },
+  "pos": "particle",
+  "gloss_de": [
+    "erst"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Partikel",
+    "subcategory": "Temporal/Restriktiv"
+  },
+  "korallisch": "yjl"
+}

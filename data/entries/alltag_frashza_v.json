@@ -1,0 +1,49 @@
+{
+  "id": "alltag_frashza_v",
+  "headword": {
+    "roman": "frashza",
+    "coral": "fada",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "verlieren"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Alltag – Verben"
+  },
+  "korallisch": "fada",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "frashza",
+          "coral": "fada"
+        },
+        "2sg": {
+          "roman": "frashzai",
+          "coral": "fadai"
+        },
+        "3sg": {
+          "roman": "frashzaie",
+          "coral": "fadaj"
+        },
+        "1pl": {
+          "roman": "frashzah",
+          "coral": "fadm"
+        },
+        "2pl": {
+          "roman": "frashzahi",
+          "coral": "fadmi"
+        },
+        "3pl": {
+          "roman": "frashzahie",
+          "coral": "fadmj"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "func_glool_part",
+  "headword": {
+    "roman": "glool",
+    "coral": "hül",
+    "ipa": ""
+  },
+  "pos": "particle",
+  "gloss_de": [
+    "schon"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Partikel",
+    "subcategory": "Aspekt (bereits)"
+  },
+  "korallisch": "hül"
+}

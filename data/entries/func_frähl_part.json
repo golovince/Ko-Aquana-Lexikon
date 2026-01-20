@@ -1,0 +1,18 @@
+{
+  "id": "func_frähl_part",
+  "headword": {
+    "roman": "frähl",
+    "coral": "fäl",
+    "ipa": ""
+  },
+  "pos": "particle",
+  "gloss_de": [
+    "auch"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Partikel",
+    "subcategory": "Additiv"
+  },
+  "korallisch": "fäl"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "func_blähl_part",
+  "headword": {
+    "roman": "blähl",
+    "coral": "bäl",
+    "ipa": ""
+  },
+  "pos": "particle",
+  "gloss_de": [
+    "noch"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Partikel",
+    "subcategory": "Aspekt (noch)"
+  },
+  "korallisch": "bäl"
+}

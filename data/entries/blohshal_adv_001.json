@@ -1,0 +1,19 @@
+{
+  "id": "blohshal_adv_001",
+  "headword": {
+    "roman": "blohshal",
+    "coral": "bösal",
+    "ipa": ""
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "gewiss"
+  ],
+  "grammar": {
+    "position": "postverbal"
+  },
+  "meta": {
+    "status": "canonical"
+  },
+  "korallisch": "bösal"
+}

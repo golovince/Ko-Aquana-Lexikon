@@ -1,0 +1,49 @@
+{
+  "id": "alltag_frala_v",
+  "headword": {
+    "roman": "frala",
+    "coral": "fala",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "stehen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Alltag – Verben"
+  },
+  "korallisch": "fala",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "frala",
+          "coral": "fala"
+        },
+        "2sg": {
+          "roman": "fralai",
+          "coral": "falai"
+        },
+        "3sg": {
+          "roman": "fralaie",
+          "coral": "falaj"
+        },
+        "1pl": {
+          "roman": "fralah",
+          "coral": "falm"
+        },
+        "2pl": {
+          "roman": "fralahi",
+          "coral": "falmi"
+        },
+        "3pl": {
+          "roman": "fralahie",
+          "coral": "falmj"
+        }
+      }
+    }
+  }
+}

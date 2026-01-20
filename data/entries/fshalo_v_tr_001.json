@@ -1,0 +1,78 @@
+{
+  "id": "fshalo_v_tr_001",
+  "headword": {
+    "roman": "fshalo",
+    "ipa": "fʃaːlo",
+    "coral": "valo"
+  },
+  "pos": "verb",
+  "subpos": "lexical",
+  "gloss_de": [
+    "wirken (magisch)",
+    "lenken",
+    "beeinflussen"
+  ],
+  "grammar": {
+    "conjugation_class": "standard",
+    "valency": "transitive"
+  },
+  "morphology": {
+    "present": {
+      "sg": {
+        "1": "fshalo",
+        "2": "fshaloi",
+        "3": "fshaloie"
+      },
+      "pl": {
+        "1": "fshaloh",
+        "2": "fshalohi",
+        "3": "fshalohie"
+      }
+    },
+    "tense_prefixes": {
+      "perf": "bla-",
+      "fut": "froo-",
+      "eterna": "brah-"
+    }
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "verb",
+      "magic"
+    ]
+  },
+  "korallisch": "valo",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshalo",
+          "coral": "valo"
+        },
+        "2sg": {
+          "roman": "fshaloi",
+          "coral": "valoi"
+        },
+        "3sg": {
+          "roman": "fshaloie",
+          "coral": "valoj"
+        },
+        "1pl": {
+          "roman": "fshaloh",
+          "coral": "valö"
+        },
+        "2pl": {
+          "roman": "fshalohi",
+          "coral": "valöi"
+        },
+        "3pl": {
+          "roman": "fshalohie",
+          "coral": "valöj"
+        }
+      }
+    }
+  }
+}

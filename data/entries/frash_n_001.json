@@ -1,0 +1,21 @@
+{
+  "id": "frash_n_001",
+  "headword": {
+    "roman": "frash",
+    "ipa": "fraʃ",
+    "coral": "fas"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Rand",
+    "Grenze"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "noun",
+      "core"
+    ]
+  },
+  "korallisch": "fas"
+}

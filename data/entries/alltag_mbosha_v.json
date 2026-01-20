@@ -1,0 +1,49 @@
+{
+  "id": "alltag_mbosha_v",
+  "headword": {
+    "roman": "mbosha",
+    "coral": "posa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "behalten"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Alltag – Verben"
+  },
+  "korallisch": "posa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mbosha",
+          "coral": "posa"
+        },
+        "2sg": {
+          "roman": "mboshai",
+          "coral": "posai"
+        },
+        "3sg": {
+          "roman": "mboshaie",
+          "coral": "posaj"
+        },
+        "1pl": {
+          "roman": "mboshah",
+          "coral": "posm"
+        },
+        "2pl": {
+          "roman": "mboshahi",
+          "coral": "posmi"
+        },
+        "3pl": {
+          "roman": "mboshahie",
+          "coral": "posmj"
+        }
+      }
+    }
+  }
+}

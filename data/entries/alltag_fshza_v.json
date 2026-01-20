@@ -1,0 +1,49 @@
+{
+  "id": "alltag_fshza_v",
+  "headword": {
+    "roman": "fshza",
+    "coral": "ka",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "essen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Alltag – Verben"
+  },
+  "korallisch": "ka",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshza",
+          "coral": "ka"
+        },
+        "2sg": {
+          "roman": "fshzai",
+          "coral": "kai"
+        },
+        "3sg": {
+          "roman": "fshzaie",
+          "coral": "kaj"
+        },
+        "1pl": {
+          "roman": "fshzah",
+          "coral": "km"
+        },
+        "2pl": {
+          "roman": "fshzahi",
+          "coral": "kmi"
+        },
+        "3pl": {
+          "roman": "fshzahie",
+          "coral": "kmj"
+        }
+      }
+    }
+  }
+}

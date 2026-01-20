@@ -1,0 +1,50 @@
+{
+  "id": "alltag_mbu_v",
+  "headword": {
+    "roman": "mbu",
+    "coral": "pu",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "heimkehren",
+    "zur Heimstatt zurückkehren"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Alltag – Verben"
+  },
+  "korallisch": "pu",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mbu",
+          "coral": "pu"
+        },
+        "2sg": {
+          "roman": "mbui",
+          "coral": "pui"
+        },
+        "3sg": {
+          "roman": "mbuie",
+          "coral": "puj"
+        },
+        "1pl": {
+          "roman": "mboo",
+          "coral": "pü"
+        },
+        "2pl": {
+          "roman": "mbooi",
+          "coral": "püi"
+        },
+        "3pl": {
+          "roman": "mbooie",
+          "coral": "püj"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "alltag_blasha_v",
+  "headword": {
+    "roman": "blasha",
+    "coral": "basa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "bleiben"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Alltag – Verben"
+  },
+  "korallisch": "basa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "blasha",
+          "coral": "basa"
+        },
+        "2sg": {
+          "roman": "blashai",
+          "coral": "basai"
+        },
+        "3sg": {
+          "roman": "blashaie",
+          "coral": "basaj"
+        },
+        "1pl": {
+          "roman": "blashah",
+          "coral": "basm"
+        },
+        "2pl": {
+          "roman": "blashahi",
+          "coral": "basmi"
+        },
+        "3pl": {
+          "roman": "blashahie",
+          "coral": "basmj"
+        }
+      }
+    }
+  }
+}

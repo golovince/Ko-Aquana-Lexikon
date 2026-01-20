@@ -1,0 +1,18 @@
+{
+  "id": "func_shiel_part",
+  "headword": {
+    "roman": "shiel",
+    "coral": "sjl",
+    "ipa": ""
+  },
+  "pos": "particle",
+  "gloss_de": [
+    "wieder"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Partikel",
+    "subcategory": "Iterativ"
+  },
+  "korallisch": "sjl"
+}

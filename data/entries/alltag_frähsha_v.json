@@ -1,0 +1,49 @@
+{
+  "id": "alltag_frähsha_v",
+  "headword": {
+    "roman": "frähsha",
+    "coral": "fäsa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "arbeiten"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Alltag – Verben"
+  },
+  "korallisch": "fäsa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "frähsha",
+          "coral": "fäsa"
+        },
+        "2sg": {
+          "roman": "frähshai",
+          "coral": "fäsai"
+        },
+        "3sg": {
+          "roman": "frähshaie",
+          "coral": "fäsaj"
+        },
+        "1pl": {
+          "roman": "frähshah",
+          "coral": "fäsm"
+        },
+        "2pl": {
+          "roman": "frähshahi",
+          "coral": "fäsmi"
+        },
+        "3pl": {
+          "roman": "frähshahie",
+          "coral": "fäsmj"
+        }
+      }
+    }
+  }
+}

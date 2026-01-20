@@ -1,0 +1,103 @@
+{
+  "id": "fsoshi_v_ditr_001",
+  "headword": {
+    "roman": "fsoshi",
+    "ipa": "fsɔʃɪ",
+    "coral": "wosi"
+  },
+  "pos": "verb",
+  "subpos": "lexical",
+  "gloss_de": [
+    "geben (allgemein)"
+  ],
+  "grammar": {
+    "conjugation_class": "avoid_i",
+    "valency": "ditransitive",
+    "frame": [
+      "S",
+      "IO",
+      "DO"
+    ],
+    "order": [
+      "S",
+      "V",
+      "IO",
+      "DO"
+    ]
+  },
+  "morphology": {
+    "present": {
+      "sg": {
+        "1": "fsoshi",
+        "2": "fsoshio",
+        "3": "fsoshioh"
+      },
+      "pl": {
+        "1": "fsoshie",
+        "2": "fsoshieo",
+        "3": "fsoshieoh"
+      }
+    },
+    "tense_prefixes": {
+      "perf": "bla-",
+      "fut": "froo-",
+      "eterna": "brah-"
+    }
+  },
+  "orthography": {
+    "tokens_roman": [
+      "fs",
+      "o",
+      "sh",
+      "i"
+    ],
+    "tokens_coral": [
+      "w",
+      "o",
+      "s",
+      "i"
+    ]
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "core",
+      "verb",
+      "transfer"
+    ],
+    "note": "Block 4: fsoshi auf 'geben (allgemein)' normalisiert."
+  },
+  "korallisch": "wosi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fsoshi",
+          "coral": "wosi"
+        },
+        "2sg": {
+          "roman": "fsoshio",
+          "coral": "wosio"
+        },
+        "3sg": {
+          "roman": "fsoshioh",
+          "coral": "wosiö"
+        },
+        "1pl": {
+          "roman": "fsoshie",
+          "coral": "wosj"
+        },
+        "2pl": {
+          "roman": "fsoshieo",
+          "coral": "wosjo"
+        },
+        "3pl": {
+          "roman": "fsoshieoh",
+          "coral": "wosjö"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "func_bsoglash_conj",
+  "headword": {
+    "roman": "bsoglash",
+    "coral": "yohas",
+    "ipa": ""
+  },
+  "pos": "conj",
+  "gloss_de": [
+    "sondern"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Konjunktionen",
+    "subcategory": "Korrektiv/Exklusiv"
+  },
+  "korallisch": "yohas"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "alltag_fshala_v",
+  "headword": {
+    "roman": "fshala",
+    "coral": "vala",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "trinken"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Alltag – Verben"
+  },
+  "korallisch": "vala",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshala",
+          "coral": "vala"
+        },
+        "2sg": {
+          "roman": "fshalai",
+          "coral": "valai"
+        },
+        "3sg": {
+          "roman": "fshalaie",
+          "coral": "valaj"
+        },
+        "1pl": {
+          "roman": "fshalah",
+          "coral": "valm"
+        },
+        "2pl": {
+          "roman": "fshalahi",
+          "coral": "valmi"
+        },
+        "3pl": {
+          "roman": "fshalahie",
+          "coral": "valmj"
+        }
+      }
+    }
+  }
+}

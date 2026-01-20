@@ -1,0 +1,18 @@
+{
+  "id": "func_friel_part",
+  "headword": {
+    "roman": "friel",
+    "coral": "fjl",
+    "ipa": ""
+  },
+  "pos": "particle",
+  "gloss_de": [
+    "sogar"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Partikel",
+    "subcategory": "Fokus/Skalierung"
+  },
+  "korallisch": "fjl"
+}

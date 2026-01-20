@@ -1,0 +1,18 @@
+{
+  "id": "func_gsiel_part",
+  "headword": {
+    "roman": "gsiel",
+    "coral": "qjl",
+    "ipa": ""
+  },
+  "pos": "particle",
+  "gloss_de": [
+    "genug"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Partikel",
+    "subcategory": "Quantor (Suffizienz)"
+  },
+  "korallisch": "qjl"
+}

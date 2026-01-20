@@ -1,0 +1,22 @@
+{
+  "id": "frush_n_001",
+  "headword": {
+    "roman": "frush",
+    "ipa": "fruʃ",
+    "coral": "fus"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Weg",
+    "Rückkehrpfad"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "noun",
+      "core"
+    ],
+    "note": "Korallisch-Bereinigung: fruhsh → frush"
+  },
+  "korallisch": "fus"
+}

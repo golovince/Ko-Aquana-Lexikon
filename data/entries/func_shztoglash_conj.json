@@ -1,0 +1,18 @@
+{
+  "id": "func_shztoglash_conj",
+  "headword": {
+    "roman": "shztoglash",
+    "coral": "rohas",
+    "ipa": ""
+  },
+  "pos": "conj",
+  "gloss_de": [
+    "obwohl"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Konjunktionen",
+    "subcategory": "Konzessiv"
+  },
+  "korallisch": "rohas"
+}

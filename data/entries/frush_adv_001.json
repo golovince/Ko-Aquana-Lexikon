@@ -1,0 +1,20 @@
+{
+  "id": "frush_adv_001",
+  "headword": {
+    "roman": "frush",
+    "coral": "fus",
+    "ipa": ""
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "zurück"
+  ],
+  "grammar": {
+    "position": "postverbal"
+  },
+  "meta": {
+    "status": "canonical",
+    "note": "Korallisch-Bereinigung: fruhsh → frush"
+  },
+  "korallisch": "fus"
+}

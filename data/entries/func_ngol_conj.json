@@ -1,0 +1,18 @@
+{
+  "id": "func_ngol_conj",
+  "headword": {
+    "roman": "ngol",
+    "coral": "xol",
+    "ipa": ""
+  },
+  "pos": "conj",
+  "gloss_de": [
+    "dann"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Konjunktionen",
+    "subcategory": "Konsekutiv/Sequenz"
+  },
+  "korallisch": "xol"
+}

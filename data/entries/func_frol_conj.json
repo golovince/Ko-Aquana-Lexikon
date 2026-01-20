@@ -1,0 +1,18 @@
+{
+  "id": "func_frol_conj",
+  "headword": {
+    "roman": "frol",
+    "coral": "fol",
+    "ipa": ""
+  },
+  "pos": "conj",
+  "gloss_de": [
+    "und"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Konjunktionen",
+    "subcategory": "Koordination"
+  },
+  "korallisch": "fol"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "alltag_shasha_v",
+  "headword": {
+    "roman": "shasha",
+    "coral": "sasa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "ruhen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Alltag – Verben"
+  },
+  "korallisch": "sasa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shasha",
+          "coral": "sasa"
+        },
+        "2sg": {
+          "roman": "shashai",
+          "coral": "sasai"
+        },
+        "3sg": {
+          "roman": "shashaie",
+          "coral": "sasaj"
+        },
+        "1pl": {
+          "roman": "shashah",
+          "coral": "sasm"
+        },
+        "2pl": {
+          "roman": "shashahi",
+          "coral": "sasmi"
+        },
+        "3pl": {
+          "roman": "shashahie",
+          "coral": "sasmj"
+        }
+      }
+    }
+  }
+}
