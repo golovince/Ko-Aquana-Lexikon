@@ -1,0 +1,18 @@
+{
+  "id": "func_shztul_conj",
+  "headword": {
+    "roman": "shztul",
+    "coral": "rul",
+    "ipa": ""
+  },
+  "pos": "conj",
+  "gloss_de": [
+    "wenn"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Konjunktionen",
+    "subcategory": "Konditional"
+  },
+  "korallisch": "rul"
+}
