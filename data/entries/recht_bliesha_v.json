@@ -1,0 +1,49 @@
+{
+  "id": "recht_bliesha_v",
+  "headword": {
+    "roman": "bliesha",
+    "coral": "bjsa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "vergeben"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Recht & Ordnung – Verben"
+  },
+  "korallisch": "bjsa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "bliesha",
+          "coral": "bjsa"
+        },
+        "2sg": {
+          "roman": "blieshai",
+          "coral": "bjsai"
+        },
+        "3sg": {
+          "roman": "blieshaie",
+          "coral": "bjsaj"
+        },
+        "1pl": {
+          "roman": "blieshah",
+          "coral": "bjsm"
+        },
+        "2pl": {
+          "roman": "blieshahi",
+          "coral": "bjsmi"
+        },
+        "3pl": {
+          "roman": "blieshahie",
+          "coral": "bjsmj"
+        }
+      }
+    }
+  }
+}

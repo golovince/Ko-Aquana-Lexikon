@@ -1,0 +1,18 @@
+{
+  "id": "prep_glil",
+  "headword": {
+    "roman": "glil",
+    "coral": "hil",
+    "ipa": ""
+  },
+  "pos": "prep",
+  "gloss_de": [
+    "ohne"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Präpositionen/Relatoren",
+    "note": "Relator zwischen Nominalgruppen oder Verbargumenten."
+  },
+  "korallisch": "hil"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "shoglash_part_cause_001",
+  "headword": {
+    "roman": "shoglash",
+    "ipa": "ʃoɡlaʃ",
+    "coral": "sohas"
+  },
+  "pos": "particle",
+  "subpos": "causal",
+  "gloss_de": [
+    "weil",
+    "da"
+  ],
+  "grammar": {
+    "scope": "clausal"
+  },
+  "orthography": {
+    "tokens_roman": [
+      "sh",
+      "o",
+      "gl",
+      "a",
+      "sh"
+    ],
+    "tokens_coral": [
+      "s",
+      "o",
+      "h",
+      "a",
+      "s"
+    ]
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "function",
+      "causality"
+    ],
+    "note": "Block 4: shoglash auf Konjunktion (weil/da) normalisiert."
+  },
+  "korallisch": "sohas"
+}

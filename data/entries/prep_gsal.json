@@ -1,0 +1,18 @@
+{
+  "id": "prep_gsal",
+  "headword": {
+    "roman": "gsal",
+    "coral": "qal",
+    "ipa": ""
+  },
+  "pos": "prep",
+  "gloss_de": [
+    "mit"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Präpositionen/Relatoren",
+    "note": "Relator zwischen Nominalgruppen oder Verbargumenten."
+  },
+  "korallisch": "qal"
+}

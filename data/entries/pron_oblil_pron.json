@@ -1,0 +1,22 @@
+{
+  "id": "pron_oblil_pron",
+  "headword": {
+    "roman": "oblil",
+    "coral": "obil",
+    "ipa": ""
+  },
+  "pos": "pron",
+  "gloss_de": [
+    "dich",
+    "euch"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Pronomen – Personal",
+    "subcategory": "Objektform (Akk./Dat. nach Satzbau)",
+    "exception": true,
+    "exception_type": "phonotactics:onset-vowel",
+    "exception_note": "Bewusste Ausnahme: Personalpronomina dürfen vokalisch anlauten (a-/o-/i-). Numerus wird primär über Verbflexion bzw. Kontext erschlossen; Objektrollen über Satzbau."
+  },
+  "korallisch": "obil"
+}

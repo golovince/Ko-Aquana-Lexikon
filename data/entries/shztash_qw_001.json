@@ -1,0 +1,35 @@
+{
+  "id": "shztash_qw_001",
+  "headword": {
+    "roman": "shztash",
+    "ipa": "ʃː͡ptɐʃ",
+    "coral": "ras"
+  },
+  "pos": "question-word",
+  "gloss_de": [
+    "wer?"
+  ],
+  "grammar": {
+    "default_position": "sentence-final",
+    "poetic_fronting": true
+  },
+  "orthography": {
+    "tokens_roman": [
+      "shzt",
+      "a",
+      "sh"
+    ],
+    "tokens_coral": [
+      "r",
+      "a",
+      "s"
+    ]
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "question"
+    ]
+  },
+  "korallisch": "ras"
+}

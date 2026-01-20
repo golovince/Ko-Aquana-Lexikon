@@ -1,0 +1,50 @@
+{
+  "id": "verb_brala",
+  "headword": {
+    "roman": "brala",
+    "coral": "cala",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "geben"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Verben – Grundverben",
+    "note": "Lemma = 1SG Präsens mit kurzem Vokal; weitere Formen per Standarddeklination."
+  },
+  "korallisch": "cala",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "brala",
+          "coral": "cala"
+        },
+        "2sg": {
+          "roman": "bralai",
+          "coral": "calai"
+        },
+        "3sg": {
+          "roman": "bralaie",
+          "coral": "calaj"
+        },
+        "1pl": {
+          "roman": "bralah",
+          "coral": "calm"
+        },
+        "2pl": {
+          "roman": "bralahi",
+          "coral": "calmi"
+        },
+        "3pl": {
+          "roman": "bralahie",
+          "coral": "calmj"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "shienga_v_tr_001",
+  "headword": {
+    "roman": "shienga",
+    "coral": "sjxa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "sagen",
+    "äußern",
+    "kundtun"
+  ],
+  "grammar": {
+    "conjugation_class": "standard",
+    "valency": "transitive"
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "verb",
+      "speech"
+    ],
+    "note": "Formkorrektur: shieha → shienga (freies 'h' entfernt)"
+  },
+  "korallisch": "sjxa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shienga",
+          "coral": "sjxa"
+        },
+        "2sg": {
+          "roman": "shiengai",
+          "coral": "sjxai"
+        },
+        "3sg": {
+          "roman": "shiengaie",
+          "coral": "sjxaj"
+        },
+        "1pl": {
+          "roman": "shiengah",
+          "coral": "sjxm"
+        },
+        "2pl": {
+          "roman": "shiengahi",
+          "coral": "sjxmi"
+        },
+        "3pl": {
+          "roman": "shiengahie",
+          "coral": "sjxmj"
+        }
+      }
+    }
+  }
+}

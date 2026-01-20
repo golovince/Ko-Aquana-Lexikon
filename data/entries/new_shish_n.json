@@ -1,0 +1,18 @@
+{
+  "id": "new_shish_n",
+  "headword": {
+    "roman": "shish",
+    "coral": "sis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Hörorgan",
+    "Vibrationssinn"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Körper & Sinne Erweiterung"
+  },
+  "korallisch": "sis"
+}

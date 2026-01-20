@@ -1,0 +1,18 @@
+{
+  "id": "prep_shul",
+  "headword": {
+    "roman": "shul",
+    "coral": "sul",
+    "ipa": ""
+  },
+  "pos": "prep",
+  "gloss_de": [
+    "vor"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Präpositionen/Relatoren",
+    "note": "Relator zwischen Nominalgruppen oder Verbargumenten."
+  },
+  "korallisch": "sul"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "prep_glel",
+  "headword": {
+    "roman": "glel",
+    "coral": "hel",
+    "ipa": ""
+  },
+  "pos": "prep",
+  "gloss_de": [
+    "nach"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Präpositionen/Relatoren",
+    "note": "Relator zwischen Nominalgruppen oder Verbargumenten."
+  },
+  "korallisch": "hel"
+}

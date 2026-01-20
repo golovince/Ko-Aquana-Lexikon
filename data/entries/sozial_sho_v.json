@@ -1,0 +1,49 @@
+{
+  "id": "sozial_sho_v",
+  "headword": {
+    "roman": "sho",
+    "coral": "so",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "dienen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Soziales & Rollen"
+  },
+  "korallisch": "so",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "sho",
+          "coral": "so"
+        },
+        "2sg": {
+          "roman": "shoi",
+          "coral": "soi"
+        },
+        "3sg": {
+          "roman": "shoie",
+          "coral": "soj"
+        },
+        "1pl": {
+          "roman": "shoh",
+          "coral": "sö"
+        },
+        "2pl": {
+          "roman": "shohi",
+          "coral": "söi"
+        },
+        "3pl": {
+          "roman": "shohie",
+          "coral": "söj"
+        }
+      }
+    }
+  }
+}

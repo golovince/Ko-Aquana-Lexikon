@@ -1,0 +1,18 @@
+{
+  "id": "prep_glal",
+  "headword": {
+    "roman": "glal",
+    "coral": "hal",
+    "ipa": ""
+  },
+  "pos": "prep",
+  "gloss_de": [
+    "in"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Präpositionen/Relatoren",
+    "note": "Relator zwischen Nominalgruppen oder Verbargumenten."
+  },
+  "korallisch": "hal"
+}

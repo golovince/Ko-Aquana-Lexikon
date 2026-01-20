@@ -1,0 +1,35 @@
+{
+  "id": "shztosh_qw_001",
+  "headword": {
+    "roman": "shztosh",
+    "ipa": "ʃː͡ptɔʃ",
+    "coral": "ros"
+  },
+  "pos": "question-word",
+  "gloss_de": [
+    "wo?"
+  ],
+  "grammar": {
+    "default_position": "sentence-final",
+    "poetic_fronting": true
+  },
+  "orthography": {
+    "tokens_roman": [
+      "shzt",
+      "o",
+      "sh"
+    ],
+    "tokens_coral": [
+      "r",
+      "o",
+      "s"
+    ]
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "question"
+    ]
+  },
+  "korallisch": "ros"
+}

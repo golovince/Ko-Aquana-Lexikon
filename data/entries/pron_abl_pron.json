@@ -1,0 +1,22 @@
+{
+  "id": "pron_abl_pron",
+  "headword": {
+    "roman": "abl",
+    "coral": "ab",
+    "ipa": ""
+  },
+  "pos": "pron",
+  "gloss_de": [
+    "ich",
+    "wir"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Pronomen – Personal",
+    "subcategory": "Nominativ (Subjekt)",
+    "exception": true,
+    "exception_type": "phonotactics:onset-vowel",
+    "exception_note": "Bewusste Ausnahme: Personalpronomina dürfen vokalisch anlauten (a-/o-/i-). Numerus wird primär über Verbflexion bzw. Kontext erschlossen; Objektrollen über Satzbau."
+  },
+  "korallisch": "ab"
+}

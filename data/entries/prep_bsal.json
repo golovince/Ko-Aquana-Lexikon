@@ -1,0 +1,18 @@
+{
+  "id": "prep_bsal",
+  "headword": {
+    "roman": "bsal",
+    "coral": "yal",
+    "ipa": ""
+  },
+  "pos": "prep",
+  "gloss_de": [
+    "zwischen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Präpositionen/Relatoren",
+    "note": "Relator zwischen Nominalgruppen oder Verbargumenten."
+  },
+  "korallisch": "yal"
+}

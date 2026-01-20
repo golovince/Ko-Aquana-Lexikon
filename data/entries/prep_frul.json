@@ -1,0 +1,18 @@
+{
+  "id": "prep_frul",
+  "headword": {
+    "roman": "frul",
+    "coral": "ful",
+    "ipa": ""
+  },
+  "pos": "prep",
+  "gloss_de": [
+    "unter"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Präpositionen/Relatoren",
+    "note": "Relator zwischen Nominalgruppen oder Verbargumenten."
+  },
+  "korallisch": "ful"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "shztish_qw_001",
+  "headword": {
+    "roman": "shztish",
+    "ipa": "ʃː͡ptɪʃ",
+    "coral": "ris"
+  },
+  "pos": "question-word",
+  "gloss_de": [
+    "wie?"
+  ],
+  "grammar": {
+    "default_position": "sentence-final",
+    "poetic_fronting": true
+  },
+  "orthography": {
+    "tokens_roman": [
+      "shzt",
+      "i",
+      "sh"
+    ],
+    "tokens_coral": [
+      "r",
+      "i",
+      "s"
+    ]
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "question"
+    ]
+  },
+  "korallisch": "ris"
+}

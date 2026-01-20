@@ -1,0 +1,49 @@
+{
+  "id": "recht_frähshza_v",
+  "headword": {
+    "roman": "frähshza",
+    "coral": "fäda",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "verbannen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Recht & Ordnung – Verben"
+  },
+  "korallisch": "fäda",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "frähshza",
+          "coral": "fäda"
+        },
+        "2sg": {
+          "roman": "frähshzai",
+          "coral": "fädai"
+        },
+        "3sg": {
+          "roman": "frähshzaie",
+          "coral": "fädaj"
+        },
+        "1pl": {
+          "roman": "frähshzah",
+          "coral": "fädm"
+        },
+        "2pl": {
+          "roman": "frähshzahi",
+          "coral": "fädmi"
+        },
+        "3pl": {
+          "roman": "frähshzahie",
+          "coral": "fädmj"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "prep_ngal",
+  "headword": {
+    "roman": "ngal",
+    "coral": "xal",
+    "ipa": ""
+  },
+  "pos": "prep",
+  "gloss_de": [
+    "über"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Präpositionen/Relatoren",
+    "note": "Relator zwischen Nominalgruppen oder Verbargumenten."
+  },
+  "korallisch": "xal"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "shielesh_n_001",
+  "headword": {
+    "roman": "shielesh",
+    "ipa": "ʃiːleʃ",
+    "coral": "sjles"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Oberfläche (neutral)"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "noun",
+      "core"
+    ]
+  },
+  "korallisch": "sjles"
+}

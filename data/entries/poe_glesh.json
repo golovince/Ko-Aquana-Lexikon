@@ -1,0 +1,17 @@
+{
+  "id": "poe_glesh",
+  "headword": {
+    "roman": "glesh",
+    "coral": "hes",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Licht"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Poesie & Exil – Grundwortschatz"
+  },
+  "korallisch": "hes"
+}

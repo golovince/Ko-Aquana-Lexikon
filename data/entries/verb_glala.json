@@ -1,0 +1,50 @@
+{
+  "id": "verb_glala",
+  "headword": {
+    "roman": "glala",
+    "coral": "hala",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "gehen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Verben – Grundverben",
+    "note": "Lemma = 1SG Präsens mit kurzem Vokal; weitere Formen per Standarddeklination."
+  },
+  "korallisch": "hala",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "glala",
+          "coral": "hala"
+        },
+        "2sg": {
+          "roman": "glalai",
+          "coral": "halai"
+        },
+        "3sg": {
+          "roman": "glalaie",
+          "coral": "halaj"
+        },
+        "1pl": {
+          "roman": "glalah",
+          "coral": "halm"
+        },
+        "2pl": {
+          "roman": "glalahi",
+          "coral": "halmi"
+        },
+        "3pl": {
+          "roman": "glalahie",
+          "coral": "halmj"
+        }
+      }
+    }
+  }
+}

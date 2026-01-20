@@ -1,0 +1,50 @@
+{
+  "id": "verb_fshale",
+  "headword": {
+    "roman": "fshale",
+    "coral": "vale",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "machen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Verben – Grundverben",
+    "note": "Lemma = 1SG Präsens mit kurzem Vokal; weitere Formen per Standarddeklination."
+  },
+  "korallisch": "vale",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshale",
+          "coral": "vale"
+        },
+        "2sg": {
+          "roman": "fshalei",
+          "coral": "valei"
+        },
+        "3sg": {
+          "roman": "fshaleie",
+          "coral": "valej"
+        },
+        "1pl": {
+          "roman": "fshaläh",
+          "coral": "valä"
+        },
+        "2pl": {
+          "roman": "fshalähi",
+          "coral": "valäi"
+        },
+        "3pl": {
+          "roman": "fshalähie",
+          "coral": "valäj"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "recht_froosha_v",
+  "headword": {
+    "roman": "froosha",
+    "coral": "füsa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "erlauben"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Recht & Ordnung – Verben"
+  },
+  "korallisch": "füsa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "froosha",
+          "coral": "füsa"
+        },
+        "2sg": {
+          "roman": "frooshai",
+          "coral": "füsai"
+        },
+        "3sg": {
+          "roman": "frooshaie",
+          "coral": "füsaj"
+        },
+        "1pl": {
+          "roman": "frooshah",
+          "coral": "füsm"
+        },
+        "2pl": {
+          "roman": "frooshahi",
+          "coral": "füsmi"
+        },
+        "3pl": {
+          "roman": "frooshahie",
+          "coral": "füsmj"
+        }
+      }
+    }
+  }
+}

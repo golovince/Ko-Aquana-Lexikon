@@ -1,0 +1,36 @@
+{
+  "id": "shztoosh_qw_001",
+  "headword": {
+    "roman": "shztoosh",
+    "ipa": "ʃː͡ptoːʃ",
+    "coral": "rüs"
+  },
+  "pos": "question-word",
+  "gloss_de": [
+    "ist es zutreffend, dass …? (Ja/Nein-Frage)"
+  ],
+  "grammar": {
+    "default_position": "sentence-final",
+    "question_type": "yes_no",
+    "poetic_fronting": true
+  },
+  "orthography": {
+    "tokens_roman": [
+      "shzt",
+      "oo",
+      "sh"
+    ],
+    "tokens_coral": [
+      "r",
+      "ü",
+      "s"
+    ]
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "question"
+    ]
+  },
+  "korallisch": "rüs"
+}

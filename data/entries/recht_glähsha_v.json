@@ -1,0 +1,49 @@
+{
+  "id": "recht_glähsha_v",
+  "headword": {
+    "roman": "glähsha",
+    "coral": "häsa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "bestrafen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Recht & Ordnung – Verben"
+  },
+  "korallisch": "häsa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "glähsha",
+          "coral": "häsa"
+        },
+        "2sg": {
+          "roman": "glähshai",
+          "coral": "häsai"
+        },
+        "3sg": {
+          "roman": "glähshaie",
+          "coral": "häsaj"
+        },
+        "1pl": {
+          "roman": "glähshah",
+          "coral": "häsm"
+        },
+        "2pl": {
+          "roman": "glähshahi",
+          "coral": "häsmi"
+        },
+        "3pl": {
+          "roman": "glähshahie",
+          "coral": "häsmj"
+        }
+      }
+    }
+  }
+}

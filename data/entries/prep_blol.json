@@ -1,0 +1,18 @@
+{
+  "id": "prep_blol",
+  "headword": {
+    "roman": "blol",
+    "coral": "bol",
+    "ipa": ""
+  },
+  "pos": "prep",
+  "gloss_de": [
+    "zu"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Präpositionen/Relatoren",
+    "note": "Relator zwischen Nominalgruppen oder Verbargumenten."
+  },
+  "korallisch": "bol"
+}

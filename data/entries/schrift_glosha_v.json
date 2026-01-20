@@ -1,0 +1,49 @@
+{
+  "id": "schrift_glosha_v",
+  "headword": {
+    "roman": "glosha",
+    "coral": "hosa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "schreiben"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Schrift, Zeichen & Überlieferung"
+  },
+  "korallisch": "hosa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "glosha",
+          "coral": "hosa"
+        },
+        "2sg": {
+          "roman": "gloshai",
+          "coral": "hosai"
+        },
+        "3sg": {
+          "roman": "gloshaie",
+          "coral": "hosaj"
+        },
+        "1pl": {
+          "roman": "gloshah",
+          "coral": "hosm"
+        },
+        "2pl": {
+          "roman": "gloshahi",
+          "coral": "hosmi"
+        },
+        "3pl": {
+          "roman": "gloshahie",
+          "coral": "hosmj"
+        }
+      }
+    }
+  }
+}

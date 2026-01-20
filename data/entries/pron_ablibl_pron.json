@@ -1,0 +1,22 @@
+{
+  "id": "pron_ablibl_pron",
+  "headword": {
+    "roman": "ablibl",
+    "coral": "abib",
+    "ipa": ""
+  },
+  "pos": "pron",
+  "gloss_de": [
+    "mein",
+    "unsere"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Pronomen – Personal",
+    "subcategory": "Possessiv (Genitiv/Besitz)",
+    "exception": true,
+    "exception_type": "phonotactics:onset-vowel",
+    "exception_note": "Bewusste Ausnahme: Personalpronomina dürfen vokalisch anlauten (a-/o-/i-). Numerus wird primär über Verbflexion bzw. Kontext erschlossen; Objektrollen über Satzbau."
+  },
+  "korallisch": "abib"
+}

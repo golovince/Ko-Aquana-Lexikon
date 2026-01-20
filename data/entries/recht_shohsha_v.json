@@ -1,0 +1,49 @@
+{
+  "id": "recht_shohsha_v",
+  "headword": {
+    "roman": "shohsha",
+    "coral": "sösa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "bezeugen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Recht & Ordnung – Verben"
+  },
+  "korallisch": "sösa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shohsha",
+          "coral": "sösa"
+        },
+        "2sg": {
+          "roman": "shohshai",
+          "coral": "sösai"
+        },
+        "3sg": {
+          "roman": "shohshaie",
+          "coral": "sösaj"
+        },
+        "1pl": {
+          "roman": "shohshah",
+          "coral": "sösm"
+        },
+        "2pl": {
+          "roman": "shohshahi",
+          "coral": "sösmi"
+        },
+        "3pl": {
+          "roman": "shohshahie",
+          "coral": "sösmj"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "verb_blula",
+  "headword": {
+    "roman": "blula",
+    "coral": "bula",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "bleiben"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Verben – Grundverben",
+    "note": "Lemma = 1SG Präsens mit kurzem Vokal; weitere Formen per Standarddeklination."
+  },
+  "korallisch": "bula",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "blula",
+          "coral": "bula"
+        },
+        "2sg": {
+          "roman": "blulai",
+          "coral": "bulai"
+        },
+        "3sg": {
+          "roman": "blulaie",
+          "coral": "bulaj"
+        },
+        "1pl": {
+          "roman": "blulah",
+          "coral": "bulm"
+        },
+        "2pl": {
+          "roman": "blulahi",
+          "coral": "bulmi"
+        },
+        "3pl": {
+          "roman": "blulahie",
+          "coral": "bulmj"
+        }
+      }
+    }
+  }
+}

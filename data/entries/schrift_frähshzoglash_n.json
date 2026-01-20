@@ -1,0 +1,19 @@
+{
+  "id": "schrift_frähshzoglash_n",
+  "headword": {
+    "roman": "frähshzoglash",
+    "coral": "fädohas",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Exilliteratur",
+    "im Exil entstandenes Werk",
+    "Schreiben aus der Verbannung"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Schrift, Zeichen & Überlieferung"
+  },
+  "korallisch": "fädohas"
+}

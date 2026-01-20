@@ -1,0 +1,50 @@
+{
+  "id": "verb_frula",
+  "headword": {
+    "roman": "frula",
+    "coral": "fula",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "werden"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Verben – Grundverben",
+    "note": "Lemma = 1SG Präsens mit kurzem Vokal; weitere Formen per Standarddeklination."
+  },
+  "korallisch": "fula",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "frula",
+          "coral": "fula"
+        },
+        "2sg": {
+          "roman": "frulai",
+          "coral": "fulai"
+        },
+        "3sg": {
+          "roman": "frulaie",
+          "coral": "fulaj"
+        },
+        "1pl": {
+          "roman": "frulah",
+          "coral": "fulm"
+        },
+        "2pl": {
+          "roman": "frulahi",
+          "coral": "fulmi"
+        },
+        "3pl": {
+          "roman": "frulahie",
+          "coral": "fulmj"
+        }
+      }
+    }
+  }
+}

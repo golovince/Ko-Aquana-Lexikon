@@ -1,0 +1,19 @@
+{
+  "id": "prep_fsul",
+  "headword": {
+    "roman": "fsul",
+    "coral": "wul",
+    "ipa": ""
+  },
+  "pos": "prep",
+  "gloss_de": [
+    "von",
+    "aus"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Präpositionen/Relatoren",
+    "note": "Relator zwischen Nominalgruppen oder Verbargumenten."
+  },
+  "korallisch": "wul"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "new_shol_adj",
+  "headword": {
+    "roman": "shol",
+    "coral": "sol",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "satt"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Körper & Sinne Erweiterung"
+  },
+  "korallisch": "sol"
+}

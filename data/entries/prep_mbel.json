@@ -1,0 +1,18 @@
+{
+  "id": "prep_mbel",
+  "headword": {
+    "roman": "mbel",
+    "coral": "pel",
+    "ipa": ""
+  },
+  "pos": "prep",
+  "gloss_de": [
+    "auf"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Präpositionen/Relatoren",
+    "note": "Relator zwischen Nominalgruppen oder Verbargumenten."
+  },
+  "korallisch": "pel"
+}

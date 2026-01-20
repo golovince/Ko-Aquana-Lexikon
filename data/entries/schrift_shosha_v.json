@@ -1,0 +1,49 @@
+{
+  "id": "schrift_shosha_v",
+  "headword": {
+    "roman": "shosha",
+    "coral": "sosa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "singen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Schrift, Zeichen & Überlieferung"
+  },
+  "korallisch": "sosa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shosha",
+          "coral": "sosa"
+        },
+        "2sg": {
+          "roman": "shoshai",
+          "coral": "sosai"
+        },
+        "3sg": {
+          "roman": "shoshaie",
+          "coral": "sosaj"
+        },
+        "1pl": {
+          "roman": "shoshah",
+          "coral": "sosm"
+        },
+        "2pl": {
+          "roman": "shoshahi",
+          "coral": "sosmi"
+        },
+        "3pl": {
+          "roman": "shoshahie",
+          "coral": "sosmj"
+        }
+      }
+    }
+  }
+}

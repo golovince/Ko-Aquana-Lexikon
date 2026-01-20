@@ -1,0 +1,49 @@
+{
+  "id": "recht_frooshza_v",
+  "headword": {
+    "roman": "frooshza",
+    "coral": "füda",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "verbieten"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Recht & Ordnung – Verben"
+  },
+  "korallisch": "füda",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "frooshza",
+          "coral": "füda"
+        },
+        "2sg": {
+          "roman": "frooshzai",
+          "coral": "füdai"
+        },
+        "3sg": {
+          "roman": "frooshzaie",
+          "coral": "füdaj"
+        },
+        "1pl": {
+          "roman": "frooshzah",
+          "coral": "füdm"
+        },
+        "2pl": {
+          "roman": "frooshzahi",
+          "coral": "füdmi"
+        },
+        "3pl": {
+          "roman": "frooshzahie",
+          "coral": "füdmj"
+        }
+      }
+    }
+  }
+}

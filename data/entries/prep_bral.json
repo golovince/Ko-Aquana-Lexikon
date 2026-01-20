@@ -1,0 +1,18 @@
+{
+  "id": "prep_bral",
+  "headword": {
+    "roman": "bral",
+    "coral": "cal",
+    "ipa": ""
+  },
+  "pos": "prep",
+  "gloss_de": [
+    "bei"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Funktionswörter – Präpositionen/Relatoren",
+    "note": "Relator zwischen Nominalgruppen oder Verbargumenten."
+  },
+  "korallisch": "cal"
+}

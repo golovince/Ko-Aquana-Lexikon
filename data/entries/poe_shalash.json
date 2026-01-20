@@ -1,0 +1,17 @@
+{
+  "id": "poe_shalash",
+  "headword": {
+    "roman": "shalash",
+    "coral": "salas",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Stimme"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Poesie & Exil – Grundwortschatz"
+  },
+  "korallisch": "salas"
+}

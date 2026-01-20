@@ -1,0 +1,50 @@
+{
+  "id": "verb_blala",
+  "headword": {
+    "roman": "blala",
+    "coral": "bala",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "sein"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Verben – Grundverben",
+    "note": "Lemma = 1SG Präsens mit kurzem Vokal; weitere Formen per Standarddeklination."
+  },
+  "korallisch": "bala",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "blala",
+          "coral": "bala"
+        },
+        "2sg": {
+          "roman": "blalai",
+          "coral": "balai"
+        },
+        "3sg": {
+          "roman": "blalaie",
+          "coral": "balaj"
+        },
+        "1pl": {
+          "roman": "blalah",
+          "coral": "balm"
+        },
+        "2pl": {
+          "roman": "blalahi",
+          "coral": "balmi"
+        },
+        "3pl": {
+          "roman": "blalahie",
+          "coral": "balmj"
+        }
+      }
+    }
+  }
+}
