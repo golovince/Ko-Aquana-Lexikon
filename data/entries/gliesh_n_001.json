@@ -1,0 +1,21 @@
+{
+  "id": "gliesh_n_001",
+  "headword": {
+    "roman": "gliesh",
+    "ipa": "ɡliːʃ",
+    "coral": "hjs"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Erinnerung",
+    "Überlieferung"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "noun",
+      "core"
+    ]
+  },
+  "korallisch": "hjs"
+}

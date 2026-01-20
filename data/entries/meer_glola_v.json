@@ -1,0 +1,49 @@
+{
+  "id": "meer_glola_v",
+  "headword": {
+    "roman": "glola",
+    "coral": "hola",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "tauchen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Meer, Riff & Umwelt"
+  },
+  "korallisch": "hola",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "glola",
+          "coral": "hola"
+        },
+        "2sg": {
+          "roman": "glolai",
+          "coral": "holai"
+        },
+        "3sg": {
+          "roman": "glolaie",
+          "coral": "holaj"
+        },
+        "1pl": {
+          "roman": "glolah",
+          "coral": "holm"
+        },
+        "2pl": {
+          "roman": "glolahi",
+          "coral": "holmi"
+        },
+        "3pl": {
+          "roman": "glolahie",
+          "coral": "holmj"
+        }
+      }
+    }
+  }
+}

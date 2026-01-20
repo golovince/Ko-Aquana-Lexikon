@@ -1,0 +1,42 @@
+{
+  "id": "leshzeshz_part_focus_001",
+  "headword": {
+    "roman": "leshzeshz",
+    "ipa": "leʃt͡seʃ",
+    "coral": "leded"
+  },
+  "pos": "particle",
+  "subpos": "focus",
+  "gloss_de": [
+    "genau",
+    "eben",
+    "ausgerechnet"
+  ],
+  "grammar": {
+    "scope": "phrasal"
+  },
+  "orthography": {
+    "tokens_roman": [
+      "l",
+      "e",
+      "shz",
+      "e",
+      "shz"
+    ],
+    "tokens_coral": [
+      "l",
+      "e",
+      "d",
+      "e",
+      "d"
+    ]
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "function",
+      "focus"
+    ]
+  },
+  "korallisch": "leded"
+}

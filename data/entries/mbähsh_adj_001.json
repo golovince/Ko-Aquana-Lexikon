@@ -1,0 +1,17 @@
+{
+  "id": "mbähsh_adj_001",
+  "headword": {
+    "roman": "mbähsh",
+    "coral": "päs",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "ungewiss"
+  ],
+  "meta": {
+    "status": "canonical",
+    "note": "Korallisch-Bereinigung: shiehsh → mbähsh"
+  },
+  "korallisch": "päs"
+}

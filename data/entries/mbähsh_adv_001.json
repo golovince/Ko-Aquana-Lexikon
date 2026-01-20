@@ -1,0 +1,20 @@
+{
+  "id": "mbähsh_adv_001",
+  "headword": {
+    "roman": "mbähsh",
+    "coral": "päs",
+    "ipa": ""
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "vielleicht"
+  ],
+  "grammar": {
+    "position": "postverbal"
+  },
+  "meta": {
+    "status": "canonical",
+    "note": "Korallisch-Bereinigung: shiehsh → mbähsh"
+  },
+  "korallisch": "päs"
+}

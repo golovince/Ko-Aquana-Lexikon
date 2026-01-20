@@ -1,0 +1,37 @@
+{
+  "id": "gloosh_part_time_001",
+  "headword": {
+    "roman": "gloosh",
+    "ipa": "ɡloːʃ",
+    "coral": "hüs"
+  },
+  "pos": "particle",
+  "subpos": "temporal",
+  "gloss_de": [
+    "jetzt",
+    "im Moment"
+  ],
+  "grammar": {
+    "scope": "clausal"
+  },
+  "orthography": {
+    "tokens_roman": [
+      "gl",
+      "oo",
+      "sh"
+    ],
+    "tokens_coral": [
+      "h",
+      "ü",
+      "s"
+    ]
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "function",
+      "time"
+    ]
+  },
+  "korallisch": "hüs"
+}

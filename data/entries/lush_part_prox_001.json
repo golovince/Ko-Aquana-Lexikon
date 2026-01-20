@@ -1,0 +1,39 @@
+{
+  "id": "lush_part_prox_001",
+  "headword": {
+    "roman": "lush",
+    "ipa": "luʃ",
+    "coral": "lus"
+  },
+  "pos": "particle",
+  "subpos": "proximity",
+  "gloss_de": [
+    "bei",
+    "nahe bei"
+  ],
+  "grammar": {
+    "scope": "phrasal"
+  },
+  "orthography": {
+    "tokens_roman": [
+      "l",
+      "u",
+      "hsh"
+    ],
+    "tokens_coral": [
+      "l",
+      "u",
+      "h",
+      "s"
+    ]
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "function",
+      "relation"
+    ],
+    "note": "Korallisch-Bereinigung: luhsh → lush"
+  },
+  "korallisch": "lus"
+}

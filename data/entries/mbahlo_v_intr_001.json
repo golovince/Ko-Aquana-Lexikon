@@ -1,0 +1,77 @@
+{
+  "id": "mbahlo_v_intr_001",
+  "headword": {
+    "roman": "mbahlo",
+    "ipa": "ʘaːlo",
+    "coral": "pmlo"
+  },
+  "pos": "verb",
+  "subpos": "lexical",
+  "gloss_de": [
+    "sinken",
+    "in die Tiefe gehen"
+  ],
+  "grammar": {
+    "conjugation_class": "standard",
+    "valency": "intransitive"
+  },
+  "morphology": {
+    "present": {
+      "sg": {
+        "1": "mbahlo",
+        "2": "mbahloi",
+        "3": "mbahloie"
+      },
+      "pl": {
+        "1": "mbahloh",
+        "2": "mbahlohi",
+        "3": "mbahlohie"
+      }
+    },
+    "tense_prefixes": {
+      "perf": "bla-",
+      "fut": "froo-",
+      "eterna": "brah-"
+    }
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "verb",
+      "depth"
+    ]
+  },
+  "korallisch": "pmlo",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mbahlo",
+          "coral": "pmlo"
+        },
+        "2sg": {
+          "roman": "mbahloi",
+          "coral": "pmloi"
+        },
+        "3sg": {
+          "roman": "mbahloie",
+          "coral": "pmloj"
+        },
+        "1pl": {
+          "roman": "mbahloh",
+          "coral": "pmlö"
+        },
+        "2pl": {
+          "roman": "mbahlohi",
+          "coral": "pmlöi"
+        },
+        "3pl": {
+          "roman": "mbahlohie",
+          "coral": "pmlöj"
+        }
+      }
+    }
+  }
+}

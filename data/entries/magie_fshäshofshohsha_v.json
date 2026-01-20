@@ -1,0 +1,49 @@
+{
+  "id": "magie_fshäshofshohsha_v",
+  "headword": {
+    "roman": "fshäshofshohsha",
+    "coral": "väsovösa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "Großzauber wirken"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Magie – Grundbegriffe"
+  },
+  "korallisch": "väsovösa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshäshofshohsha",
+          "coral": "väsovösa"
+        },
+        "2sg": {
+          "roman": "fshäshofshohshai",
+          "coral": "väsovösai"
+        },
+        "3sg": {
+          "roman": "fshäshofshohshaie",
+          "coral": "väsovösaj"
+        },
+        "1pl": {
+          "roman": "fshäshofshohshah",
+          "coral": "väsovösm"
+        },
+        "2pl": {
+          "roman": "fshäshofshohshahi",
+          "coral": "väsovösmi"
+        },
+        "3pl": {
+          "roman": "fshäshofshohshahie",
+          "coral": "väsovösmj"
+        }
+      }
+    }
+  }
+}

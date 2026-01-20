@@ -1,0 +1,49 @@
+{
+  "id": "magie_fshäshofshisha_v",
+  "headword": {
+    "roman": "fshäshofshisha",
+    "coral": "väsovisa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "Zaubertrick wirken"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Magie – Grundbegriffe"
+  },
+  "korallisch": "väsovisa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshäshofshisha",
+          "coral": "väsovisa"
+        },
+        "2sg": {
+          "roman": "fshäshofshishai",
+          "coral": "väsovisai"
+        },
+        "3sg": {
+          "roman": "fshäshofshishaie",
+          "coral": "väsovisaj"
+        },
+        "1pl": {
+          "roman": "fshäshofshishah",
+          "coral": "väsovism"
+        },
+        "2pl": {
+          "roman": "fshäshofshishahi",
+          "coral": "väsovismi"
+        },
+        "3pl": {
+          "roman": "fshäshofshishahie",
+          "coral": "väsovismj"
+        }
+      }
+    }
+  }
+}

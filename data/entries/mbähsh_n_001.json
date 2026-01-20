@@ -1,0 +1,22 @@
+{
+  "id": "mbähsh_n_001",
+  "headword": {
+    "roman": "mbähsh",
+    "ipa": "ʃiːəʃ",
+    "coral": "päs"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Möglichkeit",
+    "Ungewissheit"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "noun",
+      "core"
+    ],
+    "note": "Korallisch-Bereinigung: shiehsh → mbähsh"
+  },
+  "korallisch": "päs"
+}

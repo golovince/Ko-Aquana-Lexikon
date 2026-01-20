@@ -1,0 +1,22 @@
+{
+  "id": "gliel_n_001",
+  "headword": {
+    "roman": "gliel",
+    "ipa": "ɡliːl",
+    "coral": "hjl"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Wahrnehmung",
+    "Gespür"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "noun",
+      "core"
+    ],
+    "note": "Formkorrektur: gliehl → gliel (freies 'h' entfernt)"
+  },
+  "korallisch": "hjl"
+}

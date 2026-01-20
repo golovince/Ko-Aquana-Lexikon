@@ -1,0 +1,17 @@
+{
+  "id": "new_fshish_adj",
+  "headword": {
+    "roman": "fshish",
+    "coral": "vis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "riechend"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Körper & Sinne Erweiterung"
+  },
+  "korallisch": "vis"
+}

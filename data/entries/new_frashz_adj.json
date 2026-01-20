@@ -1,0 +1,18 @@
+{
+  "id": "new_frashz_adj",
+  "headword": {
+    "roman": "frashz",
+    "coral": "fad",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "Krieger"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Körper & Sinne Erweiterung",
+    "note": "Block 3: frashz auf 'Krieger' normalisiert; andere Bedeutungen ausgelagert."
+  },
+  "korallisch": "fad"
+}

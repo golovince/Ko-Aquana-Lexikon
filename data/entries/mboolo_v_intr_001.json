@@ -1,0 +1,78 @@
+{
+  "id": "mboolo_v_intr_001",
+  "headword": {
+    "roman": "mboolo",
+    "ipa": "ʘoːlo",
+    "coral": "pülo"
+  },
+  "pos": "verb",
+  "subpos": "lexical",
+  "gloss_de": [
+    "entstehen",
+    "sich bilden",
+    "vorhanden werden"
+  ],
+  "grammar": {
+    "conjugation_class": "standard",
+    "valency": "intransitive"
+  },
+  "morphology": {
+    "present": {
+      "sg": {
+        "1": "mboolo",
+        "2": "mbooloi",
+        "3": "mbooloie"
+      },
+      "pl": {
+        "1": "mbooloh",
+        "2": "mboolohi",
+        "3": "mboolohie"
+      }
+    },
+    "tense_prefixes": {
+      "perf": "bla-",
+      "fut": "froo-",
+      "eterna": "brah-"
+    }
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "verb",
+      "existence"
+    ]
+  },
+  "korallisch": "pülo",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mboolo",
+          "coral": "pülo"
+        },
+        "2sg": {
+          "roman": "mbooloi",
+          "coral": "püloi"
+        },
+        "3sg": {
+          "roman": "mbooloie",
+          "coral": "püloj"
+        },
+        "1pl": {
+          "roman": "mbooloh",
+          "coral": "pülö"
+        },
+        "2pl": {
+          "roman": "mboolohi",
+          "coral": "pülöi"
+        },
+        "3pl": {
+          "roman": "mboolohie",
+          "coral": "pülöj"
+        }
+      }
+    }
+  }
+}

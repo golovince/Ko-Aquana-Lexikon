@@ -1,0 +1,25 @@
+{
+  "id": "mbuosh_n_001",
+  "headword": {
+    "roman": "mbuosh",
+    "ipa": "ʘuʃ",
+    "coral": "puos"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Heimstatt",
+    "heiliger Ort"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "noun",
+      "core"
+    ],
+    "note": "Korallisch-Bereinigung: mbuhsh → mbuosh",
+    "exception": true,
+    "exception_type": "phonotactics:VV",
+    "exception_note": "Bewusste Ausnahme (u+o); Kulturwort: Heimstatt/heiliger Ort."
+  },
+  "korallisch": "puos"
+}

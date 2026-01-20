@@ -1,0 +1,17 @@
+{
+  "id": "new_glush_adj",
+  "headword": {
+    "roman": "glush",
+    "coral": "hus",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "müde"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Körper & Sinne Erweiterung"
+  },
+  "korallisch": "hus"
+}

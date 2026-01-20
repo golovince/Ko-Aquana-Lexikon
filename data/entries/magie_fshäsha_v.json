@@ -1,0 +1,50 @@
+{
+  "id": "magie_fshäsha_v",
+  "headword": {
+    "roman": "fshäsha",
+    "coral": "väsa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "zaubern",
+    "wirken (magisch)"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Magie – Grundbegriffe"
+  },
+  "korallisch": "väsa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshäsha",
+          "coral": "väsa"
+        },
+        "2sg": {
+          "roman": "fshäshai",
+          "coral": "väsai"
+        },
+        "3sg": {
+          "roman": "fshäshaie",
+          "coral": "väsaj"
+        },
+        "1pl": {
+          "roman": "fshäshah",
+          "coral": "väsm"
+        },
+        "2pl": {
+          "roman": "fshäshahi",
+          "coral": "väsmi"
+        },
+        "3pl": {
+          "roman": "fshäshahie",
+          "coral": "väsmj"
+        }
+      }
+    }
+  }
+}

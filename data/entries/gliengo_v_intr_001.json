@@ -1,0 +1,79 @@
+{
+  "id": "gliengo_v_intr_001",
+  "headword": {
+    "roman": "gliengo",
+    "ipa": "ɡliːho",
+    "coral": "hjxo"
+  },
+  "pos": "verb",
+  "subpos": "lexical",
+  "gloss_de": [
+    "wahrnehmen",
+    "erspüren",
+    "fühlen"
+  ],
+  "grammar": {
+    "conjugation_class": "standard",
+    "valency": "intransitive"
+  },
+  "morphology": {
+    "present": {
+      "sg": {
+        "1": "glieho",
+        "2": "gliehoi",
+        "3": "gliehoie"
+      },
+      "pl": {
+        "1": "gliehoh",
+        "2": "gliehohi",
+        "3": "gliehohie"
+      }
+    },
+    "tense_prefixes": {
+      "perf": "bla-",
+      "fut": "froo-",
+      "eterna": "brah-"
+    }
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "verb",
+      "perception"
+    ],
+    "note": "Formkorrektur: glieho → gliengo (freies 'h' entfernt)"
+  },
+  "korallisch": "hjxo",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "gliengo",
+          "coral": "hjxo"
+        },
+        "2sg": {
+          "roman": "gliengoi",
+          "coral": "hjxoi"
+        },
+        "3sg": {
+          "roman": "gliengoie",
+          "coral": "hjxoj"
+        },
+        "1pl": {
+          "roman": "gliengoh",
+          "coral": "hjxö"
+        },
+        "2pl": {
+          "roman": "gliengohi",
+          "coral": "hjxöi"
+        },
+        "3pl": {
+          "roman": "gliengohie",
+          "coral": "hjxöj"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "glash_n_001",
+  "headword": {
+    "roman": "glash",
+    "ipa": "ɡlaʃ",
+    "coral": "has"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Tiefe",
+    "Abgrund",
+    "großer Wasserkörper"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "noun",
+      "core"
+    ]
+  },
+  "korallisch": "has"
+}

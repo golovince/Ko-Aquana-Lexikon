@@ -1,0 +1,38 @@
+{
+  "id": "luhsh_part_prox_001",
+  "headword": {
+    "roman": "luhsh",
+    "ipa": "luʃ",
+    "coral": "luhs"
+  },
+  "pos": "particle",
+  "subpos": "proximity",
+  "gloss_de": [
+    "bei",
+    "nahe bei"
+  ],
+  "grammar": {
+    "scope": "phrasal"
+  },
+  "orthography": {
+    "tokens_roman": [
+      "l",
+      "u",
+      "hsh"
+    ],
+    "tokens_coral": [
+      "l",
+      "u",
+      "h",
+      "s"
+    ]
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "function",
+      "relation"
+    ]
+  },
+  "korallisch": "luhs"
+}

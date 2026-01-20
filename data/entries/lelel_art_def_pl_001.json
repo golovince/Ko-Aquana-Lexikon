@@ -1,0 +1,41 @@
+{
+  "id": "lelel_art_def_pl_001",
+  "headword": {
+    "roman": "lelel",
+    "ipa": "lələl",
+    "coral": "lelel"
+  },
+  "pos": "article",
+  "subpos": "definite",
+  "gloss_de": [
+    "die (def. Pl.)"
+  ],
+  "grammar": {
+    "number": "pl",
+    "singular_form": "lel",
+    "noun_plural_suffix": "el"
+  },
+  "orthography": {
+    "tokens_roman": [
+      "l",
+      "e",
+      "l",
+      "e",
+      "l"
+    ],
+    "tokens_coral": [
+      "l",
+      "e",
+      "l",
+      "e",
+      "l"
+    ]
+  },
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "article"
+    ]
+  },
+  "korallisch": "lelel"
+}

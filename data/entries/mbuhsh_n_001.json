@@ -1,0 +1,21 @@
+{
+  "id": "mbuhsh_n_001",
+  "headword": {
+    "roman": "mbuhsh",
+    "ipa": "ʘuʃ",
+    "coral": "puhs"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Heimstatt",
+    "heiliger Ort"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "noun",
+      "core"
+    ]
+  },
+  "korallisch": "puhs"
+}

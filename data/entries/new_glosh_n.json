@@ -1,0 +1,18 @@
+{
+  "id": "new_glosh_n",
+  "headword": {
+    "roman": "glosh",
+    "coral": "hos",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Haut",
+    "Schuppe"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Körper & Sinne Erweiterung"
+  },
+  "korallisch": "hos"
+}
