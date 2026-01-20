@@ -1,0 +1,50 @@
+{
+  "id": "verb_shale",
+  "headword": {
+    "roman": "shale",
+    "coral": "sale",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "sehen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Verben – Grundverben",
+    "note": "Lemma = 1SG Präsens mit kurzem Vokal; weitere Formen per Standarddeklination."
+  },
+  "korallisch": "sale",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shale",
+          "coral": "sale"
+        },
+        "2sg": {
+          "roman": "shalei",
+          "coral": "salei"
+        },
+        "3sg": {
+          "roman": "shaleie",
+          "coral": "salej"
+        },
+        "1pl": {
+          "roman": "shaläh",
+          "coral": "salä"
+        },
+        "2pl": {
+          "roman": "shalähi",
+          "coral": "saläi"
+        },
+        "3pl": {
+          "roman": "shalähie",
+          "coral": "saläj"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "verb_gsala",
+  "headword": {
+    "roman": "gsala",
+    "coral": "qala",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "sagen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Verben – Grundverben",
+    "note": "Lemma = 1SG Präsens mit kurzem Vokal; weitere Formen per Standarddeklination."
+  },
+  "korallisch": "qala",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "gsala",
+          "coral": "qala"
+        },
+        "2sg": {
+          "roman": "gsalai",
+          "coral": "qalai"
+        },
+        "3sg": {
+          "roman": "gsalaie",
+          "coral": "qalaj"
+        },
+        "1pl": {
+          "roman": "gsalah",
+          "coral": "qalm"
+        },
+        "2pl": {
+          "roman": "gsalahi",
+          "coral": "qalmi"
+        },
+        "3pl": {
+          "roman": "gsalahie",
+          "coral": "qalmj"
+        }
+      }
+    }
+  }
+}

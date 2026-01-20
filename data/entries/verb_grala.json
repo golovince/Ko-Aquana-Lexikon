@@ -1,0 +1,50 @@
+{
+  "id": "verb_grala",
+  "headword": {
+    "roman": "grala",
+    "coral": "gala",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "tragen"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Verben – Grundverben",
+    "note": "Lemma = 1SG Präsens mit kurzem Vokal; weitere Formen per Standarddeklination."
+  },
+  "korallisch": "gala",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "grala",
+          "coral": "gala"
+        },
+        "2sg": {
+          "roman": "gralai",
+          "coral": "galai"
+        },
+        "3sg": {
+          "roman": "gralaie",
+          "coral": "galaj"
+        },
+        "1pl": {
+          "roman": "gralah",
+          "coral": "galm"
+        },
+        "2pl": {
+          "roman": "gralahi",
+          "coral": "galmi"
+        },
+        "3pl": {
+          "roman": "gralahie",
+          "coral": "galmj"
+        }
+      }
+    }
+  }
+}

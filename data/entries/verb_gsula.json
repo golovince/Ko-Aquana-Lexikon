@@ -1,0 +1,50 @@
+{
+  "id": "verb_gsula",
+  "headword": {
+    "roman": "gsula",
+    "coral": "qula",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "rufen"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Verben – Grundverben",
+    "note": "Lemma = 1SG Präsens mit kurzem Vokal; weitere Formen per Standarddeklination."
+  },
+  "korallisch": "qula",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "gsula",
+          "coral": "qula"
+        },
+        "2sg": {
+          "roman": "gsulai",
+          "coral": "qulai"
+        },
+        "3sg": {
+          "roman": "gsulaie",
+          "coral": "qulaj"
+        },
+        "1pl": {
+          "roman": "gsulah",
+          "coral": "qulm"
+        },
+        "2pl": {
+          "roman": "gsulahi",
+          "coral": "qulmi"
+        },
+        "3pl": {
+          "roman": "gsulahie",
+          "coral": "qulmj"
+        }
+      }
+    }
+  }
+}

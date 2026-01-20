@@ -1,0 +1,50 @@
+{
+  "id": "verb_mbula",
+  "headword": {
+    "roman": "mbula",
+    "coral": "pula",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "kommen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Verben – Grundverben",
+    "note": "Lemma = 1SG Präsens mit kurzem Vokal; weitere Formen per Standarddeklination."
+  },
+  "korallisch": "pula",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mbula",
+          "coral": "pula"
+        },
+        "2sg": {
+          "roman": "mbulai",
+          "coral": "pulai"
+        },
+        "3sg": {
+          "roman": "mbulaie",
+          "coral": "pulaj"
+        },
+        "1pl": {
+          "roman": "mbulah",
+          "coral": "pulm"
+        },
+        "2pl": {
+          "roman": "mbulahi",
+          "coral": "pulmi"
+        },
+        "3pl": {
+          "roman": "mbulahie",
+          "coral": "pulmj"
+        }
+      }
+    }
+  }
+}

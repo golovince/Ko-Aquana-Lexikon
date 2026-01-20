@@ -1,0 +1,50 @@
+{
+  "id": "verb_ngala",
+  "headword": {
+    "roman": "ngala",
+    "coral": "xala",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "nehmen"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Verben – Grundverben",
+    "note": "Lemma = 1SG Präsens mit kurzem Vokal; weitere Formen per Standarddeklination."
+  },
+  "korallisch": "xala",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "ngala",
+          "coral": "xala"
+        },
+        "2sg": {
+          "roman": "ngalai",
+          "coral": "xalai"
+        },
+        "3sg": {
+          "roman": "ngalaie",
+          "coral": "xalaj"
+        },
+        "1pl": {
+          "roman": "ngalah",
+          "coral": "xalm"
+        },
+        "2pl": {
+          "roman": "ngalahi",
+          "coral": "xalmi"
+        },
+        "3pl": {
+          "roman": "ngalahie",
+          "coral": "xalmj"
+        }
+      }
+    }
+  }
+}
