@@ -1,6 +1,6 @@
 {
   "version": "v1.4.2",
-  "generated_at": "2026-01-12T12:52:39",
+  "generated_at": "2026-01-20T12:06:02",
   "entries": [
     {
       "id": "bla_v_cop_001",
@@ -26,7 +26,7 @@
       "coral": "wosi",
       "ipa": "fsɔʃɪ",
       "pos": "verb",
-      "gloss_de_short": "geben; überreichen; weitergeben",
+      "gloss_de_short": "geben (allgemein)",
       "domains": []
     },
     {
@@ -201,9 +201,9 @@
       "domains": []
     },
     {
-      "id": "luhsh_part_prox_001",
-      "roman": "luhsh",
-      "coral": "luhs",
+      "id": "lush_part_prox_001",
+      "roman": "lush",
+      "coral": "lus",
       "ipa": "luʃ",
       "pos": "particle",
       "gloss_de_short": "bei; nahe bei",
@@ -242,7 +242,7 @@
       "coral": "sjs",
       "ipa": "ʃiˈeʃ",
       "pos": "particle",
-      "gloss_de_short": "vielleicht; möglicherweise",
+      "gloss_de_short": "Kind",
       "domains": []
     },
     {
@@ -251,7 +251,7 @@
       "coral": "bös",
       "ipa": "bloːʃ",
       "pos": "particle",
-      "gloss_de_short": "gewiss; sicher",
+      "gloss_de_short": "Schwur; Bindung; Gelöbnis",
       "domains": []
     },
     {
@@ -309,9 +309,9 @@
       "domains": []
     },
     {
-      "id": "glieho_v_intr_001",
-      "roman": "glieho",
-      "coral": "hjho",
+      "id": "gliengo_v_intr_001",
+      "roman": "gliengo",
+      "coral": "hjxo",
       "ipa": "ɡliːho",
       "pos": "verb",
       "gloss_de_short": "wahrnehmen; erspüren; fühlen",
@@ -426,24 +426,6 @@
       "domains": []
     },
     {
-      "id": "shoglash_n_001",
-      "roman": "shoglash",
-      "coral": "sohas",
-      "ipa": "ʃoɡlaʃ",
-      "pos": "noun",
-      "gloss_de_short": "Ursache; Grund; Rechtfertigung",
-      "domains": []
-    },
-    {
-      "id": "blohsh_n_001",
-      "roman": "blohsh",
-      "coral": "bös",
-      "ipa": "bloːʃ",
-      "pos": "noun",
-      "gloss_de_short": "Schwur; Bindung; Gelöbnis",
-      "domains": []
-    },
-    {
       "id": "gliesh_n_001",
       "roman": "gliesh",
       "coral": "hjs",
@@ -480,18 +462,18 @@
       "domains": []
     },
     {
-      "id": "gliehl_n_001",
-      "roman": "gliehl",
-      "coral": "hjhl",
+      "id": "gliel_n_001",
+      "roman": "gliel",
+      "coral": "hjl",
       "ipa": "ɡliːl",
       "pos": "noun",
       "gloss_de_short": "Wahrnehmung; Gespür",
       "domains": []
     },
     {
-      "id": "shiehsh_n_001",
-      "roman": "shiehsh",
-      "coral": "sjhs",
+      "id": "mbähsh_n_001",
+      "roman": "mbähsh",
+      "coral": "päs",
       "ipa": "ʃiːəʃ",
       "pos": "noun",
       "gloss_de_short": "Möglichkeit; Ungewissheit",
@@ -525,18 +507,18 @@
       "domains": []
     },
     {
-      "id": "mbuhsh_n_001",
-      "roman": "mbuhsh",
-      "coral": "puhs",
+      "id": "mbuosh_n_001",
+      "roman": "mbuosh",
+      "coral": "puos",
       "ipa": "ʘuʃ",
       "pos": "noun",
       "gloss_de_short": "Heimstatt; heiliger Ort",
       "domains": []
     },
     {
-      "id": "fruhsh_n_001",
-      "roman": "fruhsh",
-      "coral": "fuhs",
+      "id": "frush_n_001",
+      "roman": "frush",
+      "coral": "fus",
       "ipa": "fruʃ",
       "pos": "noun",
       "gloss_de_short": "Weg; Rückkehrpfad",
@@ -588,18 +570,9 @@
       "domains": []
     },
     {
-      "id": "blohsh_adj_001",
-      "roman": "blohsh",
-      "coral": "bös",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "fest",
-      "domains": []
-    },
-    {
-      "id": "shiehsh_adj_001",
-      "roman": "shiehsh",
-      "coral": "sjhs",
+      "id": "mbähsh_adj_001",
+      "roman": "mbähsh",
+      "coral": "päs",
       "ipa": "",
       "pos": "adj",
       "gloss_de_short": "ungewiss",
@@ -732,18 +705,9 @@
       "domains": []
     },
     {
-      "id": "blohsh_adv_001",
-      "roman": "blohsh",
-      "coral": "bös",
-      "ipa": "",
-      "pos": "adv",
-      "gloss_de_short": "fest",
-      "domains": []
-    },
-    {
-      "id": "shiehsh_adv_001",
-      "roman": "shiehsh",
-      "coral": "sjhs",
+      "id": "mbähsh_adv_001",
+      "roman": "mbähsh",
+      "coral": "päs",
       "ipa": "",
       "pos": "adv",
       "gloss_de_short": "vielleicht",
@@ -759,9 +723,9 @@
       "domains": []
     },
     {
-      "id": "fruhsh_adv_001",
-      "roman": "fruhsh",
-      "coral": "fuhs",
+      "id": "frush_adv_001",
+      "roman": "frush",
+      "coral": "fus",
       "ipa": "",
       "pos": "adv",
       "gloss_de_short": "zurück",
@@ -804,9 +768,9 @@
       "domains": []
     },
     {
-      "id": "shieha_v_tr_001",
-      "roman": "shieha",
-      "coral": "sjha",
+      "id": "shienga_v_tr_001",
+      "roman": "shienga",
+      "coral": "sjxa",
       "ipa": "",
       "pos": "verb",
       "gloss_de_short": "sagen; äußern; kundtun",
@@ -871,6 +835,1869 @@
       "domains": [
         "knowledge_search"
       ]
+    },
+    {
+      "id": "new_shash_n",
+      "roman": "shash",
+      "coral": "sas",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Kopf",
+      "domains": []
+    },
+    {
+      "id": "new_mbal_n",
+      "roman": "mbal",
+      "coral": "pal",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Greifflosse; Hand",
+      "domains": []
+    },
+    {
+      "id": "new_shush_n",
+      "roman": "shush",
+      "coral": "sus",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Atmung; Kiemenatem",
+      "domains": []
+    },
+    {
+      "id": "new_glosh_n",
+      "roman": "glosh",
+      "coral": "hos",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Haut; Schuppe",
+      "domains": []
+    },
+    {
+      "id": "new_shish_n",
+      "roman": "shish",
+      "coral": "sis",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Hörorgan; Vibrationssinn",
+      "domains": []
+    },
+    {
+      "id": "new_fshish_n",
+      "roman": "fshish",
+      "coral": "vis",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Riechorgan",
+      "domains": []
+    },
+    {
+      "id": "new_glieshol_n",
+      "roman": "glieshol",
+      "coral": "hjsol",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Sehen; Sehvorgang",
+      "domains": []
+    },
+    {
+      "id": "new_shishol_n",
+      "roman": "shishol",
+      "coral": "sisol",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Hören",
+      "domains": []
+    },
+    {
+      "id": "new_fshishol_n",
+      "roman": "fshishol",
+      "coral": "visol",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Riechen",
+      "domains": []
+    },
+    {
+      "id": "new_glashol_n",
+      "roman": "glashol",
+      "coral": "hasol",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Schmecken",
+      "domains": []
+    },
+    {
+      "id": "new_shish_adj",
+      "roman": "shish",
+      "coral": "sis",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "hörbar",
+      "domains": []
+    },
+    {
+      "id": "new_fshish_adj",
+      "roman": "fshish",
+      "coral": "vis",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "riechend",
+      "domains": []
+    },
+    {
+      "id": "new_mboosh_adj",
+      "roman": "mboosh",
+      "coral": "püs",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "kalt",
+      "domains": []
+    },
+    {
+      "id": "new_glush_adj",
+      "roman": "glush",
+      "coral": "hus",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "müde",
+      "domains": []
+    },
+    {
+      "id": "new_blosh_adj",
+      "roman": "blosh",
+      "coral": "bos",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "hungrig",
+      "domains": []
+    },
+    {
+      "id": "new_shol_adj",
+      "roman": "shol",
+      "coral": "sol",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "satt",
+      "domains": []
+    },
+    {
+      "id": "new_frashz_adj",
+      "roman": "frashz",
+      "coral": "fad",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "Krieger",
+      "domains": []
+    },
+    {
+      "id": "alltag_fshooshz_n",
+      "roman": "fshooshz",
+      "coral": "vüd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Nahrung",
+      "domains": []
+    },
+    {
+      "id": "alltag_froosh_n",
+      "roman": "froosh",
+      "coral": "füs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Stimme",
+      "domains": []
+    },
+    {
+      "id": "alltag_shähshz_n",
+      "roman": "shähshz",
+      "coral": "säd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Salz",
+      "domains": []
+    },
+    {
+      "id": "alltag_mbohshz_n",
+      "roman": "mbohshz",
+      "coral": "pöd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Fett",
+      "domains": []
+    },
+    {
+      "id": "alltag_frähshz_n",
+      "roman": "frähshz",
+      "coral": "fäd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Mahl",
+      "domains": []
+    },
+    {
+      "id": "alltag_fshash_n",
+      "roman": "fshash",
+      "coral": "vas",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Beute",
+      "domains": []
+    },
+    {
+      "id": "alltag_mbooshz_n",
+      "roman": "mbooshz",
+      "coral": "püd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Vorrat",
+      "domains": []
+    },
+    {
+      "id": "alltag_fshähsh_n",
+      "roman": "fshähsh",
+      "coral": "väs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Werkzeug",
+      "domains": []
+    },
+    {
+      "id": "alltag_mbohsh_n",
+      "roman": "mbohsh",
+      "coral": "pös",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Gefäß",
+      "domains": []
+    },
+    {
+      "id": "alltag_frooshz_n",
+      "roman": "frooshz",
+      "coral": "füd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Seil; Band; Schicksal (übertragen)",
+      "domains": []
+    },
+    {
+      "id": "alltag_shohshz_n",
+      "roman": "shohshz",
+      "coral": "söd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Stein",
+      "domains": []
+    },
+    {
+      "id": "alltag_fshoshz_n",
+      "roman": "fshoshz",
+      "coral": "vod",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Holz; Koralle",
+      "domains": []
+    },
+    {
+      "id": "alltag_mbohshz_n",
+      "roman": "mbohshz",
+      "coral": "pöd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Bündel; Last",
+      "domains": []
+    },
+    {
+      "id": "alltag_frähsh_n",
+      "roman": "frähsh",
+      "coral": "fäs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Tiefe",
+      "domains": []
+    },
+    {
+      "id": "alltag_shohsh_n",
+      "roman": "shohsh",
+      "coral": "sös",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Schlafplatz",
+      "domains": []
+    },
+    {
+      "id": "alltag_frooshz_n",
+      "roman": "frooshz",
+      "coral": "füd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Markt; Tausch; Schicksal (übertragen)",
+      "domains": []
+    },
+    {
+      "id": "alltag_fshza_v",
+      "roman": "fshza",
+      "coral": "ka",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "essen",
+      "domains": []
+    },
+    {
+      "id": "alltag_fshala_v",
+      "roman": "fshala",
+      "coral": "vala",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "trinken",
+      "domains": []
+    },
+    {
+      "id": "alltag_shala_v",
+      "roman": "shala",
+      "coral": "sala",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "schlafen",
+      "domains": []
+    },
+    {
+      "id": "alltag_frasha_v",
+      "roman": "frasha",
+      "coral": "fasa",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "warten",
+      "domains": []
+    },
+    {
+      "id": "alltag_shasha_v",
+      "roman": "shasha",
+      "coral": "sasa",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "ruhen",
+      "domains": []
+    },
+    {
+      "id": "alltag_frala_v",
+      "roman": "frala",
+      "coral": "fala",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "stehen",
+      "domains": []
+    },
+    {
+      "id": "alltag_mbasha_v",
+      "roman": "mbasha",
+      "coral": "pasa",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "nehmen",
+      "domains": []
+    },
+    {
+      "id": "alltag_mbosha_v",
+      "roman": "mbosha",
+      "coral": "posa",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "behalten",
+      "domains": []
+    },
+    {
+      "id": "alltag_frashza_v",
+      "roman": "frashza",
+      "coral": "fada",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "verlieren",
+      "domains": []
+    },
+    {
+      "id": "alltag_fshashzta_v",
+      "roman": "fshashzta",
+      "coral": "vara",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "bringen",
+      "domains": []
+    },
+    {
+      "id": "alltag_sholo_v",
+      "roman": "sholo",
+      "coral": "solo",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "kommen",
+      "domains": []
+    },
+    {
+      "id": "alltag_blasha_v",
+      "roman": "blasha",
+      "coral": "basa",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "bleiben",
+      "domains": []
+    },
+    {
+      "id": "alltag_frähsha_v",
+      "roman": "frähsha",
+      "coral": "fäsa",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "arbeiten",
+      "domains": []
+    },
+    {
+      "id": "alltag_mbu_v",
+      "roman": "mbu",
+      "coral": "pu",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "heimkehren; zur Heimstatt zurückkehren",
+      "domains": []
+    },
+    {
+      "id": "pn_mbu_city",
+      "roman": "Mbu",
+      "coral": "pu",
+      "ipa": "",
+      "pos": "pn",
+      "gloss_de_short": "Mbu (Eigenname einer antiken Stadt der Kuo-Toa)",
+      "domains": []
+    },
+    {
+      "id": "alltag_fshiesh_adj",
+      "roman": "fshiesh",
+      "coral": "vjs",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "sauber",
+      "domains": []
+    },
+    {
+      "id": "alltag_friesh_adj",
+      "roman": "friesh",
+      "coral": "fjs",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "außen",
+      "domains": []
+    },
+    {
+      "id": "alltag_friesh_adj",
+      "roman": "friesh",
+      "coral": "fjs",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "schnell",
+      "domains": []
+    },
+    {
+      "id": "alltag_sholoosh_adj",
+      "roman": "sholoosh",
+      "coral": "solüs",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "langsam",
+      "domains": []
+    },
+    {
+      "id": "sozial_glashz_n",
+      "roman": "glashz",
+      "coral": "had",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Lernender; Schüler",
+      "domains": []
+    },
+    {
+      "id": "sozial_blähsh_n",
+      "roman": "blähsh",
+      "coral": "bäs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Herrscher",
+      "domains": []
+    },
+    {
+      "id": "sozial_shosh_n",
+      "roman": "shosh",
+      "coral": "sos",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Diener",
+      "domains": []
+    },
+    {
+      "id": "sozial_fshafrash_n",
+      "roman": "fshafrash",
+      "coral": "vafas",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Bote",
+      "domains": []
+    },
+    {
+      "id": "sozial_bloshz_n",
+      "roman": "bloshz",
+      "coral": "bod",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Familie",
+      "domains": []
+    },
+    {
+      "id": "sozial_gloshz_n",
+      "roman": "gloshz",
+      "coral": "hod",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Rat",
+      "domains": []
+    },
+    {
+      "id": "sozial_blähshz_n",
+      "roman": "blähshz",
+      "coral": "bäd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Bund",
+      "domains": []
+    },
+    {
+      "id": "sozial_glashz_n",
+      "roman": "glashz",
+      "coral": "had",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Gesetz",
+      "domains": []
+    },
+    {
+      "id": "sozial_fshashz_n",
+      "roman": "fshashz",
+      "coral": "vad",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Vertrag",
+      "domains": []
+    },
+    {
+      "id": "sozial_sho_v",
+      "roman": "sho",
+      "coral": "so",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "dienen",
+      "domains": []
+    },
+    {
+      "id": "kultur_glahshofshahsh_n",
+      "roman": "glahshofshahsh",
+      "coral": "hmsovms",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Fest des Eierlegens (Beginn der Brunftzeit)",
+      "domains": []
+    },
+    {
+      "id": "kultur_brahshofshahsh_n",
+      "roman": "brahshofshahsh",
+      "coral": "cmsovms",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Fest des Befruchtens (Ende der Brunftzeit)",
+      "domains": []
+    },
+    {
+      "id": "kultur_shieshzoglähshz_n",
+      "roman": "shieshzoglähshz",
+      "coral": "sjdohäd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Ritual des Schlüpfens",
+      "domains": []
+    },
+    {
+      "id": "kultur_shieshogloshz_n",
+      "roman": "shieshogloshz",
+      "coral": "sjsohod",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Generation der Neuen",
+      "domains": []
+    },
+    {
+      "id": "kultur_frashzofrähshz_n",
+      "roman": "frashzofrähshz",
+      "coral": "fadofäd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Generation der Jäger",
+      "domains": []
+    },
+    {
+      "id": "kultur_brahshoglahshz_n",
+      "roman": "brahshoglahshz",
+      "coral": "cmsohmd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Bindung Mentor–Kind",
+      "domains": []
+    },
+    {
+      "id": "kultur_glähshzobrahshz_n",
+      "roman": "glähshzobrahshz",
+      "coral": "hädocmd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Ritual der Bindung (Mentor)",
+      "domains": []
+    },
+    {
+      "id": "kultur_frooshoglähshz_n",
+      "roman": "frooshoglähshz",
+      "coral": "füsohäd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Ritual der Trennung (Mentor)",
+      "domains": []
+    },
+    {
+      "id": "kultur_shieshzofrähsh_n",
+      "roman": "shieshzofrähsh",
+      "coral": "sjdofäs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Hüter der Jungen",
+      "domains": []
+    },
+    {
+      "id": "kultur_frieshogloshz_n",
+      "roman": "frieshogloshz",
+      "coral": "fjsohod",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Sprecher einer Generation",
+      "domains": []
+    },
+    {
+      "id": "kultur_frähshzoglähshz_n",
+      "roman": "frähshzoglähshz",
+      "coral": "fädohäd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Ritual des Erwachsenwerdens",
+      "domains": []
+    },
+    {
+      "id": "kultur_shähshoglähsh_n",
+      "roman": "shähshoglähsh",
+      "coral": "säsohäs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Zeit der ersten Rituale",
+      "domains": []
+    },
+    {
+      "id": "kultur_frooshzobrahsh_n",
+      "roman": "frooshzobrahsh",
+      "coral": "füdocms",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Verlust des Mentors",
+      "domains": []
+    },
+    {
+      "id": "kultur_frashofriesh_n",
+      "roman": "frashofriesh",
+      "coral": "fasofjs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Zorn zwischen Generationen",
+      "domains": []
+    },
+    {
+      "id": "kultur_fshahsh_n",
+      "roman": "fshahsh",
+      "coral": "vms",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Brunftzeit",
+      "domains": []
+    },
+    {
+      "id": "kultur_shieshz_n",
+      "roman": "shieshz",
+      "coral": "sjd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Zeit des Schlüpfens; Gruppe der gemeinsam Geschlüpften",
+      "domains": []
+    },
+    {
+      "id": "kultur_glahsh_n",
+      "roman": "glahsh",
+      "coral": "hms",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Schützling; nahestehendes Kind",
+      "domains": []
+    },
+    {
+      "id": "kultur_glähsh_n",
+      "roman": "glähsh",
+      "coral": "häs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Erste Bindungszeit",
+      "domains": []
+    },
+    {
+      "id": "meer_glola_v",
+      "roman": "glola",
+      "coral": "hola",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "tauchen",
+      "domains": []
+    },
+    {
+      "id": "meer_frooshzofshol_n",
+      "roman": "frooshzofshol",
+      "coral": "füdovol",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Strömungspfad",
+      "domains": []
+    },
+    {
+      "id": "meer_frashomboosh_n",
+      "roman": "frashomboosh",
+      "coral": "fasopüs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Raubfisch",
+      "domains": []
+    },
+    {
+      "id": "meer_fshashzomboosh_n",
+      "roman": "fshashzomboosh",
+      "coral": "vadopüs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Giftfisch",
+      "domains": []
+    },
+    {
+      "id": "meer_frooshomboosh_n",
+      "roman": "frooshomboosh",
+      "coral": "füsopüs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Riffhai",
+      "domains": []
+    },
+    {
+      "id": "recht_shohsha_v",
+      "roman": "shohsha",
+      "coral": "sösa",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "bezeugen",
+      "domains": []
+    },
+    {
+      "id": "recht_glähsha_v",
+      "roman": "glähsha",
+      "coral": "häsa",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "bestrafen",
+      "domains": []
+    },
+    {
+      "id": "recht_frähshza_v",
+      "roman": "frähshza",
+      "coral": "fäda",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "verbannen",
+      "domains": []
+    },
+    {
+      "id": "recht_bliesha_v",
+      "roman": "bliesha",
+      "coral": "bjsa",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "vergeben",
+      "domains": []
+    },
+    {
+      "id": "recht_frooshza_v",
+      "roman": "frooshza",
+      "coral": "füda",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "verbieten",
+      "domains": []
+    },
+    {
+      "id": "recht_froosha_v",
+      "roman": "froosha",
+      "coral": "füsa",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "erlauben",
+      "domains": []
+    },
+    {
+      "id": "recht_bliesh_n",
+      "roman": "bliesh",
+      "coral": "bjs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Bild",
+      "domains": []
+    },
+    {
+      "id": "recht_gloshzoglashz_n",
+      "roman": "gloshzoglashz",
+      "coral": "hodohad",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Rat des Rechts",
+      "domains": []
+    },
+    {
+      "id": "recht_glashzoglahsh_n",
+      "roman": "glashzoglahsh",
+      "coral": "hadohms",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Hüter des Gesetzes",
+      "domains": []
+    },
+    {
+      "id": "recht_glähshz_n",
+      "roman": "glähshz",
+      "coral": "häd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Richter",
+      "domains": []
+    },
+    {
+      "id": "recht_frähshofshafrash_n",
+      "roman": "frähshofshafrash",
+      "coral": "fäsovafas",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Bote des Urteils",
+      "domains": []
+    },
+    {
+      "id": "recht_glähshzoglähshz_n",
+      "roman": "glähshzoglähshz",
+      "coral": "hädohäd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Gerichtsritual",
+      "domains": []
+    },
+    {
+      "id": "recht_frähshogloshz_n",
+      "roman": "frähshogloshz",
+      "coral": "fäsohod",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Urteilsspruch",
+      "domains": []
+    },
+    {
+      "id": "recht_blashoglähsh_n",
+      "roman": "blashoglähsh",
+      "coral": "basohäs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Verteidigung",
+      "domains": []
+    },
+    {
+      "id": "recht_shohshofshiesh_n",
+      "roman": "shohshofshiesh",
+      "coral": "sösovjs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Zeugnis",
+      "domains": []
+    },
+    {
+      "id": "recht_blieshofroosh_n",
+      "roman": "blieshofroosh",
+      "coral": "bjsofüs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Begnadigung",
+      "domains": []
+    },
+    {
+      "id": "recht_frooshzofrähsh_n",
+      "roman": "frooshzofrähsh",
+      "coral": "füdofäs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Bannurteil",
+      "domains": []
+    },
+    {
+      "id": "recht_frashofshiesh_n",
+      "roman": "frashofshiesh",
+      "coral": "fasovjs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Betrug",
+      "domains": []
+    },
+    {
+      "id": "recht_frähshzofroosh_n",
+      "roman": "frähshzofroosh",
+      "coral": "fädofüs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Urteil über Exil",
+      "domains": []
+    },
+    {
+      "id": "schrift_glosha_v",
+      "roman": "glosha",
+      "coral": "hosa",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "schreiben",
+      "domains": []
+    },
+    {
+      "id": "schrift_shosha_v",
+      "roman": "shosha",
+      "coral": "sosa",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "singen",
+      "domains": []
+    },
+    {
+      "id": "schrift_shähsh_n",
+      "roman": "shähsh",
+      "coral": "säs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Traumvision",
+      "domains": []
+    },
+    {
+      "id": "schrift_gloshzobrahsh_n",
+      "roman": "gloshzobrahsh",
+      "coral": "hodocms",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Heilige Schrift",
+      "domains": []
+    },
+    {
+      "id": "schrift_shohshoblähsh_n",
+      "roman": "shohshoblähsh",
+      "coral": "sösobäs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Lied der Alten",
+      "domains": []
+    },
+    {
+      "id": "schrift_frähshofrähsh_n",
+      "roman": "frähshofrähsh",
+      "coral": "fäsofäs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Geschichte der Tiefe",
+      "domains": []
+    },
+    {
+      "id": "schrift_shähshofshahsh_n",
+      "roman": "shähshofshahsh",
+      "coral": "säsovms",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Traum der Brunft",
+      "domains": []
+    },
+    {
+      "id": "schrift_frähshzoglash_n",
+      "roman": "frähshzoglash",
+      "coral": "fädohas",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Exilliteratur; im Exil entstandenes Werk; Schreiben aus der Verbannung",
+      "domains": []
+    },
+    {
+      "id": "magie_fshäsh_n",
+      "roman": "fshäsh",
+      "coral": "väs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Magie (allgemein)",
+      "domains": []
+    },
+    {
+      "id": "magie_fshäshz_n",
+      "roman": "fshäshz",
+      "coral": "väd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "magische Kraft",
+      "domains": []
+    },
+    {
+      "id": "magie_fshäshofshish_n",
+      "roman": "fshäshofshish",
+      "coral": "väsovis",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Cantrip; Zaubertrick; kleiner Zauber",
+      "domains": []
+    },
+    {
+      "id": "magie_fshäshofshohsh_n",
+      "roman": "fshäshofshohsh",
+      "coral": "väsovös",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Großzauber; mächtiger Zauber",
+      "domains": []
+    },
+    {
+      "id": "magie_fshäshoglähsh_n",
+      "roman": "fshäshoglähsh",
+      "coral": "väsohäs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "magischer Effekt",
+      "domains": []
+    },
+    {
+      "id": "magie_fshohsh_n",
+      "roman": "fshohsh",
+      "coral": "vös",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "groß; mächtig",
+      "domains": []
+    },
+    {
+      "id": "magie_fshulsh_n",
+      "roman": "fshulsh",
+      "coral": "vuls",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "leer; ohne",
+      "domains": []
+    },
+    {
+      "id": "magie_fshäshofshulsh_n",
+      "roman": "fshäshofshulsh",
+      "coral": "väsovuls",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "unmagisch",
+      "domains": []
+    },
+    {
+      "id": "magie_fshäsha_v",
+      "roman": "fshäsha",
+      "coral": "väsa",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "zaubern; wirken (magisch)",
+      "domains": []
+    },
+    {
+      "id": "magie_fshäshofshisha_v",
+      "roman": "fshäshofshisha",
+      "coral": "väsovisa",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "Zaubertrick wirken",
+      "domains": []
+    },
+    {
+      "id": "magie_fshäshofshohsha_v",
+      "roman": "fshäshofshohsha",
+      "coral": "väsovösa",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "Großzauber wirken",
+      "domains": []
+    },
+    {
+      "id": "block2_shieshogrähsh_n",
+      "roman": "shieshogrähsh",
+      "coral": "sjsogäs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Höhle",
+      "domains": []
+    },
+    {
+      "id": "block2_shieshofshol_n",
+      "roman": "shieshofshol",
+      "coral": "sjsovol",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Qualle",
+      "domains": []
+    },
+    {
+      "id": "block2_shieshoglosh_n",
+      "roman": "shieshoglosh",
+      "coral": "sjsohos",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Name",
+      "domains": []
+    },
+    {
+      "id": "block2_frooshogläsh_n",
+      "roman": "frooshogläsh",
+      "coral": "füsohäs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Erlaubnis",
+      "domains": []
+    },
+    {
+      "id": "block2_frooshofshahsh_n",
+      "roman": "frooshofshahsh",
+      "coral": "füsovms",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Brunfthalle",
+      "domains": []
+    },
+    {
+      "id": "block2_frooshofrähsh_n",
+      "roman": "frooshofrähsh",
+      "coral": "füsofäs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Loslösungszeit",
+      "domains": []
+    },
+    {
+      "id": "block2_frähshoglosh_n",
+      "roman": "frähshoglosh",
+      "coral": "fäsohos",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Raum",
+      "domains": []
+    },
+    {
+      "id": "block2_frähshoglash_n",
+      "roman": "frähshoglash",
+      "coral": "fäsohas",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Geschichte",
+      "domains": []
+    },
+    {
+      "id": "block2_frähshofrähshz_n",
+      "roman": "frähshofrähshz",
+      "coral": "fäsofäd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Beinahe-Erwachsener",
+      "domains": []
+    },
+    {
+      "id": "block3_gloshzoglahsh_n",
+      "roman": "gloshzoglahsh",
+      "coral": "hodohms",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Schutzgemeinschaft",
+      "domains": []
+    },
+    {
+      "id": "block3_gloshzoglosh_n",
+      "roman": "gloshzoglosh",
+      "coral": "hodohos",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Schrift",
+      "domains": []
+    },
+    {
+      "id": "block3_gloshzoglähsh_n",
+      "roman": "gloshzoglähsh",
+      "coral": "hodohäs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Ordnung (abstrakt)",
+      "domains": []
+    },
+    {
+      "id": "block3_blieshogläsh_n",
+      "roman": "blieshogläsh",
+      "coral": "bjsohäs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Unschuld",
+      "domains": []
+    },
+    {
+      "id": "block3_blieshoglash_n",
+      "roman": "blieshoglash",
+      "coral": "bjsohas",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Sühne",
+      "domains": []
+    },
+    {
+      "id": "block3_blieshofrähsh_n",
+      "roman": "blieshofrähsh",
+      "coral": "bjsofäs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Erneuerung",
+      "domains": []
+    },
+    {
+      "id": "block3_frashzoglash_n",
+      "roman": "frashzoglash",
+      "coral": "fadohas",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Verbrechen",
+      "domains": []
+    },
+    {
+      "id": "block3_frashzogläsh_n",
+      "roman": "frashzogläsh",
+      "coral": "fadohäs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Ankläger",
+      "domains": []
+    },
+    {
+      "id": "block3_frashzofrooshz_n",
+      "roman": "frashzofrooshz",
+      "coral": "fadofüd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Strudel",
+      "domains": []
+    },
+    {
+      "id": "block3_frashzogloshz_n",
+      "roman": "frashzogloshz",
+      "coral": "fadohod",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Generation der störrischen Kinder",
+      "domains": []
+    },
+    {
+      "id": "block4_blohshoglosh_adj",
+      "roman": "blohshoglosh",
+      "coral": "bösohos",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "gewiss; sicher",
+      "domains": []
+    },
+    {
+      "id": "block4_blohshofrähsh_adj",
+      "roman": "blohshofrähsh",
+      "coral": "bösofäs",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "fest",
+      "domains": []
+    },
+    {
+      "id": "block4_shoglashoglosh_n",
+      "roman": "shoglashoglosh",
+      "coral": "sohasohos",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Ursache; Grund; Rechtfertigung",
+      "domains": []
+    },
+    {
+      "id": "block4_fsoshofrähsh_v",
+      "roman": "fsoshofrähsh",
+      "coral": "wosofäs",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "weitergeben (von Hand zu Hand)",
+      "domains": []
+    },
+    {
+      "id": "block4_fsoshogläsh_v",
+      "roman": "fsoshogläsh",
+      "coral": "wosohäs",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "überreichen (rituell/formell)",
+      "domains": []
+    },
+    {
+      "id": "pron_abl_pron",
+      "roman": "abl",
+      "coral": "ab",
+      "ipa": "",
+      "pos": "pron",
+      "gloss_de_short": "ich; wir",
+      "domains": []
+    },
+    {
+      "id": "pron_obl_pron",
+      "roman": "obl",
+      "coral": "ob",
+      "ipa": "",
+      "pos": "pron",
+      "gloss_de_short": "du; ihr",
+      "domains": []
+    },
+    {
+      "id": "pron_ibl_pron",
+      "roman": "ibl",
+      "coral": "ib",
+      "ipa": "",
+      "pos": "pron",
+      "gloss_de_short": "er; sie; es",
+      "domains": []
+    },
+    {
+      "id": "pron_ablibl_pron",
+      "roman": "ablibl",
+      "coral": "abib",
+      "ipa": "",
+      "pos": "pron",
+      "gloss_de_short": "mein; unsere",
+      "domains": []
+    },
+    {
+      "id": "pron_oblibl_pron",
+      "roman": "oblibl",
+      "coral": "obib",
+      "ipa": "",
+      "pos": "pron",
+      "gloss_de_short": "dein; eure",
+      "domains": []
+    },
+    {
+      "id": "pron_iblibl_pron",
+      "roman": "iblibl",
+      "coral": "ibib",
+      "ipa": "",
+      "pos": "pron",
+      "gloss_de_short": "sein; ihr (3SG); ihr (3PL)",
+      "domains": []
+    },
+    {
+      "id": "pron_ablil_pron",
+      "roman": "ablil",
+      "coral": "abil",
+      "ipa": "",
+      "pos": "pron",
+      "gloss_de_short": "mich; uns",
+      "domains": []
+    },
+    {
+      "id": "pron_oblil_pron",
+      "roman": "oblil",
+      "coral": "obil",
+      "ipa": "",
+      "pos": "pron",
+      "gloss_de_short": "dich; euch",
+      "domains": []
+    },
+    {
+      "id": "pron_iblil_pron",
+      "roman": "iblil",
+      "coral": "ibil",
+      "ipa": "",
+      "pos": "pron",
+      "gloss_de_short": "ihn; ihr; ihm",
+      "domains": []
+    },
+    {
+      "id": "func_frol_conj",
+      "roman": "frol",
+      "coral": "fol",
+      "ipa": "",
+      "pos": "conj",
+      "gloss_de_short": "und",
+      "domains": []
+    },
+    {
+      "id": "func_mbol_conj",
+      "roman": "mbol",
+      "coral": "pol",
+      "ipa": "",
+      "pos": "conj",
+      "gloss_de_short": "oder",
+      "domains": []
+    },
+    {
+      "id": "func_glähl_conj",
+      "roman": "glähl",
+      "coral": "häl",
+      "ipa": "",
+      "pos": "conj",
+      "gloss_de_short": "denn",
+      "domains": []
+    },
+    {
+      "id": "func_shztoglash_conj",
+      "roman": "shztoglash",
+      "coral": "rohas",
+      "ipa": "",
+      "pos": "conj",
+      "gloss_de_short": "obwohl",
+      "domains": []
+    },
+    {
+      "id": "func_shztul_conj",
+      "roman": "shztul",
+      "coral": "rul",
+      "ipa": "",
+      "pos": "conj",
+      "gloss_de_short": "wenn",
+      "domains": []
+    },
+    {
+      "id": "func_ngol_conj",
+      "roman": "ngol",
+      "coral": "xol",
+      "ipa": "",
+      "pos": "conj",
+      "gloss_de_short": "dann",
+      "domains": []
+    },
+    {
+      "id": "func_frohsh_conj",
+      "roman": "frohsh",
+      "coral": "fös",
+      "ipa": "",
+      "pos": "conj",
+      "gloss_de_short": "damit",
+      "domains": []
+    },
+    {
+      "id": "func_bsoglash_conj",
+      "roman": "bsoglash",
+      "coral": "yohas",
+      "ipa": "",
+      "pos": "conj",
+      "gloss_de_short": "sondern",
+      "domains": []
+    },
+    {
+      "id": "func_frähl_part",
+      "roman": "frähl",
+      "coral": "fäl",
+      "ipa": "",
+      "pos": "particle",
+      "gloss_de_short": "auch",
+      "domains": []
+    },
+    {
+      "id": "func_mbiel_part",
+      "roman": "mbiel",
+      "coral": "pjl",
+      "ipa": "",
+      "pos": "particle",
+      "gloss_de_short": "nur",
+      "domains": []
+    },
+    {
+      "id": "func_glool_part",
+      "roman": "glool",
+      "coral": "hül",
+      "ipa": "",
+      "pos": "particle",
+      "gloss_de_short": "schon",
+      "domains": []
+    },
+    {
+      "id": "func_blähl_part",
+      "roman": "blähl",
+      "coral": "bäl",
+      "ipa": "",
+      "pos": "particle",
+      "gloss_de_short": "noch",
+      "domains": []
+    },
+    {
+      "id": "func_shiel_part",
+      "roman": "shiel",
+      "coral": "sjl",
+      "ipa": "",
+      "pos": "particle",
+      "gloss_de_short": "wieder",
+      "domains": []
+    },
+    {
+      "id": "func_fshool_part",
+      "roman": "fshool",
+      "coral": "vül",
+      "ipa": "",
+      "pos": "particle",
+      "gloss_de_short": "sehr",
+      "domains": []
+    },
+    {
+      "id": "func_ngähl_part",
+      "roman": "ngähl",
+      "coral": "xäl",
+      "ipa": "",
+      "pos": "particle",
+      "gloss_de_short": "fast",
+      "domains": []
+    },
+    {
+      "id": "func_gsiel_part",
+      "roman": "gsiel",
+      "coral": "qjl",
+      "ipa": "",
+      "pos": "particle",
+      "gloss_de_short": "genug",
+      "domains": []
+    },
+    {
+      "id": "func_friel_part",
+      "roman": "friel",
+      "coral": "fjl",
+      "ipa": "",
+      "pos": "particle",
+      "gloss_de_short": "sogar",
+      "domains": []
+    },
+    {
+      "id": "func_bsiel_part",
+      "roman": "bsiel",
+      "coral": "yjl",
+      "ipa": "",
+      "pos": "particle",
+      "gloss_de_short": "erst",
+      "domains": []
+    },
+    {
+      "id": "verb_blala",
+      "roman": "blala",
+      "coral": "bala",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "sein",
+      "domains": []
+    },
+    {
+      "id": "verb_frula",
+      "roman": "frula",
+      "coral": "fula",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "werden",
+      "domains": []
+    },
+    {
+      "id": "verb_glala",
+      "roman": "glala",
+      "coral": "hala",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "gehen",
+      "domains": []
+    },
+    {
+      "id": "verb_mbula",
+      "roman": "mbula",
+      "coral": "pula",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "kommen",
+      "domains": []
+    },
+    {
+      "id": "verb_shale",
+      "roman": "shale",
+      "coral": "sale",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "sehen",
+      "domains": []
+    },
+    {
+      "id": "verb_brala",
+      "roman": "brala",
+      "coral": "cala",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "geben",
+      "domains": []
+    },
+    {
+      "id": "verb_ngala",
+      "roman": "ngala",
+      "coral": "xala",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "nehmen",
+      "domains": []
+    },
+    {
+      "id": "verb_fshale",
+      "roman": "fshale",
+      "coral": "vale",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "machen",
+      "domains": []
+    },
+    {
+      "id": "verb_gsala",
+      "roman": "gsala",
+      "coral": "qala",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "sagen",
+      "domains": []
+    },
+    {
+      "id": "verb_blula",
+      "roman": "blula",
+      "coral": "bula",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "bleiben",
+      "domains": []
+    },
+    {
+      "id": "prep_glal",
+      "roman": "glal",
+      "coral": "hal",
+      "ipa": "",
+      "pos": "prep",
+      "gloss_de_short": "in",
+      "domains": []
+    },
+    {
+      "id": "prep_mbel",
+      "roman": "mbel",
+      "coral": "pel",
+      "ipa": "",
+      "pos": "prep",
+      "gloss_de_short": "auf",
+      "domains": []
+    },
+    {
+      "id": "prep_frul",
+      "roman": "frul",
+      "coral": "ful",
+      "ipa": "",
+      "pos": "prep",
+      "gloss_de_short": "unter",
+      "domains": []
+    },
+    {
+      "id": "prep_ngal",
+      "roman": "ngal",
+      "coral": "xal",
+      "ipa": "",
+      "pos": "prep",
+      "gloss_de_short": "über",
+      "domains": []
+    },
+    {
+      "id": "prep_bral",
+      "roman": "bral",
+      "coral": "cal",
+      "ipa": "",
+      "pos": "prep",
+      "gloss_de_short": "bei",
+      "domains": []
+    },
+    {
+      "id": "prep_gsal",
+      "roman": "gsal",
+      "coral": "qal",
+      "ipa": "",
+      "pos": "prep",
+      "gloss_de_short": "mit",
+      "domains": []
+    },
+    {
+      "id": "prep_fsul",
+      "roman": "fsul",
+      "coral": "wul",
+      "ipa": "",
+      "pos": "prep",
+      "gloss_de_short": "von; aus",
+      "domains": []
+    },
+    {
+      "id": "prep_blol",
+      "roman": "blol",
+      "coral": "bol",
+      "ipa": "",
+      "pos": "prep",
+      "gloss_de_short": "zu",
+      "domains": []
+    },
+    {
+      "id": "prep_bsal",
+      "roman": "bsal",
+      "coral": "yal",
+      "ipa": "",
+      "pos": "prep",
+      "gloss_de_short": "zwischen",
+      "domains": []
+    },
+    {
+      "id": "prep_shul",
+      "roman": "shul",
+      "coral": "sul",
+      "ipa": "",
+      "pos": "prep",
+      "gloss_de_short": "vor",
+      "domains": []
+    },
+    {
+      "id": "prep_glel",
+      "roman": "glel",
+      "coral": "hel",
+      "ipa": "",
+      "pos": "prep",
+      "gloss_de_short": "nach",
+      "domains": []
+    },
+    {
+      "id": "prep_glil",
+      "roman": "glil",
+      "coral": "hil",
+      "ipa": "",
+      "pos": "prep",
+      "gloss_de_short": "ohne",
+      "domains": []
+    },
+    {
+      "id": "poe_shalash",
+      "roman": "shalash",
+      "coral": "salas",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Stimme",
+      "domains": []
+    },
+    {
+      "id": "poe_glesh",
+      "roman": "glesh",
+      "coral": "hes",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Licht",
+      "domains": []
+    },
+    {
+      "id": "poe_ngohl",
+      "roman": "ngohl",
+      "coral": "xöl",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Dunkel",
+      "domains": []
+    },
+    {
+      "id": "poe_fruloosh",
+      "roman": "fruloosh",
+      "coral": "fulüs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Ferne",
+      "domains": []
+    },
+    {
+      "id": "poe_shztol",
+      "roman": "shztol",
+      "coral": "rol",
+      "ipa": "",
+      "pos": "adv",
+      "gloss_de_short": "jetzt",
+      "domains": []
+    },
+    {
+      "id": "poe_blolohsh",
+      "roman": "blolohsh",
+      "coral": "bolös",
+      "ipa": "",
+      "pos": "adv",
+      "gloss_de_short": "damals",
+      "domains": []
+    },
+    {
+      "id": "poe_shohl",
+      "roman": "shohl",
+      "coral": "söl",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Ruhe",
+      "domains": []
+    },
+    {
+      "id": "poe_ngohlähsh",
+      "roman": "ngohlähsh",
+      "coral": "xöläs",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Unruhe",
+      "domains": []
+    },
+    {
+      "id": "poe_frelesh",
+      "roman": "frelesh",
+      "coral": "feles",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Fremde",
+      "domains": []
+    },
+    {
+      "id": "verb_grala",
+      "roman": "grala",
+      "coral": "gala",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "tragen",
+      "domains": []
+    },
+    {
+      "id": "verb_gsula",
+      "roman": "gsula",
+      "coral": "qula",
+      "ipa": "",
+      "pos": "verb",
+      "gloss_de_short": "rufen",
+      "domains": []
     }
   ]
 }
