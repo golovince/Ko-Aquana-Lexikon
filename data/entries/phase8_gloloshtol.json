@@ -1,0 +1,17 @@
+{
+  "id": "phase8_gloloshtol",
+  "headword": {
+    "roman": "gloloshtol",
+    "coral": "holotol",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Seeigel"
+  ],
+  "meta": {
+    "phase": "VIII",
+    "status": "stable"
+  },
+  "korallisch": "holotol"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "patch_shobrongalish",
+  "headword": {
+    "roman": "shobrongalish",
+    "ipa": "",
+    "coral": "socoxalis"
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "lügnerisch"
+  ],
+  "korallisch": "socoxalis",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_soapopera_patch_NO_BROOBS.json"
+  }
+}

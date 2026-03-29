@@ -1,0 +1,17 @@
+{
+  "id": "phase8_fsifs",
+  "headword": {
+    "roman": "fsifs",
+    "coral": "wiw",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Erwachsener (Kuo-Toa)"
+  ],
+  "meta": {
+    "phase": "VIII",
+    "status": "stable"
+  },
+  "korallisch": "wiw"
+}

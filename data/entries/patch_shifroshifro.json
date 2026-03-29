@@ -1,0 +1,50 @@
+{
+  "id": "patch_shifroshifro",
+  "headword": {
+    "roman": "shifroshifro",
+    "ipa": "",
+    "coral": "sifosifo"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "wiederholt stechen; durchbohren"
+  ],
+  "korallisch": "sifosifo",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_lexicon_weapon_patch.json"
+  },
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shifroshifro",
+          "coral": "sifosifo"
+        },
+        "2sg": {
+          "roman": "shifroshifroi",
+          "coral": "sifosifoi"
+        },
+        "3sg": {
+          "roman": "shifroshifroie",
+          "coral": "sifosifoj"
+        },
+        "1pl": {
+          "roman": "shifroshifroh",
+          "coral": "sifosifö"
+        },
+        "2pl": {
+          "roman": "shifroshifrohi",
+          "coral": "sifosiföi"
+        },
+        "3pl": {
+          "roman": "shifroshifrohie",
+          "coral": "sifosiföj"
+        }
+      }
+    }
+  }
+}

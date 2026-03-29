@@ -1,0 +1,19 @@
+{
+  "id": "phase8_fsish",
+  "headword": {
+    "roman": "fsish",
+    "coral": "wis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Kuo-Toa",
+    "Person",
+    "intelligentes Fischwesen"
+  ],
+  "meta": {
+    "phase": "VIII",
+    "status": "stable"
+  },
+  "korallisch": "wis"
+}

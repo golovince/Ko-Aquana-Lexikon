@@ -1,0 +1,49 @@
+{
+  "id": "phase8_mbeshzoshu",
+  "headword": {
+    "roman": "mbeshzoshu",
+    "coral": "pedosu",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "lungenatmen"
+  ],
+  "meta": {
+    "phase": "VIII",
+    "status": "stable"
+  },
+  "korallisch": "pedosu",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mbeshzoshu",
+          "coral": "pedosu"
+        },
+        "2sg": {
+          "roman": "mbeshzoshui",
+          "coral": "pedosui"
+        },
+        "3sg": {
+          "roman": "mbeshzoshuie",
+          "coral": "pedosuj"
+        },
+        "1pl": {
+          "roman": "mbeshzoshoo",
+          "coral": "pedosü"
+        },
+        "2pl": {
+          "roman": "mbeshzoshooi",
+          "coral": "pedosüi"
+        },
+        "3pl": {
+          "roman": "mbeshzoshooie",
+          "coral": "pedosüj"
+        }
+      }
+    }
+  }
+}

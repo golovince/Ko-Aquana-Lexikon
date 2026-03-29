@@ -1,0 +1,49 @@
+{
+  "id": "phase8_fsi",
+  "headword": {
+    "roman": "fsi",
+    "coral": "wi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "aufwachsen"
+  ],
+  "meta": {
+    "phase": "VIII",
+    "status": "stable"
+  },
+  "korallisch": "wi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fsi",
+          "coral": "wi"
+        },
+        "2sg": {
+          "roman": "fsio",
+          "coral": "wio"
+        },
+        "3sg": {
+          "roman": "fsioh",
+          "coral": "wiö"
+        },
+        "1pl": {
+          "roman": "fsie",
+          "coral": "wj"
+        },
+        "2pl": {
+          "roman": "fsieo",
+          "coral": "wjo"
+        },
+        "3pl": {
+          "roman": "fsieoh",
+          "coral": "wjö"
+        }
+      }
+    }
+  }
+}

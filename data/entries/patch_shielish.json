@@ -1,0 +1,19 @@
+{
+  "id": "patch_shielish",
+  "headword": {
+    "roman": "shielish",
+    "ipa": "",
+    "coral": "sjlis"
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "gewöhnlich; alltäglich; normal"
+  ],
+  "korallisch": "sjlis",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_shiel_patch.json"
+  },
+  "notes": "Basis für shielishombeshz (Mensch)."
+}

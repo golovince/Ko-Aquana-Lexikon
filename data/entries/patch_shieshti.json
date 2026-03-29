@@ -1,0 +1,51 @@
+{
+  "id": "patch_shieshti",
+  "headword": {
+    "roman": "shieshti",
+    "ipa": "",
+    "coral": "sjti"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "beobachten"
+  ],
+  "korallisch": "sjti",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_shiel_patch.json"
+  },
+  "notes": "Intensivierte Form von shieli (sehen).",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shieshti",
+          "coral": "sjti"
+        },
+        "2sg": {
+          "roman": "shieshtio",
+          "coral": "sjtio"
+        },
+        "3sg": {
+          "roman": "shieshtioh",
+          "coral": "sjtiö"
+        },
+        "1pl": {
+          "roman": "shieshtie",
+          "coral": "sjtj"
+        },
+        "2pl": {
+          "roman": "shieshtieo",
+          "coral": "sjtjo"
+        },
+        "3pl": {
+          "roman": "shieshtieoh",
+          "coral": "sjtjö"
+        }
+      }
+    }
+  }
+}

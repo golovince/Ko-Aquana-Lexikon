@@ -1,0 +1,50 @@
+{
+  "id": "patch_sholshifshale",
+  "headword": {
+    "roman": "sholshifshale",
+    "ipa": "",
+    "coral": "solsivale"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "konspirieren; hintergehen"
+  ],
+  "korallisch": "solsivale",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_soapopera_patch_NO_BROOBS.json"
+  },
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "sholshifshale",
+          "coral": "solsivale"
+        },
+        "2sg": {
+          "roman": "sholshifshalei",
+          "coral": "solsivalei"
+        },
+        "3sg": {
+          "roman": "sholshifshaleie",
+          "coral": "solsivalej"
+        },
+        "1pl": {
+          "roman": "sholshifshaläh",
+          "coral": "solsivalä"
+        },
+        "2pl": {
+          "roman": "sholshifshalähi",
+          "coral": "solsivaläi"
+        },
+        "3pl": {
+          "roman": "sholshifshalähie",
+          "coral": "solsivaläj"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "patch_ngolofrulish",
+  "headword": {
+    "roman": "ngolofrulish",
+    "ipa": "",
+    "coral": "xolofulis"
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "unverträglich, nicht bekömmlich"
+  ],
+  "korallisch": "xolofulis",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_food_tolerability_patch.json"
+  },
+  "notes": "Negation von frulish"
+}

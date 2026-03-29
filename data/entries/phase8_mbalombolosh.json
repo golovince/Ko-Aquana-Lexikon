@@ -1,0 +1,19 @@
+{
+  "id": "phase8_mbalombolosh",
+  "headword": {
+    "roman": "mbalombolosh",
+    "coral": "palopolos",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Delfin",
+    "Rückenflosse"
+  ],
+  "meta": {
+    "phase": "VIII",
+    "status": "stable",
+    "note": "historisch verkürzt aus einer älteren NP"
+  },
+  "korallisch": "palopolos"
+}

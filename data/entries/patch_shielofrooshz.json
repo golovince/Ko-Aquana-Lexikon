@@ -1,0 +1,19 @@
+{
+  "id": "patch_shielofrooshz",
+  "headword": {
+    "roman": "shielofrooshz",
+    "ipa": "",
+    "coral": "sjlofüd"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Erinnerung"
+  ],
+  "korallisch": "sjlofüd",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_shiel_patch.json"
+  },
+  "notes": "Wörtl. etwa: gesehene Strömung; mental bewahrtes Erleben."
+}

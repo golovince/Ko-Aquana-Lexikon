@@ -1,0 +1,19 @@
+{
+  "id": "phase8_loofs",
+  "headword": {
+    "roman": "loofs",
+    "coral": "lüw",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Atmosphäre",
+    "Luft"
+  ],
+  "meta": {
+    "phase": "VIII",
+    "status": "stable",
+    "note": "positiver Begriff für den belebten Luftraum"
+  },
+  "korallisch": "lüw"
+}

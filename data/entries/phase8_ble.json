@@ -1,0 +1,50 @@
+{
+  "id": "phase8_ble",
+  "headword": {
+    "roman": "ble",
+    "coral": "be",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "reiten"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Phase VIII – Natur & Tierwelt",
+    "note": "Verb zu blebl."
+  },
+  "korallisch": "be",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "ble",
+          "coral": "be"
+        },
+        "2sg": {
+          "roman": "blei",
+          "coral": "bei"
+        },
+        "3sg": {
+          "roman": "bleie",
+          "coral": "bej"
+        },
+        "1pl": {
+          "roman": "bläh",
+          "coral": "bä"
+        },
+        "2pl": {
+          "roman": "blähi",
+          "coral": "bäi"
+        },
+        "3pl": {
+          "roman": "blähie",
+          "coral": "bäj"
+        }
+      }
+    }
+  }
+}

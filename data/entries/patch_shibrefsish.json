@@ -1,0 +1,18 @@
+{
+  "id": "patch_shibrefsish",
+  "headword": {
+    "roman": "shibrefsish",
+    "ipa": "",
+    "coral": "sicewis"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Befehlshaber; Kommandant*in"
+  ],
+  "korallisch": "sicewis",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_shilishosh_revolution_patch.json"
+  }
+}

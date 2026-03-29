@@ -1,0 +1,50 @@
+{
+  "id": "patch_ngolofruleli",
+  "headword": {
+    "roman": "ngolofruleli",
+    "ipa": "",
+    "coral": "xolofuleli"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "widerstehen; sich widersetzen"
+  ],
+  "korallisch": "xolofuleli",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_existenz_emotion_luecken_patch.json"
+  },
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "ngolofruleli",
+          "coral": "xolofuleli"
+        },
+        "2sg": {
+          "roman": "ngolofrulelio",
+          "coral": "xolofulelio"
+        },
+        "3sg": {
+          "roman": "ngolofrulelioh",
+          "coral": "xolofuleliö"
+        },
+        "1pl": {
+          "roman": "ngolofrulelie",
+          "coral": "xolofulelj"
+        },
+        "2pl": {
+          "roman": "ngolofrulelieo",
+          "coral": "xolofuleljo"
+        },
+        "3pl": {
+          "roman": "ngolofrulelieoh",
+          "coral": "xolofuleljö"
+        }
+      }
+    }
+  }
+}

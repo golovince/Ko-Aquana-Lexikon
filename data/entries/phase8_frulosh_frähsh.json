@@ -1,0 +1,17 @@
+{
+  "id": "phase8_frulosh_frähsh",
+  "headword": {
+    "roman": "frulosh frähsh",
+    "coral": "fulosnfäs",
+    "ipa": ""
+  },
+  "pos": "np",
+  "gloss_de": [
+    "Stachelrochen"
+  ],
+  "meta": {
+    "phase": "VIII",
+    "status": "stable"
+  },
+  "korallisch": "fulosnfäs"
+}

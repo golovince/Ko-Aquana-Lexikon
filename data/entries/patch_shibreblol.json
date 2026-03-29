@@ -1,0 +1,18 @@
+{
+  "id": "patch_shibreblol",
+  "headword": {
+    "roman": "shibreblol",
+    "ipa": "",
+    "coral": "sicebol"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Befehl; Anordnung"
+  ],
+  "korallisch": "sicebol",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_shilishosh_revolution_patch.json"
+  }
+}

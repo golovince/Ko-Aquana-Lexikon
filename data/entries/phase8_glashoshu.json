@@ -1,0 +1,49 @@
+{
+  "id": "phase8_glashoshu",
+  "headword": {
+    "roman": "glashoshu",
+    "coral": "hasosu",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "kiemenatmen"
+  ],
+  "meta": {
+    "phase": "VIII",
+    "status": "stable"
+  },
+  "korallisch": "hasosu",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "glashoshu",
+          "coral": "hasosu"
+        },
+        "2sg": {
+          "roman": "glashoshui",
+          "coral": "hasosui"
+        },
+        "3sg": {
+          "roman": "glashoshuie",
+          "coral": "hasosuj"
+        },
+        "1pl": {
+          "roman": "glashoshoo",
+          "coral": "hasosü"
+        },
+        "2pl": {
+          "roman": "glashoshooi",
+          "coral": "hasosüi"
+        },
+        "3pl": {
+          "roman": "glashoshooie",
+          "coral": "hasosüj"
+        }
+      }
+    }
+  }
+}

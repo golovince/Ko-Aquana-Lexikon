@@ -1,0 +1,18 @@
+{
+  "id": "phase8_frähshofrooshzofrähsh",
+  "headword": {
+    "roman": "frähshofrooshzofrähsh",
+    "coral": "fäsofüdofäs",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Sturmzeit"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Phase VIII – Natur & Tierwelt",
+    "note": "Form angepasst, um shzf-Graphemkollision zu vermeiden."
+  },
+  "korallisch": "fäsofüdofäs"
+}

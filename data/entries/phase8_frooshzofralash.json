@@ -1,0 +1,18 @@
+{
+  "id": "phase8_frooshzofralash",
+  "headword": {
+    "roman": "frooshzofralash",
+    "coral": "füdofalas",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Welle"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Phase VIII – Natur & Tierwelt",
+    "note": "Form angepasst, um shzf-Graphemkollision zu vermeiden."
+  },
+  "korallisch": "füdofalas"
+}

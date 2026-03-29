@@ -1,0 +1,49 @@
+{
+  "id": "patch_ngolofrooshza",
+  "headword": {
+    "roman": "ngolofrooshza",
+    "ipa": "",
+    "coral": "xolofüda"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "gefangen halten"
+  ],
+  "korallisch": "xolofüda",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1"
+  },
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "ngolofrooshza",
+          "coral": "xolofüda"
+        },
+        "2sg": {
+          "roman": "ngolofrooshzai",
+          "coral": "xolofüdai"
+        },
+        "3sg": {
+          "roman": "ngolofrooshzaie",
+          "coral": "xolofüdaj"
+        },
+        "1pl": {
+          "roman": "ngolofrooshzah",
+          "coral": "xolofüdm"
+        },
+        "2pl": {
+          "roman": "ngolofrooshzahi",
+          "coral": "xolofüdmi"
+        },
+        "3pl": {
+          "roman": "ngolofrooshzahie",
+          "coral": "xolofüdmj"
+        }
+      }
+    }
+  }
+}

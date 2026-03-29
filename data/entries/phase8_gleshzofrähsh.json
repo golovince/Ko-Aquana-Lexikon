@@ -1,0 +1,18 @@
+{
+  "id": "phase8_gleshzofrähsh",
+  "headword": {
+    "roman": "gleshzfähsh",
+    "coral": "hezäs",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Tag"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Phase VIII – Natur & Tierwelt",
+    "note": "Form angepasst, um shzf-Graphemkollision zu vermeiden."
+  },
+  "korallisch": "hezäs"
+}

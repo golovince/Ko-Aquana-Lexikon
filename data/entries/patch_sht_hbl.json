@@ -1,0 +1,18 @@
+{
+  "id": "patch_sht_hbl",
+  "headword": {
+    "roman": "shtähbl",
+    "ipa": "",
+    "coral": "täb"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Stab; Ast; Korallenarm"
+  ],
+  "korallisch": "täb",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_lexicon_weapon_patch.json"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "phase8_frähshofrul",
+  "headword": {
+    "roman": "frähshofrul",
+    "ipa": "",
+    "coral": "fäsoful"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Hai"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Phase VIII – Natur & Tierwelt",
+    "patched_from": "ko_aquana_lexicon_marine_bundle_patch.json"
+  },
+  "korallisch": "fäsoful"
+}

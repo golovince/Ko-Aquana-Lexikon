@@ -1,0 +1,50 @@
+{
+  "id": "patch_shielobrofsi",
+  "headword": {
+    "roman": "shielobrofsi",
+    "ipa": "",
+    "coral": "sjlocowi"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "offenbaren; enthüllen"
+  ],
+  "korallisch": "sjlocowi",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_existenz_emotion_luecken_patch.json"
+  },
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shielobrofsi",
+          "coral": "sjlocowi"
+        },
+        "2sg": {
+          "roman": "shielobrofsio",
+          "coral": "sjlocowio"
+        },
+        "3sg": {
+          "roman": "shielobrofsioh",
+          "coral": "sjlocowiö"
+        },
+        "1pl": {
+          "roman": "shielobrofsie",
+          "coral": "sjlocowj"
+        },
+        "2pl": {
+          "roman": "shielobrofsieo",
+          "coral": "sjlocowjo"
+        },
+        "3pl": {
+          "roman": "shielobrofsieoh",
+          "coral": "sjlocowjö"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "patch_sholshi",
+  "headword": {
+    "roman": "sholshi",
+    "ipa": "",
+    "coral": "solsi"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "verstecken"
+  ],
+  "korallisch": "solsi",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_sholshi_patch.json"
+  },
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "sholshi",
+          "coral": "solsi"
+        },
+        "2sg": {
+          "roman": "sholshio",
+          "coral": "solsio"
+        },
+        "3sg": {
+          "roman": "sholshioh",
+          "coral": "solsiö"
+        },
+        "1pl": {
+          "roman": "sholshie",
+          "coral": "solsj"
+        },
+        "2pl": {
+          "roman": "sholshieo",
+          "coral": "solsjo"
+        },
+        "3pl": {
+          "roman": "sholshieoh",
+          "coral": "solsjö"
+        }
+      }
+    }
+  }
+}

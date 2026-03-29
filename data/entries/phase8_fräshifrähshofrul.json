@@ -1,0 +1,19 @@
+{
+  "id": "phase8_fräshifrähshofrul",
+  "headword": {
+    "roman": "fräshifrähshofrul",
+    "ipa": "",
+    "coral": "fäsifäsoful"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Hammerhai"
+  ],
+  "meta": {
+    "phase": "VIII",
+    "status": "stable",
+    "note": "ersetzt NP ‚frähshofrul zfol‘; eigene Morphologie akzeptiert",
+    "patched_from": "ko_aquana_lexicon_marine_bundle_patch.json"
+  },
+  "korallisch": "fäsifäsoful"
+}

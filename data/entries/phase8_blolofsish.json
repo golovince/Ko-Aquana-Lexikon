@@ -1,0 +1,18 @@
+{
+  "id": "phase8_blolofsish",
+  "headword": {
+    "roman": "blolofsish",
+    "coral": "bolowis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Leute",
+    "Volk"
+  ],
+  "meta": {
+    "phase": "VIII",
+    "status": "stable"
+  },
+  "korallisch": "bolowis"
+}

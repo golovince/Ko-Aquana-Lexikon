@@ -1,0 +1,18 @@
+{
+  "id": "phase8_glolagl",
+  "headword": {
+    "roman": "glolagl",
+    "coral": "holah",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Taucher"
+  ],
+  "meta": {
+    "phase": "VIII",
+    "status": "stable",
+    "note": "Agensbildung zu ‚glola‘"
+  },
+  "korallisch": "holah"
+}

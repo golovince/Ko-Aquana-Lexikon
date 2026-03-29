@@ -1,0 +1,50 @@
+{
+  "id": "patch_shobrongali",
+  "headword": {
+    "roman": "shobrongali",
+    "ipa": "",
+    "coral": "socoxali"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "lügen"
+  ],
+  "korallisch": "socoxali",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_soapopera_patch_NO_BROOBS.json"
+  },
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shobrongali",
+          "coral": "socoxali"
+        },
+        "2sg": {
+          "roman": "shobrongalio",
+          "coral": "socoxalio"
+        },
+        "3sg": {
+          "roman": "shobrongalioh",
+          "coral": "socoxaliö"
+        },
+        "1pl": {
+          "roman": "shobrongalie",
+          "coral": "socoxalj"
+        },
+        "2pl": {
+          "roman": "shobrongalieo",
+          "coral": "socoxaljo"
+        },
+        "3pl": {
+          "roman": "shobrongalieoh",
+          "coral": "socoxaljö"
+        }
+      }
+    }
+  }
+}

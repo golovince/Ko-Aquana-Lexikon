@@ -1,0 +1,18 @@
+{
+  "id": "phase8_ngolofrooshzofralash",
+  "headword": {
+    "roman": "ngolofrooshzofralash",
+    "coral": "xolofüdofalas",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Wind"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Phase VIII – Natur & Tierwelt",
+    "note": "Form angepasst, um shzf-Graphemkollision zu vermeiden."
+  },
+  "korallisch": "xolofüdofalas"
+}

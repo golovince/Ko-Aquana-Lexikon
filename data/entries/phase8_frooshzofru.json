@@ -1,0 +1,50 @@
+{
+  "id": "phase8_frooshzofru",
+  "headword": {
+    "roman": "frooshzofru",
+    "coral": "füdofu",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "regnen"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Phase VIII – Natur & Tierwelt",
+    "note": "Verb: regnen."
+  },
+  "korallisch": "füdofu",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "frooshzofru",
+          "coral": "füdofu"
+        },
+        "2sg": {
+          "roman": "frooshzofrui",
+          "coral": "füdofui"
+        },
+        "3sg": {
+          "roman": "frooshzofruie",
+          "coral": "füdofuj"
+        },
+        "1pl": {
+          "roman": "frooshzofroo",
+          "coral": "füdofü"
+        },
+        "2pl": {
+          "roman": "frooshzofrooi",
+          "coral": "füdofüi"
+        },
+        "3pl": {
+          "roman": "frooshzofrooie",
+          "coral": "füdofüj"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "patch_ngolofrulelish",
+  "headword": {
+    "roman": "ngolofrulelish",
+    "ipa": "",
+    "coral": "xolofulelis"
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "widerständig"
+  ],
+  "korallisch": "xolofulelis",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_existenz_emotion_luecken_patch.json"
+  }
+}

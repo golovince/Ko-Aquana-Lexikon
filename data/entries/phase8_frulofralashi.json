@@ -1,0 +1,49 @@
+{
+  "id": "phase8_frulofralashi",
+  "headword": {
+    "roman": "frulofralashi",
+    "coral": "fulofalasi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "Fischzucht betreiben"
+  ],
+  "meta": {
+    "phase": "VIII",
+    "status": "stable"
+  },
+  "korallisch": "fulofalasi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "frulofralashi",
+          "coral": "fulofalasi"
+        },
+        "2sg": {
+          "roman": "frulofralashio",
+          "coral": "fulofalasio"
+        },
+        "3sg": {
+          "roman": "frulofralashioh",
+          "coral": "fulofalasiö"
+        },
+        "1pl": {
+          "roman": "frulofralashie",
+          "coral": "fulofalasj"
+        },
+        "2pl": {
+          "roman": "frulofralashieo",
+          "coral": "fulofalasjo"
+        },
+        "3pl": {
+          "roman": "frulofralashieoh",
+          "coral": "fulofalasjö"
+        }
+      }
+    }
+  }
+}
