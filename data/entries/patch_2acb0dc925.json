@@ -1,0 +1,49 @@
+{
+  "id": "patch_2acb0dc925",
+  "headword": {
+    "roman": "mbongufrashzu",
+    "coral": "poxufadu",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "Wunde heilen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json"
+  },
+  "korallisch": "poxufadu",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mbongufrashzu",
+          "coral": "poxufadu"
+        },
+        "2sg": {
+          "roman": "mbongufrashzui",
+          "coral": "poxufadui"
+        },
+        "3sg": {
+          "roman": "mbongufrashzuie",
+          "coral": "poxufaduj"
+        },
+        "1pl": {
+          "roman": "mbongufrashzoo",
+          "coral": "poxufadü"
+        },
+        "2pl": {
+          "roman": "mbongufrashzooi",
+          "coral": "poxufadüi"
+        },
+        "3pl": {
+          "roman": "mbongufrashzooie",
+          "coral": "poxufadüj"
+        }
+      }
+    }
+  }
+}

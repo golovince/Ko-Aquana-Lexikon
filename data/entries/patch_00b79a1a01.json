@@ -1,0 +1,17 @@
+{
+  "id": "patch_00b79a1a01",
+  "headword": {
+    "roman": "shzushofrish",
+    "coral": "dusofis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Knie"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "dusofis"
+}

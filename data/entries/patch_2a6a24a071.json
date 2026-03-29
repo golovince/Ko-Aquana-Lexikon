@@ -1,0 +1,50 @@
+{
+  "id": "patch_2a6a24a071",
+  "headword": {
+    "roman": "mbala",
+    "coral": "pala",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "greifen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "pala",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mbala",
+          "coral": "pala"
+        },
+        "2sg": {
+          "roman": "mbalai",
+          "coral": "palai"
+        },
+        "3sg": {
+          "roman": "mbalaie",
+          "coral": "palaj"
+        },
+        "1pl": {
+          "roman": "mbalah",
+          "coral": "palm"
+        },
+        "2pl": {
+          "roman": "mbalahi",
+          "coral": "palmi"
+        },
+        "3pl": {
+          "roman": "mbalahie",
+          "coral": "palmj"
+        }
+      }
+    }
+  }
+}

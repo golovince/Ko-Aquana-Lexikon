@@ -1,0 +1,50 @@
+{
+  "id": "patch_0eeca9029e",
+  "headword": {
+    "roman": "shzublo",
+    "coral": "dubo",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "Ei legen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "dubo",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shzublo",
+          "coral": "dubo"
+        },
+        "2sg": {
+          "roman": "shzubloi",
+          "coral": "duboi"
+        },
+        "3sg": {
+          "roman": "shzubloie",
+          "coral": "duboj"
+        },
+        "1pl": {
+          "roman": "shzubloh",
+          "coral": "dubö"
+        },
+        "2pl": {
+          "roman": "shzublohi",
+          "coral": "duböi"
+        },
+        "3pl": {
+          "roman": "shzublohie",
+          "coral": "duböj"
+        }
+      }
+    }
+  }
+}

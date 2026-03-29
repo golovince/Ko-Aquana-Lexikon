@@ -1,0 +1,17 @@
+{
+  "id": "patch_1d1819723f",
+  "headword": {
+    "roman": "brohglongal",
+    "coral": "cöhoxal",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Erz"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_expansion_patch.json"
+  },
+  "korallisch": "cöhoxal"
+}

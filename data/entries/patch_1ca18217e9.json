@@ -1,0 +1,17 @@
+{
+  "id": "patch_1ca18217e9",
+  "headword": {
+    "roman": "glefr",
+    "coral": "hef",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Wissen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_knowledge_patch.json"
+  },
+  "korallisch": "hef"
+}

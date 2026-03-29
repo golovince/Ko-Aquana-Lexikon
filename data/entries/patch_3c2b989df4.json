@@ -1,0 +1,17 @@
+{
+  "id": "patch_3c2b989df4",
+  "headword": {
+    "roman": "sholibr",
+    "coral": "solic",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Rippen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "solic"
+}

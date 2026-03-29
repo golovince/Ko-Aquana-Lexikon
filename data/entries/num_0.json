@@ -1,0 +1,20 @@
+{
+  "id": "num_0",
+  "headword": {
+    "roman": "ngul",
+    "coral": "xul",
+    "ipa": ""
+  },
+  "pos": "num",
+  "gloss_de": [
+    "kein (Zahl)",
+    "null"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Zahlen – Basis-4",
+    "value_base10": 0,
+    "note": "Zahlen > Basis werden zusammengeschrieben; -e- als Silbenbinder zwischen Komponenten."
+  },
+  "korallisch": "xul"
+}

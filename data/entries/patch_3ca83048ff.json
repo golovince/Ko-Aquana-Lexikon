@@ -1,0 +1,17 @@
+{
+  "id": "patch_3ca83048ff",
+  "headword": {
+    "roman": "gleshzt",
+    "coral": "her",
+    "ipa": ""
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "wissend"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_knowledge_patch.json"
+  },
+  "korallisch": "her"
+}

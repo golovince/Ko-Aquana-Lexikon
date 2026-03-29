@@ -8,8 +8,9 @@
   "pos": "particle",
   "subpos": "distance",
   "gloss_de": [
+    "fern von",
     "weg von",
-    "fern von"
+    "wegwärts"
   ],
   "grammar": {
     "scope": "phrasal"

@@ -1,0 +1,49 @@
+{
+  "id": "patch_2c92a9ee5f",
+  "headword": {
+    "roman": "fshoshzifrulu",
+    "coral": "vodifulu",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "Koralle schneiden, ernten"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "vodifulu",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshoshzifrulu",
+          "coral": "vodifulu"
+        },
+        "2sg": {
+          "roman": "fshoshzifrului",
+          "coral": "vodifului"
+        },
+        "3sg": {
+          "roman": "fshoshzifruluie",
+          "coral": "vodifuluj"
+        },
+        "1pl": {
+          "roman": "fshoshzifruloo",
+          "coral": "vodifulü"
+        },
+        "2pl": {
+          "roman": "fshoshzifrulooi",
+          "coral": "vodifulüi"
+        },
+        "3pl": {
+          "roman": "fshoshzifrulooie",
+          "coral": "vodifulüj"
+        }
+      }
+    }
+  }
+}

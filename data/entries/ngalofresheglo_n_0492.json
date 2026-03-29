@@ -1,0 +1,53 @@
+{
+  "id": "ngalofresheglo_n_0492",
+  "headword": {
+    "roman": "ngalofresheglobs",
+    "ipa": "",
+    "coral": "xalofesehoy"
+  },
+  "pos": "noun",
+  "subpos": "",
+  "gloss_de": [
+    "eingebildetes Ungeheuer",
+    "scheinbares Monster"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "ng",
+      "a",
+      "l",
+      "o",
+      "fr",
+      "e",
+      "sh",
+      "e",
+      "gl",
+      "o",
+      "bs"
+    ],
+    "tokens_coral": [
+      "x",
+      "a",
+      "l",
+      "o",
+      "f",
+      "e",
+      "s",
+      "e",
+      "h",
+      "o",
+      "y"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "myth",
+      "monsters"
+    ]
+  },
+  "korallisch": "xalofesehoy"
+}

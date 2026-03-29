@@ -1,0 +1,46 @@
+{
+  "id": "mbongofsish_n_0495",
+  "headword": {
+    "roman": "mbongofsish",
+    "ipa": "",
+    "coral": "poxowis"
+  },
+  "pos": "noun",
+  "subpos": "",
+  "gloss_de": [
+    "Held",
+    "Retter"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "mb",
+      "o",
+      "ng",
+      "o",
+      "fs",
+      "i",
+      "sh"
+    ],
+    "tokens_coral": [
+      "p",
+      "o",
+      "x",
+      "o",
+      "w",
+      "i",
+      "s"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "myth",
+      "social",
+      "roles"
+    ]
+  },
+  "korallisch": "poxowis"
+}

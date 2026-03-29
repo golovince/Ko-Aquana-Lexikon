@@ -1,0 +1,51 @@
+{
+  "id": "mbongofrmbongo_n_0504",
+  "headword": {
+    "roman": "mbongofrmbongofr",
+    "ipa": "",
+    "coral": "poxofpoxof"
+  },
+  "pos": "noun",
+  "subpos": "",
+  "gloss_de": [
+    "Lebensrettung"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "mb",
+      "o",
+      "ng",
+      "o",
+      "fr",
+      "mb",
+      "o",
+      "ng",
+      "o",
+      "fr"
+    ],
+    "tokens_coral": [
+      "p",
+      "o",
+      "x",
+      "o",
+      "f",
+      "p",
+      "o",
+      "x",
+      "o",
+      "f"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "religion",
+      "social",
+      "abstract"
+    ]
+  },
+  "korallisch": "poxofpoxof"
+}

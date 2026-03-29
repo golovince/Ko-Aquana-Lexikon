@@ -1,0 +1,55 @@
+{
+  "id": "patch_1dfd3b2093",
+  "headword": {
+    "roman": "fshoshzo",
+    "ipa": "",
+    "coral": "vodo"
+  },
+  "pos": "verb",
+  "subpos": "",
+  "gloss_de": [
+    "schreiben"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {},
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "note": "Lesen als Korallenritzung entziffern.",
+    "patched_from": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "vodo",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshoshzo",
+          "coral": "vodo"
+        },
+        "2sg": {
+          "roman": "fshoshzoi",
+          "coral": "vodoi"
+        },
+        "3sg": {
+          "roman": "fshoshzoie",
+          "coral": "vodoj"
+        },
+        "1pl": {
+          "roman": "fshoshzoh",
+          "coral": "vodö"
+        },
+        "2pl": {
+          "roman": "fshoshzohi",
+          "coral": "vodöi"
+        },
+        "3pl": {
+          "roman": "fshoshzohie",
+          "coral": "vodöj"
+        }
+      }
+    }
+  }
+}

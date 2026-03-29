@@ -1,0 +1,20 @@
+{
+  "id": "noun_glishigl",
+  "headword": {
+    "roman": "glishigl",
+    "coral": "hisih",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "das Abräumen",
+    "das Wegsaugen",
+    "der/die Abräumende"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Alltag – Reinigung",
+    "note": "Nominalisierung/Agentiv zu glishi; kann auch Vorgang bezeichnen."
+  },
+  "korallisch": "hisih"
+}

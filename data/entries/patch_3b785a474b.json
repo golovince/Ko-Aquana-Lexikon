@@ -1,0 +1,17 @@
+{
+  "id": "patch_3b785a474b",
+  "headword": {
+    "roman": "glefsish",
+    "coral": "hewis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Wissender, Kenner"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_knowledge_patch.json"
+  },
+  "korallisch": "hewis"
+}

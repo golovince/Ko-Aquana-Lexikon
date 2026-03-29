@@ -1,0 +1,70 @@
+{
+  "id": "mbongo_v_0493",
+  "headword": {
+    "roman": "mbongo",
+    "ipa": "",
+    "coral": "poxo"
+  },
+  "pos": "verb",
+  "subpos": "",
+  "gloss_de": [
+    "retten"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "mb",
+      "o",
+      "ng",
+      "o"
+    ],
+    "tokens_coral": [
+      "p",
+      "o",
+      "x",
+      "o"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "core",
+      "social"
+    ]
+  },
+  "korallisch": "poxo",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mbongo",
+          "coral": "poxo"
+        },
+        "2sg": {
+          "roman": "mbongoi",
+          "coral": "poxoi"
+        },
+        "3sg": {
+          "roman": "mbongoie",
+          "coral": "poxoj"
+        },
+        "1pl": {
+          "roman": "mbongoh",
+          "coral": "poxö"
+        },
+        "2pl": {
+          "roman": "mbongohi",
+          "coral": "poxöi"
+        },
+        "3pl": {
+          "roman": "mbongohie",
+          "coral": "poxöj"
+        }
+      }
+    }
+  }
+}

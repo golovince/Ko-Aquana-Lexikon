@@ -1,0 +1,19 @@
+{
+  "id": "num_2",
+  "headword": {
+    "roman": "lesh",
+    "coral": "les",
+    "ipa": ""
+  },
+  "pos": "num",
+  "gloss_de": [
+    "zwei"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Zahlen – Basis-4",
+    "value_base10": 2,
+    "note": "Zahlen > Basis werden zusammengeschrieben; -e- als Silbenbinder zwischen Komponenten."
+  },
+  "korallisch": "les"
+}

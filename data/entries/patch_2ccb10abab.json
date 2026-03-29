@@ -1,0 +1,18 @@
+{
+  "id": "patch_2ccb10abab",
+  "headword": {
+    "roman": "frashzush",
+    "coral": "fadus",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Wunde"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "fadus"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "mbongombongosh_adv_0500",
+  "headword": {
+    "roman": "mbongombongoshzt",
+    "ipa": "",
+    "coral": "poxopoxor"
+  },
+  "pos": "adv",
+  "subpos": "",
+  "gloss_de": [
+    "lebensrettend"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "mb",
+      "o",
+      "ng",
+      "o",
+      "mb",
+      "o",
+      "ng",
+      "o",
+      "shzt"
+    ],
+    "tokens_coral": [
+      "p",
+      "o",
+      "x",
+      "o",
+      "p",
+      "o",
+      "x",
+      "o",
+      "r"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "social"
+    ]
+  },
+  "korallisch": "poxopoxor"
+}

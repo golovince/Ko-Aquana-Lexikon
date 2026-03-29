@@ -1,0 +1,41 @@
+{
+  "id": "mbongofr_n_0494",
+  "headword": {
+    "roman": "mbongofr",
+    "ipa": "",
+    "coral": "poxof"
+  },
+  "pos": "noun",
+  "subpos": "",
+  "gloss_de": [
+    "Rettung"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "mb",
+      "o",
+      "ng",
+      "o",
+      "fr"
+    ],
+    "tokens_coral": [
+      "p",
+      "o",
+      "x",
+      "o",
+      "f"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "core",
+      "social",
+      "abstract"
+    ]
+  },
+  "korallisch": "poxof"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "mbongosh_adj_0496",
+  "headword": {
+    "roman": "mbongosh",
+    "ipa": "",
+    "coral": "poxos"
+  },
+  "pos": "adj",
+  "subpos": "",
+  "gloss_de": [
+    "rettend"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "mb",
+      "o",
+      "ng",
+      "o",
+      "sh"
+    ],
+    "tokens_coral": [
+      "p",
+      "o",
+      "x",
+      "o",
+      "s"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "social"
+    ]
+  },
+  "korallisch": "poxos"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "patch_1a77a3cbc4",
+  "headword": {
+    "roman": "sholofrulish",
+    "coral": "solofulis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "skelettiert"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "solofulis"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "patch_0d97fcbddd",
+  "headword": {
+    "roman": "grafrul",
+    "coral": "gaful",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Piranha"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "gaful"
+}

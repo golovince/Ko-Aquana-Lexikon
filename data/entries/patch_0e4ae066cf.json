@@ -1,0 +1,17 @@
+{
+  "id": "patch_0e4ae066cf",
+  "headword": {
+    "roman": "fshoshzifsish",
+    "coral": "vodiwis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Korallenbauer, Zimmermann"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "vodiwis"
+}

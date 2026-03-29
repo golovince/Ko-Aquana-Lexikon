@@ -1,0 +1,19 @@
+{
+  "id": "num_8",
+  "headword": {
+    "roman": "leshelafr",
+    "coral": "leselaf",
+    "ipa": ""
+  },
+  "pos": "num",
+  "gloss_de": [
+    "acht"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Zahlen – Basis-4",
+    "value_base10": 8,
+    "note": "Zahlen > Basis werden zusammengeschrieben; -e- als Silbenbinder zwischen Komponenten."
+  },
+  "korallisch": "leselaf"
+}

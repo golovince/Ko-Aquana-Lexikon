@@ -1,0 +1,17 @@
+{
+  "id": "patch_1dfcca7d42",
+  "headword": {
+    "roman": "shielishzush",
+    "coral": "sjlidus",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Auge"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "sjlidus"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "num_7",
+  "headword": {
+    "roman": "lafrelabr",
+    "coral": "lafelac",
+    "ipa": ""
+  },
+  "pos": "num",
+  "gloss_de": [
+    "sieben"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Zahlen – Basis-4",
+    "value_base10": 7,
+    "note": "Zahlen > Basis werden zusammengeschrieben; -e- als Silbenbinder zwischen Komponenten."
+  },
+  "korallisch": "lafelac"
+}

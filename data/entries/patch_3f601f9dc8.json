@@ -1,0 +1,50 @@
+{
+  "id": "patch_3f601f9dc8",
+  "headword": {
+    "roman": "mbeshzublo",
+    "coral": "pedubo",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "gebären"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "pedubo",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mbeshzublo",
+          "coral": "pedubo"
+        },
+        "2sg": {
+          "roman": "mbeshzubloi",
+          "coral": "peduboi"
+        },
+        "3sg": {
+          "roman": "mbeshzubloie",
+          "coral": "peduboj"
+        },
+        "1pl": {
+          "roman": "mbeshzubloh",
+          "coral": "pedubö"
+        },
+        "2pl": {
+          "roman": "mbeshzublohi",
+          "coral": "peduböi"
+        },
+        "3pl": {
+          "roman": "mbeshzublohie",
+          "coral": "peduböj"
+        }
+      }
+    }
+  }
+}

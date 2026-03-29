@@ -1,0 +1,19 @@
+{
+  "id": "num_3",
+  "headword": {
+    "roman": "labr",
+    "coral": "lac",
+    "ipa": ""
+  },
+  "pos": "num",
+  "gloss_de": [
+    "drei"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Zahlen – Basis-4",
+    "value_base10": 3,
+    "note": "Zahlen > Basis werden zusammengeschrieben; -e- als Silbenbinder zwischen Komponenten."
+  },
+  "korallisch": "lac"
+}

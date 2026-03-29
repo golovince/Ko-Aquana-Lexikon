@@ -1,0 +1,19 @@
+{
+  "id": "num_5",
+  "headword": {
+    "roman": "lafrelal",
+    "coral": "lafelal",
+    "ipa": ""
+  },
+  "pos": "num",
+  "gloss_de": [
+    "fünf"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Zahlen – Basis-4",
+    "value_base10": 5,
+    "note": "Zahlen > Basis werden zusammengeschrieben; -e- als Silbenbinder zwischen Komponenten."
+  },
+  "korallisch": "lafelal"
+}

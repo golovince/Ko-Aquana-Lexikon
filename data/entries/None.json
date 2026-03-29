@@ -1,0 +1,20 @@
+{
+  "headword": {
+    "roman": "ngalombush",
+    "ipa": "",
+    "coral": "xalopus"
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "auswärts"
+  ],
+  "domain": "existenz",
+  "notes": {
+    "status": "canonical",
+    "note": "Adverb: außerhalb des eigenen Ortes/Zuhause; nicht identisch mit Exil."
+  },
+  "korallisch": "xalopus",
+  "meta": {
+    "patched_from": "ko_aquana_patch_1_1"
+  }
+}

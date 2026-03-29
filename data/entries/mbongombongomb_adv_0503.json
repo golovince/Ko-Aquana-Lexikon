@@ -1,0 +1,56 @@
+{
+  "id": "mbongombongomb_adv_0503",
+  "headword": {
+    "roman": "mbongombongombongoshzt",
+    "ipa": "",
+    "coral": "poxopoxopoxor"
+  },
+  "pos": "adv",
+  "subpos": "",
+  "gloss_de": [
+    "erlösend"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "mb",
+      "o",
+      "ng",
+      "o",
+      "mb",
+      "o",
+      "ng",
+      "o",
+      "mb",
+      "o",
+      "ng",
+      "o",
+      "shzt"
+    ],
+    "tokens_coral": [
+      "p",
+      "o",
+      "x",
+      "o",
+      "p",
+      "o",
+      "x",
+      "o",
+      "p",
+      "o",
+      "x",
+      "o",
+      "r"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "religion",
+      "philosophy"
+    ]
+  },
+  "korallisch": "poxopoxopoxor"
+}

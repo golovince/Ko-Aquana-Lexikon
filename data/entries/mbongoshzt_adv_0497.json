@@ -1,0 +1,39 @@
+{
+  "id": "mbongoshzt_adv_0497",
+  "headword": {
+    "roman": "mbongoshzt",
+    "ipa": "",
+    "coral": "poxor"
+  },
+  "pos": "adv",
+  "subpos": "",
+  "gloss_de": [
+    "rettend"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "mb",
+      "o",
+      "ng",
+      "o",
+      "shzt"
+    ],
+    "tokens_coral": [
+      "p",
+      "o",
+      "x",
+      "o",
+      "r"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "social"
+    ]
+  },
+  "korallisch": "poxor"
+}

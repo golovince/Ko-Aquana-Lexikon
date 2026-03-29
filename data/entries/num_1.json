@@ -1,0 +1,20 @@
+{
+  "id": "num_1",
+  "headword": {
+    "roman": "lal",
+    "coral": "lal",
+    "ipa": ""
+  },
+  "pos": "num",
+  "gloss_de": [
+    "ein (Zahl)",
+    "eins"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Zahlen – Basis-4",
+    "value_base10": 1,
+    "note": "Zahlen > Basis werden zusammengeschrieben; -e- als Silbenbinder zwischen Komponenten."
+  },
+  "korallisch": "lal"
+}

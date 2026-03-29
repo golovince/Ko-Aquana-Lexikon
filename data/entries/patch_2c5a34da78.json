@@ -1,0 +1,17 @@
+{
+  "id": "patch_2c5a34da78",
+  "headword": {
+    "roman": "glifshoshzofsish",
+    "coral": "hivodowis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Chronist, Verwaltungsschreiber"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "hivodowis"
+}

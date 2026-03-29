@@ -1,0 +1,17 @@
+{
+  "id": "patch_00c52555f5",
+  "headword": {
+    "roman": "blashzushibl",
+    "coral": "badusib",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Lippen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "badusib"
+}

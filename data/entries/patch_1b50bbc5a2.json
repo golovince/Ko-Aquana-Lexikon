@@ -1,0 +1,17 @@
+{
+  "id": "patch_1b50bbc5a2",
+  "headword": {
+    "roman": "blablafr",
+    "coral": "babaf",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Sprechen; Rede (Abstraktum)"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_language_patch.json"
+  },
+  "korallisch": "babaf"
+}

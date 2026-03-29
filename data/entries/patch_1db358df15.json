@@ -1,0 +1,17 @@
+{
+  "id": "patch_1db358df15",
+  "headword": {
+    "roman": "shzushobrul",
+    "coral": "dusocul",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Brust"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "dusocul"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "patch_0d50393075",
+  "headword": {
+    "roman": "shzushongal",
+    "coral": "dusoxal",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Befruchtungsorgan"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "dusoxal"
+}

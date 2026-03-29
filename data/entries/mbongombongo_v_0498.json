@@ -1,0 +1,77 @@
+{
+  "id": "mbongombongo_v_0498",
+  "headword": {
+    "roman": "mbongombongo",
+    "ipa": "",
+    "coral": "poxopoxo"
+  },
+  "pos": "verb",
+  "subpos": "",
+  "gloss_de": [
+    "Leben retten"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "mb",
+      "o",
+      "ng",
+      "o",
+      "mb",
+      "o",
+      "ng",
+      "o"
+    ],
+    "tokens_coral": [
+      "p",
+      "o",
+      "x",
+      "o",
+      "p",
+      "o",
+      "x",
+      "o"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "social"
+    ]
+  },
+  "korallisch": "poxopoxo",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mbongombongo",
+          "coral": "poxopoxo"
+        },
+        "2sg": {
+          "roman": "mbongombongoi",
+          "coral": "poxopoxoi"
+        },
+        "3sg": {
+          "roman": "mbongombongoie",
+          "coral": "poxopoxoj"
+        },
+        "1pl": {
+          "roman": "mbongombongoh",
+          "coral": "poxopoxö"
+        },
+        "2pl": {
+          "roman": "mbongombongohi",
+          "coral": "poxopoxöi"
+        },
+        "3pl": {
+          "roman": "mbongombongohie",
+          "coral": "poxopoxöj"
+        }
+      }
+    }
+  }
+}
