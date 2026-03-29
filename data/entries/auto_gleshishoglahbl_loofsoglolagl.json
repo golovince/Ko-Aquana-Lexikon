@@ -1,0 +1,18 @@
+{
+  "id": "auto_gleshishoglahbl_loofsoglolagl",
+  "headword": {
+    "roman": "gleshishoglahbl loofsoglolagl",
+    "ipa": "",
+    "coral": "hesisohmbnlüwoholah"
+  },
+  "pos": "np",
+  "gloss_de": [
+    "Alke"
+  ],
+  "meta": {
+    "status": "stable",
+    "note": "Vogelbezeichnung; Phase VIII (Alke)",
+    "patched_from": "ko_aquana_lexicon_v1_14_BIRDS_SWIM_PATCH.json"
+  },
+  "korallisch": "hesisohmbnlüwoholah"
+}

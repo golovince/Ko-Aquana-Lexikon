@@ -1,0 +1,18 @@
+{
+  "id": "auto_glishish",
+  "headword": {
+    "roman": "glishish",
+    "coral": "hisis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "aufgelöst",
+    "dem Tod nah",
+    "im Zerfall"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "hisis"
+}

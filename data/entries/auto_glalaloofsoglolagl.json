@@ -1,0 +1,19 @@
+{
+  "id": "auto_glalaloofsoglolagl",
+  "headword": {
+    "roman": "glalaloofsoglolagl",
+    "ipa": "",
+    "coral": "halalüwoholah"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Storch"
+  ],
+  "meta": {
+    "status": "stable",
+    "note": "Vogelbezeichnung; Phase VIII",
+    "patched_from": "ko_aquana_lexicon_v1_14_BIRDS_SWIM_PATCH.json"
+  },
+  "korallisch": "halalüwoholah",
+  "notes": "gehender Vogel"
+}

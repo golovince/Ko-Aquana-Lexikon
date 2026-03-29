@@ -1,0 +1,19 @@
+{
+  "id": "adv_bloloh",
+  "headword": {
+    "roman": "bloloh",
+    "coral": "bolö",
+    "ipa": ""
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "ganz",
+    "voll"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Schlüssel & Abstrakta",
+    "note": "Verstärkendes Adverb."
+  },
+  "korallisch": "bolö"
+}

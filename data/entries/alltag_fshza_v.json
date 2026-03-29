@@ -2,8 +2,8 @@
   "id": "alltag_fshza_v",
   "headword": {
     "roman": "fshza",
-    "coral": "ka",
-    "ipa": ""
+    "ipa": "",
+    "coral": "ka"
   },
   "pos": "verb",
   "gloss_de": [
@@ -11,7 +11,8 @@
   ],
   "meta": {
     "status": "draft",
-    "source": "Alltag – Verben"
+    "source": "Alltag – Verben",
+    "patched_from": "ko_aquana_food_core_patch.json"
   },
   "korallisch": "ka",
   "inflection": {

@@ -1,0 +1,17 @@
+{
+  "id": "auto_fralish",
+  "headword": {
+    "roman": "fralish",
+    "coral": "falis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "lustig",
+    "verspielt"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "falis"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "auto_ngafsoshash_loofsoglolagl",
+  "headword": {
+    "roman": "ngafsoshash loofsoglolagl",
+    "ipa": "",
+    "coral": "xawosasnlüwoholah"
+  },
+  "pos": "np",
+  "gloss_de": [
+    "Seetaucher"
+  ],
+  "meta": {
+    "status": "stable",
+    "note": "Vogelbezeichnung; Phase VIII",
+    "patched_from": "ko_aquana_lexicon_v1_14_BIRDS_SWIM_PATCH.json"
+  },
+  "korallisch": "xawosasnlüwoholah"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "auto_frooshziglishi",
+  "headword": {
+    "roman": "frooshziglishi",
+    "coral": "füdihisi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "die Toten in die Strömung führen"
+  ],
+  "meta": {
+    "status": "stable",
+    "note": "Morphemgrenze geglättet"
+  },
+  "korallisch": "füdihisi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "frooshziglishi",
+          "coral": "füdihisi"
+        },
+        "2sg": {
+          "roman": "frooshziglishio",
+          "coral": "füdihisio"
+        },
+        "3sg": {
+          "roman": "frooshziglishioh",
+          "coral": "füdihisiö"
+        },
+        "1pl": {
+          "roman": "frooshziglishie",
+          "coral": "füdihisj"
+        },
+        "2pl": {
+          "roman": "frooshziglishieo",
+          "coral": "füdihisjo"
+        },
+        "3pl": {
+          "roman": "frooshziglishieoh",
+          "coral": "füdihisjö"
+        }
+      }
+    }
+  }
+}

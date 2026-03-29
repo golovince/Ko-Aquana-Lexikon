@@ -1,0 +1,17 @@
+{
+  "id": "auto_briel",
+  "headword": {
+    "roman": "briel",
+    "coral": "cjl",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "schräg",
+    "seitlich geneigt"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "cjl"
+}

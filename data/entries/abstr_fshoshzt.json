@@ -1,0 +1,19 @@
+{
+  "id": "abstr_fshoshzt",
+  "headword": {
+    "roman": "fshoshzt",
+    "coral": "vor",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Buchstabe"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Schlüssel & Abstrakta",
+    "note": "Abstrakter Amtsbegriff; Basis zu fshoshztash.",
+    "patched_from": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "vor"
+}

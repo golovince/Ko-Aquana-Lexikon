@@ -1,0 +1,18 @@
+{
+  "id": "auto_frooshzish",
+  "headword": {
+    "roman": "frooshzish",
+    "coral": "füdis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "belebt",
+    "in Bewegung",
+    "lebendig"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "füdis"
+}

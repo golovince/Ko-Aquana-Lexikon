@@ -1,0 +1,18 @@
+{
+  "id": "auto_lifs",
+  "headword": {
+    "roman": "lifs",
+    "coral": "liw",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "rosa"
+  ],
+  "meta": {
+    "status": "stable",
+    "domain": "farbe",
+    "note": "Farbadjektiv der -fs-Klasse"
+  },
+  "korallisch": "liw"
+}

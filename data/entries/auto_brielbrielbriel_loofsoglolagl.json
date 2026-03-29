@@ -1,0 +1,18 @@
+{
+  "id": "auto_brielbrielbriel_loofsoglolagl",
+  "headword": {
+    "roman": "brielbrielbriel loofsoglolagl",
+    "ipa": "",
+    "coral": "cjlcjlcjlnlüwoholah"
+  },
+  "pos": "np",
+  "gloss_de": [
+    "Schwan"
+  ],
+  "meta": {
+    "status": "stable",
+    "note": "Vogelbezeichnung; Phase VIII",
+    "patched_from": "ko_aquana_lexicon_v1_14_BIRDS_SWIM_PATCH.json"
+  },
+  "korallisch": "cjlcjlcjlnlüwoholah"
+}

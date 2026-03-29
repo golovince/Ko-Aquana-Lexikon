@@ -1,0 +1,49 @@
+{
+  "id": "auto_frulshi",
+  "headword": {
+    "roman": "frulshi",
+    "coral": "fulsi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "pflegen",
+    "umsorgen (Tiere)"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "fulsi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "frulshi",
+          "coral": "fulsi"
+        },
+        "2sg": {
+          "roman": "frulshio",
+          "coral": "fulsio"
+        },
+        "3sg": {
+          "roman": "frulshioh",
+          "coral": "fulsiö"
+        },
+        "1pl": {
+          "roman": "frulshie",
+          "coral": "fulsj"
+        },
+        "2pl": {
+          "roman": "frulshieo",
+          "coral": "fulsjo"
+        },
+        "3pl": {
+          "roman": "frulshieoh",
+          "coral": "fulsjö"
+        }
+      }
+    }
+  }
+}

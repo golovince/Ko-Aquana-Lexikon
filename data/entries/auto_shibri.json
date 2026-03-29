@@ -1,0 +1,49 @@
+{
+  "id": "auto_shibri",
+  "headword": {
+    "roman": "shibri",
+    "coral": "sici",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "anführen",
+    "vorangehen"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "sici",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shibri",
+          "coral": "sici"
+        },
+        "2sg": {
+          "roman": "shibrio",
+          "coral": "sicio"
+        },
+        "3sg": {
+          "roman": "shibrioh",
+          "coral": "siciö"
+        },
+        "1pl": {
+          "roman": "shibrie",
+          "coral": "sicj"
+        },
+        "2pl": {
+          "roman": "shibrieo",
+          "coral": "sicjo"
+        },
+        "3pl": {
+          "roman": "shibrieoh",
+          "coral": "sicjö"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "auto_glahblglahbl_loofsoglolagl",
+  "headword": {
+    "roman": "glahblglahbl loofsoglolagl",
+    "ipa": "",
+    "coral": "hmbhmbnlüwoholah"
+  },
+  "pos": "np",
+  "gloss_de": [
+    "Löffler"
+  ],
+  "meta": {
+    "status": "stable",
+    "note": "Vogelbezeichnung; Phase VIII",
+    "patched_from": "ko_aquana_lexicon_v1_14_BIRDS_SWIM_PATCH.json"
+  },
+  "korallisch": "hmbhmbnlüwoholah"
+}

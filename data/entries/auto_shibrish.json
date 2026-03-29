@@ -1,0 +1,17 @@
+{
+  "id": "auto_shibrish",
+  "headword": {
+    "roman": "shibrish",
+    "coral": "sicis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Bildung",
+    "Weitergabe von Tradition"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "sicis"
+}

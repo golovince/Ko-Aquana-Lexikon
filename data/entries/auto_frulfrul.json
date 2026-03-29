@@ -1,0 +1,17 @@
+{
+  "id": "auto_frulfrul",
+  "headword": {
+    "roman": "frulfrul",
+    "coral": "fulful",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Tier",
+    "nicht-personales Lebewesen"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "fulful"
+}

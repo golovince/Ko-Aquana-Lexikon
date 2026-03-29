@@ -1,0 +1,51 @@
+{
+  "id": "auto_gloshi",
+  "headword": {
+    "roman": "gloshi",
+    "coral": "hosi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "aushöhlen",
+    "graben",
+    "schürfen"
+  ],
+  "meta": {
+    "status": "stable",
+    "note": "kontinuierliches Graben"
+  },
+  "korallisch": "hosi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "gloshi",
+          "coral": "hosi"
+        },
+        "2sg": {
+          "roman": "gloshio",
+          "coral": "hosio"
+        },
+        "3sg": {
+          "roman": "gloshioh",
+          "coral": "hosiö"
+        },
+        "1pl": {
+          "roman": "gloshie",
+          "coral": "hosj"
+        },
+        "2pl": {
+          "roman": "gloshieo",
+          "coral": "hosjo"
+        },
+        "3pl": {
+          "roman": "gloshieoh",
+          "coral": "hosjö"
+        }
+      }
+    }
+  }
+}

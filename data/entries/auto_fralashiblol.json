@@ -1,0 +1,17 @@
+{
+  "id": "auto_fralashiblol",
+  "headword": {
+    "roman": "fralashiblol",
+    "coral": "falasibol",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Spielzyklus",
+    "Turnier"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "falasibol"
+}

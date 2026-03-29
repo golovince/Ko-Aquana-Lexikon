@@ -1,0 +1,18 @@
+{
+  "id": "auto_mbofsombeshzoglolagl",
+  "headword": {
+    "roman": "mbofsombeshzoglolagl",
+    "ipa": "",
+    "coral": "powopedoholah"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Reiher"
+  ],
+  "meta": {
+    "status": "stable",
+    "note": "Vogelbezeichnung; Phase VIII",
+    "patched_from": "ko_aquana_lexicon_v1_14_BIRDS_SWIM_PATCH.json"
+  },
+  "korallisch": "powopedoholah"
+}

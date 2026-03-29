@@ -1,0 +1,17 @@
+{
+  "id": "abstr_frähshblol",
+  "headword": {
+    "roman": "frähshblol",
+    "coral": "fäsbol",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Ordnung"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Schlüssel & Abstrakta"
+  },
+  "korallisch": "fäsbol"
+}

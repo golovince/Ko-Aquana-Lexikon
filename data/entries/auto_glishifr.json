@@ -1,0 +1,17 @@
+{
+  "id": "auto_glishifr",
+  "headword": {
+    "roman": "glishifr",
+    "coral": "hisif",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Auflösung",
+    "Verwesung"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "hisif"
+}

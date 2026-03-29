@@ -1,0 +1,18 @@
+{
+  "id": "auto_ngoofsofrofs_loofsoglolagl",
+  "headword": {
+    "roman": "ngoofsofrofs loofsoglolagl",
+    "ipa": "",
+    "coral": "xüwofownlüwoholah"
+  },
+  "pos": "np",
+  "gloss_de": [
+    "Eisvogel"
+  ],
+  "meta": {
+    "status": "stable",
+    "note": "Vogelbezeichnung; Phase VIII",
+    "patched_from": "ko_aquana_lexicon_v1_14_BIRDS_SWIM_PATCH.json"
+  },
+  "korallisch": "xüwofownlüwoholah"
+}

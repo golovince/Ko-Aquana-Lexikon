@@ -1,0 +1,18 @@
+{
+  "id": "auto_briel_loofsoglolagl",
+  "headword": {
+    "roman": "briel loofsoglolagl",
+    "ipa": "",
+    "coral": "cjlnlüwoholah"
+  },
+  "pos": "np",
+  "gloss_de": [
+    "Ente"
+  ],
+  "meta": {
+    "status": "stable",
+    "note": "Vogelbezeichnung; Phase VIII (Ente)",
+    "patched_from": "ko_aquana_lexicon_v1_14_BIRDS_SWIM_PATCH.json"
+  },
+  "korallisch": "cjlnlüwoholah"
+}

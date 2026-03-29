@@ -1,0 +1,17 @@
+{
+  "id": "auto_glubl",
+  "headword": {
+    "roman": "glubl",
+    "ipa": "",
+    "coral": "hub"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Weichtier (Gattung)"
+  ],
+  "meta": {
+    "status": "stable",
+    "patched_from": "ko_aquana_architektur_vulkan_essen_patch_v2.json"
+  },
+  "korallisch": "hub"
+}

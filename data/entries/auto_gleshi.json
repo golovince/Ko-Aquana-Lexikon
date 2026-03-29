@@ -1,0 +1,50 @@
+{
+  "id": "auto_gleshi",
+  "headword": {
+    "roman": "gleshi",
+    "coral": "hesi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "fein herstellen",
+    "handwerklich arbeiten"
+  ],
+  "meta": {
+    "status": "stable",
+    "note": "präzise, manuelle Arbeit"
+  },
+  "korallisch": "hesi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "gleshi",
+          "coral": "hesi"
+        },
+        "2sg": {
+          "roman": "gleshio",
+          "coral": "hesio"
+        },
+        "3sg": {
+          "roman": "gleshioh",
+          "coral": "hesiö"
+        },
+        "1pl": {
+          "roman": "gleshie",
+          "coral": "hesj"
+        },
+        "2pl": {
+          "roman": "gleshieo",
+          "coral": "hesjo"
+        },
+        "3pl": {
+          "roman": "gleshieoh",
+          "coral": "hesjö"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "auto_brash",
+  "headword": {
+    "roman": "brash",
+    "coral": "cas",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "dröhnend",
+    "laut"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "cas"
+}

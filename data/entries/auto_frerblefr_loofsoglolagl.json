@@ -1,0 +1,18 @@
+{
+  "id": "auto_frerblefr_loofsoglolagl",
+  "headword": {
+    "roman": "frerblefr loofsoglolagl",
+    "coral": "ferbefnlüwoholah",
+    "ipa": ""
+  },
+  "pos": "np",
+  "gloss_de": [
+    "Möwe"
+  ],
+  "meta": {
+    "status": "stable",
+    "note": "Vogelbezeichnung; Phase VIII",
+    "patched_from": "ko_aquana_lexicon_v1_14_BIRDS_SWIM_PATCH.json"
+  },
+  "korallisch": "ferbefnlüwoholah"
+}

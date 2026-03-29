@@ -1,0 +1,17 @@
+{
+  "id": "auto_frulshish",
+  "headword": {
+    "roman": "frulshish",
+    "coral": "fulsis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "fürsorglich bei Tieren",
+    "tierlieb"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "fulsis"
+}

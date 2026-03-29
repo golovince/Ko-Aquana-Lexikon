@@ -1,0 +1,17 @@
+{
+  "id": "auto_blomb",
+  "headword": {
+    "roman": "blomb",
+    "coral": "bop",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Krabbe",
+    "Krebstier"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "bop"
+}

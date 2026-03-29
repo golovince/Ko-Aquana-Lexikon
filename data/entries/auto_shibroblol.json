@@ -1,0 +1,18 @@
+{
+  "id": "auto_shibroblol",
+  "headword": {
+    "roman": "shibroblol",
+    "coral": "sicobol",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Reihe",
+    "Zug"
+  ],
+  "meta": {
+    "status": "stable",
+    "note": "geordnete Abfolge von Personen"
+  },
+  "korallisch": "sicobol"
+}

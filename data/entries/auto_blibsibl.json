@@ -1,0 +1,17 @@
+{
+  "id": "auto_blibsibl",
+  "headword": {
+    "roman": "blibsibl",
+    "coral": "biyib",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Gabel",
+    "Zackengerät"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "biyib"
+}

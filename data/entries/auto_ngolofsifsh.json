@@ -1,0 +1,18 @@
+{
+  "id": "auto_ngolofsifsh",
+  "headword": {
+    "roman": "ngolofsifsh",
+    "coral": "xolowiv",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Halbling"
+  ],
+  "meta": {
+    "status": "stable",
+    "note": "‚nicht-Kind‘; klein wirkende, aber erwachsene Person aus Kuo-Toa-Sicht",
+    "domain": "dnd_volk"
+  },
+  "korallisch": "xolowiv"
+}

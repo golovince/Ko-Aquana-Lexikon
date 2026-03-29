@@ -1,0 +1,49 @@
+{
+  "id": "auto_shisho",
+  "headword": {
+    "roman": "shisho",
+    "coral": "siso",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "hören",
+    "wahrnehmen (akustisch)"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "siso",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shisho",
+          "coral": "siso"
+        },
+        "2sg": {
+          "roman": "shishoi",
+          "coral": "sisoi"
+        },
+        "3sg": {
+          "roman": "shishoie",
+          "coral": "sisoj"
+        },
+        "1pl": {
+          "roman": "shishoh",
+          "coral": "sisö"
+        },
+        "2pl": {
+          "roman": "shishohi",
+          "coral": "sisöi"
+        },
+        "3pl": {
+          "roman": "shishohie",
+          "coral": "sisöj"
+        }
+      }
+    }
+  }
+}

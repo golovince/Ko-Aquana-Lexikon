@@ -1,0 +1,18 @@
+{
+  "id": "abstr_shielohsh",
+  "headword": {
+    "roman": "shielohsh",
+    "coral": "sjlös",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "abgeschlossen",
+    "endgültig"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Schlüssel & Abstrakta"
+  },
+  "korallisch": "sjlös"
+}

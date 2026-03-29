@@ -1,0 +1,48 @@
+{
+  "id": "auto_freble",
+  "headword": {
+    "roman": "freble",
+    "coral": "febe",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "stehlen"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "febe",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "freble",
+          "coral": "febe"
+        },
+        "2sg": {
+          "roman": "freblei",
+          "coral": "febei"
+        },
+        "3sg": {
+          "roman": "frebleie",
+          "coral": "febej"
+        },
+        "1pl": {
+          "roman": "frebläh",
+          "coral": "febä"
+        },
+        "2pl": {
+          "roman": "freblähi",
+          "coral": "febäi"
+        },
+        "3pl": {
+          "roman": "freblähie",
+          "coral": "febäj"
+        }
+      }
+    }
+  }
+}

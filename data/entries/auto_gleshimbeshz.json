@@ -1,0 +1,18 @@
+{
+  "id": "auto_gleshimbeshz",
+  "headword": {
+    "roman": "gleshimbeshz",
+    "coral": "hesiped",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Gnom"
+  ],
+  "meta": {
+    "status": "stable",
+    "note": "‚handwerklich lebender Oberflächenbewohner‘",
+    "domain": "dnd_volk"
+  },
+  "korallisch": "hesiped"
+}

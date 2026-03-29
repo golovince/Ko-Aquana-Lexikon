@@ -1,0 +1,49 @@
+{
+  "id": "auto_mbolofrooshzi",
+  "headword": {
+    "roman": "mbolofrooshzi",
+    "coral": "polofüdi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "in die Strömung übergehen",
+    "sterben"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "polofüdi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mbolofrooshzi",
+          "coral": "polofüdi"
+        },
+        "2sg": {
+          "roman": "mbolofrooshzio",
+          "coral": "polofüdio"
+        },
+        "3sg": {
+          "roman": "mbolofrooshzioh",
+          "coral": "polofüdiö"
+        },
+        "1pl": {
+          "roman": "mbolofrooshzie",
+          "coral": "polofüdj"
+        },
+        "2pl": {
+          "roman": "mbolofrooshzieo",
+          "coral": "polofüdjo"
+        },
+        "3pl": {
+          "roman": "mbolofrooshzieoh",
+          "coral": "polofüdjö"
+        }
+      }
+    }
+  }
+}

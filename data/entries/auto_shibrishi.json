@@ -1,0 +1,49 @@
+{
+  "id": "auto_shibrishi",
+  "headword": {
+    "roman": "shibrishi",
+    "coral": "sicisi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "folgen",
+    "sich anschließen"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "sicisi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shibrishi",
+          "coral": "sicisi"
+        },
+        "2sg": {
+          "roman": "shibrishio",
+          "coral": "sicisio"
+        },
+        "3sg": {
+          "roman": "shibrishioh",
+          "coral": "sicisiö"
+        },
+        "1pl": {
+          "roman": "shibrishie",
+          "coral": "sicisj"
+        },
+        "2pl": {
+          "roman": "shibrishieo",
+          "coral": "sicisjo"
+        },
+        "3pl": {
+          "roman": "shibrishieoh",
+          "coral": "sicisjö"
+        }
+      }
+    }
+  }
+}

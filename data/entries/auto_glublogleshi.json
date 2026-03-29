@@ -1,0 +1,51 @@
+{
+  "id": "auto_glublogleshi",
+  "headword": {
+    "roman": "glublogleshi",
+    "coral": "hubohesi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "(Stadt) bauen",
+    "Architektur entwerfen",
+    "Stadt bauen",
+    "städtisch strukturieren"
+  ],
+  "meta": {
+    "status": "stable"
+  },
+  "korallisch": "hubohesi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "glublogleshi",
+          "coral": "hubohesi"
+        },
+        "2sg": {
+          "roman": "glublogleshio",
+          "coral": "hubohesio"
+        },
+        "3sg": {
+          "roman": "glublogleshioh",
+          "coral": "hubohesiö"
+        },
+        "1pl": {
+          "roman": "glublogleshie",
+          "coral": "hubohesj"
+        },
+        "2pl": {
+          "roman": "glublogleshieo",
+          "coral": "hubohesjo"
+        },
+        "3pl": {
+          "roman": "glublogleshieoh",
+          "coral": "hubohesjö"
+        }
+      }
+    }
+  }
+}

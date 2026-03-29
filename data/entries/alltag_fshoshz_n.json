@@ -7,12 +7,12 @@
   },
   "pos": "noun",
   "gloss_de": [
-    "Holz",
-    "Koralle"
+    "Koralle (Material, Schriftträger)"
   ],
   "meta": {
     "status": "draft",
-    "source": "Alltag – Nomen"
+    "source": "Alltag – Nomen",
+    "patched_from": "ko_aquana_writing_language_patch.json"
   },
   "korallisch": "vod"
 }

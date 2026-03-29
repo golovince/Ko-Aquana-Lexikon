@@ -1,0 +1,20 @@
+{
+  "id": "abstr_fshoshztash",
+  "headword": {
+    "roman": "fshoshztash",
+    "coral": "voras",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Amtszeichen",
+    "Schlüssel",
+    "Zepter"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Schlüssel & Abstrakta",
+    "note": "Amtszeichen der Senatoren; zugleich Schlüssel, Zepter und Symbol institutioneller Macht."
+  },
+  "korallisch": "voras"
+}

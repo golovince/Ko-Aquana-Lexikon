@@ -1,0 +1,50 @@
+{
+  "id": "auto_blibsi",
+  "headword": {
+    "roman": "blibsi",
+    "coral": "biyi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "pieksen",
+    "stechen"
+  ],
+  "meta": {
+    "status": "stable",
+    "note": "kleine, gezielte Stichbewegung"
+  },
+  "korallisch": "biyi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "blibsi",
+          "coral": "biyi"
+        },
+        "2sg": {
+          "roman": "blibsio",
+          "coral": "biyio"
+        },
+        "3sg": {
+          "roman": "blibsioh",
+          "coral": "biyiö"
+        },
+        "1pl": {
+          "roman": "blibsie",
+          "coral": "biyj"
+        },
+        "2pl": {
+          "roman": "blibsieo",
+          "coral": "biyjo"
+        },
+        "3pl": {
+          "roman": "blibsieoh",
+          "coral": "biyjö"
+        }
+      }
+    }
+  }
+}
