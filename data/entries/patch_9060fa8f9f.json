@@ -1,0 +1,17 @@
+{
+  "id": "patch_9060fa8f9f",
+  "headword": {
+    "roman": "brohglblibl",
+    "coral": "cöhbib",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Legierung"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_expansion_patch.json"
+  },
+  "korallisch": "cöhbib"
+}

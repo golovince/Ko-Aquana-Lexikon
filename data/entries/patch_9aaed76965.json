@@ -1,0 +1,17 @@
+{
+  "id": "patch_9aaed76965",
+  "headword": {
+    "roman": "shzushishol",
+    "coral": "dusisol",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Haare"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "dusisol"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "patch_4b381bbaaf",
+  "headword": {
+    "roman": "fralashibr",
+    "ipa": "",
+    "coral": "falasic"
+  },
+  "pos": "noun",
+  "subpos": "TITLE",
+  "gloss_de": [
+    "Amtsträger (Senatsposten)",
+    "Senator"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {},
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "note": "Verwendung: 'fralashibr lil X' = Senator von X."
+  },
+  "korallisch": "falasic"
+}

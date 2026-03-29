@@ -1,0 +1,17 @@
+{
+  "id": "patch_91c2f3cbe4",
+  "headword": {
+    "roman": "fshoshzash",
+    "coral": "vodas",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "belesen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "vodas"
+}

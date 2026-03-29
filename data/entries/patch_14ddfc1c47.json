@@ -1,0 +1,17 @@
+{
+  "id": "patch_14ddfc1c47",
+  "headword": {
+    "roman": "ngaloglesh",
+    "coral": "xalohes",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "fehlerhaft gedacht, irrig"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_knowledge_patch.json"
+  },
+  "korallisch": "xalohes"
+}

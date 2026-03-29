@@ -1,0 +1,18 @@
+{
+  "id": "patch_4fabfcb349",
+  "headword": {
+    "roman": "frashzushafr",
+    "coral": "fadusaf",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Verletzung"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "fadusaf"
+}

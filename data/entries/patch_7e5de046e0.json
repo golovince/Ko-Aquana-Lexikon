@@ -1,0 +1,17 @@
+{
+  "id": "patch_7e5de046e0",
+  "headword": {
+    "roman": "mbongufrashzush",
+    "coral": "poxufadus",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "Wunde heilen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "poxufadus"
+}

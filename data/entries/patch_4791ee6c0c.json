@@ -1,0 +1,17 @@
+{
+  "id": "patch_4791ee6c0c",
+  "headword": {
+    "roman": "fshoshzofsish",
+    "coral": "vodowis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Schreiber"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "vodowis"
+}

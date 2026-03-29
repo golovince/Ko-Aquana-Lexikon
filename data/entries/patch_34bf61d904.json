@@ -1,0 +1,17 @@
+{
+  "id": "patch_34bf61d904",
+  "headword": {
+    "roman": "blashzushofr",
+    "coral": "badusof",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Rachen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "badusof"
+}

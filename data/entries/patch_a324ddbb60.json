@@ -1,0 +1,17 @@
+{
+  "id": "patch_a324ddbb60",
+  "headword": {
+    "roman": "shzushofr",
+    "coral": "dusof",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Ellenbogen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "dusof"
+}

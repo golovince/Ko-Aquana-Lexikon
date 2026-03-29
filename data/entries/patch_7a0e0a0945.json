@@ -1,0 +1,17 @@
+{
+  "id": "patch_7a0e0a0945",
+  "headword": {
+    "roman": "brohglafrashz",
+    "coral": "cöhafad",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Hammer"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_expansion_patch.json"
+  },
+  "korallisch": "cöhafad"
+}

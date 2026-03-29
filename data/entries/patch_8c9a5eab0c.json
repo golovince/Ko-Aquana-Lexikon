@@ -1,0 +1,18 @@
+{
+  "id": "patch_8c9a5eab0c",
+  "headword": {
+    "roman": "broobsofrashzush",
+    "coral": "cübsofadus",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "schwere Verletzung"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "cübsofadus"
+}

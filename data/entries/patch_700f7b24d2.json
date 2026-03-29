@@ -1,0 +1,18 @@
+{
+  "id": "patch_700f7b24d2",
+  "headword": {
+    "roman": "mbongufrashzufr",
+    "coral": "poxufaduf",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Wundheilung"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "poxufaduf"
+}

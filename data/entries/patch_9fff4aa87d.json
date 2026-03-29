@@ -1,0 +1,17 @@
+{
+  "id": "patch_9fff4aa87d",
+  "headword": {
+    "roman": "blablashzush",
+    "coral": "babadus",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Zunge"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "babadus"
+}

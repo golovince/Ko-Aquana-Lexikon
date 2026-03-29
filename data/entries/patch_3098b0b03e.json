@@ -1,0 +1,50 @@
+{
+  "id": "patch_3098b0b03e",
+  "headword": {
+    "roman": "shzubla",
+    "coral": "duba",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "schlüpfen / geboren werden"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "duba",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shzubla",
+          "coral": "duba"
+        },
+        "2sg": {
+          "roman": "shzublai",
+          "coral": "dubai"
+        },
+        "3sg": {
+          "roman": "shzublaie",
+          "coral": "dubaj"
+        },
+        "1pl": {
+          "roman": "shzublah",
+          "coral": "dubm"
+        },
+        "2pl": {
+          "roman": "shzublahi",
+          "coral": "dubmi"
+        },
+        "3pl": {
+          "roman": "shzublahie",
+          "coral": "dubmj"
+        }
+      }
+    }
+  }
+}

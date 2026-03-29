@@ -1,0 +1,17 @@
+{
+  "id": "patch_362eb95d19",
+  "headword": {
+    "roman": "oglolfr",
+    "coral": "oholf",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Schwimmen (Nominalisierung)"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_lexicon_v1_14_BIRDS_SWIM_PATCH.json"
+  },
+  "korallisch": "oholf"
+}

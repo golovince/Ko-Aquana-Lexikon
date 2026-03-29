@@ -1,0 +1,18 @@
+{
+  "id": "patch_7a48abd13a",
+  "headword": {
+    "roman": "fsheshingaloshzush",
+    "coral": "vesixalodus",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "gefährliche Krankheit"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "vesixalodus"
+}

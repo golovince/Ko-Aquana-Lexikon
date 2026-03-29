@@ -1,0 +1,17 @@
+{
+  "id": "patch_503984cb9f",
+  "headword": {
+    "roman": "ngologlesh",
+    "coral": "xolohes",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "unwissend"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_knowledge_patch.json"
+  },
+  "korallisch": "xolohes"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "patch_4a17b63dd1",
+  "headword": {
+    "roman": "gra",
+    "coral": "ga",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "beißen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "ga",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "gra",
+          "coral": "ga"
+        },
+        "2sg": {
+          "roman": "grai",
+          "coral": "gai"
+        },
+        "3sg": {
+          "roman": "graie",
+          "coral": "gaj"
+        },
+        "1pl": {
+          "roman": "grah",
+          "coral": "gm"
+        },
+        "2pl": {
+          "roman": "grahi",
+          "coral": "gmi"
+        },
+        "3pl": {
+          "roman": "grahie",
+          "coral": "gmj"
+        }
+      }
+    }
+  }
+}

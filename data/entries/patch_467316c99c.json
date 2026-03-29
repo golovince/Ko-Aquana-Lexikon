@@ -1,0 +1,17 @@
+{
+  "id": "patch_467316c99c",
+  "headword": {
+    "roman": "ngalogleshzt",
+    "coral": "xaloher",
+    "ipa": ""
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "irrtümlich"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_knowledge_patch.json"
+  },
+  "korallisch": "xaloher"
+}

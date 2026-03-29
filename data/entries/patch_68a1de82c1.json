@@ -1,0 +1,18 @@
+{
+  "id": "patch_68a1de82c1",
+  "headword": {
+    "roman": "mbalash",
+    "coral": "palas",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "greifend"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "palas"
+}

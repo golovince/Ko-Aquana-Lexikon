@@ -1,0 +1,17 @@
+{
+  "id": "patch_9fb6050206",
+  "headword": {
+    "roman": "bliblofsishzt",
+    "coral": "bibowir",
+    "ipa": ""
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "sprachlich (Adverb)"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "bibowir"
+}

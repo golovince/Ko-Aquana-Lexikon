@@ -1,0 +1,17 @@
+{
+  "id": "patch_20bd6a8c7c",
+  "headword": {
+    "roman": "shulis",
+    "coral": "sulis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "schlafend"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_patch.json"
+  },
+  "korallisch": "sulis"
+}

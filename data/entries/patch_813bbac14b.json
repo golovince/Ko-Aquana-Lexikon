@@ -1,0 +1,18 @@
+{
+  "id": "patch_813bbac14b",
+  "headword": {
+    "roman": "ngaloshzush",
+    "coral": "xalodus",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Krankheit"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "xalodus"
+}

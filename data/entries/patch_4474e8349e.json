@@ -1,0 +1,18 @@
+{
+  "id": "patch_4474e8349e",
+  "headword": {
+    "roman": "mbongungaloshzufr",
+    "coral": "poxuxaloduf",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Genesung"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "poxuxaloduf"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "patch_4fa94a6c5b",
+  "headword": {
+    "roman": "shzublosh",
+    "coral": "dubos",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "eierlegend"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "dubos"
+}

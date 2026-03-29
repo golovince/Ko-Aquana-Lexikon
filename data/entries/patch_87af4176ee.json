@@ -1,0 +1,17 @@
+{
+  "id": "patch_87af4176ee",
+  "headword": {
+    "roman": "brohglobrulish",
+    "coral": "cöhoculis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "geschmolzen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_patch.json"
+  },
+  "korallisch": "cöhoculis"
+}

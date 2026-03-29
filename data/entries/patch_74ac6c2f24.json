@@ -1,0 +1,17 @@
+{
+  "id": "patch_74ac6c2f24",
+  "headword": {
+    "roman": "brulishmbofrish",
+    "coral": "culispofis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "bärenartig (landbezogen)"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_lexicon_landforms_patch.json"
+  },
+  "korallisch": "culispofis"
+}

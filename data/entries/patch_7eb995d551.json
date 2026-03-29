@@ -1,0 +1,17 @@
+{
+  "id": "patch_7eb995d551",
+  "headword": {
+    "roman": "bliblofsishish",
+    "coral": "bibowisis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "sprachlich"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "bibowisis"
+}

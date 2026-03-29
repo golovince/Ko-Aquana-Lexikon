@@ -1,0 +1,17 @@
+{
+  "id": "patch_7ffa651d11",
+  "headword": {
+    "roman": "shzushishifrofr",
+    "coral": "dusisifof",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Stirn"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "dusisifof"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "patch_147615c972",
+  "headword": {
+    "roman": "glishingoblahbl",
+    "ipa": "",
+    "coral": "hisixobmb"
+  },
+  "pos": "noun",
+  "subpos": "",
+  "gloss_de": [
+    "Urteil"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {},
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "note": "Nomen zu glishingobla.",
+    "patched_from": "ko_aquana_patch_1_1"
+  },
+  "korallisch": "hisixobmb"
+}

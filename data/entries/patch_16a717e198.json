@@ -1,0 +1,17 @@
+{
+  "id": "patch_16a717e198",
+  "headword": {
+    "roman": "blabl",
+    "coral": "bab",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Sprache; Rede (Phänomen)"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_language_patch.json"
+  },
+  "korallisch": "bab"
+}

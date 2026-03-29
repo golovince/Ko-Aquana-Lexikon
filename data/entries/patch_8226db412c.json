@@ -1,0 +1,17 @@
+{
+  "id": "patch_8226db412c",
+  "headword": {
+    "roman": "brohglafrashzishzt",
+    "coral": "cöhafadir",
+    "ipa": ""
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "hämmernd"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_expansion_patch.json"
+  },
+  "korallisch": "cöhafadir"
+}

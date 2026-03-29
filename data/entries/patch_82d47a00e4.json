@@ -1,0 +1,17 @@
+{
+  "id": "patch_82d47a00e4",
+  "headword": {
+    "roman": "shzush",
+    "coral": "dus",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Körper"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "dus"
+}

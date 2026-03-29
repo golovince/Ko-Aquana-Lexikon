@@ -1,0 +1,49 @@
+{
+  "id": "patch_66d639a276",
+  "headword": {
+    "roman": "fshoshzimbugleshi",
+    "coral": "vodipuhesi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "Feinarbeit an Koralle, Möbelbau"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "vodipuhesi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshoshzimbugleshi",
+          "coral": "vodipuhesi"
+        },
+        "2sg": {
+          "roman": "fshoshzimbugleshio",
+          "coral": "vodipuhesio"
+        },
+        "3sg": {
+          "roman": "fshoshzimbugleshioh",
+          "coral": "vodipuhesiö"
+        },
+        "1pl": {
+          "roman": "fshoshzimbugleshie",
+          "coral": "vodipuhesj"
+        },
+        "2pl": {
+          "roman": "fshoshzimbugleshieo",
+          "coral": "vodipuhesjo"
+        },
+        "3pl": {
+          "roman": "fshoshzimbugleshieoh",
+          "coral": "vodipuhesjö"
+        }
+      }
+    }
+  }
+}

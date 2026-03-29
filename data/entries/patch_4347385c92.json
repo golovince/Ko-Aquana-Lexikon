@@ -1,0 +1,17 @@
+{
+  "id": "patch_4347385c92",
+  "headword": {
+    "roman": "fshzifsish",
+    "coral": "kiwis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Außenseiter"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_fshzi_expansion_patch.json"
+  },
+  "korallisch": "kiwis"
+}

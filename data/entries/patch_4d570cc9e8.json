@@ -1,0 +1,17 @@
+{
+  "id": "patch_4d570cc9e8",
+  "headword": {
+    "roman": "shzushofrosh",
+    "coral": "dusofos",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Füße"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "dusofos"
+}

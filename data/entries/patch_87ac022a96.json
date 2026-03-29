@@ -1,0 +1,49 @@
+{
+  "id": "patch_87ac022a96",
+  "headword": {
+    "roman": "ngalofshzi",
+    "coral": "xaloki",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "isolieren; vom Schwarm trennen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_fshzi_expansion_patch.json"
+  },
+  "korallisch": "xaloki",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "ngalofshzi",
+          "coral": "xaloki"
+        },
+        "2sg": {
+          "roman": "ngalofshzio",
+          "coral": "xalokio"
+        },
+        "3sg": {
+          "roman": "ngalofshzioh",
+          "coral": "xalokiö"
+        },
+        "1pl": {
+          "roman": "ngalofshzie",
+          "coral": "xalokj"
+        },
+        "2pl": {
+          "roman": "ngalofshzieo",
+          "coral": "xalokjo"
+        },
+        "3pl": {
+          "roman": "ngalofshzieoh",
+          "coral": "xalokjö"
+        }
+      }
+    }
+  }
+}

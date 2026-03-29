@@ -1,0 +1,17 @@
+{
+  "id": "patch_172b565092",
+  "headword": {
+    "roman": "brohglohbr",
+    "coral": "cöhöc",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Schmiedekunst, Metallverarbeitung"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_patch.json"
+  },
+  "korallisch": "cöhöc"
+}

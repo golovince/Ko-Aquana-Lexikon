@@ -1,0 +1,17 @@
+{
+  "id": "patch_12765f185b",
+  "headword": {
+    "roman": "mbeshzmbofrish",
+    "coral": "pedpofis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "hundartig (landbezogen)"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_lexicon_landforms_patch.json"
+  },
+  "korallisch": "pedpofis"
+}

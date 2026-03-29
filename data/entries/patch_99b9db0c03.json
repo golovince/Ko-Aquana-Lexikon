@@ -1,0 +1,59 @@
+{
+  "id": "patch_99b9db0c03",
+  "headword": {
+    "roman": "frooshzi",
+    "ipa": "",
+    "coral": "füdi"
+  },
+  "pos": "verb",
+  "subpos": "",
+  "gloss_de": [
+    "belebt",
+    "das Schicksal lenken",
+    "die Strömung wenden",
+    "in Bewegung",
+    "lebendig",
+    "strömen"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {},
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "note": "Verb für 'strömen' (Strömung als Bewegung)"
+  },
+  "korallisch": "füdi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "frooshzi",
+          "coral": "füdi"
+        },
+        "2sg": {
+          "roman": "frooshzio",
+          "coral": "füdio"
+        },
+        "3sg": {
+          "roman": "frooshzioh",
+          "coral": "füdiö"
+        },
+        "1pl": {
+          "roman": "frooshzie",
+          "coral": "füdj"
+        },
+        "2pl": {
+          "roman": "frooshzieo",
+          "coral": "füdjo"
+        },
+        "3pl": {
+          "roman": "frooshzieoh",
+          "coral": "füdjö"
+        }
+      }
+    }
+  }
+}

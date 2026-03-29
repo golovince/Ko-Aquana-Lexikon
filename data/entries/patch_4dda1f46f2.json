@@ -1,0 +1,17 @@
+{
+  "id": "patch_4dda1f46f2",
+  "headword": {
+    "roman": "shzushofrul",
+    "coral": "dusoful",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Rumpf"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "dusoful"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "patch_4db41caaef",
+  "headword": {
+    "roman": "fshzifrooshz",
+    "coral": "kifüd",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Einzelschicksal; Bürde die allein getragen werden muss"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_fshzi_expansion_patch.json"
+  },
+  "korallisch": "kifüd"
+}

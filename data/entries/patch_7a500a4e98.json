@@ -1,0 +1,17 @@
+{
+  "id": "patch_7a500a4e98",
+  "headword": {
+    "roman": "brulishmbofr",
+    "coral": "culispof",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Landbär"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_lexicon_landforms_patch.json"
+  },
+  "korallisch": "culispof"
+}

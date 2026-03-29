@@ -1,0 +1,17 @@
+{
+  "id": "patch_57fd1fb4bc",
+  "headword": {
+    "roman": "oglolish",
+    "coral": "oholis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "schwimmend"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_lexicon_v1_14_BIRDS_SWIM_PATCH.json"
+  },
+  "korallisch": "oholis"
+}

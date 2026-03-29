@@ -1,0 +1,49 @@
+{
+  "id": "patch_65d2d955ad",
+  "headword": {
+    "roman": "brohglongalo",
+    "coral": "cöhoxalo",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "Erz abbauen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_expansion_patch.json"
+  },
+  "korallisch": "cöhoxalo",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "brohglongalo",
+          "coral": "cöhoxalo"
+        },
+        "2sg": {
+          "roman": "brohglongaloi",
+          "coral": "cöhoxaloi"
+        },
+        "3sg": {
+          "roman": "brohglongaloie",
+          "coral": "cöhoxaloj"
+        },
+        "1pl": {
+          "roman": "brohglongaloh",
+          "coral": "cöhoxalö"
+        },
+        "2pl": {
+          "roman": "brohglongalohi",
+          "coral": "cöhoxalöi"
+        },
+        "3pl": {
+          "roman": "brohglongalohie",
+          "coral": "cöhoxalöj"
+        }
+      }
+    }
+  }
+}

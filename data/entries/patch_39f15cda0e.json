@@ -1,0 +1,17 @@
+{
+  "id": "patch_39f15cda0e",
+  "headword": {
+    "roman": "brohglofsish",
+    "coral": "cöhowis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Schmied"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_patch.json"
+  },
+  "korallisch": "cöhowis"
+}

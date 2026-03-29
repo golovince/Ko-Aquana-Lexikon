@@ -1,0 +1,17 @@
+{
+  "id": "patch_67b7fa3791",
+  "headword": {
+    "roman": "shzushofro",
+    "coral": "dusofo",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Schultern"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "dusofo"
+}

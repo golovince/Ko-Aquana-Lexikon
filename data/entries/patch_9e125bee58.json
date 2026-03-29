@@ -1,0 +1,49 @@
+{
+  "id": "patch_9e125bee58",
+  "headword": {
+    "roman": "gleshishtähblo",
+    "coral": "hesistähbo",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "Werkzeug benutzen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_patch.json"
+  },
+  "korallisch": "hesistähbo",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "gleshishtähblo",
+          "coral": "hesitäbo"
+        },
+        "2sg": {
+          "roman": "gleshishtähbloi",
+          "coral": "hesitäboi"
+        },
+        "3sg": {
+          "roman": "gleshishtähbloie",
+          "coral": "hesitäboj"
+        },
+        "1pl": {
+          "roman": "gleshishtähbloh",
+          "coral": "hesitäbö"
+        },
+        "2pl": {
+          "roman": "gleshishtähblohi",
+          "coral": "hesitäböi"
+        },
+        "3pl": {
+          "roman": "gleshishtähblohie",
+          "coral": "hesitäböj"
+        }
+      }
+    }
+  }
+}

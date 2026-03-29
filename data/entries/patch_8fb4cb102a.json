@@ -1,0 +1,17 @@
+{
+  "id": "patch_8fb4cb102a",
+  "headword": {
+    "roman": "sholofrul",
+    "coral": "soloful",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Skelett"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "soloful"
+}

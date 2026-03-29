@@ -1,0 +1,17 @@
+{
+  "id": "patch_824c08326a",
+  "headword": {
+    "roman": "oglolagl",
+    "coral": "oholah",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Taucher"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_lexicon_v1_14_BIRDS_SWIM_PATCH.json"
+  },
+  "korallisch": "oholah"
+}

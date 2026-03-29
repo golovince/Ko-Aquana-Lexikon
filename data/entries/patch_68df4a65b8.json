@@ -1,0 +1,18 @@
+{
+  "id": "patch_68df4a65b8",
+  "headword": {
+    "roman": "brulofshzabr",
+    "coral": "culokac",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Blutung"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "culokac"
+}

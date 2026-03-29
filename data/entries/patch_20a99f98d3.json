@@ -1,0 +1,17 @@
+{
+  "id": "patch_20a99f98d3",
+  "headword": {
+    "roman": "mbeshzmbofr",
+    "coral": "pedpof",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Landhund"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_lexicon_landforms_patch.json"
+  },
+  "korallisch": "pedpof"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "patch_53822fdbbe",
+  "headword": {
+    "roman": "fshoshzashzt",
+    "coral": "vodar",
+    "ipa": ""
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "lesend"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "vodar"
+}

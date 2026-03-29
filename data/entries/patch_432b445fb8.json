@@ -1,0 +1,18 @@
+{
+  "id": "patch_432b445fb8",
+  "headword": {
+    "roman": "broobsongaloshzush",
+    "coral": "cübsoxalodus",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "schwere Krankheit"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "cübsoxalodus"
+}

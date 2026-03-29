@@ -1,0 +1,55 @@
+{
+  "id": "patch_73308b0297",
+  "headword": {
+    "roman": "shobre",
+    "ipa": "",
+    "coral": "soce"
+  },
+  "pos": "verb",
+  "subpos": "",
+  "gloss_de": [
+    "einen Eid leisten",
+    "schwören"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {},
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "note": "Eid schwören / Bindung eingehen."
+  },
+  "korallisch": "soce",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shobre",
+          "coral": "soce"
+        },
+        "2sg": {
+          "roman": "shobrei",
+          "coral": "socei"
+        },
+        "3sg": {
+          "roman": "shobreie",
+          "coral": "socej"
+        },
+        "1pl": {
+          "roman": "shobräh",
+          "coral": "socä"
+        },
+        "2pl": {
+          "roman": "shobrähi",
+          "coral": "socäi"
+        },
+        "3pl": {
+          "roman": "shobrähie",
+          "coral": "socäj"
+        }
+      }
+    }
+  }
+}

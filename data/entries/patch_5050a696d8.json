@@ -1,0 +1,17 @@
+{
+  "id": "patch_5050a696d8",
+  "headword": {
+    "roman": "brohgl",
+    "coral": "cöh",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Metall"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_patch.json"
+  },
+  "korallisch": "cöh"
+}

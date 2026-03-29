@@ -1,0 +1,55 @@
+{
+  "id": "patch_82be511dce",
+  "headword": {
+    "roman": "ngolombu",
+    "ipa": "",
+    "coral": "xolopu"
+  },
+  "pos": "verb",
+  "subpos": "",
+  "gloss_de": [
+    "im Exil leben"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {},
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "note": "Verb: im Exil leben.",
+    "patched_from": "ko_aquana_patch_1_1"
+  },
+  "korallisch": "xolopu",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "ngolombu",
+          "coral": "xolopu"
+        },
+        "2sg": {
+          "roman": "ngolombui",
+          "coral": "xolopui"
+        },
+        "3sg": {
+          "roman": "ngolombuie",
+          "coral": "xolopuj"
+        },
+        "1pl": {
+          "roman": "ngolomboo",
+          "coral": "xolopü"
+        },
+        "2pl": {
+          "roman": "ngolombooi",
+          "coral": "xolopüi"
+        },
+        "3pl": {
+          "roman": "ngolombooie",
+          "coral": "xolopüj"
+        }
+      }
+    }
+  }
+}

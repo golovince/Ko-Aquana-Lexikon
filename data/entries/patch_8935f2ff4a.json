@@ -1,0 +1,17 @@
+{
+  "id": "patch_8935f2ff4a",
+  "headword": {
+    "roman": "glifshoshzofr",
+    "coral": "hivodof",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Chronik, Aufzeichnung"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "hivodof"
+}

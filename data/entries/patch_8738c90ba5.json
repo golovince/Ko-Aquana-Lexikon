@@ -1,0 +1,17 @@
+{
+  "id": "patch_8738c90ba5",
+  "headword": {
+    "roman": "brohglongalfsish",
+    "coral": "cöhoxalwis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Erzarbeiter"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_expansion_patch.json"
+  },
+  "korallisch": "cöhoxalwis"
+}

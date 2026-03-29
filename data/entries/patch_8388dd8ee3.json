@@ -1,0 +1,49 @@
+{
+  "id": "patch_8388dd8ee3",
+  "headword": {
+    "roman": "ngalogle",
+    "coral": "xalohe",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "Fehlannahme haben, Denkfehler machen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_knowledge_patch.json"
+  },
+  "korallisch": "xalohe",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "ngalogle",
+          "coral": "xalohe"
+        },
+        "2sg": {
+          "roman": "ngaloglei",
+          "coral": "xalohei"
+        },
+        "3sg": {
+          "roman": "ngalogleie",
+          "coral": "xalohej"
+        },
+        "1pl": {
+          "roman": "ngalogläh",
+          "coral": "xalohä"
+        },
+        "2pl": {
+          "roman": "ngaloglähi",
+          "coral": "xalohäi"
+        },
+        "3pl": {
+          "roman": "ngaloglähie",
+          "coral": "xalohäj"
+        }
+      }
+    }
+  }
+}

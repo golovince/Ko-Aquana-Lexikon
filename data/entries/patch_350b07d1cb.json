@@ -1,0 +1,49 @@
+{
+  "id": "patch_350b07d1cb",
+  "headword": {
+    "roman": "gleshishifri",
+    "coral": "hesisifi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "bearbeiten"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_patch.json"
+  },
+  "korallisch": "hesisifi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "gleshishifri",
+          "coral": "hesisifi"
+        },
+        "2sg": {
+          "roman": "gleshishifrio",
+          "coral": "hesisifio"
+        },
+        "3sg": {
+          "roman": "gleshishifrioh",
+          "coral": "hesisifiö"
+        },
+        "1pl": {
+          "roman": "gleshishifrie",
+          "coral": "hesisifj"
+        },
+        "2pl": {
+          "roman": "gleshishifrieo",
+          "coral": "hesisifjo"
+        },
+        "3pl": {
+          "roman": "gleshishifrieoh",
+          "coral": "hesisifjö"
+        }
+      }
+    }
+  }
+}

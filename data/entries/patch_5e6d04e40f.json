@@ -1,0 +1,17 @@
+{
+  "id": "patch_5e6d04e40f",
+  "headword": {
+    "roman": "shzushngol",
+    "coral": "dusxol",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Anus, Kloake"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "dusxol"
+}

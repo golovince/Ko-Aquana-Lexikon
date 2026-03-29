@@ -1,0 +1,17 @@
+{
+  "id": "patch_a422263cef",
+  "headword": {
+    "roman": "fshziblähsh",
+    "coral": "kibähs",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Alleinherrscher; Diktator"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_loneliness_autocracy_patch.json"
+  },
+  "korallisch": "kibähs"
+}

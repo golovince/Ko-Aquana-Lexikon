@@ -1,0 +1,49 @@
+{
+  "id": "patch_8f593401bd",
+  "headword": {
+    "roman": "brohglobrulgleshi",
+    "coral": "cöhoculhesi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "Metall schmelzen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_expansion_patch.json"
+  },
+  "korallisch": "cöhoculhesi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "brohglobrulgleshi",
+          "coral": "cöhoculhesi"
+        },
+        "2sg": {
+          "roman": "brohglobrulgleshio",
+          "coral": "cöhoculhesio"
+        },
+        "3sg": {
+          "roman": "brohglobrulgleshioh",
+          "coral": "cöhoculhesiö"
+        },
+        "1pl": {
+          "roman": "brohglobrulgleshie",
+          "coral": "cöhoculhesj"
+        },
+        "2pl": {
+          "roman": "brohglobrulgleshieo",
+          "coral": "cöhoculhesjo"
+        },
+        "3pl": {
+          "roman": "brohglobrulgleshieoh",
+          "coral": "cöhoculhesjö"
+        }
+      }
+    }
+  }
+}

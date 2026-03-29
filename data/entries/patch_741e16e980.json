@@ -1,0 +1,17 @@
+{
+  "id": "patch_741e16e980",
+  "headword": {
+    "roman": "grashzush",
+    "coral": "gadus",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Zahn"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "gadus"
+}

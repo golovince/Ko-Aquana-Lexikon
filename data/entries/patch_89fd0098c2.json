@@ -1,0 +1,17 @@
+{
+  "id": "patch_89fd0098c2",
+  "headword": {
+    "roman": "fshzoglishish",
+    "coral": "kohisis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "bewusst allein; standhaft isoliert"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_fshzi_expansion_patch.json"
+  },
+  "korallisch": "kohisis"
+}

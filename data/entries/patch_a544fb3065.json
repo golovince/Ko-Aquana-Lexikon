@@ -1,0 +1,17 @@
+{
+  "id": "patch_a544fb3065",
+  "headword": {
+    "roman": "gragr",
+    "coral": "gag",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Biss"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "gag"
+}

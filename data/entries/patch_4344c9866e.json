@@ -1,0 +1,17 @@
+{
+  "id": "patch_4344c9866e",
+  "headword": {
+    "roman": "gleshishtähbl",
+    "coral": "hesistähb",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Werkzeug"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_patch.json"
+  },
+  "korallisch": "hesistähb"
+}

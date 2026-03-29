@@ -1,0 +1,18 @@
+{
+  "id": "patch_60d9126ede",
+  "headword": {
+    "roman": "ngaloshzungishzt",
+    "coral": "xaloduxir",
+    "ipa": ""
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "krank"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "xaloduxir"
+}

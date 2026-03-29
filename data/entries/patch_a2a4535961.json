@@ -1,0 +1,17 @@
+{
+  "id": "patch_a2a4535961",
+  "headword": {
+    "roman": "ngalofshzifr",
+    "coral": "xalokif",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Absonderung; Isolation"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_fshzi_expansion_patch.json"
+  },
+  "korallisch": "xalokif"
+}

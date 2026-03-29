@@ -1,0 +1,18 @@
+{
+  "id": "patch_69b30cd7f3",
+  "headword": {
+    "roman": "bleshfrulish",
+    "coral": "besfulis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "lecker, wohlschmeckend"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_food_tolerability_patch.json",
+    "note": "Positive geschmackliche Bewertung"
+  },
+  "korallisch": "besfulis"
+}

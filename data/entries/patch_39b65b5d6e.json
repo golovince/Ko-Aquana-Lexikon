@@ -1,0 +1,17 @@
+{
+  "id": "patch_39b65b5d6e",
+  "headword": {
+    "roman": "fshzishfsish",
+    "coral": "kiswis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "einsame Person"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_fshzi_expansion_patch.json"
+  },
+  "korallisch": "kiswis"
+}

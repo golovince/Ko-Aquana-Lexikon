@@ -1,0 +1,17 @@
+{
+  "id": "patch_52c744d3ec",
+  "headword": {
+    "roman": "grashzushush",
+    "coral": "gadusus",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Gebiss"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "gadusus"
+}

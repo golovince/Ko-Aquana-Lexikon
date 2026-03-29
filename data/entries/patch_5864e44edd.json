@@ -1,0 +1,17 @@
+{
+  "id": "patch_5864e44edd",
+  "headword": {
+    "roman": "fshoshzifrulifsish",
+    "coral": "vodifuliwis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Korallenschneider"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "vodifuliwis"
+}

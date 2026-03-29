@@ -1,0 +1,17 @@
+{
+  "id": "patch_8dcdf4690d",
+  "headword": {
+    "roman": "shzushofrulibr",
+    "coral": "dusofulic",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Unterschenkel"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "dusofulic"
+}

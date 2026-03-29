@@ -1,0 +1,49 @@
+{
+  "id": "patch_48f3aac8c6",
+  "headword": {
+    "roman": "fshoshzfshoshzigleshi",
+    "coral": "vodvodihesi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "Korallen fällen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "vodvodihesi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshoshzfshoshzigleshi",
+          "coral": "vozsodihesi"
+        },
+        "2sg": {
+          "roman": "fshoshzfshoshzigleshio",
+          "coral": "vozsodihesio"
+        },
+        "3sg": {
+          "roman": "fshoshzfshoshzigleshioh",
+          "coral": "vozsodihesiö"
+        },
+        "1pl": {
+          "roman": "fshoshzfshoshzigleshie",
+          "coral": "vozsodihesj"
+        },
+        "2pl": {
+          "roman": "fshoshzfshoshzigleshieo",
+          "coral": "vozsodihesjo"
+        },
+        "3pl": {
+          "roman": "fshoshzfshoshzigleshieoh",
+          "coral": "vozsodihesjö"
+        }
+      }
+    }
+  }
+}

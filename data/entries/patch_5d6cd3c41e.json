@@ -1,0 +1,18 @@
+{
+  "id": "patch_5d6cd3c41e",
+  "headword": {
+    "roman": "ngaloshzushofrul",
+    "coral": "xalodusoful",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Rücken"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "xalodusoful"
+}

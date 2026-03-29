@@ -1,0 +1,49 @@
+{
+  "id": "patch_6044f05aa3",
+  "headword": {
+    "roman": "gle",
+    "coral": "he",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "wissen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_knowledge_patch.json"
+  },
+  "korallisch": "he",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "gle",
+          "coral": "he"
+        },
+        "2sg": {
+          "roman": "glei",
+          "coral": "hei"
+        },
+        "3sg": {
+          "roman": "gleie",
+          "coral": "hej"
+        },
+        "1pl": {
+          "roman": "gläh",
+          "coral": "hä"
+        },
+        "2pl": {
+          "roman": "glähi",
+          "coral": "häi"
+        },
+        "3pl": {
+          "roman": "glähie",
+          "coral": "häj"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "patch_9b24c47564",
+  "headword": {
+    "roman": "fshzish",
+    "coral": "kis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "einsam"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_loneliness_autocracy_patch.json"
+  },
+  "korallisch": "kis"
+}

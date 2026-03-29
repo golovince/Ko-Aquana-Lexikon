@@ -1,0 +1,17 @@
+{
+  "id": "patch_4bb527bcd2",
+  "headword": {
+    "roman": "brohglobrul",
+    "coral": "cöhocul",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "geschmolzenes Metall"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_patch.json"
+  },
+  "korallisch": "cöhocul"
+}

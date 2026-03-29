@@ -1,0 +1,17 @@
+{
+  "id": "patch_6512eee59c",
+  "headword": {
+    "roman": "brohglafrashzish",
+    "coral": "cöhafadis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "gehämmert"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_expansion_patch.json"
+  },
+  "korallisch": "cöhafadis"
+}

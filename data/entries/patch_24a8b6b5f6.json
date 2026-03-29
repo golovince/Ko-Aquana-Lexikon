@@ -1,0 +1,17 @@
+{
+  "id": "patch_24a8b6b5f6",
+  "headword": {
+    "roman": "fshoshzoshtähbl",
+    "coral": "vodostähb",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Schreibinstrument (Korallen-Ritzstab)"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "vodostähb"
+}

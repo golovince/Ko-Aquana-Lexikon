@@ -1,0 +1,17 @@
+{
+  "id": "patch_7ab3e83a3a",
+  "headword": {
+    "roman": "mbufsafsish",
+    "coral": "puwawis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Gerber"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_patch.json"
+  },
+  "korallisch": "puwawis"
+}

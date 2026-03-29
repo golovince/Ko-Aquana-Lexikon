@@ -1,0 +1,18 @@
+{
+  "id": "patch_6b90466092",
+  "headword": {
+    "roman": "mbalafsish",
+    "coral": "palawis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Greifer"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "palawis"
+}

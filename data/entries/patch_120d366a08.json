@@ -1,0 +1,18 @@
+{
+  "id": "patch_120d366a08",
+  "headword": {
+    "roman": "ngaloshzungish",
+    "coral": "xaloduxis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "krank"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "xaloduxis"
+}
