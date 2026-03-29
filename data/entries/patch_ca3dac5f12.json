@@ -1,0 +1,17 @@
+{
+  "id": "patch_ca3dac5f12",
+  "headword": {
+    "roman": "sholofruliblol",
+    "coral": "solofulibol",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Wirbelsäule"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "solofulibol"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "patch_bd10197c47",
+  "headword": {
+    "roman": "shzushofsh",
+    "coral": "dusov",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Eierlegeorgan"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "dusov"
+}

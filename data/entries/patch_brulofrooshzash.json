@@ -1,0 +1,19 @@
+{
+  "id": "patch_brulofrooshzash",
+  "headword": {
+    "roman": "brulofrooshzash",
+    "ipa": "",
+    "coral": "culofüdas"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Mirtul-Glöckchen (Kraut/Blüte)"
+  ],
+  "korallisch": "culofüdas",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_seasons_mirtul_patch.json"
+  },
+  "notes": "Wächst in der Zeit der warmen Strömung; nicht mit Seebärlauch verwechseln."
+}

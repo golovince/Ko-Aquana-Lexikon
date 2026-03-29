@@ -1,0 +1,49 @@
+{
+  "id": "patch_dfa244d97d",
+  "headword": {
+    "roman": "fshzibrongi",
+    "coral": "kicoxi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "alleinherrschen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_fshzi_expansion_patch.json"
+  },
+  "korallisch": "kicoxi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshzibrongi",
+          "coral": "kicoxi"
+        },
+        "2sg": {
+          "roman": "fshzibrongio",
+          "coral": "kicoxio"
+        },
+        "3sg": {
+          "roman": "fshzibrongioh",
+          "coral": "kicoxiö"
+        },
+        "1pl": {
+          "roman": "fshzibrongie",
+          "coral": "kicoxj"
+        },
+        "2pl": {
+          "roman": "fshzibrongieo",
+          "coral": "kicoxjo"
+        },
+        "3pl": {
+          "roman": "fshzibrongieoh",
+          "coral": "kicoxjö"
+        }
+      }
+    }
+  }
+}

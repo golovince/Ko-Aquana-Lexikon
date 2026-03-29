@@ -1,0 +1,18 @@
+{
+  "id": "patch_fcc4d7b19f",
+  "headword": {
+    "roman": "shzublofr",
+    "coral": "dubof",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Eiablage"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "dubof"
+}

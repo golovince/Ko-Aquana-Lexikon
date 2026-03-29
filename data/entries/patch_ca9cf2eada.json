@@ -1,0 +1,17 @@
+{
+  "id": "patch_ca9cf2eada",
+  "headword": {
+    "roman": "shzungolofr",
+    "coral": "duxolof",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Hintern"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "duxolof"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "patch_a504081b85",
+  "headword": {
+    "roman": "ogloli",
+    "coral": "oholi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "schwimmen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_lexicon_v1_14_BIRDS_SWIM_PATCH.json"
+  },
+  "korallisch": "oholi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "ogloli",
+          "coral": "oholi"
+        },
+        "2sg": {
+          "roman": "oglolio",
+          "coral": "oholio"
+        },
+        "3sg": {
+          "roman": "oglolioh",
+          "coral": "oholiö"
+        },
+        "1pl": {
+          "roman": "oglolie",
+          "coral": "oholj"
+        },
+        "2pl": {
+          "roman": "oglolieo",
+          "coral": "oholjo"
+        },
+        "3pl": {
+          "roman": "oglolieoh",
+          "coral": "oholjö"
+        }
+      }
+    }
+  }
+}

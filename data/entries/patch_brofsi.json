@@ -1,0 +1,50 @@
+{
+  "id": "patch_brofsi",
+  "headword": {
+    "roman": "brofsi",
+    "ipa": "",
+    "coral": "cowi"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "hoffen"
+  ],
+  "korallisch": "cowi",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_existenz_emotion_luecken_patch.json"
+  },
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "brofsi",
+          "coral": "cowi"
+        },
+        "2sg": {
+          "roman": "brofsio",
+          "coral": "cowio"
+        },
+        "3sg": {
+          "roman": "brofsioh",
+          "coral": "cowiö"
+        },
+        "1pl": {
+          "roman": "brofsie",
+          "coral": "cowj"
+        },
+        "2pl": {
+          "roman": "brofsieo",
+          "coral": "cowjo"
+        },
+        "3pl": {
+          "roman": "brofsieoh",
+          "coral": "cowjö"
+        }
+      }
+    }
+  }
+}

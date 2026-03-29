@@ -1,0 +1,50 @@
+{
+  "id": "patch_cbe8d64d18",
+  "headword": {
+    "roman": "ngaloshzusha",
+    "coral": "xalodusa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "krank sein"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "xalodusa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "ngaloshzusha",
+          "coral": "xalodusa"
+        },
+        "2sg": {
+          "roman": "ngaloshzushai",
+          "coral": "xalodusai"
+        },
+        "3sg": {
+          "roman": "ngaloshzushaie",
+          "coral": "xalodusaj"
+        },
+        "1pl": {
+          "roman": "ngaloshzushah",
+          "coral": "xalodusm"
+        },
+        "2pl": {
+          "roman": "ngaloshzushahi",
+          "coral": "xalodusmi"
+        },
+        "3pl": {
+          "roman": "ngaloshzushahie",
+          "coral": "xalodusmj"
+        }
+      }
+    }
+  }
+}

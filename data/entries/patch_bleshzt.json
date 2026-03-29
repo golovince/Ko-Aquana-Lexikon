@@ -1,0 +1,18 @@
+{
+  "id": "patch_bleshzt",
+  "headword": {
+    "roman": "bleshzt",
+    "ipa": "",
+    "coral": "ber"
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "gierig (Adv.)"
+  ],
+  "korallisch": "ber",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_soapopera_patch_NO_BROOBS.json"
+  }
+}

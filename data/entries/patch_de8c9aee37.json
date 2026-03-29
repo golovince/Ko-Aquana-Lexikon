@@ -1,0 +1,17 @@
+{
+  "id": "patch_de8c9aee37",
+  "headword": {
+    "roman": "brulishzush",
+    "coral": "culidus",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Muskel"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "culidus"
+}

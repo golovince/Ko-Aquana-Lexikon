@@ -1,0 +1,17 @@
+{
+  "id": "patch_f2feb5943a",
+  "headword": {
+    "roman": "shzushiblol",
+    "coral": "dusibol",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Hals"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "dusibol"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "patch_da7336173a",
+  "headword": {
+    "roman": "shzublobs",
+    "coral": "dubobs",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Ei"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "dubobs"
+}

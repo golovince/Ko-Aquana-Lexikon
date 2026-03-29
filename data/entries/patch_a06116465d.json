@@ -1,0 +1,49 @@
+{
+  "id": "patch_a06116465d",
+  "headword": {
+    "roman": "mbashzublo",
+    "coral": "padubo",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "befruchten"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json"
+  },
+  "korallisch": "padubo",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mbashzublo",
+          "coral": "padubo"
+        },
+        "2sg": {
+          "roman": "mbashzubloi",
+          "coral": "paduboi"
+        },
+        "3sg": {
+          "roman": "mbashzubloie",
+          "coral": "paduboj"
+        },
+        "1pl": {
+          "roman": "mbashzubloh",
+          "coral": "padubö"
+        },
+        "2pl": {
+          "roman": "mbashzublohi",
+          "coral": "paduböi"
+        },
+        "3pl": {
+          "roman": "mbashzublohie",
+          "coral": "paduböj"
+        }
+      }
+    }
+  }
+}

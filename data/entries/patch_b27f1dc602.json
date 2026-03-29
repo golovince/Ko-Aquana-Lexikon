@@ -1,0 +1,49 @@
+{
+  "id": "patch_b27f1dc602",
+  "headword": {
+    "roman": "ngologle",
+    "coral": "xolohe",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "nicht verstehen, Wissenslücke haben"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_knowledge_patch.json"
+  },
+  "korallisch": "xolohe",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "ngologle",
+          "coral": "xolohe"
+        },
+        "2sg": {
+          "roman": "ngologlei",
+          "coral": "xolohei"
+        },
+        "3sg": {
+          "roman": "ngologleie",
+          "coral": "xolohej"
+        },
+        "1pl": {
+          "roman": "ngologläh",
+          "coral": "xolohä"
+        },
+        "2pl": {
+          "roman": "ngologlähi",
+          "coral": "xolohäi"
+        },
+        "3pl": {
+          "roman": "ngologlähie",
+          "coral": "xolohäj"
+        }
+      }
+    }
+  }
+}

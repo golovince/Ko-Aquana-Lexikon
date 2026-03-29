@@ -1,0 +1,17 @@
+{
+  "id": "patch_e9c9ddee12",
+  "headword": {
+    "roman": "blablafsish",
+    "coral": "babawis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Sprecher"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_language_patch.json"
+  },
+  "korallisch": "babawis"
+}

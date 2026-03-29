@@ -1,0 +1,18 @@
+{
+  "id": "patch_eeac9b823e",
+  "headword": {
+    "roman": "mbashzublolish",
+    "coral": "padubolis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "befruchtet"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "padubolis"
+}

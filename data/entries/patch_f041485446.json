@@ -1,0 +1,17 @@
+{
+  "id": "patch_f041485446",
+  "headword": {
+    "roman": "mbashzublol",
+    "coral": "padubol",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "befruchten"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "padubol"
+}

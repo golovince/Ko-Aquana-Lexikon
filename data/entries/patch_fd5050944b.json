@@ -1,0 +1,17 @@
+{
+  "id": "patch_fd5050944b",
+  "headword": {
+    "roman": "brohglmbashz",
+    "coral": "cöhpad",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Amboss"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_expansion_patch.json"
+  },
+  "korallisch": "cöhpad"
+}

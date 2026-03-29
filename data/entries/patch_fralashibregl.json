@@ -1,0 +1,17 @@
+{
+  "id": "patch_fralashibregl",
+  "headword": {
+    "roman": "fralashibregl",
+    "ipa": "",
+    "coral": "falasiceh"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Senatskollegium"
+  ],
+  "korallisch": "falasiceh",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1"
+  }
+}

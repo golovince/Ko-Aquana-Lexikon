@@ -1,0 +1,49 @@
+{
+  "id": "patch_e320ffecb8",
+  "headword": {
+    "roman": "brohglbliblo",
+    "coral": "cöhbibo",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "Metalle mischen, legieren"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_expansion_patch.json"
+  },
+  "korallisch": "cöhbibo",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "brohglbliblo",
+          "coral": "cöhbibo"
+        },
+        "2sg": {
+          "roman": "brohglblibloi",
+          "coral": "cöhbiboi"
+        },
+        "3sg": {
+          "roman": "brohglblibloie",
+          "coral": "cöhbiboj"
+        },
+        "1pl": {
+          "roman": "brohglblibloh",
+          "coral": "cöhbibö"
+        },
+        "2pl": {
+          "roman": "brohglbliblohi",
+          "coral": "cöhbiböi"
+        },
+        "3pl": {
+          "roman": "brohglbliblohie",
+          "coral": "cöhbiböj"
+        }
+      }
+    }
+  }
+}

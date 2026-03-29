@@ -1,0 +1,23 @@
+{
+  "id": "patch_e08d62df7b",
+  "headword": {
+    "roman": "mbush",
+    "ipa": "",
+    "coral": "pus"
+  },
+  "pos": "adv",
+  "subpos": "",
+  "gloss_de": [
+    "zuhause"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {},
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "note": "Adverb; kulturell 'zuhause'.",
+    "patched_from": "ko_aquana_patch_1_1"
+  },
+  "korallisch": "pus"
+}

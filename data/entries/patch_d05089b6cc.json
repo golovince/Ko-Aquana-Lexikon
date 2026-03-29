@@ -1,0 +1,17 @@
+{
+  "id": "patch_d05089b6cc",
+  "headword": {
+    "roman": "gleshishifr",
+    "coral": "hesisif",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Bearbeitung"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_patch.json"
+  },
+  "korallisch": "hesisif"
+}

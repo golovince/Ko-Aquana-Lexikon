@@ -1,0 +1,17 @@
+{
+  "id": "patch_fd337cc2b2",
+  "headword": {
+    "roman": "shzushofrulish",
+    "coral": "dusofulis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Oberschenkel"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "dusofulis"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "patch_f78896bdc0",
+  "headword": {
+    "roman": "frashzusha",
+    "coral": "fadusa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "verletzen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "fadusa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "frashzusha",
+          "coral": "fadusa"
+        },
+        "2sg": {
+          "roman": "frashzushai",
+          "coral": "fadusai"
+        },
+        "3sg": {
+          "roman": "frashzushaie",
+          "coral": "fadusaj"
+        },
+        "1pl": {
+          "roman": "frashzushah",
+          "coral": "fadusm"
+        },
+        "2pl": {
+          "roman": "frashzushahi",
+          "coral": "fadusmi"
+        },
+        "3pl": {
+          "roman": "frashzushahie",
+          "coral": "fadusmj"
+        }
+      }
+    }
+  }
+}

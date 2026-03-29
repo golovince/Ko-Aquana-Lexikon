@@ -1,0 +1,17 @@
+{
+  "id": "patch_aea53e2d46",
+  "headword": {
+    "roman": "blashzush",
+    "coral": "badus",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Mund"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "badus"
+}

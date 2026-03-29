@@ -1,0 +1,17 @@
+{
+  "id": "patch_c4acc14278",
+  "headword": {
+    "roman": "ngologlefr",
+    "coral": "xolohef",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Unwissen, Wissenslücke"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_knowledge_patch.json"
+  },
+  "korallisch": "xolohef"
+}

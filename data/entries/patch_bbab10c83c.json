@@ -1,0 +1,17 @@
+{
+  "id": "patch_bbab10c83c",
+  "headword": {
+    "roman": "mbashzublofr",
+    "coral": "padubof",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Befruchtung"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "padubof"
+}

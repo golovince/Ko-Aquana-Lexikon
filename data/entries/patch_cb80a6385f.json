@@ -1,0 +1,17 @@
+{
+  "id": "patch_cb80a6385f",
+  "headword": {
+    "roman": "fshzingofr",
+    "coral": "kixof",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Isolierung (Prozess)"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_fshzi_expansion_patch.json"
+  },
+  "korallisch": "kixof"
+}

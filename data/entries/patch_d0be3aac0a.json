@@ -1,0 +1,49 @@
+{
+  "id": "patch_d0be3aac0a",
+  "headword": {
+    "roman": "fshoshzigleshi",
+    "coral": "vodihesi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "Koralle bearbeiten, bauen, formen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "vodihesi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshoshzigleshi",
+          "coral": "vodihesi"
+        },
+        "2sg": {
+          "roman": "fshoshzigleshio",
+          "coral": "vodihesio"
+        },
+        "3sg": {
+          "roman": "fshoshzigleshioh",
+          "coral": "vodihesiö"
+        },
+        "1pl": {
+          "roman": "fshoshzigleshie",
+          "coral": "vodihesj"
+        },
+        "2pl": {
+          "roman": "fshoshzigleshieo",
+          "coral": "vodihesjo"
+        },
+        "3pl": {
+          "roman": "fshoshzigleshieoh",
+          "coral": "vodihesjö"
+        }
+      }
+    }
+  }
+}

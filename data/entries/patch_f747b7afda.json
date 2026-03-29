@@ -1,0 +1,17 @@
+{
+  "id": "patch_f747b7afda",
+  "headword": {
+    "roman": "frashzmbofrish",
+    "coral": "fadpofis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "löwenartig (landbezogen)"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_lexicon_landforms_patch.json"
+  },
+  "korallisch": "fadpofis"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "patch_ef160b7024",
+  "headword": {
+    "roman": "fshoshza",
+    "coral": "voda",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "lesen (Buchstaben lesen)"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "voda",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshoshza",
+          "coral": "voda"
+        },
+        "2sg": {
+          "roman": "fshoshzai",
+          "coral": "vodai"
+        },
+        "3sg": {
+          "roman": "fshoshzaie",
+          "coral": "vodaj"
+        },
+        "1pl": {
+          "roman": "fshoshzah",
+          "coral": "vodm"
+        },
+        "2pl": {
+          "roman": "fshoshzahi",
+          "coral": "vodmi"
+        },
+        "3pl": {
+          "roman": "fshoshzahie",
+          "coral": "vodmj"
+        }
+      }
+    }
+  }
+}

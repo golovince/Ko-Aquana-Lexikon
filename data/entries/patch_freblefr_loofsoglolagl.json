@@ -1,0 +1,18 @@
+{
+  "id": "patch_freblefr_loofsoglolagl",
+  "headword": {
+    "roman": "freblefr loofsoglolagl",
+    "ipa": "",
+    "coral": "febefnlüwoholah"
+  },
+  "pos": "np",
+  "gloss_de": [
+    "Möwe"
+  ],
+  "korallisch": "febefnlüwoholah",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_lexicon_v1_14_BIRDS_ONLY_PATCH.json"
+  }
+}

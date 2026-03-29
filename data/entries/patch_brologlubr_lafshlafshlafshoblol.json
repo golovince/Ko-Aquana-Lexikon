@@ -1,0 +1,18 @@
+{
+  "id": "patch_brologlubr_lafshlafshlafshoblol",
+  "headword": {
+    "roman": "brologlubr lafshlafshlafshoblol",
+    "ipa": "",
+    "coral": "colohucnlavlavlavobol"
+  },
+  "pos": "np",
+  "gloss_de": [
+    "getrocknete Weichtiere im Blattbeutel"
+  ],
+  "korallisch": "colohucnlavlavlavobol",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_architektur_vulkan_essen_patch_v2.json"
+  }
+}

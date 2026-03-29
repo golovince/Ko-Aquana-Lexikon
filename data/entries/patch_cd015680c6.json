@@ -1,0 +1,23 @@
+{
+  "id": "patch_cd015680c6",
+  "headword": {
+    "roman": "glishingoblafrooshz",
+    "ipa": "",
+    "coral": "hisixobafüd"
+  },
+  "pos": "noun",
+  "subpos": "",
+  "gloss_de": [
+    "rechtskräftiges Urteil"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {},
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "note": "Wörtlich: Urteil+Strömung; rechtskräftiges Urteil.",
+    "patched_from": "ko_aquana_patch_1_1"
+  },
+  "korallisch": "hisixobafüd"
+}

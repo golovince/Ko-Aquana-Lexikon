@@ -1,0 +1,18 @@
+{
+  "id": "patch_brulobl",
+  "headword": {
+    "roman": "brulobl",
+    "ipa": "",
+    "coral": "culob"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Berg"
+  ],
+  "korallisch": "culob",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_architektur_vulkan_essen_patch_v2.json"
+  }
+}

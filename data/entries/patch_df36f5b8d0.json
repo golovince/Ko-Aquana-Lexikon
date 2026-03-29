@@ -1,0 +1,17 @@
+{
+  "id": "patch_df36f5b8d0",
+  "headword": {
+    "roman": "blablishzt",
+    "coral": "babir",
+    "ipa": ""
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "sprechend"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_language_patch.json"
+  },
+  "korallisch": "babir"
+}

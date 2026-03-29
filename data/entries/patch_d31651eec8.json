@@ -1,0 +1,18 @@
+{
+  "id": "patch_d31651eec8",
+  "headword": {
+    "roman": "mbalashzt",
+    "coral": "palar",
+    "ipa": ""
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "greifend"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "palar"
+}

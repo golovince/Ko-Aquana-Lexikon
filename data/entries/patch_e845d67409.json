@@ -1,0 +1,17 @@
+{
+  "id": "patch_e845d67409",
+  "headword": {
+    "roman": "fshzibrongifr",
+    "coral": "kicoxif",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Alleinherrschaft"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_loneliness_autocracy_patch.json"
+  },
+  "korallisch": "kicoxif"
+}

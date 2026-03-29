@@ -1,0 +1,17 @@
+{
+  "id": "patch_ea99cc0ade",
+  "headword": {
+    "roman": "bliblofsish",
+    "coral": "bibowis",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Sprecher"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "bibowis"
+}

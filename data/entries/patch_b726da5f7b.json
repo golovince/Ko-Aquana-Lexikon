@@ -1,0 +1,49 @@
+{
+  "id": "patch_b726da5f7b",
+  "headword": {
+    "roman": "fshzi",
+    "coral": "ki",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "einsam sein; allein sein"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_loneliness_autocracy_patch.json"
+  },
+  "korallisch": "ki",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshzi",
+          "coral": "ki"
+        },
+        "2sg": {
+          "roman": "fshzio",
+          "coral": "kio"
+        },
+        "3sg": {
+          "roman": "fshzioh",
+          "coral": "kiö"
+        },
+        "1pl": {
+          "roman": "fshzie",
+          "coral": "kj"
+        },
+        "2pl": {
+          "roman": "fshzieo",
+          "coral": "kjo"
+        },
+        "3pl": {
+          "roman": "fshzieoh",
+          "coral": "kjö"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "patch_c811e9e6ca",
+  "headword": {
+    "roman": "shzu",
+    "coral": "du",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "wachsen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "du",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shzu",
+          "coral": "du"
+        },
+        "2sg": {
+          "roman": "shzui",
+          "coral": "dui"
+        },
+        "3sg": {
+          "roman": "shzuie",
+          "coral": "duj"
+        },
+        "1pl": {
+          "roman": "shzoo",
+          "coral": "dü"
+        },
+        "2pl": {
+          "roman": "shzooi",
+          "coral": "düi"
+        },
+        "3pl": {
+          "roman": "shzooie",
+          "coral": "düj"
+        }
+      }
+    }
+  }
+}

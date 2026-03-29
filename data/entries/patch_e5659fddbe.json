@@ -1,0 +1,55 @@
+{
+  "id": "patch_e5659fddbe",
+  "headword": {
+    "roman": "glishingobla",
+    "ipa": "",
+    "coral": "hisixoba"
+  },
+  "pos": "verb",
+  "subpos": "",
+  "gloss_de": [
+    "urteilen"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {},
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "note": "Juristisches Verb.",
+    "patched_from": "ko_aquana_patch_1_1"
+  },
+  "korallisch": "hisixoba",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "glishingobla",
+          "coral": "hisixoba"
+        },
+        "2sg": {
+          "roman": "glishingoblai",
+          "coral": "hisixobai"
+        },
+        "3sg": {
+          "roman": "glishingoblaie",
+          "coral": "hisixobaj"
+        },
+        "1pl": {
+          "roman": "glishingoblah",
+          "coral": "hisixobm"
+        },
+        "2pl": {
+          "roman": "glishingoblahi",
+          "coral": "hisixobmi"
+        },
+        "3pl": {
+          "roman": "glishingoblahie",
+          "coral": "hisixobmj"
+        }
+      }
+    }
+  }
+}

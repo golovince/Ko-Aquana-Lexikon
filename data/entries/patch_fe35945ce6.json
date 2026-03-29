@@ -1,0 +1,17 @@
+{
+  "id": "patch_fe35945ce6",
+  "headword": {
+    "roman": "ngaloglefr",
+    "coral": "xalohef",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Denkfehler, Fehlannahme"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_knowledge_patch.json"
+  },
+  "korallisch": "xalohef"
+}

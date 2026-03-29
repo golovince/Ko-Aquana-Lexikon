@@ -1,0 +1,49 @@
+{
+  "id": "patch_c7475569e1",
+  "headword": {
+    "roman": "brohgleshi",
+    "coral": "cöhesi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "Metall bearbeiten, schmieden"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_patch.json"
+  },
+  "korallisch": "cöhesi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "brohgleshi",
+          "coral": "cöhesi"
+        },
+        "2sg": {
+          "roman": "brohgleshio",
+          "coral": "cöhesio"
+        },
+        "3sg": {
+          "roman": "brohgleshioh",
+          "coral": "cöhesiö"
+        },
+        "1pl": {
+          "roman": "brohgleshie",
+          "coral": "cöhesj"
+        },
+        "2pl": {
+          "roman": "brohgleshieo",
+          "coral": "cöhesjo"
+        },
+        "3pl": {
+          "roman": "brohgleshieoh",
+          "coral": "cöhesjö"
+        }
+      }
+    }
+  }
+}

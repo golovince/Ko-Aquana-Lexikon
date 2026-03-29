@@ -1,0 +1,49 @@
+{
+  "id": "patch_b63a19678b",
+  "headword": {
+    "roman": "mbufsa",
+    "coral": "puwa",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "gerben, Leder herstellen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_patch.json"
+  },
+  "korallisch": "puwa",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mbufsa",
+          "coral": "puwa"
+        },
+        "2sg": {
+          "roman": "mbufsai",
+          "coral": "puwai"
+        },
+        "3sg": {
+          "roman": "mbufsaie",
+          "coral": "puwaj"
+        },
+        "1pl": {
+          "roman": "mbufsah",
+          "coral": "puwm"
+        },
+        "2pl": {
+          "roman": "mbufsahi",
+          "coral": "puwmi"
+        },
+        "3pl": {
+          "roman": "mbufsahie",
+          "coral": "puwmj"
+        }
+      }
+    }
+  }
+}

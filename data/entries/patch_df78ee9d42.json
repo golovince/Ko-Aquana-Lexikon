@@ -1,0 +1,49 @@
+{
+  "id": "patch_df78ee9d42",
+  "headword": {
+    "roman": "brohglafrashzo",
+    "coral": "cöhafado",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "hämmern"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_expansion_patch.json"
+  },
+  "korallisch": "cöhafado",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "brohglafrashzo",
+          "coral": "cöhafado"
+        },
+        "2sg": {
+          "roman": "brohglafrashzoi",
+          "coral": "cöhafadoi"
+        },
+        "3sg": {
+          "roman": "brohglafrashzoie",
+          "coral": "cöhafadoj"
+        },
+        "1pl": {
+          "roman": "brohglafrashzoh",
+          "coral": "cöhafadö"
+        },
+        "2pl": {
+          "roman": "brohglafrashzohi",
+          "coral": "cöhafadöi"
+        },
+        "3pl": {
+          "roman": "brohglafrashzohie",
+          "coral": "cöhafadöj"
+        }
+      }
+    }
+  }
+}

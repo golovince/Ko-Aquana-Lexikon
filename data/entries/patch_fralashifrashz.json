@@ -1,0 +1,18 @@
+{
+  "id": "patch_fralashifrashz",
+  "headword": {
+    "roman": "fralashifrashz",
+    "ipa": "",
+    "coral": "falasifad"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Senatswache"
+  ],
+  "korallisch": "falasifad",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_shilishosh_revolution_patch.json"
+  }
+}

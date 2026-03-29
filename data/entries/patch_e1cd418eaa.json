@@ -1,0 +1,17 @@
+{
+  "id": "patch_e1cd418eaa",
+  "headword": {
+    "roman": "brohglafrashzofr",
+    "coral": "cöhafadof",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Hämmern"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_expansion_patch.json"
+  },
+  "korallisch": "cöhafadof"
+}

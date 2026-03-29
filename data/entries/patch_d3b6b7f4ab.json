@@ -1,0 +1,17 @@
+{
+  "id": "patch_d3b6b7f4ab",
+  "headword": {
+    "roman": "blablish",
+    "coral": "babis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "gesprochen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_language_patch.json"
+  },
+  "korallisch": "babis"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "patch_e80ff7a546",
+  "headword": {
+    "roman": "blibl",
+    "coral": "bib",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Wort"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_language_patch.json",
+    "patched_from": "ko_aquana_writing_language_patch.json"
+  },
+  "korallisch": "bib"
+}

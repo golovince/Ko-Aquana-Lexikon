@@ -1,0 +1,17 @@
+{
+  "id": "patch_b3eb30cbfd",
+  "headword": {
+    "roman": "frashzmbofr",
+    "coral": "fadpof",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Landlöwe"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_lexicon_landforms_patch.json"
+  },
+  "korallisch": "fadpof"
+}

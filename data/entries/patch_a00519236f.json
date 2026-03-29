@@ -1,0 +1,49 @@
+{
+  "id": "patch_a00519236f",
+  "headword": {
+    "roman": "fshzingo",
+    "coral": "kixo",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "einsam werden; sich isolieren"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_fshzi_expansion_patch.json"
+  },
+  "korallisch": "kixo",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshzingo",
+          "coral": "kixo"
+        },
+        "2sg": {
+          "roman": "fshzingoi",
+          "coral": "kixoi"
+        },
+        "3sg": {
+          "roman": "fshzingoie",
+          "coral": "kixoj"
+        },
+        "1pl": {
+          "roman": "fshzingoh",
+          "coral": "kixö"
+        },
+        "2pl": {
+          "roman": "fshzingohi",
+          "coral": "kixöi"
+        },
+        "3pl": {
+          "roman": "fshzingohie",
+          "coral": "kixöj"
+        }
+      }
+    }
+  }
+}

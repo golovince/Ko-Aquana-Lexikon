@@ -1,0 +1,18 @@
+{
+  "id": "patch_febb7cb114",
+  "headword": {
+    "roman": "sholofrashzush",
+    "coral": "solofadus",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Bruch"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "solofadus"
+}

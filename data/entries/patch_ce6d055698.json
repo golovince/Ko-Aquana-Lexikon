@@ -1,0 +1,18 @@
+{
+  "id": "patch_ce6d055698",
+  "headword": {
+    "roman": "frashzushishzt",
+    "coral": "fadusir",
+    "ipa": ""
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "verletzt"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "fadusir"
+}

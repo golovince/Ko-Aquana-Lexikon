@@ -1,0 +1,49 @@
+{
+  "id": "patch_df5ea29924",
+  "headword": {
+    "roman": "blabla",
+    "coral": "baba",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "sprechen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_language_patch.json"
+  },
+  "korallisch": "baba",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "blabla",
+          "coral": "baba"
+        },
+        "2sg": {
+          "roman": "blablai",
+          "coral": "babai"
+        },
+        "3sg": {
+          "roman": "blablaie",
+          "coral": "babaj"
+        },
+        "1pl": {
+          "roman": "blablah",
+          "coral": "babm"
+        },
+        "2pl": {
+          "roman": "blablahi",
+          "coral": "babmi"
+        },
+        "3pl": {
+          "roman": "blablahie",
+          "coral": "babmj"
+        }
+      }
+    }
+  }
+}

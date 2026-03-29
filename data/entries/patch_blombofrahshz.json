@@ -1,0 +1,18 @@
+{
+  "id": "patch_blombofrahshz",
+  "headword": {
+    "roman": "blombofrahshz",
+    "ipa": "",
+    "coral": "bopofmd"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Waffe (spezifische Klingenform)"
+  ],
+  "korallisch": "bopofmd",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_smithing_patch.json"
+  }
+}

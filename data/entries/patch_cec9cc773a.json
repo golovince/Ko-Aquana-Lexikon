@@ -1,0 +1,23 @@
+{
+  "id": "patch_cec9cc773a",
+  "headword": {
+    "roman": "ngolombulesh",
+    "ipa": "",
+    "coral": "xolopules"
+  },
+  "pos": "noun",
+  "subpos": "",
+  "gloss_de": [
+    "Exil"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {},
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "note": "Exil (Zustand/Ort).",
+    "patched_from": "ko_aquana_patch_1_1"
+  },
+  "korallisch": "xolopules"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "patch_d0de6d6770",
+  "headword": {
+    "roman": "frooshzush",
+    "coral": "füdus",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Herz"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_patch.json"
+  },
+  "korallisch": "füdus"
+}

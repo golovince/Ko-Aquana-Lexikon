@@ -1,0 +1,17 @@
+{
+  "id": "patch_ca1c1be6a9",
+  "headword": {
+    "roman": "brohglobrulglesh",
+    "coral": "cöhoculhes",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Schmelzofen"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_smithing_expansion_patch.json"
+  },
+  "korallisch": "cöhoculhes"
+}

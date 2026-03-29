@@ -1,0 +1,50 @@
+{
+  "id": "patch_e60149469d",
+  "headword": {
+    "roman": "brulofshza",
+    "coral": "culoka",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "bluten"
+  ],
+  "meta": {
+    "status": "patched",
+    "source_patch": "ko_aquana_anatomy_extension_patch 2.json",
+    "patched_from": "ko_aquana_anatomy_extension_patch.json"
+  },
+  "korallisch": "culoka",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "brulofshza",
+          "coral": "culoka"
+        },
+        "2sg": {
+          "roman": "brulofshzai",
+          "coral": "culokai"
+        },
+        "3sg": {
+          "roman": "brulofshzaie",
+          "coral": "culokaj"
+        },
+        "1pl": {
+          "roman": "brulofshzah",
+          "coral": "culokm"
+        },
+        "2pl": {
+          "roman": "brulofshzahi",
+          "coral": "culokmi"
+        },
+        "3pl": {
+          "roman": "brulofshzahie",
+          "coral": "culokmj"
+        }
+      }
+    }
+  }
+}
