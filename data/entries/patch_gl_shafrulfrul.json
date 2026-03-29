@@ -1,0 +1,17 @@
+{
+  "id": "patch_gl_shafrulfrul",
+  "headword": {
+    "roman": "gläshafrulfrul",
+    "ipa": "",
+    "coral": "häsafulful"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "soziale Pflichtarbeit"
+  ],
+  "korallisch": "häsafulful",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1"
+  }
+}

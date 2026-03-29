@@ -1,0 +1,18 @@
+{
+  "id": "patch_gleshishohshz",
+  "headword": {
+    "roman": "gleshishohshz",
+    "ipa": "",
+    "coral": "hesisöd"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Gebäude"
+  ],
+  "korallisch": "hesisöd",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_lexicon_astronomie_geometrie_bau_patch.json"
+  }
+}

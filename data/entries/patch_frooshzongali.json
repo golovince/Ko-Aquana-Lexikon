@@ -1,0 +1,50 @@
+{
+  "id": "patch_frooshzongali",
+  "headword": {
+    "roman": "frooshzongali",
+    "ipa": "",
+    "coral": "füdoxali"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "freveln"
+  ],
+  "korallisch": "füdoxali",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_soapopera_patch_NO_BROOBS.json"
+  },
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "frooshzongali",
+          "coral": "füdoxali"
+        },
+        "2sg": {
+          "roman": "frooshzongalio",
+          "coral": "füdoxalio"
+        },
+        "3sg": {
+          "roman": "frooshzongalioh",
+          "coral": "füdoxaliö"
+        },
+        "1pl": {
+          "roman": "frooshzongalie",
+          "coral": "füdoxalj"
+        },
+        "2pl": {
+          "roman": "frooshzongalieo",
+          "coral": "füdoxaljo"
+        },
+        "3pl": {
+          "roman": "frooshzongalieoh",
+          "coral": "füdoxaljö"
+        }
+      }
+    }
+  }
+}

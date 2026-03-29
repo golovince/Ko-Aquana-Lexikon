@@ -1,0 +1,18 @@
+{
+  "id": "patch_fshzooglafshz",
+  "headword": {
+    "roman": "fshzooglafshz",
+    "ipa": "",
+    "coral": "kühak"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Seeschlange"
+  ],
+  "korallisch": "kühak",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_lexicon_marine_bundle_patch.json"
+  }
+}

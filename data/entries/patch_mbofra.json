@@ -1,0 +1,50 @@
+{
+  "id": "patch_mbofra",
+  "headword": {
+    "roman": "mbofra",
+    "ipa": "",
+    "coral": "pofa"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "robben (Fortbewegungsart)"
+  ],
+  "korallisch": "pofa",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_lexicon_marine_bundle_patch.json"
+  },
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mbofra",
+          "coral": "pofa"
+        },
+        "2sg": {
+          "roman": "mbofrai",
+          "coral": "pofai"
+        },
+        "3sg": {
+          "roman": "mbofraie",
+          "coral": "pofaj"
+        },
+        "1pl": {
+          "roman": "mbofrah",
+          "coral": "pofm"
+        },
+        "2pl": {
+          "roman": "mbofrahi",
+          "coral": "pofmi"
+        },
+        "3pl": {
+          "roman": "mbofrahie",
+          "coral": "pofmj"
+        }
+      }
+    }
+  }
+}

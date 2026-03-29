@@ -1,0 +1,18 @@
+{
+  "id": "patch_glishoglubl",
+  "headword": {
+    "roman": "glishoglubl",
+    "ipa": "",
+    "coral": "hisohub"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Müll; Abfall; Unrat"
+  ],
+  "korallisch": "hisohub",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_shilishosh_revolution_patch.json"
+  }
+}

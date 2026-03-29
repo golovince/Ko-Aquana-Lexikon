@@ -1,0 +1,18 @@
+{
+  "id": "patch_mb_hshogl_hsh",
+  "headword": {
+    "roman": "mbähshoglähsh",
+    "ipa": "",
+    "coral": "päsohäs"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Angeklagte*r"
+  ],
+  "korallisch": "päsohäs",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_soapopera_patch_NO_BROOBS.json"
+  }
+}

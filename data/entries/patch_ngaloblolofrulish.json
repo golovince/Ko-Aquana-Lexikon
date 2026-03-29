@@ -1,0 +1,18 @@
+{
+  "id": "patch_ngaloblolofrulish",
+  "headword": {
+    "roman": "ngaloblolofrulish",
+    "ipa": "",
+    "coral": "xalobolofulis"
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "schwarmzersetzend; schwarmwidrig"
+  ],
+  "korallisch": "xalobolofulis",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_soapopera_patch_NO_BROOBS.json"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "patch_mbofrafrooshzish",
+  "headword": {
+    "roman": "mbofrafrooshzish",
+    "ipa": "",
+    "coral": "pofafüdis"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Seelöwe"
+  ],
+  "korallisch": "pofafüdis",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_lexicon_marine_bundle_patch.json"
+  }
+}

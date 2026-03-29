@@ -1,0 +1,50 @@
+{
+  "id": "patch_frulongali",
+  "headword": {
+    "roman": "frulongali",
+    "ipa": "",
+    "coral": "fuloxali"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "ausscheren; sich vom Schwarm lösen"
+  ],
+  "korallisch": "fuloxali",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_soapopera_patch_NO_BROOBS.json"
+  },
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "frulongali",
+          "coral": "fuloxali"
+        },
+        "2sg": {
+          "roman": "frulongalio",
+          "coral": "fuloxalio"
+        },
+        "3sg": {
+          "roman": "frulongalioh",
+          "coral": "fuloxaliö"
+        },
+        "1pl": {
+          "roman": "frulongalie",
+          "coral": "fuloxalj"
+        },
+        "2pl": {
+          "roman": "frulongalieo",
+          "coral": "fuloxaljo"
+        },
+        "3pl": {
+          "roman": "frulongalieoh",
+          "coral": "fuloxaljö"
+        }
+      }
+    }
+  }
+}

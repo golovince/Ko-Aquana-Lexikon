@@ -1,0 +1,18 @@
+{
+  "id": "patch_frulish",
+  "headword": {
+    "roman": "frulish",
+    "ipa": "",
+    "coral": "fulis"
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "verträglich; bekömmlich"
+  ],
+  "korallisch": "fulis",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_food_core_patch.json"
+  }
+}

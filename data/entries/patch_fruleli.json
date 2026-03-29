@@ -1,0 +1,50 @@
+{
+  "id": "patch_fruleli",
+  "headword": {
+    "roman": "fruleli",
+    "ipa": "",
+    "coral": "fuleli"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "folgen"
+  ],
+  "korallisch": "fuleli",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_existenz_emotion_luecken_patch.json"
+  },
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fruleli",
+          "coral": "fuleli"
+        },
+        "2sg": {
+          "roman": "frulelio",
+          "coral": "fulelio"
+        },
+        "3sg": {
+          "roman": "frulelioh",
+          "coral": "fuleliö"
+        },
+        "1pl": {
+          "roman": "frulelie",
+          "coral": "fulelj"
+        },
+        "2pl": {
+          "roman": "frulelieo",
+          "coral": "fuleljo"
+        },
+        "3pl": {
+          "roman": "frulelieoh",
+          "coral": "fuleljö"
+        }
+      }
+    }
+  }
+}

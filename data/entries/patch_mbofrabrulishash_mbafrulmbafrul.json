@@ -1,0 +1,18 @@
+{
+  "id": "patch_mbofrabrulishash_mbafrulmbafrul",
+  "headword": {
+    "roman": "mbofrabrulishash mbafrulmbafrul",
+    "ipa": "",
+    "coral": "pofaculisasnpafulpaful"
+  },
+  "pos": "np",
+  "gloss_de": [
+    "Festgericht mit Seebärlauch und Riesenmuschel"
+  ],
+  "korallisch": "pofaculisasnpafulpaful",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_architektur_vulkan_essen_patch_v2.json"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "patch_glashofshzooglafshzfshzooglafshzfshzooglafshz",
+  "headword": {
+    "roman": "glashofshzooglafshzfshzooglafshzfshzooglafshz",
+    "ipa": "",
+    "coral": "hasokühakkühakkühak"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Leviathan"
+  ],
+  "korallisch": "hasokühakkühakkühak",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_lexicon_marine_bundle_patch.json"
+  }
+}

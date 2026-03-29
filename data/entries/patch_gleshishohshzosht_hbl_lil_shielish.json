@@ -1,0 +1,18 @@
+{
+  "id": "patch_gleshishohshzosht_hbl_lil_shielish",
+  "headword": {
+    "roman": "gleshishohshzoshtähbl lil shielish",
+    "ipa": "",
+    "coral": "hesisödotäbnlilnsjlis"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Überwachungsturm"
+  ],
+  "korallisch": "hesisödotäbnlilnsjlis",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_lexicon_astronomie_geometrie_bau_patch.json"
+  }
+}

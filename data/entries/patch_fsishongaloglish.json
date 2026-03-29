@@ -1,0 +1,18 @@
+{
+  "id": "patch_fsishongaloglish",
+  "headword": {
+    "roman": "fsishongaloglish",
+    "ipa": "",
+    "coral": "wisoxalohis"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Revolutionär*in; Rebell*in"
+  ],
+  "korallisch": "wisoxalohis",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_shilishosh_revolution_patch.json"
+  }
+}

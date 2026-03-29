@@ -1,0 +1,50 @@
+{
+  "id": "patch_ngaloglisho",
+  "headword": {
+    "roman": "ngaloglisho",
+    "ipa": "",
+    "coral": "xalohiso"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "rebellieren; revoltieren"
+  ],
+  "korallisch": "xalohiso",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_shilishosh_revolution_patch.json"
+  },
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "ngaloglisho",
+          "coral": "xalohiso"
+        },
+        "2sg": {
+          "roman": "ngaloglishoi",
+          "coral": "xalohisoi"
+        },
+        "3sg": {
+          "roman": "ngaloglishoie",
+          "coral": "xalohisoj"
+        },
+        "1pl": {
+          "roman": "ngaloglishoh",
+          "coral": "xalohisö"
+        },
+        "2pl": {
+          "roman": "ngaloglishohi",
+          "coral": "xalohisöi"
+        },
+        "3pl": {
+          "roman": "ngaloglishohie",
+          "coral": "xalohisöj"
+        }
+      }
+    }
+  }
+}

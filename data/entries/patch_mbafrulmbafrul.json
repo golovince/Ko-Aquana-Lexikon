@@ -1,0 +1,18 @@
+{
+  "id": "patch_mbafrulmbafrul",
+  "headword": {
+    "roman": "mbafrulmbafrul",
+    "ipa": "",
+    "coral": "pafulpaful"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Riesenmuschel; Kochtopf aus Muschelschale"
+  ],
+  "korallisch": "pafulpaful",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_architektur_vulkan_essen_patch_v2.json"
+  }
+}

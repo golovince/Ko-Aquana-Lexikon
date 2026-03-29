@@ -1,0 +1,50 @@
+{
+  "id": "patch_ngolobrofsi",
+  "headword": {
+    "roman": "ngolobrofsi",
+    "ipa": "",
+    "coral": "xolocowi"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "verzweifeln"
+  ],
+  "korallisch": "xolocowi",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_existenz_emotion_luecken_patch.json"
+  },
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "ngolobrofsi",
+          "coral": "xolocowi"
+        },
+        "2sg": {
+          "roman": "ngolobrofsio",
+          "coral": "xolocowio"
+        },
+        "3sg": {
+          "roman": "ngolobrofsioh",
+          "coral": "xolocowiö"
+        },
+        "1pl": {
+          "roman": "ngolobrofsie",
+          "coral": "xolocowj"
+        },
+        "2pl": {
+          "roman": "ngolobrofsieo",
+          "coral": "xolocowjo"
+        },
+        "3pl": {
+          "roman": "ngolobrofsieoh",
+          "coral": "xolocowjö"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "patch_frulogalish",
+  "headword": {
+    "roman": "frulogalish",
+    "ipa": "",
+    "coral": "fulogalis"
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "illoyal; ausschweifend"
+  ],
+  "korallisch": "fulogalis",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_soapopera_patch_NO_BROOBS.json"
+  }
+}

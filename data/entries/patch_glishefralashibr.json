@@ -1,0 +1,17 @@
+{
+  "id": "patch_glishefralashibr",
+  "headword": {
+    "roman": "glishefralashibr",
+    "ipa": "",
+    "coral": "hisefalasic"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "senatorischer Richter"
+  ],
+  "korallisch": "hisefalasic",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1"
+  }
+}

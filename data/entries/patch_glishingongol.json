@@ -1,0 +1,17 @@
+{
+  "id": "patch_glishingongol",
+  "headword": {
+    "roman": "glishingongol",
+    "ipa": "",
+    "coral": "hisixoxol"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "aufschieben"
+  ],
+  "korallisch": "hisixoxol",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1"
+  }
+}

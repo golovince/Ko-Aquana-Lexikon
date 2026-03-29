@@ -1,0 +1,18 @@
+{
+  "id": "patch_glishiblagl",
+  "headword": {
+    "roman": "glishiblagl",
+    "ipa": "",
+    "coral": "hisibah"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Geständnis"
+  ],
+  "korallisch": "hisibah",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_soapopera_patch_NO_BROOBS.json"
+  }
+}

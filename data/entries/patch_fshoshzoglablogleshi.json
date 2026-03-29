@@ -1,0 +1,50 @@
+{
+  "id": "patch_fshoshzoglablogleshi",
+  "headword": {
+    "roman": "fshoshzoglablogleshi",
+    "ipa": "",
+    "coral": "vodohabohesi"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "Pergament herstellen (Korallenbasis)"
+  ],
+  "korallisch": "vodohabohesi",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_writing_language_patch.json"
+  },
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshoshzoglablogleshi",
+          "coral": "vodohabohesi"
+        },
+        "2sg": {
+          "roman": "fshoshzoglablogleshio",
+          "coral": "vodohabohesio"
+        },
+        "3sg": {
+          "roman": "fshoshzoglablogleshioh",
+          "coral": "vodohabohesiö"
+        },
+        "1pl": {
+          "roman": "fshoshzoglablogleshie",
+          "coral": "vodohabohesj"
+        },
+        "2pl": {
+          "roman": "fshoshzoglablogleshieo",
+          "coral": "vodohabohesjo"
+        },
+        "3pl": {
+          "roman": "fshoshzoglablogleshieoh",
+          "coral": "vodohabohesjö"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "patch_loobs",
+  "headword": {
+    "roman": "loobs",
+    "ipa": "",
+    "coral": "lüy"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Ball; Kugel"
+  ],
+  "korallisch": "lüy",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_lexicon_astronomie_geometrie_bau_patch.json"
+  }
+}

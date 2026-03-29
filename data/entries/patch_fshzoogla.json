@@ -1,0 +1,50 @@
+{
+  "id": "patch_fshzoogla",
+  "headword": {
+    "roman": "fshzoogla",
+    "ipa": "",
+    "coral": "küha"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "sich winden"
+  ],
+  "korallisch": "küha",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_lexicon_marine_bundle_patch.json"
+  },
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fshzoogla",
+          "coral": "küha"
+        },
+        "2sg": {
+          "roman": "fshzooglai",
+          "coral": "kühai"
+        },
+        "3sg": {
+          "roman": "fshzooglaie",
+          "coral": "kühaj"
+        },
+        "1pl": {
+          "roman": "fshzooglah",
+          "coral": "kühm"
+        },
+        "2pl": {
+          "roman": "fshzooglahi",
+          "coral": "kühmi"
+        },
+        "3pl": {
+          "roman": "fshzooglahie",
+          "coral": "kühmj"
+        }
+      }
+    }
+  }
+}

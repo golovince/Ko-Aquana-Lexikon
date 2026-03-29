@@ -1,0 +1,51 @@
+{
+  "id": "patch_mbeshzoglola",
+  "headword": {
+    "roman": "mbeshzoglola",
+    "ipa": "",
+    "coral": "pedohola"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "schwimmen"
+  ],
+  "korallisch": "pedohola",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_lexicon_v1_14_BIRDS_ONLY_PATCH.json"
+  },
+  "notes": "wörtlich: oberflächen-tauchen",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mbeshzoglola",
+          "coral": "pedohola"
+        },
+        "2sg": {
+          "roman": "mbeshzoglolai",
+          "coral": "pedoholai"
+        },
+        "3sg": {
+          "roman": "mbeshzoglolaie",
+          "coral": "pedoholaj"
+        },
+        "1pl": {
+          "roman": "mbeshzoglolah",
+          "coral": "pedoholm"
+        },
+        "2pl": {
+          "roman": "mbeshzoglolahi",
+          "coral": "pedoholmi"
+        },
+        "3pl": {
+          "roman": "mbeshzoglolahie",
+          "coral": "pedoholmj"
+        }
+      }
+    }
+  }
+}

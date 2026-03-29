@@ -1,0 +1,19 @@
+{
+  "id": "patch_ngalofrulish",
+  "headword": {
+    "roman": "ngalofrulish",
+    "ipa": "",
+    "coral": "xalofulis"
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "ekelerregend, abstoßend (geschmacklich)"
+  ],
+  "korallisch": "xalofulis",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_food_tolerability_patch.json"
+  },
+  "notes": "Wertende Ableitung zu frulish"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "patch_ngohlngohl",
+  "headword": {
+    "roman": "ngohlngohl",
+    "ipa": "",
+    "coral": "xölxöl"
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "stockduster; vollkommen dunkel"
+  ],
+  "korallisch": "xölxöl",
+  "meta": {
+    "status": "canonical",
+    "source": "ko_aquana_patch_1_1",
+    "patched_from": "ko_aquana_lexicon_astronomie_geometrie_bau_patch.json"
+  }
+}
