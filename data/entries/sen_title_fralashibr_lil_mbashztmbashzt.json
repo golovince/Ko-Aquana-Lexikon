@@ -1,0 +1,26 @@
+{
+  "id": "sen_title_fralashibr_lil_mbashztmbashzt",
+  "headword": {
+    "roman": "fralashibr lil mbashztmbashzt",
+    "ipa": "",
+    "coral": "falasicnlilnparpar"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Senator des Friedens"
+  ],
+  "domain": "politik_senat",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "senat",
+      "titel",
+      "fixed_index"
+    ]
+  },
+  "notes": {
+    "construction": "fixed_index_np",
+    "pattern": "fralashibr lil X"
+  },
+  "korallisch": "falasicnlilnparpar"
+}

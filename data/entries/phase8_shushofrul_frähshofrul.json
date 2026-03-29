@@ -1,0 +1,17 @@
+{
+  "id": "phase8_shushofrul_frähshofrul",
+  "headword": {
+    "roman": "shushofrul frähshofrul",
+    "coral": "susofulnfäsoful",
+    "ipa": ""
+  },
+  "pos": "np",
+  "gloss_de": [
+    "Zahnwal"
+  ],
+  "meta": {
+    "phase": "VIII",
+    "status": "stable"
+  },
+  "korallisch": "susofulnfäsoful"
+}

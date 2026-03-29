@@ -1,0 +1,18 @@
+{
+  "id": "phase8_ngologleshzofrähsh",
+  "headword": {
+    "roman": "ngologleshzfähsh",
+    "coral": "xolohezäs",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Nacht"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Phase VIII – Natur & Tierwelt",
+    "note": "Form angepasst, um shzf-Graphemkollision zu vermeiden."
+  },
+  "korallisch": "xolohezäs"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "phase8_shushoglash",
+  "headword": {
+    "roman": "shushoglash",
+    "coral": "susohas",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Kiemenatmung"
+  ],
+  "meta": {
+    "phase": "VIII",
+    "status": "stable"
+  },
+  "korallisch": "susohas"
+}

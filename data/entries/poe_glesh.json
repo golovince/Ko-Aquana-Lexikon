@@ -5,13 +5,14 @@
     "coral": "hes",
     "ipa": ""
   },
-  "pos": "noun",
+  "pos": "adj",
   "gloss_de": [
-    "Licht"
+    "wissend"
   ],
   "meta": {
     "status": "stable",
-    "source": "Poesie & Exil – Grundwortschatz"
+    "source": "Poesie & Exil – Grundwortschatz",
+    "patched_from": "ko_aquana_knowledge_patch.json"
   },
   "korallisch": "hes"
 }

@@ -1,0 +1,26 @@
+{
+  "id": "sen_title_fralashibr_lil_frulifr",
+  "headword": {
+    "roman": "fralashibr lil frulifr",
+    "ipa": "",
+    "coral": "falasicnlilnfulif"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Senator der Jagd und Fischerei"
+  ],
+  "domain": "politik_senat",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "senat",
+      "titel",
+      "fixed_index"
+    ]
+  },
+  "notes": {
+    "construction": "fixed_index_np",
+    "pattern": "fralashibr lil X"
+  },
+  "korallisch": "falasicnlilnfulif"
+}

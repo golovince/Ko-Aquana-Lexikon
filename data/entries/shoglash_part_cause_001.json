@@ -8,8 +8,11 @@
   "pos": "particle",
   "subpos": "causal",
   "gloss_de": [
-    "weil",
-    "da"
+    "Grund",
+    "Rechtfertigung",
+    "Ursache",
+    "da",
+    "weil"
   ],
   "grammar": {
     "scope": "clausal"

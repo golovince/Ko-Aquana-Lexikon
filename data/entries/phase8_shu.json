@@ -1,0 +1,49 @@
+{
+  "id": "phase8_shu",
+  "headword": {
+    "roman": "shu",
+    "coral": "su",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "atmen"
+  ],
+  "meta": {
+    "phase": "VIII",
+    "status": "stable"
+  },
+  "korallisch": "su",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shu",
+          "coral": "su"
+        },
+        "2sg": {
+          "roman": "shui",
+          "coral": "sui"
+        },
+        "3sg": {
+          "roman": "shuie",
+          "coral": "suj"
+        },
+        "1pl": {
+          "roman": "shoo",
+          "coral": "sü"
+        },
+        "2pl": {
+          "roman": "shooi",
+          "coral": "süi"
+        },
+        "3pl": {
+          "roman": "shooie",
+          "coral": "süj"
+        }
+      }
+    }
+  }
+}

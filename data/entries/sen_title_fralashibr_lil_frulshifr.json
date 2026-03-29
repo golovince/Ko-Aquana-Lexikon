@@ -1,0 +1,26 @@
+{
+  "id": "sen_title_fralashibr_lil_frulshifr",
+  "headword": {
+    "roman": "fralashibr lil frulshifr",
+    "ipa": "",
+    "coral": "falasicnlilnfulsif"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Senator der Tiere"
+  ],
+  "domain": "politik_senat",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "senat",
+      "titel",
+      "fixed_index"
+    ]
+  },
+  "notes": {
+    "construction": "fixed_index_np",
+    "pattern": "fralashibr lil X"
+  },
+  "korallisch": "falasicnlilnfulsif"
+}

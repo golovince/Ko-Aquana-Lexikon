@@ -1,0 +1,26 @@
+{
+  "id": "sen_title_fralashibr_lil_blosho",
+  "headword": {
+    "roman": "fralashibr lil blosho",
+    "ipa": "",
+    "coral": "falasicnlilnboso"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Senator des Handels und Geldes"
+  ],
+  "domain": "politik_senat",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "senat",
+      "titel",
+      "fixed_index"
+    ]
+  },
+  "notes": {
+    "construction": "fixed_index_np",
+    "pattern": "fralashibr lil X"
+  },
+  "korallisch": "falasicnlilnboso"
+}

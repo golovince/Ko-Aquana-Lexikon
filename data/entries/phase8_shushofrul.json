@@ -1,0 +1,19 @@
+{
+  "id": "phase8_shushofrul",
+  "headword": {
+    "roman": "shushofrul",
+    "ipa": "",
+    "coral": "susoful"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Wal"
+  ],
+  "meta": {
+    "phase": "VIII",
+    "status": "stable",
+    "note": "Oberflächenatmer; wörtlich ‚atmender Fisch‘",
+    "patched_from": "ko_aquana_lexicon_marine_bundle_patch.json"
+  },
+  "korallisch": "susoful"
+}

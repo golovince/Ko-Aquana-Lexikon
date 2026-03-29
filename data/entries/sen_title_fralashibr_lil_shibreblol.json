@@ -1,0 +1,26 @@
+{
+  "id": "sen_title_fralashibr_lil_shibreblol",
+  "headword": {
+    "roman": "fralashibr lil shibreblol",
+    "ipa": "",
+    "coral": "falasicnlilnsicebol"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Senator der Bildung"
+  ],
+  "domain": "politik_senat",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "senat",
+      "titel",
+      "fixed_index"
+    ]
+  },
+  "notes": {
+    "construction": "fixed_index_np",
+    "pattern": "fralashibr lil X"
+  },
+  "korallisch": "falasicnlilnsicebol"
+}

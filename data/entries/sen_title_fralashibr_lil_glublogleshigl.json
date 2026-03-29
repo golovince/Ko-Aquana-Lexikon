@@ -1,0 +1,27 @@
+{
+  "id": "sen_title_fralashibr_lil_glublogleshigl",
+  "headword": {
+    "roman": "fralashibr lil glublogleshigl",
+    "ipa": "",
+    "coral": "falasicnlilnhubohesih"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Senator der Architektur",
+    "Senator des Stadtbaus"
+  ],
+  "domain": "politik_senat",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "senat",
+      "titel",
+      "fixed_index"
+    ]
+  },
+  "notes": {
+    "construction": "fixed_index_np",
+    "pattern": "fralashibr lil X"
+  },
+  "korallisch": "falasicnlilnhubohesih"
+}
