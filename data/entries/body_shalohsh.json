@@ -1,0 +1,17 @@
+{
+  "id": "body_shalohsh",
+  "headword": {
+    "roman": "shalohsh",
+    "coral": "salös",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Gesicht"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Körper & Wahrnehmung"
+  },
+  "korallisch": "salös"
+}

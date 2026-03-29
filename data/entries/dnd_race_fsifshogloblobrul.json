@@ -1,0 +1,23 @@
+{
+  "id": "dnd_race_fsifshogloblobrul",
+  "headword": {
+    "roman": "fsifshogloblobrul",
+    "ipa": "",
+    "coral": "wivohobocul"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Dragonborn (DnD Volk)",
+    "Kind der Drachen"
+  ],
+  "domain": "dnd_voelker",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "dnd",
+      "race",
+      "noun"
+    ]
+  },
+  "korallisch": "wivohobocul"
+}

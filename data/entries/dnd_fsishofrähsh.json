@@ -1,0 +1,18 @@
+{
+  "id": "dnd_fsishofrähsh",
+  "headword": {
+    "roman": "fsishofrähsh",
+    "coral": "wisofäs",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Sahuagin"
+  ],
+  "meta": {
+    "domain": "dnd_volk",
+    "status": "stable",
+    "note": "‚gefährliche Person‘; räuberisches Meeresvolk"
+  },
+  "korallisch": "wisofäs"
+}

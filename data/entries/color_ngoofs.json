@@ -1,0 +1,18 @@
+{
+  "id": "color_ngoofs",
+  "headword": {
+    "roman": "ngoofs",
+    "coral": "xüw",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "orange"
+  ],
+  "meta": {
+    "status": "stable",
+    "domain": "farbe",
+    "note": "Farbadjektiv; Teil der -fs-Farbklasse"
+  },
+  "korallisch": "xüw"
+}

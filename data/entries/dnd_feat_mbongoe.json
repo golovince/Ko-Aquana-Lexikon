@@ -1,0 +1,53 @@
+{
+  "id": "dnd_feat_mbongoe",
+  "headword": {
+    "roman": "mbongoe",
+    "ipa": "",
+    "coral": "poxoe"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "sich erholen; neue Kraft fassen (DnD: Second Wind)"
+  ],
+  "domain": "dnd_faehigkeiten",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "dnd",
+      "feature"
+    ]
+  },
+  "korallisch": "poxoe",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mbongoe",
+          "coral": "poxoe"
+        },
+        "2sg": {
+          "roman": "mbongoei",
+          "coral": "poxoei"
+        },
+        "3sg": {
+          "roman": "mbongoeie",
+          "coral": "poxoej"
+        },
+        "1pl": {
+          "roman": "mbongoäh",
+          "coral": "poxoä"
+        },
+        "2pl": {
+          "roman": "mbongoähi",
+          "coral": "poxoäi"
+        },
+        "3pl": {
+          "roman": "mbongoähie",
+          "coral": "poxoäj"
+        }
+      }
+    }
+  }
+}

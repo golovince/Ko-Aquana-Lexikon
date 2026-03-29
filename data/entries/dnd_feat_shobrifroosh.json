@@ -1,0 +1,21 @@
+{
+  "id": "dnd_feat_shobrifroosh",
+  "headword": {
+    "roman": "shobrifroosh",
+    "ipa": "",
+    "coral": "socifüs"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Eid (DnD: Oath)"
+  ],
+  "domain": "dnd_faehigkeiten",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "dnd",
+      "feature"
+    ]
+  },
+  "korallisch": "socifüs"
+}

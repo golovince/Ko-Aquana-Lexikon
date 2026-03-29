@@ -1,0 +1,21 @@
+{
+  "id": "dnd_feat_frafrash",
+  "headword": {
+    "roman": "frafrash",
+    "ipa": "",
+    "coral": "fafas"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Handlungsschub (DnD: Action Surge)"
+  ],
+  "domain": "dnd_faehigkeiten",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "dnd",
+      "feature"
+    ]
+  },
+  "korallisch": "fafas"
+}

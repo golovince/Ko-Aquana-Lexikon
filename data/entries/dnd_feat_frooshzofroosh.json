@@ -1,0 +1,21 @@
+{
+  "id": "dnd_feat_frooshzofroosh",
+  "headword": {
+    "roman": "frooshzofroosh",
+    "ipa": "",
+    "coral": "füdofüs"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Zauberei / Zauberwirken (DnD: Spellcasting)"
+  ],
+  "domain": "dnd_faehigkeiten",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "dnd",
+      "feature"
+    ]
+  },
+  "korallisch": "füdofüs"
+}

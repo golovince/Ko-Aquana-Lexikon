@@ -1,0 +1,50 @@
+{
+  "id": "block4_fsoshogli_v",
+  "headword": {
+    "roman": "fsoshogli",
+    "coral": "wosohi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "überreichen (rituell/formell)"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Block 4 – Doppelbelegungen",
+    "note": "Formkorrektur: fsoshogläsh → fsoshogli (Verb muss auf Vokal enden; Silbenregeln)."
+  },
+  "korallisch": "wosohi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fsoshogli",
+          "coral": "wosohi"
+        },
+        "2sg": {
+          "roman": "fsoshoglio",
+          "coral": "wosohio"
+        },
+        "3sg": {
+          "roman": "fsoshoglioh",
+          "coral": "wosohiö"
+        },
+        "1pl": {
+          "roman": "fsoshoglie",
+          "coral": "wosohj"
+        },
+        "2pl": {
+          "roman": "fsoshoglieo",
+          "coral": "wosohjo"
+        },
+        "3pl": {
+          "roman": "fsoshoglieoh",
+          "coral": "wosohjö"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "dnd_class_gleshifsish_010",
+  "headword": {
+    "roman": "gleshifsish",
+    "ipa": "",
+    "coral": "hesiwis"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Handwerker-Magier",
+    "Artificer (Klasse)"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "dnd",
+      "class",
+      "noun"
+    ]
+  },
+  "korallisch": "hesiwis"
+}

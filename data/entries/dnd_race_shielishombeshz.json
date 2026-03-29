@@ -1,0 +1,23 @@
+{
+  "id": "dnd_race_shielishombeshz",
+  "headword": {
+    "roman": "shielishombeshz",
+    "ipa": "",
+    "coral": "sjlisoped"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Mensch (DnD Volk)",
+    "gewöhnlicher Oberflächenbewohner"
+  ],
+  "domain": "dnd_voelker",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "dnd",
+      "race",
+      "noun"
+    ]
+  },
+  "korallisch": "sjlisoped"
+}

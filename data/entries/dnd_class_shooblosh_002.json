@@ -1,0 +1,22 @@
+{
+  "id": "dnd_class_shooblosh_002",
+  "headword": {
+    "roman": "shooblosh",
+    "ipa": "",
+    "coral": "sübos"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Kämpfer",
+    "Fighter (Klasse)"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "dnd",
+      "class",
+      "noun"
+    ]
+  },
+  "korallisch": "sübos"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dnd_feat_sholshifrafr",
+  "headword": {
+    "roman": "sholshifrafr",
+    "ipa": "",
+    "coral": "solsifaf"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "hinterhältiger Angriff (DnD: Sneak Attack)"
+  ],
+  "domain": "dnd_faehigkeiten",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "dnd",
+      "feature"
+    ]
+  },
+  "korallisch": "solsifaf"
+}

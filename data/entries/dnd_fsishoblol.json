@@ -1,0 +1,18 @@
+{
+  "id": "dnd_fsishoblol",
+  "headword": {
+    "roman": "fsishoblol",
+    "coral": "wisobol",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Locathah"
+  ],
+  "meta": {
+    "domain": "dnd_volk",
+    "status": "stable",
+    "note": "‚gemeinschaftliche Person‘; nomadisches Fischvolk"
+  },
+  "korallisch": "wisobol"
+}

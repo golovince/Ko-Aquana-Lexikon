@@ -1,0 +1,53 @@
+{
+  "id": "dnd_feat_shobrifrooshi",
+  "headword": {
+    "roman": "shobrifrooshi",
+    "ipa": "",
+    "coral": "socifüsi"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "einen Eid schwören (DnD: Oath)"
+  ],
+  "domain": "dnd_faehigkeiten",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "dnd",
+      "feature"
+    ]
+  },
+  "korallisch": "socifüsi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shobrifrooshi",
+          "coral": "socifüsi"
+        },
+        "2sg": {
+          "roman": "shobrifrooshio",
+          "coral": "socifüsio"
+        },
+        "3sg": {
+          "roman": "shobrifrooshioh",
+          "coral": "socifüsiö"
+        },
+        "1pl": {
+          "roman": "shobrifrooshie",
+          "coral": "socifüsj"
+        },
+        "2pl": {
+          "roman": "shobrifrooshieo",
+          "coral": "socifüsjo"
+        },
+        "3pl": {
+          "roman": "shobrifrooshieoh",
+          "coral": "socifüsjö"
+        }
+      }
+    }
+  }
+}

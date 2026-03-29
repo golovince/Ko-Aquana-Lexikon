@@ -1,0 +1,23 @@
+{
+  "id": "dnd_race_fsishoglashofrush",
+  "headword": {
+    "roman": "fsishoglashofrush",
+    "ipa": "",
+    "coral": "wisohasofus"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Tiefling (DnD Volk)",
+    "Unterwelt-Oberflächenbewohner"
+  ],
+  "domain": "dnd_voelker",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "dnd",
+      "race",
+      "noun"
+    ]
+  },
+  "korallisch": "wisohasofus"
+}

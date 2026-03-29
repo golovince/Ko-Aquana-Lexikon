@@ -1,0 +1,19 @@
+{
+  "id": "color_froofs",
+  "headword": {
+    "roman": "froofs",
+    "coral": "füw",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "hell",
+    "weiß"
+  ],
+  "meta": {
+    "domain": "farbe",
+    "status": "stable",
+    "note": "Farbadjektiv; Endung -fs exklusiv für Farben"
+  },
+  "korallisch": "füw"
+}

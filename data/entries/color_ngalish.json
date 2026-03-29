@@ -1,0 +1,17 @@
+{
+  "id": "color_ngalish",
+  "headword": {
+    "roman": "ngalish",
+    "coral": "xalis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "düster"
+  ],
+  "meta": {
+    "domain": "farbe",
+    "status": "stable"
+  },
+  "korallisch": "xalis"
+}

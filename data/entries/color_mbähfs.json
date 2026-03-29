@@ -1,0 +1,18 @@
+{
+  "id": "color_mbähfs",
+  "headword": {
+    "roman": "mbähfs",
+    "coral": "päw",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "grün"
+  ],
+  "meta": {
+    "domain": "farbe",
+    "status": "stable",
+    "note": "Farbadjektiv; Endung -fs exklusiv für Farben"
+  },
+  "korallisch": "päw"
+}

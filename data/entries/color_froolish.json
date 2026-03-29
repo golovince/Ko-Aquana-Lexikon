@@ -1,0 +1,17 @@
+{
+  "id": "color_froolish",
+  "headword": {
+    "roman": "froolish",
+    "coral": "fülis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "leuchtend"
+  ],
+  "meta": {
+    "domain": "farbe",
+    "status": "stable"
+  },
+  "korallisch": "fülis"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "body_shieli",
+  "headword": {
+    "roman": "shieli",
+    "coral": "sjli",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "erkennen",
+    "sehen"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Körper & Wahrnehmung"
+  },
+  "korallisch": "sjli",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shieli",
+          "coral": "sjli"
+        },
+        "2sg": {
+          "roman": "shielio",
+          "coral": "sjlio"
+        },
+        "3sg": {
+          "roman": "shielioh",
+          "coral": "sjliö"
+        },
+        "1pl": {
+          "roman": "shielie",
+          "coral": "sjlj"
+        },
+        "2pl": {
+          "roman": "shielieo",
+          "coral": "sjljo"
+        },
+        "3pl": {
+          "roman": "shielieoh",
+          "coral": "sjljö"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "dnd_feat_broobsbroobs",
+  "headword": {
+    "roman": "broobsbroobs",
+    "ipa": "",
+    "coral": "cüycüy"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "schwere See / große Wellen",
+    "Raserei (DnD: Rage)",
+    "starke emotionale Woge"
+  ],
+  "domain": "natur_konzept",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "core",
+      "welle",
+      "metapher"
+    ]
+  },
+  "korallisch": "cüycüy"
+}

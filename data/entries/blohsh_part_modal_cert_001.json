@@ -8,9 +8,12 @@
   "pos": "particle",
   "subpos": "modal_certain",
   "gloss_de": [
-    "Schwur",
     "Bindung",
-    "Gelöbnis"
+    "Gelöbnis",
+    "Schwur",
+    "fest",
+    "gewiss",
+    "sicher"
   ],
   "grammar": {
     "scope": "clausal"

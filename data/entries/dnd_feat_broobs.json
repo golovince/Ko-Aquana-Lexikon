@@ -1,0 +1,23 @@
+{
+  "id": "dnd_feat_broobs",
+  "headword": {
+    "roman": "broobs",
+    "ipa": "",
+    "coral": "cüy"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Welle",
+    "Überwältigung"
+  ],
+  "domain": "natur_konzept",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "core",
+      "welle",
+      "metapher"
+    ]
+  },
+  "korallisch": "cüy"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "dnd_fsishofrofs",
+  "headword": {
+    "roman": "fsishofrofs",
+    "coral": "wisofow",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Merfolk"
+  ],
+  "meta": {
+    "domain": "dnd_volk",
+    "status": "stable",
+    "note": "‚blaue Person‘; wasserhumanoides Volk"
+  },
+  "korallisch": "wisofow"
+}

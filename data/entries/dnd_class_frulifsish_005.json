@@ -1,0 +1,22 @@
+{
+  "id": "dnd_class_frulifsish_005",
+  "headword": {
+    "roman": "frulifsish",
+    "ipa": "",
+    "coral": "fuliwis"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Waldläufer",
+    "Ranger (Klasse)"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "dnd",
+      "class",
+      "noun"
+    ]
+  },
+  "korallisch": "fuliwis"
+}

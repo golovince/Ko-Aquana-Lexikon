@@ -1,0 +1,49 @@
+{
+  "id": "body_shielishi",
+  "headword": {
+    "roman": "shielishi",
+    "coral": "sjlisi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "wiedererkennen"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Körper & Wahrnehmung"
+  },
+  "korallisch": "sjlisi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "shielishi",
+          "coral": "sjlisi"
+        },
+        "2sg": {
+          "roman": "shielishio",
+          "coral": "sjlisio"
+        },
+        "3sg": {
+          "roman": "shielishioh",
+          "coral": "sjlisiö"
+        },
+        "1pl": {
+          "roman": "shielishie",
+          "coral": "sjlisj"
+        },
+        "2pl": {
+          "roman": "shielishieo",
+          "coral": "sjlisjo"
+        },
+        "3pl": {
+          "roman": "shielishieoh",
+          "coral": "sjlisjö"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "dnd_feat_frooshzifrooshi",
+  "headword": {
+    "roman": "frooshzifrooshi",
+    "ipa": "",
+    "coral": "füdifüsi"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "zaubern; Magie wirken (DnD: Spellcasting)"
+  ],
+  "domain": "dnd_faehigkeiten",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "dnd",
+      "feature"
+    ]
+  },
+  "korallisch": "füdifüsi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "frooshzifrooshi",
+          "coral": "füdifüsi"
+        },
+        "2sg": {
+          "roman": "frooshzifrooshio",
+          "coral": "füdifüsio"
+        },
+        "3sg": {
+          "roman": "frooshzifrooshioh",
+          "coral": "füdifüsiö"
+        },
+        "1pl": {
+          "roman": "frooshzifrooshie",
+          "coral": "füdifüsj"
+        },
+        "2pl": {
+          "roman": "frooshzifrooshieo",
+          "coral": "füdifüsjo"
+        },
+        "3pl": {
+          "roman": "frooshzifrooshieoh",
+          "coral": "füdifüsjö"
+        }
+      }
+    }
+  }
+}

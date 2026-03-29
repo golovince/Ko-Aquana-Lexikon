@@ -1,0 +1,18 @@
+{
+  "id": "body_glish",
+  "headword": {
+    "roman": "glish",
+    "coral": "his",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Reinheit",
+    "rein"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Körper & Wahrnehmung"
+  },
+  "korallisch": "his"
+}

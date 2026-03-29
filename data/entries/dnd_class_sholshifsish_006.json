@@ -1,0 +1,22 @@
+{
+  "id": "dnd_class_sholshifsish_006",
+  "headword": {
+    "roman": "sholshifsish",
+    "ipa": "",
+    "coral": "solsiwis"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "heimliche, verschlossene Person"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "dnd",
+      "class",
+      "noun"
+    ],
+    "patched_from": "ko_aquana_sholshi_patch.json"
+  },
+  "korallisch": "solsiwis"
+}

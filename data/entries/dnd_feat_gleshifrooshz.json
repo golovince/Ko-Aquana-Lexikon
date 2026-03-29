@@ -1,0 +1,21 @@
+{
+  "id": "dnd_feat_gleshifrooshz",
+  "headword": {
+    "roman": "gleshifrooshz",
+    "ipa": "",
+    "coral": "hesifüd"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Infusion / magische Einprägung (DnD: Infuse Item)"
+  ],
+  "domain": "dnd_faehigkeiten",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "dnd",
+      "feature"
+    ]
+  },
+  "korallisch": "hesifüd"
+}

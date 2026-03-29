@@ -1,0 +1,23 @@
+{
+  "id": "dnd_feat_broobsesh",
+  "headword": {
+    "roman": "broobsesh",
+    "ipa": "",
+    "coral": "cüyes"
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "wellig",
+    "überwältigend"
+  ],
+  "domain": "natur_konzept",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "core",
+      "welle",
+      "metapher"
+    ]
+  },
+  "korallisch": "cüyes"
+}

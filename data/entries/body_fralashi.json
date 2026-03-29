@@ -1,0 +1,49 @@
+{
+  "id": "body_fralashi",
+  "headword": {
+    "roman": "fralashi",
+    "coral": "falasi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "denken"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Körper & Wahrnehmung"
+  },
+  "korallisch": "falasi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fralashi",
+          "coral": "falasi"
+        },
+        "2sg": {
+          "roman": "fralashio",
+          "coral": "falasio"
+        },
+        "3sg": {
+          "roman": "fralashioh",
+          "coral": "falasiö"
+        },
+        "1pl": {
+          "roman": "fralashie",
+          "coral": "falasj"
+        },
+        "2pl": {
+          "roman": "fralashieo",
+          "coral": "falasjo"
+        },
+        "3pl": {
+          "roman": "fralashieoh",
+          "coral": "falasjö"
+        }
+      }
+    }
+  }
+}

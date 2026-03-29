@@ -1,0 +1,22 @@
+{
+  "id": "dnd_feat_broobsofrooshz",
+  "headword": {
+    "roman": "broobsofrooshz",
+    "ipa": "",
+    "coral": "cüyofüd"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Schicksalsschlag (Woge des Stroms)"
+  ],
+  "domain": "natur_konzept",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "core",
+      "welle",
+      "metapher"
+    ]
+  },
+  "korallisch": "cüyofüd"
+}

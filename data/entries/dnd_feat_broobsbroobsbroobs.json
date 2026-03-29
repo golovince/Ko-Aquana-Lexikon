@@ -1,0 +1,23 @@
+{
+  "id": "dnd_feat_broobsbroobsbroobs",
+  "headword": {
+    "roman": "broobsbroobsbroobs",
+    "ipa": "",
+    "coral": "cüycüycüy"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Sturmflut",
+    "totale Überwältigung"
+  ],
+  "domain": "natur_konzept",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "core",
+      "welle",
+      "metapher"
+    ]
+  },
+  "korallisch": "cüycüycüy"
+}

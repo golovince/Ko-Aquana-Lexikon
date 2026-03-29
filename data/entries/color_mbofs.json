@@ -1,0 +1,18 @@
+{
+  "id": "color_mbofs",
+  "headword": {
+    "roman": "mbofs",
+    "coral": "pow",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "grau"
+  ],
+  "meta": {
+    "domain": "farbe",
+    "status": "stable",
+    "note": "Farbadjektiv; Endung -fs exklusiv für Farben"
+  },
+  "korallisch": "pow"
+}

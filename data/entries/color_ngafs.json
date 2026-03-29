@@ -1,0 +1,19 @@
+{
+  "id": "color_ngafs",
+  "headword": {
+    "roman": "ngafs",
+    "coral": "xaw",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "dunkel",
+    "schwarz"
+  ],
+  "meta": {
+    "domain": "farbe",
+    "status": "stable",
+    "note": "Farbadjektiv; Endung -fs exklusiv für Farben"
+  },
+  "korallisch": "xaw"
+}

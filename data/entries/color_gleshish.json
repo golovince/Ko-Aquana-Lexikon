@@ -1,0 +1,19 @@
+{
+  "id": "color_gleshish",
+  "headword": {
+    "roman": "gleshish",
+    "coral": "hesis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "gesättigt",
+    "intensiv"
+  ],
+  "meta": {
+    "domain": "farbe",
+    "status": "stable",
+    "note": "Qualitätsmodifikator, oft für Farben"
+  },
+  "korallisch": "hesis"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "block4_fsoshofrähshi_v",
+  "headword": {
+    "roman": "fsoshofrähshi",
+    "coral": "wosofäsi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "weitergeben (von Hand zu Hand)"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Block 4 – Doppelbelegungen",
+    "note": "Formkorrektur: fsoshofrähsh → fsoshofrähshi (Verb muss auf Vokal enden; Silbenregeln)."
+  },
+  "korallisch": "wosofäsi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fsoshofrähshi",
+          "coral": "wosofäsi"
+        },
+        "2sg": {
+          "roman": "fsoshofrähshio",
+          "coral": "wosofäsio"
+        },
+        "3sg": {
+          "roman": "fsoshofrähshioh",
+          "coral": "wosofäsiö"
+        },
+        "1pl": {
+          "roman": "fsoshofrähshie",
+          "coral": "wosofäsj"
+        },
+        "2pl": {
+          "roman": "fsoshofrähshieo",
+          "coral": "wosofäsjo"
+        },
+        "3pl": {
+          "roman": "fsoshofrähshieoh",
+          "coral": "wosofäsjö"
+        }
+      }
+    }
+  }
+}

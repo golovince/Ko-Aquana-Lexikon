@@ -1,0 +1,23 @@
+{
+  "id": "dnd_feat_broobseshzt",
+  "headword": {
+    "roman": "broobseshzt",
+    "ipa": "",
+    "coral": "cüyer"
+  },
+  "pos": "adv",
+  "gloss_de": [
+    "wellenförmig",
+    "in überwältigender Weise"
+  ],
+  "domain": "natur_konzept",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "core",
+      "welle",
+      "metapher"
+    ]
+  },
+  "korallisch": "cüyer"
+}

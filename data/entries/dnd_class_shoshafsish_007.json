@@ -1,0 +1,22 @@
+{
+  "id": "dnd_class_shoshafsish_007",
+  "headword": {
+    "roman": "shoshafsish",
+    "ipa": "",
+    "coral": "sosawis"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Barde",
+    "Musik-Sprecher (Klasse)"
+  ],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "dnd",
+      "class",
+      "noun"
+    ]
+  },
+  "korallisch": "sosawis"
+}

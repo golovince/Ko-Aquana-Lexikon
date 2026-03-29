@@ -1,0 +1,23 @@
+{
+  "id": "dnd_race_sholshimbeshz",
+  "headword": {
+    "roman": "sholshimbeshz",
+    "ipa": "",
+    "coral": "solsiped"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Goblin"
+  ],
+  "domain": "dnd_voelker",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "dnd",
+      "race",
+      "noun"
+    ],
+    "patched_from": "ko_aquana_sholshi_patch.json"
+  },
+  "korallisch": "solsiped"
+}

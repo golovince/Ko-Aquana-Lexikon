@@ -1,0 +1,55 @@
+{
+  "id": "dnd_feat_broobse",
+  "headword": {
+    "roman": "broobse",
+    "ipa": "",
+    "coral": "cüye"
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "(Wellen) branden / sich wellen",
+    "überwältigen"
+  ],
+  "domain": "natur_konzept",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "core",
+      "welle",
+      "metapher"
+    ]
+  },
+  "korallisch": "cüye",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "broobse",
+          "coral": "cüye"
+        },
+        "2sg": {
+          "roman": "broobsei",
+          "coral": "cüyei"
+        },
+        "3sg": {
+          "roman": "broobseie",
+          "coral": "cüyej"
+        },
+        "1pl": {
+          "roman": "broobsäh",
+          "coral": "cüyä"
+        },
+        "2pl": {
+          "roman": "broobsähi",
+          "coral": "cüyäi"
+        },
+        "3pl": {
+          "roman": "broobsähie",
+          "coral": "cüyäj"
+        }
+      }
+    }
+  }
+}

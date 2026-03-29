@@ -1,0 +1,23 @@
+{
+  "id": "dnd_race_frooshzishombeshz",
+  "headword": {
+    "roman": "frooshzishombeshz",
+    "ipa": "",
+    "coral": "füdisoped"
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Ork (DnD Volk)",
+    "lauter Oberflächenbewohner"
+  ],
+  "domain": "dnd_voelker",
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "dnd",
+      "race",
+      "noun"
+    ]
+  },
+  "korallisch": "füdisoped"
+}

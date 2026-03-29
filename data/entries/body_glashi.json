@@ -1,0 +1,50 @@
+{
+  "id": "body_glashi",
+  "headword": {
+    "roman": "glashi",
+    "coral": "hasi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "klar sein",
+    "klären"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Körper & Wahrnehmung"
+  },
+  "korallisch": "hasi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "glashi",
+          "coral": "hasi"
+        },
+        "2sg": {
+          "roman": "glashio",
+          "coral": "hasio"
+        },
+        "3sg": {
+          "roman": "glashioh",
+          "coral": "hasiö"
+        },
+        "1pl": {
+          "roman": "glashie",
+          "coral": "hasj"
+        },
+        "2pl": {
+          "roman": "glashieo",
+          "coral": "hasjo"
+        },
+        "3pl": {
+          "roman": "glashieoh",
+          "coral": "hasjö"
+        }
+      }
+    }
+  }
+}
