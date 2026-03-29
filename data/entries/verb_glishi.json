@@ -1,0 +1,52 @@
+{
+  "id": "verb_glishi",
+  "headword": {
+    "roman": "glishi",
+    "coral": "hisi",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "absaugen",
+    "saubermachen",
+    "wegspülen"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Alltag – Reinigung",
+    "note": "Lemma = 1SG Präsens mit kurzem Vokal; bei i-Endung ggf. i-Verb-Ausweichdeklination (o/oh) nutzen, falls Doppel-i entsteht."
+  },
+  "korallisch": "hisi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "glishi",
+          "coral": "hisi"
+        },
+        "2sg": {
+          "roman": "glishio",
+          "coral": "hisio"
+        },
+        "3sg": {
+          "roman": "glishioh",
+          "coral": "hisiö"
+        },
+        "1pl": {
+          "roman": "glishie",
+          "coral": "hisj"
+        },
+        "2pl": {
+          "roman": "glishieo",
+          "coral": "hisjo"
+        },
+        "3pl": {
+          "roman": "glishieoh",
+          "coral": "hisjö"
+        }
+      }
+    }
+  }
+}

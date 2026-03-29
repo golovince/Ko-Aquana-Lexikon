@@ -1,0 +1,50 @@
+{
+  "id": "verb_mbola",
+  "headword": {
+    "roman": "mbola",
+    "coral": "pola",
+    "ipa": ""
+  },
+  "pos": "verb",
+  "gloss_de": [
+    "stehen"
+  ],
+  "meta": {
+    "status": "stable",
+    "source": "Schlüssel & Abstrakta",
+    "note": "Grundverb, körperlich und metaphorisch."
+  },
+  "korallisch": "pola",
+  "inflection": {
+    "present": {
+      "type": "standard",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "mbola",
+          "coral": "pola"
+        },
+        "2sg": {
+          "roman": "mbolai",
+          "coral": "polai"
+        },
+        "3sg": {
+          "roman": "mbolaie",
+          "coral": "polaj"
+        },
+        "1pl": {
+          "roman": "mbolah",
+          "coral": "polm"
+        },
+        "2pl": {
+          "roman": "mbolahi",
+          "coral": "polmi"
+        },
+        "3pl": {
+          "roman": "mbolahie",
+          "coral": "polmj"
+        }
+      }
+    }
+  }
+}

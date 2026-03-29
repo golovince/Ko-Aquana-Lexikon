@@ -7,11 +7,12 @@
   },
   "pos": "verb",
   "gloss_de": [
-    "dienen"
+    "stabilisieren"
   ],
   "meta": {
     "status": "draft",
-    "source": "Soziales & Rollen"
+    "source": "Soziales & Rollen",
+    "patched_from": "ko_aquana_anatomy_patch.json"
   },
   "korallisch": "so",
   "inflection": {
