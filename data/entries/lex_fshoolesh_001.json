@@ -1,15 +1,17 @@
 {
   "id": "lex_fshoolesh_001",
   "pos": "noun",
-  "lemma": "fshoolesh",
-  "romanized": "fshoolesh",
-  "ipa": "fʃoːˈleʃ",
-  "korallisch": "fshoolesh",
+  "korallisch": "vüles",
   "domain": "state_process",
-  "gloss_de": "anhaltender Zustand; Grundverfassung; fortdauernde Lage",
+  "gloss_de": [
+    "Grundverfassung",
+    "anhaltender Zustand",
+    "fortdauernde Lage"
+  ],
   "notes": [
     "regelkonform (keine KK/VV, kein freies z)",
-    "semantik: Zustand als strömende Dauer"
+    "semantik: Zustand als strömende Dauer",
+    "original_korallisch_field=fshoolesh"
   ],
   "examples": [
     {
@@ -19,7 +21,7 @@
   ],
   "headword": {
     "roman": "fshoolesh",
-    "coral": "fshoolesh",
-    "ipa": "fʃoːˈleʃ"
+    "ipa": "fʃoːˈleʃ",
+    "coral": "vüles"
   }
 }

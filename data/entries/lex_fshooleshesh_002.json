@@ -1,15 +1,17 @@
 {
   "id": "lex_fshooleshesh_002",
   "pos": "noun",
-  "lemma": "fshooleshesh",
-  "romanized": "fshooleshesh",
-  "ipa": "fʃoːleˈʃeʃ",
-  "korallisch": "fshooleshesh",
+  "korallisch": "vüleses",
   "domain": "state_process",
-  "gloss_de": "Zustandsänderung; Übergang; Verwandlung eines Zustands",
+  "gloss_de": [
+    "Verwandlung eines Zustands",
+    "Zustandsänderung",
+    "Übergang"
+  ],
   "notes": [
     "abgeleitet von fshoolesh",
-    "ersetzt frühere, nicht-kanonische ...zesh-Bildungen"
+    "ersetzt frühere, nicht-kanonische ...zesh-Bildungen",
+    "original_korallisch_field=fshooleshesh"
   ],
   "examples": [
     {
@@ -19,7 +21,7 @@
   ],
   "headword": {
     "roman": "fshooleshesh",
-    "coral": "fshooleshesh",
-    "ipa": "fʃoːleˈʃeʃ"
+    "ipa": "fʃoːleˈʃeʃ",
+    "coral": "vüleses"
   }
 }

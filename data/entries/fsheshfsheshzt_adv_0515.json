@@ -1,0 +1,42 @@
+{
+  "id": "fsheshfsheshzt_adv_0515",
+  "headword": {
+    "roman": "fsheshfsheshzt",
+    "ipa": "",
+    "coral": "vesver"
+  },
+  "pos": "adv",
+  "subpos": "",
+  "gloss_de": [
+    "lebensgefährlicherweise"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "fsh",
+      "e",
+      "sh",
+      "fsh",
+      "e",
+      "shzt"
+    ],
+    "tokens_coral": [
+      "v",
+      "e",
+      "s",
+      "v",
+      "e",
+      "r"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "safety",
+      "intensified"
+    ]
+  },
+  "korallisch": "vesver"
+}

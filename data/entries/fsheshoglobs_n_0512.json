@@ -1,0 +1,45 @@
+{
+  "id": "fsheshoglobs_n_0512",
+  "headword": {
+    "roman": "fsheshoglobs",
+    "ipa": "",
+    "coral": "vesohoy"
+  },
+  "pos": "noun",
+  "subpos": "",
+  "gloss_de": [
+    "Entität in Gefahr",
+    "Lebewesen in Gefahr"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "fsh",
+      "e",
+      "sh",
+      "o",
+      "gl",
+      "o",
+      "bs"
+    ],
+    "tokens_coral": [
+      "v",
+      "e",
+      "s",
+      "o",
+      "h",
+      "o",
+      "y"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "safety",
+      "ontology"
+    ]
+  },
+  "korallisch": "vesohoy"
+}

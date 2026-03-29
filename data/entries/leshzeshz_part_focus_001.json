@@ -8,9 +8,9 @@
   "pos": "particle",
   "subpos": "focus",
   "gloss_de": [
-    "genau",
+    "ausgerechnet",
     "eben",
-    "ausgerechnet"
+    "genau"
   ],
   "grammar": {
     "scope": "phrasal"

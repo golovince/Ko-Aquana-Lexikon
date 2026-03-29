@@ -1,0 +1,37 @@
+{
+  "id": "fshesh_n_0507",
+  "headword": {
+    "roman": "fshesh",
+    "ipa": "",
+    "coral": "ves"
+  },
+  "pos": "noun",
+  "subpos": "",
+  "gloss_de": [
+    "Gefahr",
+    "bedrohliche Lage"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "fsh",
+      "e",
+      "sh"
+    ],
+    "tokens_coral": [
+      "v",
+      "e",
+      "s"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "core",
+      "safety"
+    ]
+  },
+  "korallisch": "ves"
+}

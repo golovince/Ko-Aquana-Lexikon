@@ -1,0 +1,80 @@
+{
+  "id": "fresheglobsi_v_0488",
+  "headword": {
+    "roman": "fresheglobsi",
+    "ipa": "",
+    "coral": "fesehoyi"
+  },
+  "pos": "verb",
+  "subpos": "",
+  "gloss_de": [
+    "monströs handeln",
+    "verwüsten",
+    "wüten"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "fr",
+      "e",
+      "sh",
+      "e",
+      "gl",
+      "o",
+      "bs",
+      "i"
+    ],
+    "tokens_coral": [
+      "f",
+      "e",
+      "s",
+      "e",
+      "h",
+      "o",
+      "y",
+      "i"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "myth",
+      "monsters"
+    ]
+  },
+  "korallisch": "fesehoyi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fresheglobsi",
+          "coral": "fesehoyi"
+        },
+        "2sg": {
+          "roman": "fresheglobsio",
+          "coral": "fesehoyio"
+        },
+        "3sg": {
+          "roman": "fresheglobsioh",
+          "coral": "fesehoyiö"
+        },
+        "1pl": {
+          "roman": "fresheglobsie",
+          "coral": "fesehoyj"
+        },
+        "2pl": {
+          "roman": "fresheglobsieo",
+          "coral": "fesehoyjo"
+        },
+        "3pl": {
+          "roman": "fresheglobsieoh",
+          "coral": "fesehoyjö"
+        }
+      }
+    }
+  }
+}

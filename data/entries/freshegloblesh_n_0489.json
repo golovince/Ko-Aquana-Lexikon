@@ -1,0 +1,50 @@
+{
+  "id": "freshegloblesh_n_0489",
+  "headword": {
+    "roman": "freshegloblesh",
+    "ipa": "",
+    "coral": "fesehobes"
+  },
+  "pos": "noun",
+  "subpos": "",
+  "gloss_de": [
+    "Monstrosität",
+    "das Ungeheuerliche"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "fr",
+      "e",
+      "sh",
+      "e",
+      "gl",
+      "o",
+      "bl",
+      "e",
+      "sh"
+    ],
+    "tokens_coral": [
+      "f",
+      "e",
+      "s",
+      "e",
+      "h",
+      "o",
+      "b",
+      "e",
+      "s"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "myth",
+      "monsters",
+      "abstract"
+    ]
+  },
+  "korallisch": "fesehobes"
+}

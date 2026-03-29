@@ -1,0 +1,42 @@
+{
+  "id": "fsheshfshesh_n_0513",
+  "headword": {
+    "roman": "fsheshfshesh",
+    "ipa": "",
+    "coral": "vesves"
+  },
+  "pos": "noun",
+  "subpos": "",
+  "gloss_de": [
+    "Lebensgefahr"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "fsh",
+      "e",
+      "sh",
+      "fsh",
+      "e",
+      "sh"
+    ],
+    "tokens_coral": [
+      "v",
+      "e",
+      "s",
+      "v",
+      "e",
+      "s"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "safety",
+      "intensified"
+    ]
+  },
+  "korallisch": "vesves"
+}

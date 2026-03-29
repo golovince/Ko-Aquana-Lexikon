@@ -8,7 +8,11 @@
   },
   "korallisch": "hüh",
   "domain": "knowledge_search",
-  "gloss_de": "weite, tiefe Suche; Sammeltiefe von Wissen; Metapher für einen Ort, an dem Wissen zusammenströmt",
+  "gloss_de": [
+    "Metapher für einen Ort, an dem Wissen zusammenströmt",
+    "Sammeltiefe von Wissen",
+    "weite, tiefe Suche"
+  ],
   "notes": [
     "Produktive metaphorische Bedeutung: Ort oder Werkzeug der Suche (z. B. Name einer Website)",
     "Morphologie: gl + oo + gl (Langvokal signalisiert Weite/Tiefe)"

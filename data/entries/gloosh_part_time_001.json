@@ -8,8 +8,10 @@
   "pos": "particle",
   "subpos": "temporal",
   "gloss_de": [
-    "jetzt",
-    "im Moment"
+    "Jetzt",
+    "Moment",
+    "im Moment",
+    "jetzt"
   ],
   "grammar": {
     "scope": "clausal"

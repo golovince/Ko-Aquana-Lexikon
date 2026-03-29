@@ -1,0 +1,50 @@
+{
+  "id": "fsheshfsheshfs_n_0516",
+  "headword": {
+    "roman": "fsheshfsheshfshesh",
+    "ipa": "",
+    "coral": "vesvesves"
+  },
+  "pos": "noun",
+  "subpos": "",
+  "gloss_de": [
+    "Todesangst",
+    "existenzielle Angst"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "fsh",
+      "e",
+      "sh",
+      "fsh",
+      "e",
+      "sh",
+      "fsh",
+      "e",
+      "sh"
+    ],
+    "tokens_coral": [
+      "v",
+      "e",
+      "s",
+      "v",
+      "e",
+      "s",
+      "v",
+      "e",
+      "s"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "safety",
+      "myth",
+      "intensified"
+    ]
+  },
+  "korallisch": "vesvesves"
+}

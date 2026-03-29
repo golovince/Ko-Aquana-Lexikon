@@ -1,0 +1,36 @@
+{
+  "id": "fsheshzt_adv_0510",
+  "headword": {
+    "roman": "fsheshzt",
+    "ipa": "",
+    "coral": "ver"
+  },
+  "pos": "adv",
+  "subpos": "",
+  "gloss_de": [
+    "gefährlicherweise"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "fsh",
+      "e",
+      "shzt"
+    ],
+    "tokens_coral": [
+      "v",
+      "e",
+      "r"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "core",
+      "safety"
+    ]
+  },
+  "korallisch": "ver"
+}

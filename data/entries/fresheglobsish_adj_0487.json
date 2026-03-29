@@ -1,0 +1,49 @@
+{
+  "id": "fresheglobsish_adj_0487",
+  "headword": {
+    "roman": "fresheglobsish",
+    "ipa": "",
+    "coral": "fesehoyis"
+  },
+  "pos": "adj",
+  "subpos": "",
+  "gloss_de": [
+    "monströs",
+    "ungeheuerlich"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "fr",
+      "e",
+      "sh",
+      "e",
+      "gl",
+      "o",
+      "bs",
+      "i",
+      "sh"
+    ],
+    "tokens_coral": [
+      "f",
+      "e",
+      "s",
+      "e",
+      "h",
+      "o",
+      "y",
+      "i",
+      "s"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "myth",
+      "monsters"
+    ]
+  },
+  "korallisch": "fesehoyis"
+}

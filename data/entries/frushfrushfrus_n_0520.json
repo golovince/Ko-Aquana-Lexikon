@@ -1,0 +1,68 @@
+{
+  "id": "frushfrushfrus_n_0520",
+  "headword": {
+    "roman": "frushfrushfrushglobsglobsglobs",
+    "ipa": "",
+    "coral": "fusfusfushoyhoyhoy"
+  },
+  "pos": "noun",
+  "subpos": "",
+  "gloss_de": [
+    "Albtraumwesen der Großen Trockenheit; Ungeheuer (Gruselmythen)"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "fr",
+      "u",
+      "sh",
+      "fr",
+      "u",
+      "sh",
+      "fr",
+      "u",
+      "sh",
+      "gl",
+      "o",
+      "bs",
+      "gl",
+      "o",
+      "bs",
+      "gl",
+      "o",
+      "bs"
+    ],
+    "tokens_coral": [
+      "f",
+      "u",
+      "s",
+      "f",
+      "u",
+      "s",
+      "f",
+      "u",
+      "s",
+      "h",
+      "o",
+      "y",
+      "h",
+      "o",
+      "y",
+      "h",
+      "o",
+      "y"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "myth",
+      "apocalypse",
+      "creature"
+    ],
+    "patched_from": "ko_aquana_soapopera_patch_NO_BROOBS.json"
+  },
+  "korallisch": "fusfusfushoyhoyhoy"
+}

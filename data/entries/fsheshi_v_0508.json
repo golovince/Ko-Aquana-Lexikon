@@ -1,0 +1,70 @@
+{
+  "id": "fsheshi_v_0508",
+  "headword": {
+    "roman": "fsheshi",
+    "ipa": "",
+    "coral": "vesi"
+  },
+  "pos": "verb",
+  "subpos": "",
+  "gloss_de": [
+    "gefährden"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "fsh",
+      "e",
+      "sh",
+      "i"
+    ],
+    "tokens_coral": [
+      "v",
+      "e",
+      "s",
+      "i"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "core",
+      "safety"
+    ]
+  },
+  "korallisch": "vesi",
+  "inflection": {
+    "present": {
+      "type": "ausweich",
+      "tense": "present",
+      "forms": {
+        "1sg": {
+          "roman": "fsheshi",
+          "coral": "vesi"
+        },
+        "2sg": {
+          "roman": "fsheshio",
+          "coral": "vesio"
+        },
+        "3sg": {
+          "roman": "fsheshioh",
+          "coral": "vesiö"
+        },
+        "1pl": {
+          "roman": "fsheshie",
+          "coral": "vesj"
+        },
+        "2pl": {
+          "roman": "fsheshieo",
+          "coral": "vesjo"
+        },
+        "3pl": {
+          "roman": "fsheshieoh",
+          "coral": "vesjö"
+        }
+      }
+    }
+  }
+}

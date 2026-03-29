@@ -1,0 +1,44 @@
+{
+  "id": "fsheshofsish_n_0511",
+  "headword": {
+    "roman": "fsheshofsish",
+    "ipa": "",
+    "coral": "vesowis"
+  },
+  "pos": "noun",
+  "subpos": "",
+  "gloss_de": [
+    "Person in Gefahr"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "fsh",
+      "e",
+      "sh",
+      "o",
+      "fs",
+      "i",
+      "sh"
+    ],
+    "tokens_coral": [
+      "v",
+      "e",
+      "s",
+      "o",
+      "w",
+      "i",
+      "s"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "safety",
+      "social"
+    ]
+  },
+  "korallisch": "vesowis"
+}

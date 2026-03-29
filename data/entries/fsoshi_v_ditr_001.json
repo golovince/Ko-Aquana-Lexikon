@@ -8,7 +8,11 @@
   "pos": "verb",
   "subpos": "lexical",
   "gloss_de": [
-    "geben (allgemein)"
+    "geben",
+    "geben (allgemein)",
+    "weitergeben",
+    "zukommen lassen",
+    "überreichen"
   ],
   "grammar": {
     "conjugation_class": "avoid_i",

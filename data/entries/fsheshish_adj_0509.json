@@ -1,0 +1,40 @@
+{
+  "id": "fsheshish_adj_0509",
+  "headword": {
+    "roman": "fsheshish",
+    "ipa": "",
+    "coral": "vesis"
+  },
+  "pos": "adj",
+  "subpos": "",
+  "gloss_de": [
+    "gefährlich"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "fsh",
+      "e",
+      "sh",
+      "i",
+      "sh"
+    ],
+    "tokens_coral": [
+      "v",
+      "e",
+      "s",
+      "i",
+      "s"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "core",
+      "safety"
+    ]
+  },
+  "korallisch": "vesis"
+}

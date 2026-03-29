@@ -1,0 +1,49 @@
+{
+  "id": "frushfrushfrus_n_0519",
+  "headword": {
+    "roman": "frushfrushfrush",
+    "ipa": "",
+    "coral": "fusfusfus"
+  },
+  "pos": "noun",
+  "subpos": "",
+  "gloss_de": [
+    "Große Trockenheit; Wüste"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "fr",
+      "u",
+      "sh",
+      "fr",
+      "u",
+      "sh",
+      "fr",
+      "u",
+      "sh"
+    ],
+    "tokens_coral": [
+      "f",
+      "u",
+      "s",
+      "f",
+      "u",
+      "s",
+      "f",
+      "u",
+      "s"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "myth",
+      "apocalypse"
+    ],
+    "patched_from": "ko_aquana_soapopera_patch_NO_BROOBS.json"
+  },
+  "korallisch": "fusfusfus"
+}

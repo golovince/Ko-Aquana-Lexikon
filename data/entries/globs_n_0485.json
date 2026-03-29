@@ -1,0 +1,38 @@
+{
+  "id": "globs_n_0485",
+  "headword": {
+    "roman": "globs",
+    "ipa": "",
+    "coral": "hoy"
+  },
+  "pos": "noun",
+  "subpos": "",
+  "gloss_de": [
+    "Ding",
+    "Entität",
+    "Seiendes"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "gl",
+      "o",
+      "bs"
+    ],
+    "tokens_coral": [
+      "h",
+      "o",
+      "y"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "philosophy",
+      "ontology"
+    ]
+  },
+  "korallisch": "hoy"
+}

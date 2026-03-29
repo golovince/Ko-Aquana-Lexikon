@@ -8,9 +8,9 @@
   "pos": "verb",
   "subpos": "lexical",
   "gloss_de": [
-    "wahrnehmen",
     "erspüren",
-    "fühlen"
+    "fühlen",
+    "wahrnehmen"
   ],
   "grammar": {
     "conjugation_class": "standard",

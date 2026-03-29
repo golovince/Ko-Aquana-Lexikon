@@ -1,0 +1,54 @@
+{
+  "id": "frooshzofreshe_n_0491",
+  "headword": {
+    "roman": "frooshzofresheglobs",
+    "ipa": "",
+    "coral": "füdofesehoy"
+  },
+  "pos": "noun",
+  "subpos": "",
+  "gloss_de": [
+    "kosmisches Grauen",
+    "schicksalhaftes Ungeheuer"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "fr",
+      "oo",
+      "shz",
+      "o",
+      "fr",
+      "e",
+      "sh",
+      "e",
+      "gl",
+      "o",
+      "bs"
+    ],
+    "tokens_coral": [
+      "f",
+      "ü",
+      "d",
+      "o",
+      "f",
+      "e",
+      "s",
+      "e",
+      "h",
+      "o",
+      "y"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "myth",
+      "monsters",
+      "cosmic"
+    ]
+  },
+  "korallisch": "füdofesehoy"
+}

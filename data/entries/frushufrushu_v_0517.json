@@ -1,0 +1,47 @@
+{
+  "id": "frushufrushu_v_0517",
+  "headword": {
+    "roman": "frushufrushu",
+    "ipa": "",
+    "coral": "fusufusu"
+  },
+  "pos": "v/adj",
+  "subpos": "",
+  "gloss_de": [
+    "sich völlig austrocknen; staubtrocken sein"
+  ],
+  "grammar": {},
+  "morphology": {},
+  "orthography": {
+    "tokens_roman": [
+      "fr",
+      "u",
+      "sh",
+      "u",
+      "fr",
+      "u",
+      "sh",
+      "u"
+    ],
+    "tokens_coral": [
+      "f",
+      "u",
+      "s",
+      "u",
+      "f",
+      "u",
+      "s",
+      "u"
+    ]
+  },
+  "examples": [],
+  "meta": {
+    "status": "canonical",
+    "tags": [
+      "myth",
+      "climate"
+    ],
+    "patched_from": "ko_aquana_soapopera_patch_NO_BROOBS.json"
+  },
+  "korallisch": "fusufusu"
+}
