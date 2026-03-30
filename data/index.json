@@ -229,9 +229,9 @@
     },
     {
       "id": "glooshgloosh_part_dur_001",
-      "roman": "glooshgloosh",
-      "coral": "hüshüs",
-      "ipa": "ɡloːʃɡloːʃ",
+      "roman": "glooshglooshish",
+      "coral": "hüshüsis",
+      "ipa": "ɡloːʃɡloːʃiʃ",
       "pos": "particle",
       "gloss_de_short": "fortwährend; immer wieder",
       "domains": []
@@ -355,11 +355,11 @@
     },
     {
       "id": "shielesh_n_001",
-      "roman": "shielesh",
-      "coral": "sjles",
-      "ipa": "ʃiːleʃ",
+      "roman": "shielel",
+      "coral": "sjlel",
+      "ipa": "ʃiːlel",
       "pos": "noun",
-      "gloss_de_short": "Oberfläche (neutral); aufwärts; oberflächennah",
+      "gloss_de_short": "Oberfläche (neutral); das Obere",
       "domains": []
     },
     {
@@ -377,7 +377,7 @@
       "coral": "fas",
       "ipa": "fraʃ",
       "pos": "noun",
-      "gloss_de_short": "Grenze; Rand; randständig",
+      "gloss_de_short": "Grenze; Rand;",
       "domains": []
     },
     {
@@ -422,7 +422,7 @@
       "coral": "hjs",
       "ipa": "ɡliːʃ",
       "pos": "noun",
-      "gloss_de_short": "Erinnerung; erinnernd; Überlieferung",
+      "gloss_de_short": "Erinnerung; Überlieferung",
       "domains": []
     },
     {
@@ -440,7 +440,7 @@
       "coral": "pül",
       "ipa": "ʘoːl",
       "pos": "noun",
-      "gloss_de_short": "Existenz; Sein; es gibt",
+      "gloss_de_short": "die Existenz; das Sein;",
       "domains": []
     },
     {
@@ -476,7 +476,7 @@
       "coral": "hüs",
       "ipa": "ɡloːʃ",
       "pos": "noun",
-      "gloss_de_short": "Jetzt; Moment; im Moment",
+      "gloss_de_short": "das Jetzt; die Gegenwart",
       "domains": []
     },
     {
@@ -526,11 +526,11 @@
     },
     {
       "id": "mbahl_adj_001",
-      "roman": "mbahl",
-      "coral": "pml",
+      "roman": "mbahlish",
+      "coral": "pmlis",
       "ipa": "",
       "pos": "adj",
-      "gloss_de_short": "tiefe Schicht; tiefgelegen; tiefwärts",
+      "gloss_de_short": "tief; tiefgelegen;",
       "domains": []
     },
     {
@@ -553,29 +553,29 @@
     },
     {
       "id": "fshol_adj_001",
-      "roman": "fshol",
-      "coral": "vol",
+      "roman": "fsholish",
+      "coral": "volis",
       "ipa": "",
       "pos": "adj",
-      "gloss_de_short": "gelenkte Kraft; magisch wirksam; magische Wirkung",
+      "gloss_de_short": "magisch",
       "domains": []
     },
     {
       "id": "gliesh_adj_001",
-      "roman": "gliesh",
-      "coral": "hjs",
+      "roman": "glieshish",
+      "coral": "hjsis",
       "ipa": "",
       "pos": "adj",
-      "gloss_de_short": "Erinnerung; erinnernd; Überlieferung",
+      "gloss_de_short": "erinnernd; überliefert, überliefernd, erinnert",
       "domains": []
     },
     {
       "id": "frash_adj_001",
-      "roman": "frash",
-      "coral": "fas",
+      "roman": "frashish",
+      "coral": "fasis",
       "ipa": "",
       "pos": "adj",
-      "gloss_de_short": "Grenze; Rand; randständig",
+      "gloss_de_short": "angrenzend; marginal; randständig",
       "domains": []
     },
     {
@@ -620,16 +620,16 @@
       "coral": "sjles",
       "ipa": "",
       "pos": "adj",
-      "gloss_de_short": "Oberfläche (neutral); aufwärts; oberflächennah",
+      "gloss_de_short": "aufwärts; oberflächennah",
       "domains": []
     },
     {
       "id": "gloosh_adv_001",
-      "roman": "gloosh",
-      "coral": "hüs",
+      "roman": "glooshishz",
+      "coral": "hüsid",
       "ipa": "",
       "pos": "adv",
-      "gloss_de_short": "Jetzt; Moment; im Moment",
+      "gloss_de_short": "gegenwärtig, momentan, jetzt",
       "domains": []
     },
     {
@@ -637,8 +637,17 @@
       "roman": "glooshgloosh",
       "coral": "hüshüs",
       "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Die Ewigkeit",
+      "domains": []
+    },
+     {
+      "id": "glooshgloosh_adv_002",
+      "roman": "glooshglooshishz",
+      "coral": "hüshüs",
+      "ipa": "",
       "pos": "adv",
-      "gloss_de_short": "fortwährend; immer wieder",
+      "gloss_de_short": "fortwährend, andauernd, immer wieder",
       "domains": []
     },
     {
@@ -652,20 +661,20 @@
     },
     {
       "id": "mbahl_adv_001",
-      "roman": "mbahl",
-      "coral": "pml",
+      "roman": "mbahlishz",
+      "coral": "pmlid",
       "ipa": "",
       "pos": "adv",
-      "gloss_de_short": "tiefe Schicht; tiefgelegen; tiefwärts",
+      "gloss_de_short": "tief; tiefschwimmend; tiefwärts; abwärts; unten",
       "domains": []
     },
     {
       "id": "shielesh_adv_001",
-      "roman": "shielesh",
-      "coral": "sjles",
+      "roman": "shieleshz",
+      "coral": "sjled",
       "ipa": "",
       "pos": "adv",
-      "gloss_de_short": "Oberfläche (neutral); aufwärts; oberflächennah",
+      "gloss_de_short": "aufwärts; nach oben",
       "domains": []
     },
     {
@@ -940,9 +949,27 @@
       "roman": "frashz",
       "coral": "fad",
       "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "Krieger; verletzt",
+      "pos": "adv",
+      "gloss_de_short": "angrenzend; marginal; randläufig",
       "domains": []
+    },
+    {
+      "id": "new_frahshz_n",
+      "roman": "frahshz",
+      "coral": "fmd",
+      "ipa": "",
+      "pos": "noun",
+      "gloss_de_short": "Krieger",
+      "domains": [Kampf]
+    },
+    {
+      "id": "new_frahshz_adj",
+      "roman": "frahshzish",
+      "coral": "fmdis",
+      "ipa": "",
+      "pos": "adj",
+      "gloss_de_short": "kriegerisch",
+      "domains": [Kampf]
     },
     {
       "id": "alltag_fshooshz_n",
@@ -4608,24 +4635,6 @@
       "domains": []
     },
     {
-      "id": "gloosh_part_time_001",
-      "roman": "gloosh",
-      "coral": "hüs",
-      "ipa": "ɡloːʃ",
-      "pos": "particle",
-      "gloss_de_short": "Jetzt; Moment; im Moment",
-      "domains": []
-    },
-    {
-      "id": "glooshgloosh_part_dur_001",
-      "roman": "glooshgloosh",
-      "coral": "hüshüs",
-      "ipa": "ɡloːʃɡloːʃ",
-      "pos": "particle",
-      "gloss_de_short": "fortwährend; immer wieder",
-      "domains": []
-    },
-    {
       "id": "blohsh_part_modal_cert_001",
       "roman": "blohsh",
       "coral": "bös",
@@ -4644,30 +4653,12 @@
       "domains": []
     },
     {
-      "id": "mbool_part_exist_001",
-      "roman": "mbool",
-      "coral": "pül",
-      "ipa": "ʘoːl",
-      "pos": "particle",
-      "gloss_de_short": "Existenz; Sein; es gibt",
-      "domains": []
-    },
-    {
       "id": "glaho_v_intr_001",
       "roman": "glaho",
       "coral": "hmo",
       "ipa": "ɡlaːho",
       "pos": "verb",
       "gloss_de_short": "fließen; sich bewegen (ohne Ziel); strömen",
-      "domains": []
-    },
-    {
-      "id": "mbahlo_v_intr_001",
-      "roman": "mbahlo",
-      "coral": "pmlo",
-      "ipa": "ʘaːlo",
-      "pos": "verb",
-      "gloss_de_short": "in die Tiefe gehen; sinken",
       "domains": []
     },
     {
@@ -4707,24 +4698,6 @@
       "domains": []
     },
     {
-      "id": "mboolo_v_intr_001",
-      "roman": "mboolo",
-      "coral": "pülo",
-      "ipa": "ʘoːlo",
-      "pos": "verb",
-      "gloss_de_short": "entstehen; sich bilden; vorhanden werden",
-      "domains": []
-    },
-    {
-      "id": "gliesha_v_tr_001",
-      "roman": "gliesha",
-      "coral": "hjsa",
-      "ipa": "ɡliːʃa",
-      "pos": "verb",
-      "gloss_de_short": "bewahren; erinnern; im Strom halten",
-      "domains": []
-    },
-    {
       "id": "glash_n_001",
       "roman": "glash",
       "coral": "has",
@@ -4734,39 +4707,12 @@
       "domains": []
     },
     {
-      "id": "mbahl_n_001",
-      "roman": "mbahl",
-      "coral": "pml",
-      "ipa": "ʘaːl",
-      "pos": "noun",
-      "gloss_de_short": "tiefe Schicht; tiefgelegen; tiefwärts",
-      "domains": []
-    },
-    {
-      "id": "shielesh_n_001",
-      "roman": "shielesh",
-      "coral": "sjles",
-      "ipa": "ʃiːleʃ",
-      "pos": "noun",
-      "gloss_de_short": "Oberfläche (neutral); aufwärts; oberflächennah",
-      "domains": []
-    },
-    {
       "id": "glol_n_001",
       "roman": "glol",
       "coral": "hol",
       "ipa": "ɡlɔl",
       "pos": "noun",
       "gloss_de_short": "Flussrichtung; Strömung; strömend",
-      "domains": []
-    },
-    {
-      "id": "frash_n_001",
-      "roman": "frash",
-      "coral": "fas",
-      "ipa": "fraʃ",
-      "pos": "noun",
-      "gloss_de_short": "Grenze; Rand; randständig",
       "domains": []
     },
     {
@@ -4797,33 +4743,6 @@
       "domains": []
     },
     {
-      "id": "gliesh_n_001",
-      "roman": "gliesh",
-      "coral": "hjs",
-      "ipa": "ɡliːʃ",
-      "pos": "noun",
-      "gloss_de_short": "Erinnerung; erinnernd; Überlieferung",
-      "domains": []
-    },
-    {
-      "id": "fshol_n_001",
-      "roman": "fshol",
-      "coral": "vol",
-      "ipa": "fʃɔl",
-      "pos": "noun",
-      "gloss_de_short": "gelenkte Kraft; magisch wirksam; magische Wirkung",
-      "domains": []
-    },
-    {
-      "id": "mbool_n_001",
-      "roman": "mbool",
-      "coral": "pül",
-      "ipa": "ʘoːl",
-      "pos": "noun",
-      "gloss_de_short": "Existenz; Sein; es gibt",
-      "domains": []
-    },
-    {
       "id": "brahsh_n_001",
       "roman": "brahsh",
       "coral": "cms",
@@ -4848,15 +4767,6 @@
       "ipa": "bloːʃal",
       "pos": "noun",
       "gloss_de_short": "Gewissheit; feste Wahrheit; gewiss",
-      "domains": []
-    },
-    {
-      "id": "gloosh_n_001",
-      "roman": "gloosh",
-      "coral": "hüs",
-      "ipa": "ɡloːʃ",
-      "pos": "noun",
-      "gloss_de_short": "Jetzt; Moment; im Moment",
       "domains": []
     },
     {
@@ -4914,15 +4824,6 @@
       "domains": []
     },
     {
-      "id": "mbahl_adj_001",
-      "roman": "mbahl",
-      "coral": "pml",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "tiefe Schicht; tiefgelegen; tiefwärts",
-      "domains": []
-    },
-    {
       "id": "mbähsh_adj_001",
       "roman": "mbähsh",
       "coral": "päs",
@@ -4938,33 +4839,6 @@
       "ipa": "",
       "pos": "adj",
       "gloss_de_short": "Gewissheit; feste Wahrheit; gewiss",
-      "domains": []
-    },
-    {
-      "id": "fshol_adj_001",
-      "roman": "fshol",
-      "coral": "vol",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "gelenkte Kraft; magisch wirksam; magische Wirkung",
-      "domains": []
-    },
-    {
-      "id": "gliesh_adj_001",
-      "roman": "gliesh",
-      "coral": "hjs",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "Erinnerung; erinnernd; Überlieferung",
-      "domains": []
-    },
-    {
-      "id": "frash_adj_001",
-      "roman": "frash",
-      "coral": "fas",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "Grenze; Rand; randständig",
       "domains": []
     },
     {
@@ -5004,57 +4878,12 @@
       "domains": []
     },
     {
-      "id": "shielesh_adj_001",
-      "roman": "shielesh",
-      "coral": "sjles",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "Oberfläche (neutral); aufwärts; oberflächennah",
-      "domains": []
-    },
-    {
-      "id": "gloosh_adv_001",
-      "roman": "gloosh",
-      "coral": "hüs",
-      "ipa": "",
-      "pos": "adv",
-      "gloss_de_short": "Jetzt; Moment; im Moment",
-      "domains": []
-    },
-    {
-      "id": "glooshgloosh_adv_001",
-      "roman": "glooshgloosh",
-      "coral": "hüshüs",
-      "ipa": "",
-      "pos": "adv",
-      "gloss_de_short": "fortwährend; immer wieder",
-      "domains": []
-    },
-    {
       "id": "glol_adv_001",
       "roman": "glol",
       "coral": "hol",
       "ipa": "",
       "pos": "adv",
       "gloss_de_short": "Flussrichtung; Strömung; strömend",
-      "domains": []
-    },
-    {
-      "id": "mbahl_adv_001",
-      "roman": "mbahl",
-      "coral": "pml",
-      "ipa": "",
-      "pos": "adv",
-      "gloss_de_short": "tiefe Schicht; tiefgelegen; tiefwärts",
-      "domains": []
-    },
-    {
-      "id": "shielesh_adv_001",
-      "roman": "shielesh",
-      "coral": "sjles",
-      "ipa": "",
-      "pos": "adv",
-      "gloss_de_short": "Oberfläche (neutral); aufwärts; oberflächennah",
       "domains": []
     },
     {
@@ -5222,15 +5051,6 @@
       "domains": []
     },
     {
-      "id": "new_glieshol_n",
-      "roman": "glieshol",
-      "coral": "hjsol",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Sehen; Sehvorgang",
-      "domains": []
-    },
-    {
       "id": "new_shishol_n",
       "roman": "shishol",
       "coral": "sisol",
@@ -5309,15 +5129,6 @@
       "ipa": "",
       "pos": "adj",
       "gloss_de_short": "satt",
-      "domains": []
-    },
-    {
-      "id": "new_frashz_adj",
-      "roman": "frashz",
-      "coral": "fad",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "Krieger; verletzt",
       "domains": []
     },
     {
@@ -5456,15 +5267,6 @@
       "domains": []
     },
     {
-      "id": "alltag_frasha_v",
-      "roman": "frasha",
-      "coral": "fasa",
-      "ipa": "",
-      "pos": "verb",
-      "gloss_de_short": "warten",
-      "domains": []
-    },
-    {
       "id": "alltag_shasha_v",
       "roman": "shasha",
       "coral": "sasa",
@@ -5498,15 +5300,6 @@
       "ipa": "",
       "pos": "verb",
       "gloss_de_short": "behalten",
-      "domains": []
-    },
-    {
-      "id": "alltag_frashza_v",
-      "roman": "frashza",
-      "coral": "fada",
-      "ipa": "",
-      "pos": "verb",
-      "gloss_de_short": "verlieren",
       "domains": []
     },
     {
@@ -5597,15 +5390,6 @@
       "ipa": "",
       "pos": "noun",
       "gloss_de_short": "Diener",
-      "domains": []
-    },
-    {
-      "id": "sozial_fshafrash_n",
-      "roman": "fshafrash",
-      "coral": "vafas",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Bote",
       "domains": []
     },
     {
@@ -6329,24 +6113,6 @@
       "domains": []
     },
     {
-      "id": "block3_frashzoglash_n",
-      "roman": "frashzoglash",
-      "coral": "fadohas",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Verbrechen",
-      "domains": []
-    },
-    {
-      "id": "block3_frashzogläsh_n",
-      "roman": "frashzogläsh",
-      "coral": "fadohäs",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Ankläger",
-      "domains": []
-    },
-    {
       "id": "block3_frashzofrooshz_n",
       "roman": "frashzofrooshz",
       "coral": "fadofüd",
@@ -6947,15 +6713,6 @@
       "ipa": "",
       "pos": "verb",
       "gloss_de_short": "rufen",
-      "domains": []
-    },
-    {
-      "id": "verb_glishi",
-      "roman": "glishi",
-      "coral": "hisi",
-      "ipa": "",
-      "pos": "verb",
-      "gloss_de_short": "absaugen; saubermachen; wegspülen",
       "domains": []
     },
     {
@@ -8885,24 +8642,6 @@
       "domains": []
     },
     {
-      "id": "gloosh_part_time_001",
-      "roman": "gloosh",
-      "coral": "hüs",
-      "ipa": "ɡloːʃ",
-      "pos": "particle",
-      "gloss_de_short": "Jetzt; Moment; im Moment",
-      "domains": []
-    },
-    {
-      "id": "glooshgloosh_part_dur_001",
-      "roman": "glooshgloosh",
-      "coral": "hüshüs",
-      "ipa": "ɡloːʃɡloːʃ",
-      "pos": "particle",
-      "gloss_de_short": "fortwährend; immer wieder",
-      "domains": []
-    },
-    {
       "id": "blohsh_part_modal_cert_001",
       "roman": "blohsh",
       "coral": "bös",
@@ -8921,30 +8660,12 @@
       "domains": []
     },
     {
-      "id": "mbool_part_exist_001",
-      "roman": "mbool",
-      "coral": "pül",
-      "ipa": "ʘoːl",
-      "pos": "particle",
-      "gloss_de_short": "Existenz; Sein; es gibt",
-      "domains": []
-    },
-    {
       "id": "glaho_v_intr_001",
       "roman": "glaho",
       "coral": "hmo",
       "ipa": "ɡlaːho",
       "pos": "verb",
       "gloss_de_short": "fließen; sich bewegen (ohne Ziel); strömen",
-      "domains": []
-    },
-    {
-      "id": "mbahlo_v_intr_001",
-      "roman": "mbahlo",
-      "coral": "pmlo",
-      "ipa": "ʘaːlo",
-      "pos": "verb",
-      "gloss_de_short": "in die Tiefe gehen; sinken",
       "domains": []
     },
     {
@@ -8984,24 +8705,6 @@
       "domains": []
     },
     {
-      "id": "mboolo_v_intr_001",
-      "roman": "mboolo",
-      "coral": "pülo",
-      "ipa": "ʘoːlo",
-      "pos": "verb",
-      "gloss_de_short": "entstehen; sich bilden; vorhanden werden",
-      "domains": []
-    },
-    {
-      "id": "gliesha_v_tr_001",
-      "roman": "gliesha",
-      "coral": "hjsa",
-      "ipa": "ɡliːʃa",
-      "pos": "verb",
-      "gloss_de_short": "bewahren; erinnern; im Strom halten",
-      "domains": []
-    },
-    {
       "id": "glash_n_001",
       "roman": "glash",
       "coral": "has",
@@ -9011,39 +8714,12 @@
       "domains": []
     },
     {
-      "id": "mbahl_n_001",
-      "roman": "mbahl",
-      "coral": "pml",
-      "ipa": "ʘaːl",
-      "pos": "noun",
-      "gloss_de_short": "tiefe Schicht; tiefgelegen; tiefwärts",
-      "domains": []
-    },
-    {
-      "id": "shielesh_n_001",
-      "roman": "shielesh",
-      "coral": "sjles",
-      "ipa": "ʃiːleʃ",
-      "pos": "noun",
-      "gloss_de_short": "Oberfläche (neutral); aufwärts; oberflächennah",
-      "domains": []
-    },
-    {
       "id": "glol_n_001",
       "roman": "glol",
       "coral": "hol",
       "ipa": "ɡlɔl",
       "pos": "noun",
       "gloss_de_short": "Flussrichtung; Strömung; strömend",
-      "domains": []
-    },
-    {
-      "id": "frash_n_001",
-      "roman": "frash",
-      "coral": "fas",
-      "ipa": "fraʃ",
-      "pos": "noun",
-      "gloss_de_short": "Grenze; Rand; randständig",
       "domains": []
     },
     {
@@ -9074,33 +8750,6 @@
       "domains": []
     },
     {
-      "id": "gliesh_n_001",
-      "roman": "gliesh",
-      "coral": "hjs",
-      "ipa": "ɡliːʃ",
-      "pos": "noun",
-      "gloss_de_short": "Erinnerung; erinnernd; Überlieferung",
-      "domains": []
-    },
-    {
-      "id": "fshol_n_001",
-      "roman": "fshol",
-      "coral": "vol",
-      "ipa": "fʃɔl",
-      "pos": "noun",
-      "gloss_de_short": "gelenkte Kraft; magisch wirksam; magische Wirkung",
-      "domains": []
-    },
-    {
-      "id": "mbool_n_001",
-      "roman": "mbool",
-      "coral": "pül",
-      "ipa": "ʘoːl",
-      "pos": "noun",
-      "gloss_de_short": "Existenz; Sein; es gibt",
-      "domains": []
-    },
-    {
       "id": "brahsh_n_001",
       "roman": "brahsh",
       "coral": "cms",
@@ -9125,15 +8774,6 @@
       "ipa": "bloːʃal",
       "pos": "noun",
       "gloss_de_short": "Gewissheit; feste Wahrheit; gewiss",
-      "domains": []
-    },
-    {
-      "id": "gloosh_n_001",
-      "roman": "gloosh",
-      "coral": "hüs",
-      "ipa": "ɡloːʃ",
-      "pos": "noun",
-      "gloss_de_short": "Jetzt; Moment; im Moment",
       "domains": []
     },
     {
@@ -9182,15 +8822,6 @@
       "domains": []
     },
     {
-      "id": "mbahl_adj_001",
-      "roman": "mbahl",
-      "coral": "pml",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "tiefe Schicht; tiefgelegen; tiefwärts",
-      "domains": []
-    },
-    {
       "id": "mbähsh_adj_001",
       "roman": "mbähsh",
       "coral": "päs",
@@ -9206,33 +8837,6 @@
       "ipa": "",
       "pos": "adj",
       "gloss_de_short": "Gewissheit; feste Wahrheit; gewiss",
-      "domains": []
-    },
-    {
-      "id": "fshol_adj_001",
-      "roman": "fshol",
-      "coral": "vol",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "gelenkte Kraft; magisch wirksam; magische Wirkung",
-      "domains": []
-    },
-    {
-      "id": "gliesh_adj_001",
-      "roman": "gliesh",
-      "coral": "hjs",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "Erinnerung; erinnernd; Überlieferung",
-      "domains": []
-    },
-    {
-      "id": "frash_adj_001",
-      "roman": "frash",
-      "coral": "fas",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "Grenze; Rand; randständig",
       "domains": []
     },
     {
@@ -9272,57 +8876,12 @@
       "domains": []
     },
     {
-      "id": "shielesh_adj_001",
-      "roman": "shielesh",
-      "coral": "sjles",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "Oberfläche (neutral); aufwärts; oberflächennah",
-      "domains": []
-    },
-    {
-      "id": "gloosh_adv_001",
-      "roman": "gloosh",
-      "coral": "hüs",
-      "ipa": "",
-      "pos": "adv",
-      "gloss_de_short": "Jetzt; Moment; im Moment",
-      "domains": []
-    },
-    {
-      "id": "glooshgloosh_adv_001",
-      "roman": "glooshgloosh",
-      "coral": "hüshüs",
-      "ipa": "",
-      "pos": "adv",
-      "gloss_de_short": "fortwährend; immer wieder",
-      "domains": []
-    },
-    {
       "id": "glol_adv_001",
       "roman": "glol",
       "coral": "hol",
       "ipa": "",
       "pos": "adv",
       "gloss_de_short": "Flussrichtung; Strömung; strömend",
-      "domains": []
-    },
-    {
-      "id": "mbahl_adv_001",
-      "roman": "mbahl",
-      "coral": "pml",
-      "ipa": "",
-      "pos": "adv",
-      "gloss_de_short": "tiefe Schicht; tiefgelegen; tiefwärts",
-      "domains": []
-    },
-    {
-      "id": "shielesh_adv_001",
-      "roman": "shielesh",
-      "coral": "sjles",
-      "ipa": "",
-      "pos": "adv",
-      "gloss_de_short": "Oberfläche (neutral); aufwärts; oberflächennah",
       "domains": []
     },
     {
@@ -9490,15 +9049,6 @@
       "domains": []
     },
     {
-      "id": "new_glieshol_n",
-      "roman": "glieshol",
-      "coral": "hjsol",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Sehen; Sehvorgang",
-      "domains": []
-    },
-    {
       "id": "new_shishol_n",
       "roman": "shishol",
       "coral": "sisol",
@@ -9568,15 +9118,6 @@
       "ipa": "",
       "pos": "adj",
       "gloss_de_short": "satt",
-      "domains": []
-    },
-    {
-      "id": "new_frashz_adj",
-      "roman": "frashz",
-      "coral": "fad",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "Krieger; verletzt",
       "domains": []
     },
     {
@@ -9856,15 +9397,6 @@
       "ipa": "",
       "pos": "noun",
       "gloss_de_short": "Diener",
-      "domains": []
-    },
-    {
-      "id": "sozial_fshafrash_n",
-      "roman": "fshafrash",
-      "coral": "vafas",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Bote",
       "domains": []
     },
     {
@@ -11206,15 +10738,6 @@
       "ipa": "",
       "pos": "verb",
       "gloss_de_short": "rufen",
-      "domains": []
-    },
-    {
-      "id": "verb_glishi",
-      "roman": "glishi",
-      "coral": "hisi",
-      "ipa": "",
-      "pos": "verb",
-      "gloss_de_short": "absaugen; saubermachen; wegspülen",
       "domains": []
     },
     {
