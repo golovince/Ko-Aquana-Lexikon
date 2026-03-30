@@ -1,18 +1,18 @@
 {
   "id": "frash_adj_001",
   "headword": {
-    "roman": "frash",
-    "coral": "fas",
+    "roman": "frashish",
+    "coral": "fasis",
     "ipa": ""
   },
   "pos": "adj",
   "gloss_de": [
-    "Grenze",
-    "Rand",
+    "angrenzend",
+    "marginal",
     "randständig"
   ],
   "meta": {
     "status": "canonical"
   },
-  "korallisch": "fas"
+  "korallisch": "fasis"
 }
