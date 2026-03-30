@@ -5,14 +5,12 @@
     "coral": "hüshüs",
     "ipa": ""
   },
-  "pos": "adv",
+  "pos": "noun",
   "gloss_de": [
-    "fortwährend",
-    "immer wieder"
+    "die Ewigkeit",
+    "das Fortwährende",
+    "das Beständige"
   ],
-  "grammar": {
-    "position": "postverbal"
-  },
   "meta": {
     "status": "canonical"
   },
