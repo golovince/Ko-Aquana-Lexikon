@@ -1,15 +1,14 @@
 {
   "id": "shielesh_adv_001",
   "headword": {
-    "roman": "shielesh",
-    "coral": "sjles",
+    "roman": "shieleshz",
+    "coral": "sjled",
     "ipa": ""
   },
   "pos": "adv",
   "gloss_de": [
-    "Oberfläche (neutral)",
     "aufwärts",
-    "oberflächennah"
+    "nach oben"
   ],
   "grammar": {
     "position": "postverbal"
@@ -17,5 +16,5 @@
   "meta": {
     "status": "canonical"
   },
-  "korallisch": "sjles"
+  "korallisch": "sjled"
 }
