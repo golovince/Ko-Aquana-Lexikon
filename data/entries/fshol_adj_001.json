@@ -1,18 +1,16 @@
 {
   "id": "fshol_adj_001",
   "headword": {
-    "roman": "fshol",
-    "coral": "vol",
+    "roman": "fsholish",
+    "coral": "volis",
     "ipa": ""
   },
   "pos": "adj",
   "gloss_de": [
-    "gelenkte Kraft",
-    "magisch wirksam",
-    "magische Wirkung"
+    "magisch"
   ],
   "meta": {
     "status": "canonical"
   },
-  "korallisch": "vol"
+  "korallisch": "volis"
 }
