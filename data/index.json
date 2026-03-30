@@ -1594,11 +1594,11 @@
     },
     {
       "id": "recht_glashzoglahsh_n",
-      "roman": "glashzoglahsh",
-      "coral": "hadohms",
+      "roman": "blashoglahsh",
+      "coral": "basohms",
       "ipa": "",
       "pos": "noun",
-      "gloss_de_short": "Hüter des Gesetzes",
+      "gloss_de_short": "Hüter*in des Gesetzes",
       "domains": []
     },
     {
@@ -1607,7 +1607,7 @@
       "coral": "häd",
       "ipa": "",
       "pos": "noun",
-      "gloss_de_short": "Richter",
+      "gloss_de_short": "Richter*in",
       "domains": []
     },
     {
@@ -1616,7 +1616,7 @@
       "coral": "fäsovafas",
       "ipa": "",
       "pos": "noun",
-      "gloss_de_short": "Bote des Urteils",
+      "gloss_de_short": "Bote/Botin des Urteils",
       "domains": []
     },
     {
