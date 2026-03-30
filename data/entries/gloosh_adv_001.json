@@ -1,14 +1,14 @@
 {
   "id": "gloosh_adv_001",
   "headword": {
-    "roman": "gloosh",
-    "coral": "hüs",
+    "roman": "glooshishz",
+    "coral": "hüsid",
     "ipa": ""
   },
   "pos": "adv",
   "gloss_de": [
-    "Jetzt",
-    "Moment",
+    "gegewärtig",
+    "momentan",
     "im Moment",
     "jetzt"
   ],
@@ -18,5 +18,5 @@
   "meta": {
     "status": "canonical"
   },
-  "korallisch": "hüs"
+  "korallisch": "hüsid"
 }
