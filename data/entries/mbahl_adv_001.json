@@ -1,16 +1,17 @@
 {
   "id": "mbahl_adv_001",
   "headword": {
-    "roman": "mbahl",
-    "coral": "pml",
+    "roman": "mbahlishz",
+    "coral": "pmlid",
     "ipa": ""
   },
   "pos": "adv",
   "gloss_de": [
-    "tiefe Schicht",
-    "tiefgelegen",
+    "tief",
+    "tiefschwimmend",
     "tiefwärts",
-    "untere Ebene"
+    "abwärts",
+    "unten"
   ],
   "grammar": {
     "position": "postverbal"
@@ -18,5 +19,5 @@
   "meta": {
     "status": "canonical"
   },
-  "korallisch": "pml"
+  "korallisch": "pmlid"
 }
