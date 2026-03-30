@@ -1,18 +1,19 @@
 {
   "id": "gliesh_adj_001",
   "headword": {
-    "roman": "gliesh",
-    "coral": "hjs",
+    "roman": "glieshish",
+    "coral": "hjsis",
     "ipa": ""
   },
   "pos": "adj",
   "gloss_de": [
-    "Erinnerung",
+    "überliefernd",
     "erinnernd",
-    "Überlieferung"
+    "überliefert",
+    "erinnert"
   ],
   "meta": {
     "status": "canonical"
   },
-  "korallisch": "hjs"
+  "korallisch": "hjsis"
 }
