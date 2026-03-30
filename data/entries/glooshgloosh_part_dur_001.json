@@ -1,8 +1,8 @@
 {
   "id": "glooshgloosh_part_dur_001",
   "headword": {
-    "roman": "glooshgloosh",
-    "ipa": "ɡloːʃɡloːʃ",
+    "roman": "glooshglooshish",
+    "ipa": "ɡloːʃɡloːʃiʃ",
     "coral": "hüshüs"
   },
   "pos": "particle",
@@ -22,6 +22,8 @@
       "sh",
       "gl",
       "oo",
+      "sh",
+      "i",
       "sh"
     ],
     "tokens_coral": [
@@ -30,6 +32,8 @@
       "s",
       "h",
       "ü",
+      "s",
+      "i",
       "s"
     ]
   },
@@ -41,5 +45,5 @@
       "iterative"
     ]
   },
-  "korallisch": "hüshüs"
+  "korallisch": "hüshüsis"
 }
