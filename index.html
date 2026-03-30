@@ -594,6 +594,38 @@
         <div class="results" id="results">
           <!-- Wird per JS befüllt -->
         </div>
+
+        <!-- Deutsch → Ko-Aquana Suche -->
+        <div class="panel" id="reverse-search-panel" style="margin-top:0.8rem; padding:1rem;">
+          <div class="panel-header">
+            <div class="panel-title">
+              Deutsch → Ko-Aquana
+              <span class="panel-title-badge">Rückwärtssuche</span>
+            </div>
+            <div class="panel-subtitle">
+              Suche deutsche Bedeutungen und finde passende Ko-Aquana-Einträge.
+            </div>
+          </div>
+
+          <div class="fieldset">
+            <label for="search-german">Suche (deutsch)</label>
+            <div class="input-row">
+              <input
+                id="search-german"
+                class="input"
+                type="text"
+                placeholder="z. B. Wasser, sprechen, Licht …"
+              />
+              <button class="btn btn-secondary" type="button" id="btn-clear-german">
+                löschen
+              </button>
+            </div>
+          </div>
+
+          <div class="results" id="results-german">
+            <!-- Wird per JS befüllt -->
+          </div>
+        </div>
         <!-- Detailansicht -->
 <section class="panel" id="detail-panel" style="display:none;">
   <div class="panel-header">
@@ -868,7 +900,8 @@ async function loadSearchIndex() {
     searchIndex = data.entries || [];
     indexLoaded = true;
     indexError = null;
-    renderResults([]);
+    renderResults([], "results");
+    renderResults([], "results-german");
   } catch (err) {
     console.error("Fehler beim Laden des Index:", err);
     indexLoaded = false;
@@ -897,8 +930,21 @@ function filterIndexByCoral(query) {
   return searchIndex.filter(e => (e.roman || "").toLowerCase().includes(romanQ));
 }
 
-function renderResults(entries) {
-  const container = document.getElementById("results");
+function filterIndexByGerman(query) {
+  const q = (query || "").trim().toLowerCase();
+  if (!q || !indexLoaded) return [];
+
+  return searchIndex.filter(e => {
+    const shortGloss = (e.gloss_de_short || "").toLowerCase();
+    const fullGloss = Array.isArray(e.gloss_de)
+      ? e.gloss_de.join(" ").toLowerCase()
+      : String(e.gloss_de || "").toLowerCase();
+    return shortGloss.includes(q) || fullGloss.includes(q);
+  });
+}
+
+function renderResults(entries, containerId = "results") {
+  const container = document.getElementById(containerId);
   container.innerHTML = "";
 
   if (indexError) {
@@ -1109,25 +1155,35 @@ function renderInflectionPresent(present) {
 function setupSearch() {
   const inputRoman = document.getElementById("search-roman");
   const inputCoral = document.getElementById("search-coral");
+  const inputGerman = document.getElementById("search-german");
   const btnClearRoman = document.getElementById("btn-clear-roman");
   const btnClearCoral = document.getElementById("btn-clear-coral");
+  const btnClearGerman = document.getElementById("btn-clear-german");
 
-  inputRoman.addEventListener("input", () => renderResults(filterIndexByRoman(inputRoman.value)));
-  inputCoral.addEventListener("input", () => renderResults(filterIndexByCoral(inputCoral.value)));
+  inputRoman.addEventListener("input", () => renderResults(filterIndexByRoman(inputRoman.value), "results"));
+  inputCoral.addEventListener("input", () => renderResults(filterIndexByCoral(inputCoral.value), "results"));
+  inputGerman.addEventListener("input", () => renderResults(filterIndexByGerman(inputGerman.value), "results-german"));
 
   btnClearRoman.addEventListener("click", () => {
     inputRoman.value = "";
-    renderResults([]);
+    renderResults([], "results");
     inputRoman.focus();
   });
 
   btnClearCoral.addEventListener("click", () => {
     inputCoral.value = "";
-    renderResults([]);
+    renderResults([], "results");
     inputCoral.focus();
   });
 
-  renderResults([]);
+  btnClearGerman.addEventListener("click", () => {
+    inputGerman.value = "";
+    renderResults([], "results-german");
+    inputGerman.focus();
+  });
+
+  renderResults([], "results");
+  renderResults([], "results-german");
 }
 
 function setupConverter() {
