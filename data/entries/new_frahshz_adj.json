@@ -1,0 +1,20 @@
+{
+  "id": "new_frahshz_adj",
+  "headword": {
+    "roman": "frahshzish",
+    "coral": "fmdis",
+    "ipa": ""
+  },
+  "pos": "adj",
+  "gloss_de": [
+    "kriegersich",
+    "kämpferisch",
+    "kämpfend"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Andere",
+    "note": "Block 3: frashz auf 'Krieger' normalisiert; andere Bedeutungen ausgelagert."
+  },
+  "korallisch": "fmdis"
+}
