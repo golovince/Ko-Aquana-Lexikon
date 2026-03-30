@@ -525,15 +525,6 @@
       "domains": []
     },
     {
-      "id": "groshz_adj_001",
-      "roman": "groshz",
-      "coral": "god",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "schön",
-      "domains": []
-    },
-    {
       "id": "mbeshz_adj_001",
       "roman": "mbeshz",
       "coral": "ped",
@@ -951,15 +942,6 @@
       "ipa": "",
       "pos": "adj",
       "gloss_de_short": "müde",
-      "domains": []
-    },
-    {
-      "id": "new_blosh_adj",
-      "roman": "blosh",
-      "coral": "bos",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "hungrig",
       "domains": []
     },
     {
@@ -5780,15 +5762,6 @@
       "domains": []
     },
     {
-      "id": "sozial_bloshz_n",
-      "roman": "bloshz",
-      "coral": "bod",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Familie",
-      "domains": []
-    },
-    {
       "id": "sozial_gloshz_n",
       "roman": "gloshz",
       "coral": "hod",
@@ -9389,15 +9362,6 @@
       "domains": []
     },
     {
-      "id": "groshz_adj_001",
-      "roman": "groshz",
-      "coral": "god",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "schön",
-      "domains": []
-    },
-    {
       "id": "mbeshz_adj_001",
       "roman": "mbeshz",
       "coral": "ped",
@@ -9796,15 +9760,6 @@
       "domains": []
     },
     {
-      "id": "new_blosh_adj",
-      "roman": "blosh",
-      "coral": "bos",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "hungrig",
-      "domains": []
-    },
-    {
       "id": "new_shol_adj",
       "roman": "shol",
       "coral": "sol",
@@ -10171,15 +10126,6 @@
       "ipa": "",
       "pos": "noun",
       "gloss_de_short": "Bote",
-      "domains": []
-    },
-    {
-      "id": "sozial_bloshz_n",
-      "roman": "bloshz",
-      "coral": "bod",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Familie",
       "domains": []
     },
     {
@@ -16427,8 +16373,8 @@
     },
     {
       "id": "patch_7a500a4e98",
-      "roman": "brulishmbofr",
-      "coral": "culispof",
+      "roman": "mbofrabrulish lil mbeshz",
+      "coral": "pofaculisnlilnped",
       "ipa": "",
       "pos": "noun",
       "gloss_de_short": "Landbär",
@@ -16436,8 +16382,8 @@
     },
     {
       "id": "patch_74ac6c2f24",
-      "roman": "brulishmbofrish",
-      "coral": "culispofis",
+      "roman": "mbofrabrulish lil mbeshzish",
+      "coral": "pofaculisnlilnpedis",
       "ipa": "",
       "pos": "adj",
       "gloss_de_short": "bärenartig (landbezogen)",
@@ -16445,8 +16391,8 @@
     },
     {
       "id": "patch_20a99f98d3",
-      "roman": "mbeshzmbofr",
-      "coral": "pedpof",
+      "roman": "mbeshzombofr",
+      "coral": "pedopof",
       "ipa": "",
       "pos": "noun",
       "gloss_de_short": "Landhund",
@@ -16454,8 +16400,8 @@
     },
     {
       "id": "patch_12765f185b",
-      "roman": "mbeshzmbofrish",
-      "coral": "pedpofis",
+      "roman": "mbeshzombofrish",
+      "coral": "pedopofis",
       "ipa": "",
       "pos": "adj",
       "gloss_de_short": "hundartig (landbezogen)",
@@ -16463,8 +16409,8 @@
     },
     {
       "id": "patch_b3eb30cbfd",
-      "roman": "frashzmbofr",
-      "coral": "fadpof",
+      "roman": "frashzombofr",
+      "coral": "fadopof",
       "ipa": "",
       "pos": "noun",
       "gloss_de_short": "Landlöwe",
@@ -16472,8 +16418,8 @@
     },
     {
       "id": "patch_f747b7afda",
-      "roman": "frashzmbofrish",
-      "coral": "fadpofis",
+      "roman": "frashzombofrish",
+      "coral": "fadopofis",
       "ipa": "",
       "pos": "adj",
       "gloss_de_short": "löwenartig (landbezogen)",
