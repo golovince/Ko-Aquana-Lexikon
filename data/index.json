@@ -395,7 +395,7 @@
       "coral": "hjl",
       "ipa": "ɡliːl",
       "pos": "noun",
-      "gloss_de_short": "Gespür; Rat; Versammlung",
+      "gloss_de_short": "Rat; Versammlung",
       "domains": []
     },
     {
@@ -450,15 +450,6 @@
       "ipa": "braːʃ",
       "pos": "noun",
       "gloss_de_short": "Ewigkeit; dauerhafter Zustand; ewig",
-      "domains": []
-    },
-    {
-      "id": "gliel_n_001",
-      "roman": "gliel",
-      "coral": "hjl",
-      "ipa": "ɡliːl",
-      "pos": "noun",
-      "gloss_de_short": "Gespür; Rat; Versammlung",
       "domains": []
     },
     {
@@ -522,15 +513,6 @@
       "ipa": "ɡlɔleʃ",
       "pos": "noun",
       "gloss_de_short": "Kreuzung; Strömungsknotenpunkt; strömungsgebunden",
-      "domains": []
-    },
-    {
-      "id": "mbeshz_adj_001",
-      "roman": "mbeshz",
-      "coral": "ped",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "an Land lebend; oberflächenbewohnend; oberflächlich",
       "domains": []
     },
     {
@@ -1049,7 +1031,7 @@
       "coral": "füd",
       "ipa": "",
       "pos": "noun",
-      "gloss_de_short": "Band; Lebenslauf (übertragen); Markt",
+      "gloss_de_short": "Strömung, Schicksal, Kraft die einen durchs Leben führt",
       "domains": []
     },
     {
@@ -1071,15 +1053,6 @@
       "domains": []
     },
     {
-      "id": "alltag_mbohshz_n",
-      "roman": "mbohshz",
-      "coral": "pöd",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Bündel; Fett; Last",
-      "domains": []
-    },
-    {
       "id": "alltag_frähsh_n",
       "roman": "frähsh",
       "coral": "fäs",
@@ -1095,15 +1068,6 @@
       "ipa": "",
       "pos": "noun",
       "gloss_de_short": "Schlafplatz",
-      "domains": []
-    },
-    {
-      "id": "alltag_frooshz_n",
-      "roman": "frooshz",
-      "coral": "füd",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Band; Lebenslauf (übertragen); Markt",
       "domains": []
     },
     {
@@ -1260,15 +1224,6 @@
       "domains": []
     },
     {
-      "id": "alltag_friesh_adj",
-      "roman": "friesh",
-      "coral": "fjs",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "außen; schnell",
-      "domains": []
-    },
-    {
       "id": "alltag_sholoosh_adj",
       "roman": "sholoosh",
       "coral": "solüs",
@@ -1283,7 +1238,7 @@
       "coral": "had",
       "ipa": "",
       "pos": "noun",
-      "gloss_de_short": "Gesetz; Lernender; Schüler",
+      "gloss_de_short": "Lernender; Schüler",
       "domains": []
     },
     {
@@ -1338,15 +1293,6 @@
       "ipa": "",
       "pos": "noun",
       "gloss_de_short": "Bund",
-      "domains": []
-    },
-    {
-      "id": "sozial_glashz_n",
-      "roman": "glashz",
-      "coral": "had",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Gesetz; Lernender; Schüler",
       "domains": []
     },
     {
@@ -4482,15 +4428,6 @@
       "domains": []
     },
     {
-      "id": "mbeshz_adj_001",
-      "roman": "mbeshz",
-      "coral": "ped",
-      "ipa": "ʘəʃː͡p",
-      "pos": "adj",
-      "gloss_de_short": "an Land lebend; oberflächenbewohnend; oberflächlich",
-      "domains": []
-    },
-    {
       "id": "ngang_part_neg_001",
       "roman": "ngang",
       "coral": "xax",
@@ -4842,15 +4779,6 @@
       "domains": []
     },
     {
-      "id": "gliel_n_001",
-      "roman": "gliel",
-      "coral": "hjl",
-      "ipa": "ɡliːl",
-      "pos": "noun",
-      "gloss_de_short": "Gespür; Rat; Versammlung",
-      "domains": []
-    },
-    {
       "id": "mbulesh_n_001",
       "roman": "mbulesh",
       "coral": "pules",
@@ -4902,15 +4830,6 @@
       "ipa": "braːʃ",
       "pos": "noun",
       "gloss_de_short": "Ewigkeit; dauerhafter Zustand; ewig",
-      "domains": []
-    },
-    {
-      "id": "gliel_n_001",
-      "roman": "gliel",
-      "coral": "hjl",
-      "ipa": "ɡliːl",
-      "pos": "noun",
-      "gloss_de_short": "Gespür; Rat; Versammlung",
       "domains": []
     },
     {
@@ -4983,15 +4902,6 @@
       "ipa": "",
       "pos": "adj",
       "gloss_de_short": "schön",
-      "domains": []
-    },
-    {
-      "id": "mbeshz_adj_001",
-      "roman": "mbeshz",
-      "coral": "ped",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "an Land lebend; oberflächenbewohnend; oberflächlich",
       "domains": []
     },
     {
@@ -5438,15 +5348,6 @@
       "domains": []
     },
     {
-      "id": "alltag_mbohshz_n",
-      "roman": "mbohshz",
-      "coral": "pöd",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Bündel; Fett; Last",
-      "domains": []
-    },
-    {
       "id": "alltag_frähshz_n",
       "roman": "frähshz",
       "coral": "fäd",
@@ -5492,15 +5393,6 @@
       "domains": []
     },
     {
-      "id": "alltag_frooshz_n",
-      "roman": "frooshz",
-      "coral": "füd",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Band; Lebenslauf (übertragen); Markt",
-      "domains": []
-    },
-    {
       "id": "alltag_shohshz_n",
       "roman": "shohshz",
       "coral": "söd",
@@ -5519,15 +5411,6 @@
       "domains": []
     },
     {
-      "id": "alltag_mbohshz_n",
-      "roman": "mbohshz",
-      "coral": "pöd",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Bündel; Fett; Last",
-      "domains": []
-    },
-    {
       "id": "alltag_frähsh_n",
       "roman": "frähsh",
       "coral": "fäs",
@@ -5543,15 +5426,6 @@
       "ipa": "",
       "pos": "noun",
       "gloss_de_short": "Schlafplatz",
-      "domains": []
-    },
-    {
-      "id": "alltag_frooshz_n",
-      "roman": "frooshz",
-      "coral": "füd",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Band; Lebenslauf (übertragen); Markt",
       "domains": []
     },
     {
@@ -5699,39 +5573,12 @@
       "domains": []
     },
     {
-      "id": "alltag_friesh_adj",
-      "roman": "friesh",
-      "coral": "fjs",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "außen; schnell",
-      "domains": []
-    },
-    {
-      "id": "alltag_friesh_adj",
-      "roman": "friesh",
-      "coral": "fjs",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "außen; schnell",
-      "domains": []
-    },
-    {
       "id": "alltag_sholoosh_adj",
       "roman": "sholoosh",
       "coral": "solüs",
       "ipa": "",
       "pos": "adj",
       "gloss_de_short": "langsam",
-      "domains": []
-    },
-    {
-      "id": "sozial_glashz_n",
-      "roman": "glashz",
-      "coral": "had",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Gesetz; Lernender; Schüler",
       "domains": []
     },
     {
@@ -5777,15 +5624,6 @@
       "ipa": "",
       "pos": "noun",
       "gloss_de_short": "Bund",
-      "domains": []
-    },
-    {
-      "id": "sozial_glashz_n",
-      "roman": "glashz",
-      "coral": "had",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Gesetz; Lernender; Schüler",
       "domains": []
     },
     {
@@ -8867,15 +8705,6 @@
       "domains": []
     },
     {
-      "id": "mbeshz_adj_001",
-      "roman": "mbeshz",
-      "coral": "ped",
-      "ipa": "ʘəʃː͡p",
-      "pos": "adj",
-      "gloss_de_short": "an Land lebend; oberflächenbewohnend; oberflächlich",
-      "domains": []
-    },
-    {
       "id": "ngang_part_neg_001",
       "roman": "ngang",
       "coral": "xax",
@@ -9227,15 +9056,6 @@
       "domains": []
     },
     {
-      "id": "gliel_n_001",
-      "roman": "gliel",
-      "coral": "hjl",
-      "ipa": "ɡliːl",
-      "pos": "noun",
-      "gloss_de_short": "Gespür; Rat; Versammlung",
-      "domains": []
-    },
-    {
       "id": "mbulesh_n_001",
       "roman": "mbulesh",
       "coral": "pules",
@@ -9287,15 +9107,6 @@
       "ipa": "braːʃ",
       "pos": "noun",
       "gloss_de_short": "Ewigkeit; dauerhafter Zustand; ewig",
-      "domains": []
-    },
-    {
-      "id": "gliel_n_001",
-      "roman": "gliel",
-      "coral": "hjl",
-      "ipa": "ɡliːl",
-      "pos": "noun",
-      "gloss_de_short": "Gespür; Rat; Versammlung",
       "domains": []
     },
     {
@@ -9359,15 +9170,6 @@
       "ipa": "ɡlɔleʃ",
       "pos": "noun",
       "gloss_de_short": "Kreuzung; Strömungsknotenpunkt; strömungsgebunden",
-      "domains": []
-    },
-    {
-      "id": "mbeshz_adj_001",
-      "roman": "mbeshz",
-      "coral": "ped",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "an Land lebend; oberflächenbewohnend; oberflächlich",
       "domains": []
     },
     {
@@ -9805,15 +9607,6 @@
       "domains": []
     },
     {
-      "id": "alltag_mbohshz_n",
-      "roman": "mbohshz",
-      "coral": "pöd",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Bündel; Fett; Last",
-      "domains": []
-    },
-    {
       "id": "alltag_frähshz_n",
       "roman": "frähshz",
       "coral": "fäd",
@@ -9859,15 +9652,6 @@
       "domains": []
     },
     {
-      "id": "alltag_frooshz_n",
-      "roman": "frooshz",
-      "coral": "füd",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Band; Lebenslauf (übertragen); Markt",
-      "domains": []
-    },
-    {
       "id": "alltag_shohshz_n",
       "roman": "shohshz",
       "coral": "söd",
@@ -9886,15 +9670,6 @@
       "domains": []
     },
     {
-      "id": "alltag_mbohshz_n",
-      "roman": "mbohshz",
-      "coral": "pöd",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Bündel; Fett; Last",
-      "domains": []
-    },
-    {
       "id": "alltag_frähsh_n",
       "roman": "frähsh",
       "coral": "fäs",
@@ -9910,15 +9685,6 @@
       "ipa": "",
       "pos": "noun",
       "gloss_de_short": "Schlafplatz",
-      "domains": []
-    },
-    {
-      "id": "alltag_frooshz_n",
-      "roman": "frooshz",
-      "coral": "füd",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Band; Lebenslauf (übertragen); Markt",
       "domains": []
     },
     {
@@ -10066,39 +9832,12 @@
       "domains": []
     },
     {
-      "id": "alltag_friesh_adj",
-      "roman": "friesh",
-      "coral": "fjs",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "außen; schnell",
-      "domains": []
-    },
-    {
-      "id": "alltag_friesh_adj",
-      "roman": "friesh",
-      "coral": "fjs",
-      "ipa": "",
-      "pos": "adj",
-      "gloss_de_short": "außen; schnell",
-      "domains": []
-    },
-    {
       "id": "alltag_sholoosh_adj",
       "roman": "sholoosh",
       "coral": "solüs",
       "ipa": "",
       "pos": "adj",
       "gloss_de_short": "langsam",
-      "domains": []
-    },
-    {
-      "id": "sozial_glashz_n",
-      "roman": "glashz",
-      "coral": "had",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Gesetz; Lernender; Schüler",
       "domains": []
     },
     {
@@ -10144,15 +9883,6 @@
       "ipa": "",
       "pos": "noun",
       "gloss_de_short": "Bund",
-      "domains": []
-    },
-    {
-      "id": "sozial_glashz_n",
-      "roman": "glashz",
-      "coral": "had",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Gesetz; Lernender; Schüler",
       "domains": []
     },
     {
