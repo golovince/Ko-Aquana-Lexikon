@@ -960,7 +960,7 @@
       "ipa": "",
       "pos": "noun",
       "gloss_de_short": "Krieger",
-      "domains": [Kampf]
+      "domains": ["Kampf"]
     },
     {
       "id": "new_frahshz_adj",
@@ -969,7 +969,7 @@
       "ipa": "",
       "pos": "adj",
       "gloss_de_short": "kriegerisch",
-      "domains": [Kampf]
+      "domains": ["Kampf"]
     },
     {
       "id": "alltag_fshooshz_n",
