@@ -1,15 +1,14 @@
 {
   "id": "shielesh_n_001",
   "headword": {
-    "roman": "shielesh",
-    "ipa": "ʃiːleʃ",
-    "coral": "sjles"
+    "roman": "shielel",
+    "ipa": "ʃiːlel",
+    "coral": "sjlel"
   },
   "pos": "noun",
   "gloss_de": [
     "Oberfläche (neutral)",
-    "aufwärts",
-    "oberflächennah"
+    "Oben"
   ],
   "meta": {
     "status": "canonical",
@@ -18,5 +17,5 @@
       "core"
     ]
   },
-  "korallisch": "sjles"
+  "korallisch": "sjlel"
 }
