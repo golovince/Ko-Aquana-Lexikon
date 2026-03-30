@@ -1,19 +1,19 @@
 {
   "id": "new_frashz_adj",
   "headword": {
-    "roman": "frashz",
-    "coral": "fad",
+    "roman": "frashzish",
+    "coral": "fadis",
     "ipa": ""
   },
   "pos": "adj",
   "gloss_de": [
-    "Krieger",
-    "verletzt"
+    "kriegerisch",
+    "kämpfend"
   ],
   "meta": {
     "status": "draft",
     "source": "Körper & Sinne Erweiterung",
     "note": "Block 3: frashz auf 'Krieger' normalisiert; andere Bedeutungen ausgelagert."
   },
-  "korallisch": "fad"
+  "korallisch": "fadis"
 }
