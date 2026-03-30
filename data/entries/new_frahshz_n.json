@@ -1,0 +1,21 @@
+{
+  "id": "new_frahshz_n",
+  "headword": {
+    "roman": "frahshz",
+    "coral": "fmd",
+    "ipa": ""
+  },
+  "pos": "noun",
+  "gloss_de": [
+    "Krieger",
+    "Kämpfer",
+    "Soldat",
+    "Söldner"
+  ],
+  "meta": {
+    "status": "draft",
+    "source": "Andere",
+    "note": "Block 3: frashz auf 'Krieger' normalisiert; andere Bedeutungen ausgelagert."
+  },
+  "korallisch": "fmd"
+}
