@@ -1,8 +1,8 @@
 {
   "id": "patch_f747b7afda",
   "headword": {
-    "roman": "frashzmbofrish",
-    "coral": "fadpofis",
+    "roman": "frashzombofrish",
+    "coral": "fadopofis",
     "ipa": ""
   },
   "pos": "adj",
@@ -13,5 +13,5 @@
     "status": "patched",
     "source_patch": "ko_aquana_lexicon_landforms_patch.json"
   },
-  "korallisch": "fadpofis"
+  "korallisch": "fadopofis"
 }

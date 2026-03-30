@@ -1,8 +1,8 @@
 {
   "id": "patch_12765f185b",
   "headword": {
-    "roman": "mbeshzmbofrish",
-    "coral": "pedpofis",
+    "roman": "mbeshzombofrish",
+    "coral": "pedopofis",
     "ipa": ""
   },
   "pos": "adj",
@@ -13,5 +13,5 @@
     "status": "patched",
     "source_patch": "ko_aquana_lexicon_landforms_patch.json"
   },
-  "korallisch": "pedpofis"
+  "korallisch": "pedopofis"
 }
