@@ -1,19 +1,18 @@
 {
   "id": "mbahl_adj_001",
   "headword": {
-    "roman": "mbahl",
-    "coral": "pml",
+    "roman": "mbahlish",
+    "coral": "pmlis",
     "ipa": ""
   },
   "pos": "adj",
   "gloss_de": [
-    "tiefe Schicht",
+    "tief",
     "tiefgelegen",
-    "tiefwärts",
-    "untere Ebene"
+    "unten"
   ],
   "meta": {
     "status": "canonical"
   },
-  "korallisch": "pml"
+  "korallisch": "pmlis"
 }
