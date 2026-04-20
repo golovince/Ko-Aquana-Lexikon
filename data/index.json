@@ -2845,8 +2845,8 @@
     },
     {
       "id": "abstr_mbähshblol",
-      "roman": "mbähshblol",
-      "coral": "päsbol",
+      "roman": "mbähshoblol",
+      "coral": "päsobol",
       "ipa": "",
       "pos": "noun",
       "gloss_de_short": "Würde",
@@ -5463,15 +5463,6 @@
       "domains": []
     },
     {
-      "id": "abstr_mbähshblol",
-      "roman": "mbähshblol",
-      "coral": "päsbol",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Würde",
-      "domains": []
-    },
-    {
       "id": "abstr_glälohsh",
       "roman": "glälohsh",
       "coral": "hälös",
@@ -8034,15 +8025,6 @@
       "ipa": "",
       "pos": "noun",
       "gloss_de_short": "Gleichgewicht",
-      "domains": []
-    },
-    {
-      "id": "abstr_mbähshblol",
-      "roman": "mbähshblol",
-      "coral": "päsbol",
-      "ipa": "",
-      "pos": "noun",
-      "gloss_de_short": "Würde",
       "domains": []
     },
     {
